@@ -14,9 +14,9 @@ BanglaVision/
 │   │   ├── culture_002.png
 │   │   └── ...
 │   └── annotations/
-│       ├── captions.json
+│       ├── culture_captions.json
 │       ├── culture_qa_pairs.json
-│       └── commonsense_reasoning_tasks.json
+│       └── culture_commonsense_reasoning.json
 ├── history/
 ├── politics/
 ├── national_achievements/
