@@ -1,4 +1,6 @@
-# BanglaVerse: A Benchmark for Visual Understanding in Bangla with Cultural and Historical Awareness
+# BanglaVerse
+
+## A Benchmark for Visual Understanding in Bangla with Cultural and Historical Awareness
 
 **BanglaVerse** is a curated visual dataset representing the diverse cultural, historical, and socio-political landscape of **Bangladesh**. This dataset is designed for evaluating the visual and reasoning capabilities of **multilingual vision language models**, especially those aligned for **Bangla** and **low-resource language** understanding.
 
