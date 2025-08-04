@@ -65,6 +65,8 @@ Task: Answer contextual and culturally relevant questions about the image.
 
 ```
 
+---
+
 ## 🙏 Acknowledgements
 
 This project is inspired by the rich heritage, resilience, and identity of Bangladesh. It aims to bridge the gap between global AI systems and the narratives of underrepresented cultures.
