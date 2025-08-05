@@ -1,4 +1,6 @@
-# 🇧🇩 BanglaVerse: A Grounded Benchmark for Visual Reasoning in Bangla with Cultural and Historical Awareness
+# BanglaVerse
+
+## A Benchmark Dataset for Visual Understanding in Bangla with Cultural and Historical Awareness
 
 **BanglaVerse** is a curated visual dataset representing the diverse cultural, historical, and socio-political landscape of **Bangladesh**. This dataset is designed for evaluating the visual and reasoning capabilities of **multilingual vision language models**, especially those aligned for **Bangla** and **low-resource language** understanding.
 
@@ -35,14 +37,17 @@ BanglaVision/
 Short descriptions of each image in **Bangla**.
 
 ```json
-
+{
+  "image_id": "food_002",
+  "caption": "একটি প্লেটে পরিবেশন করা গরম গরম ইলিশ মাছের সাথে পান্তা ভাত।"
+}
 ```
 
 ---
 
 ### ❓ 2. Visual Question Answering (VQA)
 
-Task: Answer direct visual questions about an image.
+Task: Answer direct visual questions about an image based on multiple choices.
 
 ```json
 {
@@ -60,8 +65,14 @@ Task: Answer direct visual questions about an image.
 Task: Answer contextual and culturally relevant questions about the image.
 
 ```json
-
+{
+  "image_id": "media_002",
+  "question": "ছবির এই টেলিভিশন নাটকটি কোন জনপ্রিয় লেখকের রচনায় নির্মিত?",
+  "answer": "হুমায়ূন আহমেদ"
+}
 ```
+
+---
 
 ## 🙏 Acknowledgements
 
