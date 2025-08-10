@@ -4,8 +4,6 @@
 
 **BanglaVerse** is a curated visual dataset representing the diverse cultural, historical, and socio-political landscape of **Bangladesh**. This dataset is designed for evaluating the visual and reasoning capabilities of **multilingual vision language models**, especially those aligned for **Bangla** and **low-resource language** understanding.
 
----
-
 ## 📂 Dataset Structure
 
 ```
@@ -26,9 +24,8 @@ BanglaVision/
 ├── media_and_movies/
 ├── personalities/
 └── food/
+└── nature/
 ```
-
----
 
 ## 📦 Dataset Components
 
@@ -43,8 +40,6 @@ Short descriptions of each image in **Bangla**.
 }
 ```
 
----
-
 ### ❓ 2. Visual Question Answering (VQA)
 
 Task: Answer direct visual questions about an image based on multiple choices.
@@ -58,8 +53,6 @@ Task: Answer direct visual questions about an image based on multiple choices.
 }
 ```
 
----
-
 ### 🧠 3. Commonsense Reasoning Tasks
 
 Task: Answer contextual and culturally relevant questions about the image.
@@ -71,8 +64,6 @@ Task: Answer contextual and culturally relevant questions about the image.
   "answer": "হুমায়ূন আহমেদ"
 }
 ```
-
----
 
 ## 🙏 Acknowledgements
 
