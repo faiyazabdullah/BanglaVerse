@@ -7,7 +7,7 @@
 ## 📂 Dataset Structure
 
 ```
-BanglaVision/
+BanglaVerse/
 ├── culture/
 │   ├── images/
 │   │   ├── culture_001.png
