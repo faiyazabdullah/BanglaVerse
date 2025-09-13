@@ -53,7 +53,7 @@ Task: Answer direct visual questions about an image based on multiple choices.
 }
 ```
 
-### 🧠 3. Commonsense Reasoning Tasks
+### 🧠 3. Commonsense Understanding Tasks
 
 Task: Answer contextual and culturally relevant questions about the image.
 
