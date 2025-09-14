@@ -29,7 +29,7 @@ BanglaVerse/
 
 ## 📦 Dataset Components
 
-### 🖼️ 1. Captions
+### 🖼️ 1. Captions Generation
 
 Short descriptions of each image in **Bangla**.
 
@@ -64,7 +64,3 @@ Task: Answer contextual and culturally relevant questions about the image.
   "answer": "হুমায়ূন আহমেদ"
 }
 ```
-
-## 🙏 Acknowledgements
-
-This project is inspired by the rich heritage, resilience, and identity of Bangladesh. It aims to bridge the gap between global AI systems and the narratives of underrepresented cultures.
