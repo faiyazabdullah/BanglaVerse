@@ -1,0 +1,142 @@
+[
+  {
+    "image_id": "media_001",
+    "question": "এই ছবির সিনেমাটির পরিচালক কে ছিলেন?",
+    "options": [
+      "কাজী জহির",
+      "রাজ্জাক",
+      "হুমায়ূন আহমেদ",
+      "উপরের সবাই"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "কাজী জহির",
+    "predicted_index": 1,
+    "answer_text": "Index: 1, Answer: রাজ্জাক"
+  },
+  {
+    "image_id": "media_002",
+    "question": "এটা কোন জনপ্রিয় লেখকের বই থেকে অনুপ্রাণিত হয়ে তৈরি হয়েছে?",
+    "options": [
+      "মোহাম্মদ হোসেন",
+      "রাজ্জাক",
+      "হুমায়ূন আহমেদ",
+      "উপরের কোনোটিই নয়"
+    ],
+    "ground_truth_index": 2,
+    "ground_truth_answer": "হুমায়ূন আহমেদ",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: হুমায়ূন আহমেদ"
+  },
+  {
+    "image_id": "media_003",
+    "question": "এই ধারাবাহিক নাটকটি প্রথম কোন টিভি চ্যানেলে প্রচারিত হয়েছিল?",
+    "options": [
+      "বিটিভি",
+      "জী বাংলা",
+      "এটিএন বাংলা",
+      "একুশে টেলিভিশন"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "বিটিভি",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: জী বাংলা"
+  },
+  {
+    "image_id": "media_004",
+    "question": "এই ধারাবাহিক নাটকটি কে নির্মাণ করেছেন?",
+    "options": [
+      "গোলাম মোস্তফা",
+      "হুমায়ূন আজাদ",
+      "আব্দুল্লাহ আবু সাইয়েদ",
+      "হুমায়ূন আহমেদ"
+    ],
+    "ground_truth_index": 3,
+    "ground_truth_answer": "হুমায়ূন আহমেদ",
+    "predicted_index": 3,
+    "answer_text": "Index: 3, Answer: হুমায়ূন আহমেদ"
+  },
+  {
+    "image_id": "media_005",
+    "question": "এই ধারাবাহিক নাটকটি কে নির্মাণ করেছেন?",
+    "options": [
+      "হুমায়ূন আজাদ",
+      "গোলাম মোস্তফা",
+      "হুমায়ূন আহমেদ",
+      "আব্দুল্লাহ আবু সাইয়েদ"
+    ],
+    "ground_truth_index": 2,
+    "ground_truth_answer": "হুমায়ূন আহমেদ",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: হুমায়ূন আহমেদ"
+  },
+  {
+    "image_id": "media_006",
+    "question": "এই ধারাবাহিক নাটকে প্রধান চরিত্রে কে অভিনয় করেছেন?",
+    "options": [
+      "এজাজুল ইসলাম",
+      "আবুল হায়াত",
+      "ববিতা",
+      "রাজ্জাক"
+    ],
+    "ground_truth_index": 1,
+    "ground_truth_answer": "আবুল হায়াত",
+    "predicted_index": 0,
+    "answer_text": "Index: 0, Answer: এজাজুল ইসলাম"
+  },
+  {
+    "image_id": "media_007",
+    "question": "এই ধারাবাহিক নাটকের পরিচালক কে ছিলেন?",
+    "options": [
+      "নওয়াজিশ আলী খান",
+      "আবুল হায়াত",
+      "হুমায়ূন আহমেদ",
+      "রাজ্জাক"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "নওয়াজিশ আলী খান",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: হুমায়ূন আহমেদ"
+  },
+  {
+    "image_id": "media_008",
+    "question": "এই ধারাবাহিক নাটকের পরিচালক কে ছিলেন?",
+    "options": [
+      "নওয়াজিশ আলী খান",
+      "আবুল হায়াত",
+      "হুমায়ূন আহমেদ",
+      "রাজ্জাক"
+    ],
+    "ground_truth_index": 2,
+    "ground_truth_answer": "হুমায়ূন আহমেদ",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: হুমায়ূন আহমেদ"
+  },
+  {
+    "image_id": "media_009",
+    "question": "এই ধারাবাহিক নাটকের অভিনয়শিল্পীরা কারা?",
+    "options": [
+      "ফারুক আহমেদ",
+      "এজাজুল ইসলাম",
+      "মেহের আফরোজ শাওন",
+      "উপরের সবাই"
+    ],
+    "ground_truth_index": 3,
+    "ground_truth_answer": "উপরের সবাই",
+    "predicted_index": 4,
+    "answer_text": "Index: 4, Answer: উপরোক্ত সবাই"
+  },
+  {
+    "image_id": "media_010",
+    "question": "এই সিনেমা কোন কোন পুরস্কার জিতেছে?",
+    "options": [
+      "সেরা পূর্ণদৈর্ঘ্য চলচ্চিত্র",
+      "সেরা সঙ্গীতকার",
+      "সেরা শিশুশিল্পী",
+      "উপরের সবাই"
+    ],
+    "ground_truth_index": 3,
+    "ground_truth_answer": "উপরের সবাই",
+    "predicted_index": 0,
+    "answer_text": "Index: 0, Answer: সেরা পূর্ণদৈর্ঘ্য চলচ্চিত্র"
+  }
+]

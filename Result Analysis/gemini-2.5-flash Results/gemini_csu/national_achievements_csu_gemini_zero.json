@@ -1,0 +1,38 @@
+[
+  {
+    "image_id": "achievement_001",
+    "question": "ছবিতে নারী ফুটবল দল ট্রফি হাতে উদযাপন করছে। তারা কোন টুর্নামেন্ট জিতেছে?",
+    "ground_truth_answer": "সাফ নারী চ্যাম্পিয়নশিপ",
+    "predicted_answer": "তারা সাফ উইমেনস চ্যাম্পিয়নশিপ ২০২২ (SAFF Women's Championship 2022) জিতেছে।"
+  },
+  {
+    "image_id": "achievement_002",
+    "question": "এই ছবির মানুষটি কিসের জন্য বিখ্যাত?",
+    "ground_truth_answer": "দক্ষিণ এশিয়ার প্রথম দাবা গ্র্যান্ডমাস্টার।",
+    "predicted_answer": "তিনি বাংলাদেশের প্রথম গ্র্যান্ডমাস্টার।"
+  },
+  {
+    "image_id": "achievement_003",
+    "question": "ইউনিভার্সিটি রোভার চ্যালেঞ্জে তারা এশিয়ায় কোন স্থান অর্জন করেছে?",
+    "ground_truth_answer": "পুরো এশিয়ায় প্রথম স্থান।",
+    "predicted_answer": "প্রথম।"
+  },
+  {
+    "image_id": "achievement_004",
+    "question": "এই ব্যক্তি কোন বছরে নোবেল পুরস্কার পেয়েছিলেন?",
+    "ground_truth_answer": "২০০৬ সালে।",
+    "predicted_answer": "তিনি ২০০৬ সালে নোবেল পুরস্কার পেয়েছিলেন।"
+  },
+  {
+    "image_id": "achievement_005",
+    "question": "এই ছবিতে খেলোয়াড়রা কোন ধরণের প্রতিযোগিতায় জিতেছেন?",
+    "ground_truth_answer": "তীরন্দাজি",
+    "predicted_answer": "এই ছবিতে খেলোয়াড়রা তীরন্দাজী (Archery) প্রতিযোগিতায় জিতেছেন।"
+  },
+  {
+    "image_id": "achievement_006",
+    "question": "এই ছবিতে খেলোয়াড়রা কোন খেলায় জয় পেয়েছেন?",
+    "ground_truth_answer": "ক্রিকেট",
+    "predicted_answer": "ক্রিকেট"
+  }
+]

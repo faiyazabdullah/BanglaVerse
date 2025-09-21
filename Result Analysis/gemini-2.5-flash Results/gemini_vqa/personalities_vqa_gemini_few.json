@@ -1,0 +1,142 @@
+[
+  {
+    "image_id": "personality_001",
+    "question": "ছবিতে যাঁকে দেখা যাচ্ছে, তিনি কে?",
+    "options": [
+      "তাজউদ্দীন আহমদ",
+      "শেখ মুজিবুর রহমান",
+      "জিয়াউর রহমান",
+      "এ কে ফজলুল হক"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "তাজউদ্দীন আহমদ",
+    "predicted_index": 0,
+    "answer_text": "Index: 0, Answer: \"তাজউদ্দীন আহমদ\""
+  },
+  {
+    "image_id": "personality_002",
+    "question": "এই ছবির ব্যক্তিটি কোন খ্যাতিমান বাঙালি সাহিত্যিক?",
+    "options": [
+      "সেলিনা হোসেন",
+      "শওকত ওসমান",
+      "হুমায়ূন আহমেদ",
+      "সেলিনা কবির"
+    ],
+    "ground_truth_index": 2,
+    "ground_truth_answer": "হুমায়ূন আহমেদ",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: \"হুমায়ূন আহমেদ\""
+  },
+  {
+    "image_id": "personality_003",
+    "question": "ছবিতে যিনি রয়েছেন, তিনি কোন খ্যাতিমান বাঙালি রাজনীতিবিদ?",
+    "options": [
+      "আবুল কালাম আজাদ",
+      "মওলানা ভাসানী",
+      "শেখ মুজিবুর রহমান",
+      "সৈয়দ নজরুল ইসলাম"
+    ],
+    "ground_truth_index": 1,
+    "ground_truth_answer": "মওলানা ভাসানী",
+    "predicted_index": 1,
+    "answer_text": "Index: 1, Answer: \"মওলানা ভাসানী\""
+  },
+  {
+    "image_id": "personality_004",
+    "question": "ছবিতে যিনি রয়েছেন, তিনি কোন খ্যাতিমান বাঙালি শিল্পী?",
+    "options": [
+      "শাহ আব্দুল করিম",
+      "লালন শাহ",
+      "বাউল শাহ্‌ আবদুল করিম",
+      "মোশাররফ করিম"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "শাহ আব্দুল করিম",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: \"বাউল শাহ্‌ আবদুল করিম\""
+  },
+  {
+    "image_id": "personality_005",
+    "question": "ছবিতে যিনি আছেন, তিনি কোন পুরস্কার পেয়েছিলেন?",
+    "options": [
+      "নোবেল পুরস্কার",
+      "একুশে পদক",
+      "স্বাধীনতা পদক",
+      "বইমেলা পুরস্কার"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "নোবেল পুরস্কার",
+    "predicted_index": 0,
+    "answer_text": "Index: 0, Answer: \"নোবেল পুরস্কার\""
+  },
+  {
+    "image_id": "personality_006",
+    "question": "ছবিতে যাঁকে দেখা যাচ্ছে, তিনি কোন ক্ষেত্রে বিখ্যাত?",
+    "options": [
+      "পরমাণু বিজ্ঞান",
+      "রসায়ন",
+      "জ্যোতির্বিজ্ঞান",
+      "তাপবিদ্যা"
+    ],
+    "ground_truth_index": 1,
+    "ground_truth_answer": "রসায়ন",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: \"জ্যোতির্বিজ্ঞান\""
+  },
+  {
+    "image_id": "personality_007",
+    "question": "শেখ মুজিবুর রহমানের জনপ্রিয় ডাকনাম কী ছিল?",
+    "options": [
+      "বঙ্গবন্ধু",
+      "নেতাজী",
+      "শেখ ভাই",
+      "মাস্টার"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "বঙ্গবন্ধু",
+    "predicted_index": 0,
+    "answer_text": "Index: 0, Answer: \"বঙ্গবন্ধু\""
+  },
+  {
+    "image_id": "personality_008",
+    "question": "শেখ হাসিনা কোন গুরুত্বপূর্ণ পদে দায়িত্ব নিয়েছিলেন?",
+    "options": [
+      "রাষ্ট্রপতি",
+      "প্রধানমন্ত্রী",
+      "সাংবাদিক",
+      "বিজ্ঞানী"
+    ],
+    "ground_truth_index": 1,
+    "ground_truth_answer": "প্রধানমন্ত্রী",
+    "predicted_index": 1,
+    "answer_text": "Index: 1, Answer: প্রধানমন্ত্রী"
+  },
+  {
+    "image_id": "personality_009",
+    "question": "জিয়াউর রহমান বাংলাদেশে কোন পদে ছিলেন?",
+    "options": [
+      "রাজনৈতিক কর্মী",
+      "রাষ্ট্রপতি",
+      "সাংবাদিক",
+      "চিত্রগ্রাহক"
+    ],
+    "ground_truth_index": 1,
+    "ground_truth_answer": "রাষ্ট্রপতি",
+    "predicted_index": 1,
+    "answer_text": "Index: 1, Answer: \"রাষ্ট্রপতি\""
+  },
+  {
+    "image_id": "personality_010",
+    "question": "বেগম খালেদা জিয়া বাংলাদেশের প্রথম কোন পদে নিয়োজিত হন?",
+    "options": [
+      "প্রধানমন্ত্রী",
+      "জেলা প্রশাসক",
+      "মন্ত্রিপরিষদ সদস্য",
+      "সাংসদ"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "প্রধানমন্ত্রী",
+    "predicted_index": 3,
+    "answer_text": "Index: 3, Answer: \"সাংসদ\""
+  }
+]

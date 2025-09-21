@@ -1,0 +1,142 @@
+[
+  {
+    "image_id": "achievement_001",
+    "question": "এই ছবিতে বাংলাদেশ কোন আন্তর্জাতিক ক্রীড়া বিজয় উদযাপন করছে?",
+    "options": [
+      "ক্রিকেট বিশ্বকাপ জয়",
+      "সাফ নারী চ্যাম্পিয়নশিপ",
+      "কমনওয়েলথ গেমস জয়",
+      "হকি এশিয়া কাপ"
+    ],
+    "ground_truth_index": 1,
+    "ground_truth_answer": "সাফ নারী চ্যাম্পিয়নশিপ",
+    "predicted_index": 1,
+    "answer_text": "Index: 1, Answer: সাফ নারী চ্যাম্পিয়নশিপ"
+  },
+  {
+    "image_id": "achievement_002",
+    "question": "এই ব্যক্তির জাতীয়তা কী?",
+    "options": [
+      "বাংলাদেশি",
+      "রাশিয়ান",
+      "নরওয়েজিয়ান",
+      "ভারতীয়"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "বাংলাদেশি",
+    "predicted_index": 3,
+    "answer_text": "Index: 3, Answer: ভারতীয়"
+  },
+  {
+    "image_id": "achievement_003",
+    "question": "এই দল কোন দেশ থেকে এসেছে?",
+    "options": [
+      "বাংলাদেশ",
+      "চীন",
+      "ভারত",
+      "পাকিস্তান"
+    ],
+    "ground_truth_index": null,
+    "ground_truth_answer": "বাংলাদেশি",
+    "predicted_index": 4,
+    "answer_text": "Index: 4, Answer: পাকিস্তান"
+  },
+  {
+    "image_id": "achievement_004",
+    "question": "তিনি কোন নোবেল পুরস্কার পেয়েছিলেন?",
+    "options": [
+      "নোবেল পদার্থবিজ্ঞান পুরস্কার",
+      "নোবেল শান্তি পুরস্কার",
+      "নোবেল রসায়ন (কেমিস্ট্রি) পুরস্কার",
+      "নোবেল সাহিত্যে পুরস্কার"
+    ],
+    "ground_truth_index": 1,
+    "ground_truth_answer": "নোবেল শান্তি পুরস্কার",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: নোবেল শান্তি পুরস্কার"
+  },
+  {
+    "image_id": "achievement_005",
+    "question": "এই ছবিতে বাংলাদেশ দল কোন স্থান অর্জন করেছে?",
+    "options": [
+      "১ম স্থান",
+      "২য় স্থান",
+      "৩য় স্থান",
+      "কোনো স্থান নয়"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "১ম স্থান",
+    "predicted_index": 1,
+    "answer_text": "Index: 1, Answer: ২য় স্থান"
+  },
+  {
+    "image_id": "achievement_006",
+    "question": "এই ছবিতে দলটি কোন শিরোপা জিতেছে?",
+    "options": [
+      "এশিয়ান গেমস ক্রিকেট",
+      "টি-টোয়েন্টি বিশ্বকাপ",
+      "ওডিআই সিরিজ",
+      "এশিয়া কাপ ফুটবল"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "এশিয়ান গেমস ক্রিকেট",
+    "predicted_index": 0,
+    "answer_text": "Index: 0, Answer: এশিয়ান গেমস ক্রিকেট"
+  },
+  {
+    "image_id": "achievement_007",
+    "question": "এই ছবিতে মেয়েটি কোন ধরণের পদক জিতেছে?",
+    "options": [
+      "ব্রোঞ্জ পদক",
+      "রৌপ্য পদক",
+      "স্বর্ণ পদক",
+      "কোনো পদক নয়"
+    ],
+    "ground_truth_index": 2,
+    "ground_truth_answer": "স্বর্ণ পদক",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: স্বর্ণ পদক"
+  },
+  {
+    "image_id": "achievement_008",
+    "question": "এই ছবিতে যে সেতুটি উদ্বোধন করা হয়েছে তা কোন নদীর উপর?",
+    "options": [
+      "যমুনা নদী",
+      "মেঘনা নদী",
+      "পদ্মা নদী",
+      "করতোয়া নদী"
+    ],
+    "ground_truth_index": 2,
+    "ground_truth_answer": "পদ্মা নদী",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: পদ্মা নদী"
+  },
+  {
+    "image_id": "achievement_009",
+    "question": "এই ছবিতে যে জয়ের দৃশ্য দেখা যাচ্ছে তা কোন বছরের?",
+    "options": [
+      "১৯৯৬",
+      "১৯৯৭",
+      "১৯৯৯",
+      "২০০০"
+    ],
+    "ground_truth_index": 1,
+    "ground_truth_answer": "১৯৯৭",
+    "predicted_index": 3,
+    "answer_text": "Index: 3, Answer: ২০০০"
+  },
+  {
+    "image_id": "achievement_010",
+    "question": "এই ছবিতে কোন সালে স্যাটেলাইট উৎক্ষেপণ করা হয়েছিল?",
+    "options": [
+      "২০১৫",
+      "২০১৬",
+      "২০১৭",
+      "২০১৮"
+    ],
+    "ground_truth_index": 3,
+    "ground_truth_answer": "২০১৮",
+    "predicted_index": 1,
+    "answer_text": "Index: ১, Answer: ২০১৬"
+  }
+]

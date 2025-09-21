@@ -1,0 +1,7 @@
+{
+  "n_images_with_gold": 3,
+  "n_skipped": 7,
+  "BLEU": 2.8671177333345375,
+  "ROUGE-1": 0.0,
+  "BertScore_F1": null
+}
