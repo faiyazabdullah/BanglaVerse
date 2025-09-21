@@ -1,0 +1,62 @@
+[
+  {
+    "image_id": "sports_001",
+    "question": "ছবির ব্যক্তি কিসের জন্য বিখ্যাত?",
+    "ground_truth_answer": "অলরাউন্ডার হিসেবে",
+    "predicted_answer": "অলরাউন্ডার হিসেবে"
+  },
+  {
+    "image_id": "sports_002",
+    "question": "ছবিতে যে খেলাটি খেলছে এর নাম কি?",
+    "ground_truth_answer": "কাবাডি (হাডুডু)",
+    "predicted_answer": "কাবাডি"
+  },
+  {
+    "image_id": "sports_003",
+    "question": "ছবিতে বাংলাদেশের যে দলটি দেখা যাচ্ছে, এটি কোন খেলার দল?",
+    "ground_truth_answer": "ক্রিকেট",
+    "predicted_answer": "ক্রিকেট"
+  },
+  {
+    "image_id": "sports_004",
+    "question": "ছবিতে লাল-সবুজ যে জার্সিটি আছে, এটি কোন দেশের ক্রিকেট দলের জার্সি?",
+    "ground_truth_answer": "বাংলাদেশ",
+    "predicted_answer": "বাংলাদেশ ক্রিকেট দলের।"
+  },
+  {
+    "image_id": "sports_005",
+    "question": "ছবির খেলোয়াড়টি বাংলাদেশের পুরুষ ক্রিকেট দলের জন্য খেলেছেন, তাঁর নাম কি?",
+    "ground_truth_answer": "সাকিব আল হাসান",
+    "predicted_answer": "সাকিব আল হাসান"
+  },
+  {
+    "image_id": "sports_006",
+    "question": "ছবির খেলোয়াড়টি বাংলাদেশ পুরুষ ক্রিকেট দলের কোন পদের জন্য জনপ্রিয়?",
+    "ground_truth_answer": "ক্যাপ্টেন",
+    "predicted_answer": "অধিনায়ক হিসেবে।"
+  },
+  {
+    "image_id": "sports_007",
+    "question": "লোগোটিতে মাঝখানে বাংলাদেশের জাতীয় পশুর ছবি আছে, পশুটি কী?",
+    "ground_truth_answer": "রয়েল বেঙ্গল টাইগার",
+    "predicted_answer": "বাঘ"
+  },
+  {
+    "image_id": "sports_008",
+    "question": "ছবির সাদা জার্সি পরা দলটি কোন দেশের জন্য ফুটবল খেলে?",
+    "ground_truth_answer": "বাংলাদেশ",
+    "predicted_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "sports_009",
+    "question": "ছবির খেলোয়াড়টি কত নম্বর জার্সি পরে খেলে?",
+    "ground_truth_answer": "০৬",
+    "predicted_answer": "৯০ নম্বর।"
+  },
+  {
+    "image_id": "sports_010",
+    "question": "ছবির খেলোয়াড় হামজা চৌধুরি কোন পজিশনে খেলেন?",
+    "ground_truth_answer": "মিডফিল্ডার",
+    "predicted_answer": "মিডফিল্ডার"
+  }
+]

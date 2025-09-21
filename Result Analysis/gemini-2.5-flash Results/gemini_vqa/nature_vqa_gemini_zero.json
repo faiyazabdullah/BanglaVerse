@@ -1,0 +1,142 @@
+[
+  {
+    "image_id": "nature_001",
+    "question": "ছবিতে দেখা এই নদীপ্রবাহ কোন ধরনের ভূপ্রাকৃতিক বৈশিষ্ট্য প্রকাশ করে?",
+    "options": [
+      "দুর্গম পাহাড়",
+      "সমতল ভূমি",
+      "নদী ব-দ্বীপ",
+      "বালুকাময় তট"
+    ],
+    "ground_truth_index": 2,
+    "ground_truth_answer": "নদী ব-দ্বীপ",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: নদী ব-দ্বীপ"
+  },
+  {
+    "image_id": "nature_002",
+    "question": "ছবির দৃশ্যটি কোন ঐতিহ্যবাহী প্রাকৃতিক সৌন্দর্যকে তুলে ধরছে?",
+    "options": [
+      "সুন্দরবন",
+      "কাপ্তাই লেক",
+      "সাজেক",
+      "সেন্ট মার্টিন"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "সুন্দরবন",
+    "predicted_index": 0,
+    "answer_text": "Index: 0, Answer: সুন্দরবন"
+  },
+  {
+    "image_id": "nature_003",
+    "question": "ছবিতে প্রদর্শিত সমুদ্র সৈকতটি কোন স্থানে অবস্থিত?",
+    "options": [
+      "সেন্ট মার্টিন",
+      "কক্সবাজার",
+      "পাহাড়পুর",
+      "সুন্দরবন"
+    ],
+    "ground_truth_index": 1,
+    "ground_truth_answer": "কক্সবাজার",
+    "predicted_index": 1,
+    "answer_text": "Index: 1, Answer: কক্সবাজার"
+  },
+  {
+    "image_id": "nature_004",
+    "question": "ছবিতে প্রদর্শিত স্থানটির নাম কী?",
+    "options": [
+      "মহাস্থানগড়",
+      "আলীর গুহা",
+      "আলুতিলা গুহা",
+      "পাহাড়পুর"
+    ],
+    "ground_truth_index": 1,
+    "ground_truth_answer": "আলীর গুহা",
+    "predicted_index": 1,
+    "answer_text": "Index: 1, Answer: আলীর গুহা"
+  },
+  {
+    "image_id": "nature_005",
+    "question": "ছবিতে প্রদর্শিত গুহাটির নাম কী?",
+    "options": [
+      "আলুটিলা গুহা",
+      "আলীর গুহা",
+      "সিংহবাহিনী গুহা",
+      "জাফলং জলপ্রপাত"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "আলুটিলা গুহা",
+    "predicted_index": 0,
+    "answer_text": "Index: 0, Answer: আলুটিলা গুহা"
+  },
+  {
+    "image_id": "nature_006",
+    "question": "ছবিতে প্রদর্শিত জলপ্রপাতটির নাম কী?",
+    "options": [
+      "নাফ নদী জলপ্রপাত",
+      "আমিয়াখুম জলপ্রপাত",
+      "মায়াবি জলপ্রপাত",
+      "মাধবকুন্ড জলপ্রপাত"
+    ],
+    "ground_truth_index": 1,
+    "ground_truth_answer": "আমিয়াখুম জলপ্রপাত",
+    "predicted_index": 1,
+    "answer_text": "Index: 1, Answer: আমিয়াখুম জলপ্রপাত"
+  },
+  {
+    "image_id": "nature_007",
+    "question": "ছবিতে প্রদর্শিত সমুদ্র সৈকতের নাম কী?",
+    "options": [
+      "কুয়াকাটা",
+      "কক্সবাজার",
+      "সেন্ট মার্টিন",
+      "ইনানি"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "কুয়াকাটা",
+    "predicted_index": 0,
+    "answer_text": "Index: 0, Answer: কুয়াকাটা"
+  },
+  {
+    "image_id": "nature_008",
+    "question": "ছবিতে প্রদর্শিত নদীর নাম কী?",
+    "options": [
+      "মেঘনা",
+      "যমুনা",
+      "বুড়িগঙ্গা",
+      "শীতলক্ষ্যা"
+    ],
+    "ground_truth_index": 2,
+    "ground_truth_answer": "বুড়িগঙ্গা",
+    "predicted_index": 2,
+    "answer_text": "Index: 2, Answer: বুড়িগঙ্গা"
+  },
+  {
+    "image_id": "nature_009",
+    "question": "ছবিতে প্রদর্শিত বিলটির নাম কী?",
+    "options": [
+      "বাইক্কা বিল",
+      "হাইল হাওর",
+      "টাঙ্গুয়ার হাওর",
+      "ছনবাড়ি বিল"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "বাইক্কা বিল",
+    "predicted_index": 0,
+    "answer_text": "Index: 0, Answer: বাইক্কা বিল"
+  },
+  {
+    "image_id": "nature_010",
+    "question": "ছবিতে প্রদর্শিত সমুদ্রতীরবর্তী সড়কটির নাম কী?",
+    "options": [
+      "মেরিন ড্রাইভ রোড",
+      "পাটুরিয়া হাইওয়ে",
+      "ঢাকা-চট্টগ্রাম হাইওয়ে",
+      "সোনাদিয়া সি-রোড"
+    ],
+    "ground_truth_index": 0,
+    "ground_truth_answer": "মেরিন ড্রাইভ রোড",
+    "predicted_index": 0,
+    "answer_text": "Index: 0, Answer: মেরিন ড্রাইভ রোড"
+  }
+]
