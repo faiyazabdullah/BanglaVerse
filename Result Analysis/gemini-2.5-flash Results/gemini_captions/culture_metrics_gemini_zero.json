@@ -1,7 +1,0 @@
-{
-  "n_images_with_gold": 10,
-  "n_skipped": 0,
-  "BLEU": 0.6426598739193932,
-  "ROUGE-1": 0.0,
-  "BertScore_F1": null
-}
