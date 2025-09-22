@@ -11,71 +11,76 @@ from bert_score import score as bertscore_score
 
 # ---------------- CONFIG ----------------
 API_KEYS = [
-    "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" # Key 1
+    # Add your Groq API keys here
 ]
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 
 # Process all sectors and 10 examples per sector
-N_EXAMPLES = 10
+N_EXAMPLES = None # set to None to process all images in each sector folder 
 
 # Paths (adjust if needed)
-OUTPUT_ROOT = Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\llama_captions")
+OUTPUT_ROOT = Path(r"...\llama_captions")
 OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 
 SECTORS = {
     "culture": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\culture\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\culture\annotations\culture_captions.json")
+        "images": Path(r"...\data\culture\images"),
+        "annotation": Path(r"...\data\culture\annotations\culture_captions.json")
     },
     "food": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\food\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\food\annotations\food_captions.json")
+        "images": Path(r"...\data\food\images"),
+        "annotation": Path(r"...\data\food\annotations\food_captions.json")
     },
     "history": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\history\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\history\annotations\history_captions.json")
+        "images": Path(r"...\data\history\images"),
+        "annotation": Path(r"...\data\history\annotations\history_captions.json")
     },
     "media_and_movies": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\media_and_movies\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\media_and_movies\annotations\media_and_movies_captions.json")
+        "images": Path(r"...\data\media_and_movies\images"),
+        "annotation": Path(r"...\data\media_and_movies\annotations\media_and_movies_captions.json")
     },
     "national_achievements": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\national_achievements\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\national_achievements\annotations\national_achievements_captions.json")
+        "images": Path(r"...\data\national_achievements\images"),
+        "annotation": Path(r"...\data\national_achievements\annotations\national_achievements_captions.json")
     },
     "nature": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\nature\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\nature\annotations\nature_captions.json")
+        "images": Path(r"...\data\nature\images"),
+        "annotation": Path(r"...\data\nature\annotations\nature_captions.json")
     },
     "personalities": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\personalities\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\personalities\annotations\personalities_captions.json")
+        "images": Path(r"...\data\personalities\images"),
+        "annotation": Path(r"...\data\personalities\annotations\personalities_captions.json")
     },
     "politics": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\politics\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\politics\annotations\politics_captions.json")
+        "images": Path(r"...\data\politics\images"),
+        "annotation": Path(r"...\data\politics\annotations\politics_captions.json")
     },
     "sports": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\sports\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\sports\annotations\sports_captions.json")
+        "images": Path(r"...\data\sports\images"),
+        "annotation": Path(r"...\data\sports\annotations\sports_captions.json")
     }
 }
 
 PROMPT_ZERO_SHOT = (
-    "You are an assistant that generates short, fluent captions in Bangla. "
-    "Look at the given image and describe it in one meaningful sentence in Bangla."
+    "You are an assistant that generates short, fluent captions in Bangla only. "
+    "Look carefully at the given image and write exactly one meaningful sentence describing it. "
+    "Do not use any English words, do not add extra explanations, labels, or quotes. "
+    "Your entire output must be only the Bangla caption as plain text."
 )
 
 PROMPT_FEW_SHOT = (
-    "You are an assistant that generates short, fluent captions in Bangla.\n\n"
+    "You are an assistant that generates short, fluent captions in Bangla only.\n\n"
     "Examples:\n"
     "Image: ./dataset/history/images/history_002.png\n"
-    "Caption: \"যুদ্ধজয়ে বীর বাঙালিদের সামনে এভাবেই বৈঠকে আত্মসমর্পণ করে পাকিস্তানি বাহিনী।\"\n\n"
+    "যুদ্ধজয়ে বীর বাঙালিদের সামনে এভাবেই বৈঠকে আত্মসমর্পণ করে পাকিস্তানি বাহিনী।\n\n"
     "Image: ./dataset/culture/images/culture_003.png\n"
-    "Caption: \"পহেলা ফাল্গুনে রঙিন পোশাক পরে, ফুল দিয়ে সাজানো মানুষদের ভিড়।\"\n\n"
+    "পহেলা ফাল্গুনে রঙিন পোশাক পরে, ফুল দিয়ে সাজানো মানুষদের ভিড়।\n\n"
     "Image: ./dataset/sports/images/sports_001.png\n"
-    "Caption: \"ছবির খেলোয়াড় আর কেউ নয়, বিশ্বসেরা অলরাউন্ডার সাকিব আল হাসান।\"\n\n"
-    "Now generate a caption for the following image in one meaningful Bangla sentence."
+    "ছবির খেলোয়াড় আর কেউ নয়, বিশ্বসেরা অলরাউন্ডার সাকিব আল হাসান।\n\n"
+    "Now, generate a caption for the following image. "
+    "Write exactly one meaningful Bangla sentence. "
+    "Do not use any English words, do not add extra explanations, labels, or quotes. "
+    "Your entire output must be only the Bangla caption as plain text."
 )
 
 IMG_EXTS = {".png", ".jpg", ".jpeg"}

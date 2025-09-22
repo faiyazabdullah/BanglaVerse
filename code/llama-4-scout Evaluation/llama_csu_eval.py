@@ -16,13 +16,16 @@ import base64  # Import base64 for image encoding
 
 # ---------------- CONFIG ----------------
 API_KEYS = [
-   "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" # Key 1
+   # "your-groq-api-key-1",
+   # "your-groq-api-key-2",
+   # Add more keys if you have them
 ]
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 IMG_EXTS = {".png", ".jpg", ".jpeg"}
 
+# --- OUTPUT ROOT (change with your local directory) ---
 OUTPUT_ROOT = Path(
-    r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\llama_csu"
+    r"...\llama_csu"
 )
 OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 
@@ -30,97 +33,115 @@ OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 SECTORS = {
     "culture": {
         "images": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\culture\images"
+            r"...\data\culture\images"
         ),
         "annotation": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\culture\annotations\culture_commonsense_reasoning.json"
+            r"...\data\culture\annotations\culture_commonsense_reasoning.json"
         ),
     },
     "food": {
         "images": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\food\images"
+            r"...\data\food\images"
         ),
         "annotation": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\food\annotations\food_commonsense_reasoning.json"
+            r"...\data\food\annotations\food_commonsense_reasoning.json"
         ),
     },
     "history": {
         "images": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\history\images"
+            r"...\data\history\images"
         ),
         "annotation": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\history\annotations\history_commonsense_reasoning.json"
+            r"...\data\history\annotations\history_commonsense_reasoning.json"
         ),
     },
     "media_and_movies": {
         "images": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\media_and_movies\images"
+            r"...\data\media_and_movies\images"
         ),
         "annotation": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\media_and_movies\annotations\media_and_movies_commonsense_reasoning.json"
+            r"...\data\media_and_movies\annotations\media_and_movies_commonsense_reasoning.json"
         ),
     },
     "national_achievements": {
         "images": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\national_achievements\images"
+            r"...\data\national_achievements\images"
         ),
         "annotation": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\national_achievements\annotations\national_achievements_commonsense_reasoning.json"
+            r"...\data\national_achievements\annotations\national_achievements_commonsense_reasoning.json"
         ),
     },
     "nature": {
         "images": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\nature\images"
+            r"...\data\nature\images"
         ),
         "annotation": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\nature\annotations\nature_commonsense_reasoning.json"
+            r"...\data\nature\annotations\nature_commonsense_reasoning.json"
         ),
     },
     "personalities": {
         "images": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\personalities\images"
+            r"...\data\personalities\images"
         ),
         "annotation": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\personalities\annotations\personalities_commonsense_reasoning.json"
+            r"...\data\personalities\annotations\personalities_commonsense_reasoning.json"
         ),
     },
     "politics": {
         "images": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\politics\images"
+            r"...\data\politics\images"
         ),
         "annotation": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\politics\annotations\politics_commonsense_reasoning.json"
+            r"...\data\politics\annotations\politics_commonsense_reasoning.json"
         ),
     },
     "sports": {
         "images": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\sports\images"
+            r"...\data\sports\images"
         ),
         "annotation": Path(
-            r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\sports\annotations\sports_commonsense_reasoning.json"
+            r"...\data\sports\annotations\sports_commonsense_reasoning.json"
         ),
     },
 }
 
 PROMPT_ZERO_SHOT = (
-    "You are an assistant that answers Bangla cultural and commonsense reasoning questions about images. "
-    "Look at the given {image_path} and the {question}. Provide a short, direct answer in Bangla."
+    "You are an expert assistant for Bangla culture and commonsense reasoning tasks. "
+    "You are given an image and a question. Carefully look at the image and answer the question.\n\n"
+    "RESPONSE RULES (VERY IMPORTANT):\n"
+    "1) Your answer MUST be written **only in Bangla** (Bangla script).\n"
+    "2) Use Bangla digits for numbers if possible.\n"
+    "3) Keep the answer short, direct, and on a single line (no extra explanation).\n"
+    "4) Do NOT include any English words, labels, quotes, explanations, or metadata.\n"
+    "5) If you are not sure about the answer, respond exactly with: অনুমান করা যাচ্ছে না\n\n"
+    "Image: {image_path}\n"
+    "Question: {question}\n"
+    "Answer:"
 )
 
 PROMPT_FEW_SHOT = (
-    "You are an assistant that answers Bangla cultural and commonsense reasoning questions about images. "
-    "Look at the given {image_path} and the {question}. Provide a short, direct answer in Bangla.\n"
-    "Examples:\n"
+    "You are an expert assistant for Bangla culture and commonsense reasoning tasks. "
+    "You are given an image and a question. Carefully look at the image and answer the question.\n\n"
+    "RESPONSE RULES (VERY IMPORTANT):\n"
+    "1) Your answer MUST be written **only in Bangla** (Bangla script).\n"
+    "2) Use Bangla digits for numbers if possible.\n"
+    "3) Keep the answer short, direct, and on a single line (no extra explanation).\n"
+    "4) Do NOT include any English words, labels, quotes, explanations, or metadata.\n"
+    "5) If you are not sure about the answer, respond exactly with: অনুমান করা যাচ্ছে না\n\n"
+    "EXAMPLES:\n"
     "Image: ./dataset/history/images/history_002.png\n"
     "Question: \"ছবিতে কী হচ্ছে?\"\n"
-    "Answer: \"বাংলাদেশের কাছে পাকিস্তান আত্মসমর্পণ করছে\"\n"
+    "Answer: বাংলাদেশ মুক্তিযুদ্ধের আত্মসমর্পণ দৃশ্য\n\n"
     "Image: ./dataset/culture/images/culture_003.png\n"
-    "Question: \"ছবির এই দিনে মানুষ বাসন্তী রঙের পোশাক পরে, ফুল দিয়ে সাজে — দিনটি কী?\"\n"
-    "Answer: \"পহেলা ফাল্গুন\"\n"
+    "Question: \"ছবির এই দিনে মানুষ কেন ফুল দিয়ে সাজে?\"\n"
+    "Answer: পহেলা ফাল্গুন উদযাপন\n\n"
     "Image: ./dataset/sports/images/sports_001.png\n"
     "Question: \"ছবিতে সাকিব আল হাসান কিসের জন্য বিখ্যাত?\"\n"
-    "Answer: \"অলরাউন্ডার হিসেবে\"\n"
-    "Now, answer for the given image."
+    "Answer: অলরাউন্ডার হিসেবে খ্যাত\n\n"
+    "Now, answer for the given image strictly following the above rules.\n\n"
+    "Image: {image_path}\n"
+    "Question: {question}\n"
+    "Answer:"
 )
 
 

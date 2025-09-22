@@ -13,63 +13,96 @@ API_KEYS = [
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 
 # Process all sectors and 10 examples per sector
-N_EXAMPLES = 10
+N_EXAMPLES = None # set to None to process all images in each sector folder
 
 # Paths
-OUTPUT_ROOT = Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\llama_vqa")
+OUTPUT_ROOT = Path(r"...\llama_vqa")
 OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 
 SECTORS = {
     "culture": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\culture\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\culture\annotations\culture_qa_pairs.json")
+        "images": Path(r"...\data\culture\images"),
+        "annotation": Path(r"...\data\culture\annotations\culture_qa_pairs.json")
     },
     "food": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\food\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\food\annotations\food_qa_pairs.json")
+        "images": Path(r"...\data\food\images"),
+        "annotation": Path(r"...\data\food\annotations\food_qa_pairs.json")
     },
     "history": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\history\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\history\annotations\history_qa_pairs.json")
+        "images": Path(r"...\data\history\images"),
+        "annotation": Path(r"...\data\history\annotations\history_qa_pairs.json")
     },
     "media_and_movies": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\media_and_movies\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\media_and_movies\annotations\media_and_movies_qa_pairs.json")
+        "images": Path(r"...\data\media_and_movies\images"),
+        "annotation": Path(r"...\data\media_and_movies\annotations\media_and_movies_qa_pairs.json")
     },
     "national_achievements": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\national_achievements\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\national_achievements\annotations\national_achievements_qa_pairs.json")
+        "images": Path(r"...\data\national_achievements\images"),
+        "annotation": Path(r"...\data\national_achievements\annotations\national_achievements_qa_pairs.json")
     },
     "nature": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\nature\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\nature\annotations\nature_qa_pairs.json")
+        "images": Path(r"...\data\nature\images"),
+        "annotation": Path(r"...\data\nature\annotations\nature_qa_pairs.json")
     },
     "personalities": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\personalities\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\personalities\annotations\personalities_qa_pairs.json")
+        "images": Path(r"...\data\personalities\images"),
+        "annotation": Path(r"...\data\personalities\annotations\personalities_qa_pairs.json")
     },
     "politics": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\politics\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\politics\annotations\politics_qa_pairs.json")
+        "images": Path(r"...\data\politics\images"),
+        "annotation": Path(r"...\data\politics\annotations\politics_qa_pairs.json")
     },
     "sports": {
-        "images": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\sports\images"),
-        "annotation": Path(r"F:\Labib\Labib Folder\Labib\Research\BanglaVerse Experiments\BanglaVerse\data\sports\annotations\sports_qa_pairs.json")
+        "images": Path(r"...\data\sports\images"),
+        "annotation": Path(r"...\data\sports\annotations\sports_qa_pairs.json")
     }
 }
 
-PROMPT_FEW_SHOT = (
-    "You are an assistant that answers visual multiple-choice questions in Bangla. "
-    "Look at the given {image_path} and the {question}. Choose the most accurate answer from the provided list {options}.\n"
-    "Always return the answer in this format:\n"
-    "Index: <option_index>, Answer: <option_text_in_Bangla>\n"
+PROMPT_ZERO_SHOT = (
+    "You are an AI assistant that answers visual multiple-choice questions in Bangla.\n"
+    "Task:\n"
+    "1. Look carefully at the given image: {image_path}\n"
+    "2. Read the question: {question}\n"
+    "3. Review the provided answer choices: {options}\n"
+    "4. Select the **single most accurate answer**.\n\n"
+    "Response Rules:\n"
+    "- The index must be the programming list index (starting from 0).\n"
+    "- Respond ONLY with the exact format below.\n"
+    "- Use Bangla text for the answer option.\n"
+    "- Do NOT add explanations, extra words, reasoning steps, or anything outside the specified format.\n"
+    "- Follow this exact structure:\n\n"
+    "Index: <option_index>, Answer: \"<option_text_in_Bangla>\""
 )
 
-PROMPT_ZERO_SHOT = (
-    "You are an assistant that answers visual multiple-choice questions in Bangla. "
-    "Look at the given {image_path} and the {question}. Choose the most accurate answer with list index from the provided list (Programming index) {options}\n"
-    "Always return the answer in this format:\n"
-    "Index: <option_index>, Answer: <option_text_in_Bangla>"
+
+PROMPT_FEW_SHOT = (
+    "You are an AI assistant that answers visual multiple-choice questions in Bangla.\n"
+    "Task:\n"
+    "1. Look carefully at the given image: {image_path}\n"
+    "2. Read the question: {question}\n"
+    "3. Review the provided answer choices: {options}\n"
+    "4. Select the **single most accurate answer**.\n\n"
+    "Response Rules:\n"
+    "- The index must be the programming list index (starting from 0).\n"
+    "- Respond ONLY with the exact format below.\n"
+    "- Use Bangla text for the answer option.\n"
+    "- Do NOT add explanations, extra words, reasoning steps, or anything outside the specified format.\n"
+    "- Follow this exact structure:\n"
+    "Index: <option_index>, Answer: \"<option_text_in_Bangla>\"\n\n"
+    "Examples:\n"
+    "Image: ./dataset/culture/images/culture_003.png\n"
+    "Question: \"ছবিতে কোন উৎসব পালিত হচ্ছে?\"\n"
+    "Options: [\"পহেলা বৈশাখ\", \"ঈদ\", \"নববর্ষ\", \"নবন্ন\"]\n"
+    "Answer: Index: 0, Answer: \"পহেলা বৈশাখ\"\n\n"
+    "Image: ./dataset/history/images/history_002.png\n"
+    "Question: \"এই ঘটনার পর বাংলাদেশে কী পরিবর্তন ঘটে?\"\n"
+    "Options: [\"সংবিধান প্রণয়ন\", \"স্বাধীনতা অর্জন\", \"সেনা শাসনের শুরু\", \"গণভোট\"]\n"
+    "Answer: Index: 1, Answer: \"স্বাধীনতা অর্জন\"\n\n"
+    "Image: ./dataset/sports/images/sports_001.png\n"
+    "Question: \"এই ক্রিকেটারটি কে?\"\n"
+    "Options: [\"মাশরাফি বিন মোর্ত্তজা\", \"সাকিব আল হাসান\", \"মুশফিকুর রহিম\", \"তামিম ইকবাল\"]\n"
+    "Answer: Index: 1, Answer: \"সাকিব আল হাসান\"\n\n"
+    "Now, answer for the given image."
 )
 
 IMG_EXTS = {".png", ".jpg", ".jpeg"}
@@ -109,7 +142,7 @@ def compute_accuracy(preds, gts):
     return round(100.0 * correct / total, 2) if total > 0 else 0.0
 
 # ---------------- main flow ----------------
-def process_sector(sector_name, sector_cfg, prompt_mode="few", n_examples=10, api_key_index=0):
+def process_sector(sector_name, sector_cfg, prompt_mode="few", n_examples=None, api_key_index=0):
     print(f"\n==== Processing sector: {sector_name} (prompt_mode={prompt_mode}) ====")
     images_dir = sector_cfg["images"]
     annotation_file = sector_cfg["annotation"]
