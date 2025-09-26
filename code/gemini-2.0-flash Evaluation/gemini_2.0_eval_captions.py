@@ -21,12 +21,10 @@ from bert_score import score as bertscore_score
 
 # ---------------- CONFIG ----------------
 KEY_LIST = [
-    # "your-gemini-api-key-1",
-    # "your-gemini-api-key-2",
-    # Add more keys if you have them
+    # Add your Gemini API keys here
 ]
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-2.0-flash"
 
 # Allowed image extensions
 IMG_EXTS = {".png", ".jpg", ".jpeg"}
@@ -55,11 +53,10 @@ PROMPT_FEW_SHOT = (
 )
 
 # Universal output folder for generated captions & metrics
-OUTPUT_ROOT = Path(r"...\gemini_2.5_captions")  # Change this to your desired output directory
+OUTPUT_ROOT = Path(r"...\gemini_2.0_captions")  # Change this to your desired output directory
 OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 
 # Sectors mapping: images dir and annotation file (gold)
-# Ensure these paths are correct for your setup
 SECTORS = {
     "culture": {
         "images": Path(r"...\data\culture\images"),
@@ -305,7 +302,7 @@ def save_generated(out_file: Path, generated_list):
     tmp.replace(out_file)
 
 # ----------------- Processing logic with resume support -----------------
-def process_sector(sector_name, sector_cfg, captioner: RotatingGeminiCaptioner, prompt_mode="zero", n_examples=None):
+def process_sector(sector_name, sector_cfg, captioner: RotatingGeminiCaptioner, prompt_mode="zero", n_examples=10):
     print(f"\n==== Processing sector: {sector_name} (prompt_mode={prompt_mode}) ====")
     images_dir = sector_cfg["images"]
     annotation_file = sector_cfg["annotation"]
@@ -362,7 +359,7 @@ def main():
     for prompt_mode in ["zero", "few"]:
         for sector_name, cfg in SECTORS.items():
             try:
-                process_sector(sector_name, cfg, captioner, prompt_mode=prompt_mode, n_examples=None)
+                process_sector(sector_name, cfg, captioner, prompt_mode=prompt_mode, n_examples=10)
             except Exception as e:
                 print(f"❗ Error processing sector {sector_name} ({prompt_mode}-shot): {e}")
 
