@@ -22,16 +22,15 @@ KEY_LIST = [
     # Add your Gemini API keys here
 ]
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-2.0-flash"
 IMG_EXTS = {".png", ".jpg", ".jpeg"}
 
-# --- OUTPUT ROOT (change with your local directory) ---
 OUTPUT_ROOT = Path(
-    r"...\gemini_2.5_csu"
+    r"...\gemini_2.0_csu"
 )
 OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 
-# --- SECTORS (change with your local directory) ---
+# --- SECTORS (unchanged) ---
 SECTORS = {
     "culture": {
         "images": Path(
@@ -376,7 +375,7 @@ def main():
         print(f"\n########### Starting run for prompt_mode={prompt_mode} ###########")
         for sector_name, cfg in SECTORS.items():
             try:
-                process_sector(sector_name, cfg, KEY_LIST, prompt_mode=prompt_mode, n_examples=None)
+                process_sector(sector_name, cfg, KEY_LIST, prompt_mode=prompt_mode, n_examples=10)
             except Exception as e:
                 print(f"❗ Error processing sector {sector_name} ({prompt_mode}-shot): {e}")
 

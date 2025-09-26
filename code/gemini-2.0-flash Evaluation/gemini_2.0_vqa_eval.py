@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
 """
-gemini_vqa_rotate_keys_run_both_modes.py
+gemini_vqa_rotate_keys_run_both_modes_with_cot.py
 
 - Rotates through multiple Gemini API keys on failure (quota/429/etc).
 - Retries the same example after switching keys (doesn't skip or restart earlier items).
 - Persists per-sector results so runs can be resumed without redoing answered items.
 - Computes Accuracy (%) for the multiple-choice VQA tasks.
-- Runs both zero-shot and few-shot modes for all sectors (outputs separate files per mode).
+- Runs zero-shot, few-shot and chain-of-thought (cot) modes for all sectors (outputs separate files per mode).
+- Sample run uses 50 examples per sector by default.
 """
 
 import os
 import json
 import time
+import re
 from pathlib import Path
 from tqdm import tqdm
 import google.generativeai as genai
@@ -21,10 +23,10 @@ KEY_LIST = [
     # Add your Gemini API keys here
 ]
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-2.0-flash"
 IMG_EXTS = {".png", ".jpg", ".jpeg"}
 
-OUTPUT_ROOT = Path(r"...\gemini_2.5_vqa")
+OUTPUT_ROOT = Path(r"...\gemini_2.0_vqa")
 OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 
 SECTORS = {
@@ -66,6 +68,7 @@ SECTORS = {
     }
 }
 
+# ---------------- PROMPTS ----------------
 PROMPT_ZERO_SHOT = (
     "You are an AI assistant that answers visual multiple-choice questions in Bangla.\n"
     "Task:\n"
@@ -81,7 +84,6 @@ PROMPT_ZERO_SHOT = (
     "- Follow this exact structure:\n\n"
     "Index: <option_index>, Answer: \"<option_text_in_Bangla>\""
 )
-
 
 PROMPT_FEW_SHOT = (
     "You are an AI assistant that answers visual multiple-choice questions in Bangla.\n"
@@ -113,16 +115,140 @@ PROMPT_FEW_SHOT = (
     "Now, answer for the given image."
 )
 
+PROMPT_CHAIN_OF_THOUGHTS = (
+    "You are an AI assistant that answers visual multiple-choice questions in Bangla.\n\n"
+    "Task:\n"
+    "1. Look carefully at the given image: {image_path}\n"
+    "2. Read the question: {question}\n"
+    "3. Review the provided answer choices: {options}\n"
+    "4. Select the **single most accurate answer**.\n\n"
+    "Response Rules:\n"
+    "- The index must be the programming list index (starting from 0).\n"
+    "- Use Bangla text for the answer option.\n"
+    "- In Reasoning_En, write step-by-step reasoning in English — break down the solution logically:\n"
+    "  Step 1: Describe key visual observations.\n"
+    "  Step 2: Match observations to relevant answer choices.\n"
+    "  Step 3: Eliminate incorrect choices with brief justification.\n"
+    "  Step 4: Conclude why the final choice is correct.\n"
+    "- Be clear, concise, and factual (avoid overly long explanations).\n"
+    "- Follow this exact response format:\n\n"
+    "Reasoning_En:\n"
+    "Step 1: <your_observations>\n"
+    "Step 2: <your_matching_logic>\n"
+    "Step 3: <your_elimination_of_wrong_options>\n"
+    "Step 4: <your_final_choice_reasoning>\n\n"
+    "Final Answer: Index: <option_index>, Answer: \"<option_text_in_Bangla>\""
+)
 
+# ----------------- Helpers -----------------
 
 def normalize_text(text):
-    import unicodedata, re
+    import unicodedata
+    import re
     if text is None:
         return ""
     t = unicodedata.normalize("NFKC", str(text))
     t = re.sub(r"\s+", " ", t).strip()
     return t
 
+# ----------------- Robust response parsing & JSON-correct output -----------------
+
+def _resp_to_text(resp):
+    """
+    Normalize various genai SDK response shapes into a single text string.
+    """
+    try:
+        # common direct .text
+        if hasattr(resp, "text") and resp.text:
+            return str(resp.text).strip()
+        # some SDKs: resp.candidates -> list of candidate objects with content.parts
+        if hasattr(resp, "candidates") and resp.candidates:
+            texts = []
+            for c in resp.candidates:
+                # candidate may be a rich object
+                try:
+                    part_text = c.content.parts[0].text
+                except Exception:
+                    try:
+                        part_text = c.get("content", {}).get("parts", [{}])[0].get("text", "")
+                    except Exception:
+                        part_text = str(c)
+                if part_text:
+                    texts.append(str(part_text).strip())
+            if texts:
+                return "\n\n---\n\n".join(texts).strip()
+        # fallback to stringifying object
+        return str(resp).strip()
+    except Exception as e:
+        return f"⚠️ Resp->text failure: {e}"
+
+
+def extract_index_from_answer(answer_text):
+    """
+    Extract predicted index, reasoning steps, and predicted answer string from model output.
+
+    Returns tuple:
+       (pred_idx_or_None, reasoning_steps_list_or_None, reasoning_text_or_None, predicted_answer_text_or_None)
+    """
+    if not answer_text:
+        return None, None, None, None
+
+    text = str(answer_text).strip()
+
+    # Helper: clean a step label like "Step 1:" => returns remainder
+    def _clean_step(s):
+        return re.sub(r'^\s*Step\s*\d+\s*[:\-]?\s*', '', s, flags=re.IGNORECASE).strip()
+
+    # 1) Try to find Reasoning_En block then Final Answer (CoT)
+    reasoning_block = None
+    m_reason = re.search(r'Reasoning[_ ]?En\s*[:\-]?\s*(.*?)(?:Final\s*Answer|Index\s*:|\Z)', text, flags=re.IGNORECASE | re.DOTALL)
+    if m_reason:
+        reasoning_block = m_reason.group(1).strip()
+
+    reasoning_steps = None
+    if reasoning_block:
+        # attempt to extract up to 8 Step N items in order
+        steps = []
+        for i in range(1, 9):
+            m_step = re.search(r'(?:^|\n)\s*Step\s*' + str(i) + r'\s*[:\-]?\s*(.*?)(?=(?:\n\s*Step\s*' + str(i+1) + r'\b)|\Z)', reasoning_block, flags=re.IGNORECASE | re.DOTALL)
+            if m_step:
+                step_text = _clean_step(m_step.group(1))
+                if step_text:
+                    steps.append(step_text)
+        if steps:
+            reasoning_steps = steps
+        else:
+            lines = [ln.strip() for ln in reasoning_block.splitlines() if ln.strip()]
+            if lines:
+                reasoning_steps = lines
+
+    # 2) Extract index via "Final Answer: Index: X" or "Final Answer - Index X"
+    m_final_idx = re.search(r'Final\s*Answer\s*[:\-]?\s*(?:Index\s*[:\-]?\s*(\d+))', text, flags=re.IGNORECASE)
+    if m_final_idx:
+        idx = int(m_final_idx.group(1))
+    else:
+        # 3) Try "Index: X" anywhere else
+        m_idx_any = re.search(r'\bIndex\s*[:\-]?\s*(\d+)\b', text, flags=re.IGNORECASE)
+        idx = int(m_idx_any.group(1)) if m_idx_any else None
+
+    # 4) Extract predicted answer text if present: look for Answer: "..." after Index or Final Answer
+    predicted_answer_text = None
+    m_ans = re.search(r'Answer\s*[:\-]?\s*["“]?([^"”\n]+)["”]?', text, flags=re.IGNORECASE)
+    if m_ans:
+        predicted_answer_text = m_ans.group(1).strip()
+
+    # 6) Also attempt to extract reasoning_text more generically if not captured above
+    reasoning_text = None
+    if reasoning_block:
+        reasoning_text = reasoning_block
+    else:
+        m_reason2 = re.search(r'Reasoning\s*[:\-]\s*(.*?)(?:Final\s*Answer|Index\s*:|\Z)', text, flags=re.IGNORECASE | re.DOTALL)
+        reasoning_text = m_reason2.group(1).strip() if m_reason2 else None
+        if reasoning_text:
+            lines = [ln.strip() for ln in reasoning_text.splitlines() if ln.strip()]
+            reasoning_steps = lines if lines else reasoning_steps
+
+    return idx, reasoning_steps, reasoning_text, predicted_answer_text
 
 # ----------------- Rotating Gemini VQA client -----------------
 class RotatingGeminiVQA:
@@ -145,21 +271,31 @@ class RotatingGeminiVQA:
         self._configure_current_key()
 
     def ask_once(self, image_path, question, options, prompt_mode="few"):
+        # choose prompt
         if prompt_mode == "zero":
             prompt = PROMPT_ZERO_SHOT.format(image_path=str(image_path), question=question, options=json.dumps(options, ensure_ascii=False))
+        elif prompt_mode == "cot":
+            prompt = PROMPT_CHAIN_OF_THOUGHTS.format(image_path=str(image_path), question=question, options=json.dumps(options, ensure_ascii=False))
         else:
             prompt = PROMPT_FEW_SHOT.format(image_path=str(image_path), question=question, options=json.dumps(options, ensure_ascii=False))
 
+        # upload image and call model
         img = genai.upload_file(str(image_path))
         model = genai.GenerativeModel(self.model_name)
-        resp = model.generate_content([prompt, img])
-        if hasattr(resp, "text") and resp.text:
-            return resp.text.strip()
-        elif hasattr(resp, "candidates") and resp.candidates:
-            cand_text = resp.candidates[0].content.parts[0].text
-            return cand_text.strip()
-        else:
-            return "⚠️ Empty response"
+
+        # generate content: defend against different SDK call shapes
+        try:
+            resp = model.generate_content([prompt, img])
+        except TypeError:
+            # attempt alternate call signature
+            try:
+                resp = model.generate([prompt, img])
+            except Exception as e:
+                raise
+
+        # Normalize to text
+        text = _resp_to_text(resp)
+        return text
 
     def ask_with_rotation(self, image_path, question, options, prompt_mode="few", max_attempts_per_example=10, backoff_base=1.0):
         attempt = 0
@@ -185,7 +321,6 @@ class RotatingGeminiVQA:
 
         print(f"❌ Failed to answer for {image_path.name} after {max_attempts_per_example} attempts. Last error: {last_exc}")
         return "❌ Failed to answer"
-
 
 # ----------------- I/O helpers (persistence & files) -----------------
 
@@ -225,34 +360,25 @@ def save_results_atomic(out_file: Path, results_list):
     tmp.replace(out_file)
 
 
-def extract_index_from_answer(answer_text):
-    import re
-    if not answer_text:
-        return None
-    match = re.search(r'Index\s*:\s*(\d+)', str(answer_text))
-    if match:
-        return int(match.group(1))
-    # fallback: try to find a small integer anywhere
-    match2 = re.search(r'\b(\d)\b', str(answer_text))
-    if match2:
-        return int(match2.group(1))
-    return None
-
-
 def compute_accuracy(preds, gts):
+    """
+    Compute accuracy only on pairs where both pred and gt are not None.
+    Returns (accuracy_pct, valid_count, correct_count)
+    """
     correct = 0
-    total = len(preds)
+    valid = 0
     for pred_idx, gt_idx in zip(preds, gts):
         if pred_idx is None or gt_idx is None:
             continue
+        valid += 1
         if pred_idx == gt_idx:
             correct += 1
-    return round(100.0 * correct / total, 2) if total > 0 else 0.0
-
+    acc = (100.0 * correct / valid) if valid > 0 else 0.0
+    return round(acc, 2), valid, correct
 
 # ----------------- Processing logic with resume support -----------------
 
-def process_sector(sector_name, sector_cfg, key_list, prompt_mode="few", n_examples=None):
+def process_sector(sector_name, sector_cfg, key_list, prompt_mode="few", n_examples=50):
     print(f"\n==== Processing sector: {sector_name} (prompt_mode={prompt_mode}) ====")
     images_dir = sector_cfg["images"]
     annotation_file = sector_cfg["annotation"]
@@ -278,7 +404,8 @@ def process_sector(sector_name, sector_cfg, key_list, prompt_mode="few", n_examp
         for r in results_list:
             preds.append(r.get("predicted_index"))
             gts.append(r.get("ground_truth_index"))
-        metrics = {"Accuracy (%)": compute_accuracy(preds, gts), "n_examples": len(preds)}
+        acc, valid_count, correct = compute_accuracy(preds, gts)
+        metrics = {"Accuracy (%)": acc, "n_examples_total": len(preds), "n_valid_evaluated": valid_count, "n_correct": correct}
         metrics_out = OUTPUT_ROOT / f"{sector_name}_vqa_metrics_gemini_{prompt_mode}.json"
         with open(metrics_out, "w", encoding="utf8") as f:
             json.dump(metrics, f, ensure_ascii=False, indent=2)
@@ -308,27 +435,50 @@ def process_sector(sector_name, sector_cfg, key_list, prompt_mode="few", n_examp
             continue
 
         pred_text = client.ask_with_rotation(img_path, question, options, prompt_mode=prompt_mode, max_attempts_per_example=10)
-        pred_idx = extract_index_from_answer(pred_text)
+
+        pred_idx, reasoning_steps, reasoning_text, predicted_answer_text = extract_index_from_answer(pred_text)
+
+        # If the model returned a predicted answer text but no index, try to map it to options (exact normalized match)
+        if pred_idx is None and predicted_answer_text:
+            try:
+                norm_pred = normalize_text(predicted_answer_text).lower()
+                mapped = None
+                for i, opt in enumerate(options):
+                    if normalize_text(opt).lower() == norm_pred:
+                        mapped = i
+                        break
+                pred_idx = mapped
+            except Exception:
+                pred_idx = None
+
+        # Compose standardized result item (keeps original fields and adds reasoning fields)
+        result_item = {
+            "image_id": str(image_id),
+            "question": normalize_text(question),
+            "options": [normalize_text(x) for x in options],
+            "ground_truth_index": int(gt_index) if gt_index is not None else None,
+            "ground_truth_answer": normalize_text(answer) if answer is not None else None,
+            "predicted_index": int(pred_idx) if pred_idx is not None else None,
+            # For backward compatibility keep your "answer_text" field like your example
+            # "answer_text": normalize_text(pred_text),
+            # "predicted_answer_text": normalize_text(predicted_answer_text) if predicted_answer_text else None,
+            # "reasoning_text": reasoning_text if reasoning_text else None,
+            "reasoning_steps_en": reasoning_steps if reasoning_steps else None,
+        }
+
+        results_list.append(result_item)
+        save_results_atomic(out_file, results_list)
 
         preds.append(pred_idx)
         gts.append(gt_index)
 
-        results_list.append({
-            "image_id": image_id,
-            "question": question,
-            "options": options,
-            "ground_truth_index": gt_index,
-            "ground_truth_answer": answer,
-            "predicted_index": pred_idx,
-            "answer_text": pred_text,
-        })
-
-        save_results_atomic(out_file, results_list)
-
         # polite pause (tune as needed)
         time.sleep(5)
 
-    metrics = {"Accuracy (%)": compute_accuracy(preds, gts), "n_examples": len(preds)}
+    acc, valid_count, correct = compute_accuracy(preds, gts)
+    # count how many records included reasoning
+    reasoning_count = sum(1 for r in results_list if r.get("reasoning_text"))
+    metrics = {"Accuracy (%)": acc, "n_examples_total": len(preds), "n_valid_evaluated": valid_count, "n_correct": correct, "n_with_reasoning": reasoning_count}
     metrics_out = OUTPUT_ROOT / f"{sector_name}_vqa_metrics_gemini_{prompt_mode}.json"
     with open(metrics_out, "w", encoding="utf8") as f:
         json.dump(metrics, f, ensure_ascii=False, indent=2)
@@ -337,13 +487,34 @@ def process_sector(sector_name, sector_cfg, key_list, prompt_mode="few", n_examp
 
 
 def main():
-    for prompt_mode in ["zero", "few"]:
+    # run three prompt modes: zero-shot, few-shot, and chain-of-thought (cot)
+    for prompt_mode in ["cot"]:
         print(f"\n########### Starting run for prompt_mode={prompt_mode} ###########")
         for sector_name, cfg in SECTORS.items():
             try:
-                process_sector(sector_name, cfg, KEY_LIST, prompt_mode=prompt_mode, n_examples=None)
+                # sample run uses 50 examples per sector
+                process_sector(sector_name, cfg, KEY_LIST, prompt_mode=prompt_mode, n_examples=50)
             except Exception as e:
                 print(f"❗ Error processing sector {sector_name} ({prompt_mode}-shot): {e}")
+
+# def main():
+#     # run only zero-shot and process these sectors in this exact order
+#     prompt_mode = "few"
+#     desired_sectors = ["politics", "sports"]
+#     missing = [s for s in desired_sectors if s not in SECTORS]
+#     if missing:
+#         print(f"⚠️ The following desired sectors are missing from SECTORS and will be skipped: {missing}")
+#     ordered_sectors = [s for s in desired_sectors if s in SECTORS]
+
+#     print(f"\n########### Starting run for prompt_mode={prompt_mode} ###########")
+#     for sector_name in ordered_sectors:
+#         cfg = SECTORS[sector_name]
+#         try:
+#             # sample run uses 50 examples per sector
+#             process_sector(sector_name, cfg, KEY_LIST, prompt_mode=prompt_mode, n_examples=50)
+#         except Exception as e:
+#             print(f"❗ Error processing sector {sector_name} ({prompt_mode}-shot): {e}")
+
 
 
 if __name__ == "__main__":
