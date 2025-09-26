@@ -31,7 +31,7 @@ BanglaVerse/
 
 ### 🖼️ 1. Captions Generation
 
-Short descriptions of each image in **Bangla**.
+Task: Short descriptions of each image in **Bangla**.
 
 ```json
 {
