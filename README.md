@@ -1,4 +1,4 @@
-# BanglaVerse: A Benchmark Dataset for Visual Understanding in Bangla with Cultural Awareness
+# BanglaVerse: A Benchmark Dataset for Visual Understanding of Multilingual Vision-Language Models in Bangla with Cultural Awareness
 
 _**Abstract**_: Vision-language research has advanced rapidly, yet culturally grounded multimodal datasets for Bangla remain limited. We introduce BanglaVerse, a manually annotated, image-centric benchmark covering nine culturally rich domains and supporting three different tasks. Through cross-verified annotation, we emphasize grounding in images, cultural awareness, and commonsense nuance. We evaluate state-of-the-art multilingual vision-language models under zero-shot, few-shot, and chain-of-thought prompting, revealing domain-specific strengths and limitations. Notably, Gemini-2.5-Flash achieves the most robust results, while few-shot prompting provides the strongest overall gains, especially in complex domains. 
 
