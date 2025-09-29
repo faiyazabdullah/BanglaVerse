@@ -31,7 +31,7 @@ BanglaVerse/
 
 ## 📦 Dataset Components
 
-### 🖼️ 1. Captions Generation
+### 1. Captions Generation
 
 Task: Short descriptions of each image in **Bangla**.
 
@@ -42,7 +42,7 @@ Task: Short descriptions of each image in **Bangla**.
 }
 ```
 
-### ❓ 2. Visual Question Answering (VQA)
+### 2. Visual Question Answering (VQA)
 
 Task: Answer direct visual questions about an image based on multiple choices.
 
@@ -55,9 +55,9 @@ Task: Answer direct visual questions about an image based on multiple choices.
 }
 ```
 
-### 🧠 3. Commonsense Understanding Tasks
+### 3. Commonsense Understanding Tasks
 
-Task: Answer contextual and culturally relevant questions about the image.
+Task: Answer contextual and culturally relevant questions about the image using prior knowledge.
 
 ```json
 {
