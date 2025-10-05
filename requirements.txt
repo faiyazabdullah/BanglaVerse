@@ -1,3 +1,11 @@
 pandas
 matplotlib
 numpy
+bert-score
+sacrebleu
+rouge-score
+tqdm
+google-generativeai
+groq
+ollama
+comet-ml
