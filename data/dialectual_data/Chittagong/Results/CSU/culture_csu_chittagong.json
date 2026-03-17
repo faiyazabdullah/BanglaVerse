@@ -1,0 +1,800 @@
+[
+  {
+    "image_id": "culture_001",
+    "original_question": "ছবিতে দেখা যাচ্ছে সাঁওতাল সম্প্রদায়ের বসন্তকালীন ফুলের উৎসব—এটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে সাঁওতাল গুষ্ঠির বসন্তকালীন ফুলর উৎসব—এগোর নাম কী?",
+    "original_answer": "বাহা পরব",
+    "chittagong_answer": "বাহা পরব"
+  },
+  {
+    "image_id": "culture_002",
+    "original_question": "ছবির এই বাঁশের তৈরি ঐতিহ্যবাহী বাদ্যযন্ত্রটির নাম কী?",
+    "chittagong_question": "ছবির এই বাঁশরো পুরানা বাদ্যযন্ত্রগো নাম কী?",
+    "original_answer": "বাশি",
+    "chittagong_answer": "বাঁশি"
+  },
+  {
+    "image_id": "culture_003",
+    "original_question": "ছবির এই লোকশিল্পীরা একতারার সুরে যে গান পরিবেশন করছেন, সেটির নাম কী?",
+    "chittagong_question": "ছবির এই লোকশিল্পীরা একতারা সুরর যে গান গাইতেছে, এগোর নাম কী?",
+    "original_answer": "বাউল গান",
+    "chittagong_answer": "বাউল গান"
+  },
+  {
+    "image_id": "culture_004",
+    "original_question": "ছবির এই উৎসবে অসংখ্য মানুষ শিল্পীদের গান শুনতে জড়ো হয়েছে—উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে এই উৎসবত অউরো মানুষ শিল্পীগো গান শুনির বাবে জড়ো অইছে—উৎসবগো নাম কী?",
+    "original_answer": "বাউল মেলা",
+    "chittagong_answer": "বাউল মেলা"
+  },
+  {
+    "image_id": "culture_005",
+    "original_question": "ছবিতে দেখা যাচ্ছে প্রাচীন বিনোদনের যন্ত্র—এর নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে পুরানা বিনোদনের যন্ত্রগো—এগো নাম কী?",
+    "original_answer": "বায়োস্কোপ",
+    "chittagong_answer": "বায়োস্কোপ"
+  },
+  {
+    "image_id": "culture_006",
+    "original_question": "ছবির এই দিনে বিসর্জনের আচার পালিত হয়—দিনটির নাম কী?",
+    "chittagong_question": "ছবির এই দিনত বিসর্জনের আচার পালিত অয়—দিনগো নাম কী?",
+    "original_answer": "বিজয়া দশমী",
+    "chittagong_answer": "বিজয়া দশমী"
+  },
+  {
+    "image_id": "culture_007",
+    "original_question": "ছবির এই দিনে মানুষ পতাকা নিয়ে মুক্তিযুদ্ধের গৌরব স্মরণ করে—এ দিনটি কী?",
+    "chittagong_question": "ছবিত এই দিনো মানুষ পতাকা লইয়া মুক্তিযু্দ্ধর গৌরব স্মরণ করেরে—এই দিনগো কী?",
+    "original_answer": "বিজয় দিবস",
+    "chittagong_answer": "বিজয় দিবস"
+  },
+  {
+    "image_id": "culture_008",
+    "original_question": "ছবিতে উপজাতিরা পালন করা ঐতিহ্যবাহী উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত উপজাতিরা পালন করর পুরানা উৎসবগো নাম কী?",
+    "original_answer": "বিজু উৎসব",
+    "chittagong_answer": "বিজু পরব"
+  },
+  {
+    "image_id": "culture_009",
+    "original_question": "ছবির এই মহাসমাবেশে লাখো মুসল্লি ধর্মীয় আলোচনায় অংশ নিচ্ছে—সমাবেশটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে এই মহাসমাবেশতো লাখো মুসল্লি ধর্মীয় আলোচনাত অংশ লইতাছে—সমাবেশগো নাম কী?",
+    "original_answer": "বিশ্ব ইজতেমা",
+    "chittagong_answer": "বিশ্ব ইজতেমা"
+  },
+  {
+    "image_id": "culture_010",
+    "original_question": "ছবির এই সামাজিক আচারটি বাঙালির জীবনের গুরুত্বপূর্ণ পর্ব—এটি কী?",
+    "chittagong_question": "ছবির এই সামাজিক আচারগো বাঙালির জীবনের গুরুত্বপূর্ণ পর্ব—এগো কী?",
+    "original_answer": "বিয়ে",
+    "chittagong_answer": "বিয়া"
+  },
+  {
+    "image_id": "culture_011",
+    "original_question": "ছবির এই উৎসবটি পার্বত্য অঞ্চলে নববর্ষে উদযাপন করে—নাম কী?",
+    "chittagong_question": "ছবির এই উৎসবগো পার্বত্য এলাকাত নববর্ষত উদযাপন করের—নাম কী?",
+    "original_answer": "বৈসাবি",
+    "chittagong_answer": "বৈসাবি"
+  },
+  {
+    "image_id": "culture_012",
+    "original_question": "ছবিতে দেখা যাচ্ছে ঐতিহ্যবাহী শক্তির খেলা—এর নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে পুরানা শক্তির খেলা—এগো নাম কী?",
+    "original_answer": "বলি খেলা",
+    "chittagong_answer": "বইলি খেলা"
+  },
+  {
+    "image_id": "culture_013",
+    "original_question": "ছবির এই দিনটির নাম কী?",
+    "chittagong_question": "ছবির এই দিনগো নাম কী?",
+    "original_answer": "বুদ্ধ পূর্ণিমা",
+    "chittagong_answer": "বৌদ্ধ পূর্ণিমা"
+  },
+  {
+    "image_id": "culture_014",
+    "original_question": "ছবির এই রাতে মানুষ আনন্দে উৎসবের প্রস্তুতি নেয়—রাতটির নাম কী?",
+    "chittagong_question": "ছবির এই রাতত মানষ আগোত উৎসবর প্রস্তুতি লয়—রাতগো নাম কী?",
+    "original_answer": "চাঁদ রাত",
+    "chittagong_answer": "চাঁদ রাত"
+  },
+  {
+    "image_id": "culture_015",
+    "original_question": "ছবিতে দেখা যাচ্ছে ঐতিহ্যবাহী হাতের কাজ—এ শিল্পটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে পুরানা হাতের কাজ—এ শিল্পগো নাম কী?",
+    "original_answer": "চাকমা হস্তশিল্প",
+    "chittagong_answer": "চাকমা হস্তশিল্প"
+  },
+  {
+    "image_id": "culture_016",
+    "original_question": "ছবির এই দলটি পাহাড়ি অঞ্চলের ঐতিহ্যবাহী গান পরিবেশন করছে—এ গানের নাম কী?",
+    "chittagong_question": "ছবির এই দলগো পাহাড়ি এলাকাতর পুরানা গান পরিবেশন করতাছে—এই গানর নাম কী?",
+    "original_answer": "চাকমা লোকগান",
+    "chittagong_answer": "চাকমা লোকগান"
+  },
+  {
+    "image_id": "culture_017",
+    "original_question": "ছবিতে দেখা যাচ্ছে কিশোরীরা ঐতিহ্যবাহী পোশাকে সজ্জিত—এদের পোশাকের ধরন কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে কিশोरीগো পুরানা পোশাকে সাজিত—এগো পোশাকর ধরন কী?",
+    "original_answer": "চাকমা পোশাক",
+    "chittagong_answer": "চাকমা ফিনন"
+  },
+  {
+    "image_id": "culture_018",
+    "original_question": "ছবির এই উৎসবটি বর্ষবিদায় উপলক্ষে উদযাপিত হয়—উৎসবটির নাম কী?",
+    "chittagong_question": "ছবির এই উৎসবগো বর্ষবিদায় উপলক্ষে উদযাপিত হয়—উৎসবগো নাম কী?",
+    "original_answer": "চৈত্র সংক্রান্তি",
+    "chittagong_answer": "চইতর সংক্রান্তি"
+  },
+  {
+    "image_id": "culture_019",
+    "original_question": "ছবির খেলাটির নাম কী?",
+    "chittagong_question": "ছবির খেলাগো নাম কী?",
+    "original_answer": "দাড়িয়াবান্ধা",
+    "chittagong_answer": "দাড়িয়াবান্ধা"
+  },
+  {
+    "image_id": "culture_020",
+    "original_question": "ছবির এই মেলাটির নাম কী?",
+    "chittagong_question": "ছবির এই মেলাগো নাম কী?",
+    "original_answer": "ধামরাই রথের মেলা",
+    "chittagong_answer": "ধামরাই রথের মেলা"
+  },
+  {
+    "image_id": "culture_021",
+    "original_question": "ছবিতে এ কাজটির নাম কী?",
+    "chittagong_question": "ছবিত এ কাজগো নাম কী?",
+    "original_answer": "ধান চাষ",
+    "chittagong_answer": "ধান চাষ"
+  },
+  {
+    "image_id": "culture_022",
+    "original_question": "ছবির এই উৎসবে আনন্দে নাচ-গান হয়—এটির নাম কী?",
+    "chittagong_question": "ছবির এই উৎসবত আনন্দত নাচ-গান হয়—এগো নাম কী?",
+    "original_answer": "নবান্ন উৎসবে",
+    "chittagong_answer": "নবান্ন উৎসবে"
+  },
+  {
+    "image_id": "culture_023",
+    "original_question": "ছবিতে দেখা যাচ্ছে দলবদ্ধভাবে নাচ হচ্ছে—নাচটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে দলবদ্ধ নাছ—নাছগো নাম কী?",
+    "original_answer": "ঢোল নাচ",
+    "chittagong_answer": "ঢোল নাচ"
+  },
+  {
+    "image_id": "culture_024",
+    "original_question": "ছবির এ উৎসবটির নাম কী?",
+    "chittagong_question": "ছবির এই উৎসবগো নাম কী?",
+    "original_answer": "দোল পূর্ণিমা",
+    "chittagong_answer": "দোল পূর্ণিমা"
+  },
+  {
+    "image_id": "culture_025",
+    "original_question": "ছবিতে দেখা যাচ্ছে ঐতিহ্যবাহী নৃত্য—এই নাচটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে পুরানা নাচ—এই নাচগো নাম কী?",
+    "original_answer": "ড্রাম নাচ",
+    "chittagong_answer": "ড্রাম নাচ"
+  },
+  {
+    "image_id": "culture_026",
+    "original_question": "ছবির এই পূজায় দেবীর আরাধনা করা হয়—উৎসবটির নাম কী?",
+    "chittagong_question": "ছবির এই পূজাত দেবীর আরাধনা করা হয়—উৎসবগো নাম কী?",
+    "original_answer": "দুর্গাপূজা",
+    "chittagong_answer": "দুর্গাপূজা"
+  },
+  {
+    "image_id": "culture_027",
+    "original_question": "ছবিতে এ ধর্মীয় উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত এই ধর্মীয় উৎসবগো নাম কী?",
+    "original_answer": "ঈদুল আজহা",
+    "chittagong_answer": "ঈদুল আজহা"
+  },
+  {
+    "image_id": "culture_028",
+    "original_question": "ছবির এই দিনে মুসলমানরা নামাজ পড়ে ও আনন্দ করে—দিনটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে এই দিনত মুসলমানরা নামাজ পড়ে আর আনন্দ করে—দিনগো নাম কী?",
+    "original_answer": "ঈদুল ফিতর",
+    "chittagong_answer": "ঈদুল ফিতর"
+  },
+  {
+    "image_id": "culture_029",
+    "original_question": "ছবিতে মানুষ ফুল দিয়ে শ্রদ্ধা জানাচ্ছে—দিনটি কী?",
+    "chittagong_question": "ছবিত মানুষ ফুল দিয়া শ্রদ্ধা জানাইতেছে—দিনগো কী?",
+    "original_answer": "একুশে ফেব্রুয়ারি",
+    "chittagong_answer": "একুশে ফেব্রুয়ারি"
+  },
+  {
+    "image_id": "culture_030",
+    "original_question": "ছবির এই লোকসংগীতটি বিশেষত ঢোলের তালে গাওয়া হয়—গানের ধরনটি কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে এই লোকসংগীতগো বিশেষত ঢোলর তালে গাওয়া হয়—গানর ধরনগো কী?",
+    "original_answer": "গাজীর গান",
+    "chittagong_answer": "গাজীর গান"
+  },
+  {
+    "image_id": "culture_031",
+    "original_question": "ছবিতে দেখা যাচ্ছে গারোদের ঐতিহ্যবাহী কুঁড়েঘর—এ বাসার নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে গারোরাক পুরানা কুঁড়েঘর—এ বাসার নাম কী?",
+    "original_answer": "গারো ঘর",
+    "chittagong_answer": "গারো ঘর"
+  },
+  {
+    "image_id": "culture_032",
+    "original_question": "ছবির এই পোশাক গারো সম্প্রদায়ের ঐতিহ্যের অংশ—পোশাকটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে গারো গুষ্ঠির পুরানা ঐতিহ্যর অংশ—পোশাকগো নাম কী?",
+    "original_answer": "গারো পোশাক",
+    "chittagong_answer": "গারো পোশাক"
+  },
+  {
+    "image_id": "culture_033",
+    "original_question": "ছবির এই আচারটি বিয়ের প্রধান আনুষ্ঠানিকতা—এর নাম কী?",
+    "chittagong_question": "ছবির এই আছারগো বিয়ার প্রধান অনুষ্ঠান—এগো নাম কী?",
+    "original_answer": "গায়ে হলুদ",
+    "chittagong_answer": "গায়ে হলুদ"
+  },
+  {
+    "image_id": "culture_034",
+    "original_question": "ছবির এই মেলাটি গাজীপুরে অনুষ্ঠিত হয়—মেলার নাম কী?",
+    "chittagong_question": "ছবির এই মেলাগো গাজীপুরত অইছে—মেলাগো নাম কী?",
+    "original_answer": "চৈতাইল মেলা",
+    "chittagong_answer": "চৈতাইল মেলা"
+  },
+  {
+    "image_id": "culture_035",
+    "original_question": "ছবির এই মেলার নাম কী?",
+    "chittagong_question": "ছবির এই মেলাগো নাম কী?",
+    "original_answer": "জামাই মেলা",
+    "chittagong_answer": "জামাই মেলা"
+  },
+  {
+    "image_id": "culture_036",
+    "original_question": "ছবিতে শিশুরা দৌড়ে খেলা করছে—খেলাটির নাম কী?",
+    "chittagong_question": "ছবিত পোয়ারা দৌড়াইয়া খেলতাছে—খেলগো নাম কী?",
+    "original_answer": "গোল্লাছুট",
+    "chittagong_answer": "গোল্লাছুট"
+  },
+  {
+    "image_id": "culture_037",
+    "original_question": "ছবিতে দেখা গ্রামীণ বাহন—এর নাম কী?",
+    "chittagong_question": "ছবিত দেখা গাঁয়র বাহন—এগো নাম কী?",
+    "original_answer": "গরুর গাড়ি",
+    "chittagong_answer": "গরুর গাড়ি"
+  },
+  {
+    "image_id": "culture_038",
+    "original_question": "ছবির এই মেলায় গ্রামীণ খেলাধুলা ও পণ্যের সমাহার দেখা যায়—এটি কী?",
+    "chittagong_question": "ছবির এই মেলাত গাঁয়র খেলাধুলা আর জিনিসপত্রের সমাহার দেখা যায়—এগো কী?",
+    "original_answer": "গ্রামীণ মেলা",
+    "chittagong_answer": "গাঁয়ের মেলা"
+  },
+  {
+    "image_id": "culture_039",
+    "original_question": "ছবিতে তরুণরা দলে দলে ধাওয়া করে খেলছে—খেলাটির নাম কী?",
+    "chittagong_question": "ছবিত তরুণেরা দলে দলে ধাওয়া করি খেলিরছে—খেলাগো নাম কী?",
+    "original_answer": "হাডুডু",
+    "chittagong_answer": "হাডুডু"
+  },
+  {
+    "image_id": "culture_040",
+    "original_question": "ছবিতে দেখা যাচ্ছে আলো দেওয়ার ঐতিহ্যবাহী যন্ত্রটি—এর নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে আলো দেওনের পুরানা যন্ত্রগো—এগো নাম কী?",
+    "original_answer": "হারিকেন",
+    "chittagong_answer": "হারিকেন"
+  },
+  {
+    "image_id": "culture_041",
+    "original_question": "ছবির এই বস্ত্র ঐতিহ্যবাহী হস্তশিল্প—এটির নাম কী?",
+    "chittagong_question": "ছবির এই বস্ত্র পুরানা হস্তশিল্প—এগো নাম কী?",
+    "original_answer": "জামদানি",
+    "chittagong_answer": "জামদানি"
+  },
+  {
+    "image_id": "culture_042",
+    "original_question": "ছবির এই গানের ধরনটি দুঃখ ও ধর্মীয় ভাব গেয়ে প্রকাশ করে—গানের নাম কী?",
+    "chittagong_question": "ছবির এই গানর ধরন দুঃখ আর ধর্মীয় ভাব গেয়ে প্রকাশ করে—গানর নাম কী?",
+    "original_answer": "জারি গান",
+    "chittagong_answer": "জারি গান"
+  },
+  {
+    "image_id": "culture_043",
+    "original_question": "ছবিতে দেখা মেলার নাম কী?",
+    "chittagong_question": "ছবিত দেখা মেলাগো নাম কী?",
+    "original_answer": "মধুমেলা",
+    "chittagong_answer": "মধুমেলা"
+  },
+  {
+    "image_id": "culture_044",
+    "original_question": "ছবির এই নাট্যশিল্পটি গ্রামীণ মঞ্চে পরিবেশিত হয়—শিল্পটির নাম কী?",
+    "chittagong_question": "ছবির এই নাট্যশিল্পগো গাঁয়র মঞ্চত পরিবেশন করা হয়—শিল্পগো নাম কী?",
+    "original_answer": "যাত্রাপালা",
+    "chittagong_answer": "যাত্রা"
+  },
+  {
+    "image_id": "culture_045",
+    "original_question": "ছবির এই উৎসবে চাকমারা ঐতিহ্যবাহী আচার পালন করে—উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে এই উৎসবত চাকমারা পুরানা আচার পালন করে—উৎসবগো নাম কী?",
+    "original_answer": "ঝাপ উৎসব",
+    "chittagong_answer": "ঝাপ উৎসব"
+  },
+  {
+    "image_id": "culture_046",
+    "original_question": "ছবিতে দেখা উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা উৎসবগো নাম কী?",
+    "original_answer": "জন্মাষ্টমী",
+    "chittagong_answer": "জন্মাষ্টমী"
+  },
+  {
+    "image_id": "culture_047",
+    "original_question": "ছবির এই খেলা আন্তর্জাতিকভাবে জনপ্রিয় দৌড়-ট্যাগ খেলা—এর নাম কী?",
+    "chittagong_question": "ছবির এই খেলাগো আন্তর্জাতিকভাবে জনপ্রিয় দৌড়-ট্যাগ খেলা—এগো নাম কী?",
+    "original_answer": "কাবাডি",
+    "chittagong_answer": "কাবাডি"
+  },
+  {
+    "image_id": "culture_048",
+    "original_question": "ছবিতে কোন পূজাটি হচ্ছে?",
+    "chittagong_question": "ছবিত কোন পূজাটা হইতেছে?",
+    "original_answer": "কালীপূজা",
+    "chittagong_answer": "কালীপূজা"
+  },
+  {
+    "image_id": "culture_049",
+    "original_question": "ছবিতে দেখা যাচ্ছে লোহা গলিয়ে তৈজস বানাচ্ছেন কারিগর—এ পেশার নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে লোহা গলিয়ে তৈজস বানাইতাছে কারিগর—এ পেশার নাম কী?",
+    "original_answer": "কামার",
+    "chittagong_answer": "কামার"
+  },
+  {
+    "image_id": "culture_050",
+    "original_question": "ছবিতে দেখা শিশুদের খেলাটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা ছোটগো খেলাগো নাম কী?",
+    "original_answer": "কানা মাচি",
+    "chittagong_answer": "কানা মাছি"
+  },
+  {
+    "image_id": "culture_051",
+    "original_question": "ছবির এই পোশাক একটি সম্প্রদায়ের ঐতিহ্যবাহী পরিধান—এর নাম কী?",
+    "chittagong_question": "ছবির এই পোশাকগো এক গুষ্ঠির পুরানা পরিধান—এগোর নাম কী?",
+    "original_answer": "খাসিয়া পোশাক",
+    "chittagong_answer": "খাসিয়া পোশাক"
+  },
+  {
+    "image_id": "culture_052",
+    "original_question": "ছবিতে দেখা এ কৃষি পদ্ধতির নাম কী?",
+    "chittagong_question": "ছবিত দেখা এ কৃষি পদ্ধতিগো নাম কী?",
+    "original_answer": "জুম চাষ",
+    "chittagong_answer": "জুম চাষ"
+  },
+  {
+    "image_id": "culture_053",
+    "original_question": "ছবিতে খাসিয়াদের পাহাড়ি গ্রামীণ বসতি দেখা যাচ্ছে—একে কী বলা হয়?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে খাসিয়াদের পাহাড়ি গাঁয়র বসতি—এইগো কী বলা হয়?",
+    "original_answer": "খাসিয়া পুঞ্জি",
+    "chittagong_answer": "খাসিয়া পুঞ্জি"
+  },
+  {
+    "image_id": "culture_054",
+    "original_question": "ছবির এ চাষের নাম কী?",
+    "chittagong_question": "ছবির এ চাষর নাম কী?",
+    "original_answer": "পান চাষ",
+    "chittagong_answer": "পান চাষ"
+  },
+  {
+    "image_id": "culture_055",
+    "original_question": "ছবিতে দেখা যাচ্ছে ধর্মীয় ভক্তিমূলক গান গাওয়া হচ্ছে—এ গানের নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে ধর্মীয় ভক্তিমূলক গান গাওয়া অইতাছে—এই গানর নাম কী?",
+    "original_answer": "কীর্তন",
+    "chittagong_answer": "কীর্তন"
+  },
+  {
+    "image_id": "culture_056",
+    "original_question": "ছবির শিল্পটির নাম কী?",
+    "chittagong_question": "ছবির শিল্পগো নাম কী?",
+    "original_answer": "কোমরশিল্প",
+    "chittagong_answer": "কোমরশিল্প"
+  },
+  {
+    "image_id": "culture_057",
+    "original_question": "ছবিতে হাজারো মানুষ গান উৎসবে অংশ নিচ্ছে—এ উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত হাজারো মানষ গান উৎসবত অংশ লিতাছে—এই উৎসবগো নাম কী?",
+    "original_answer": "লালন উৎসব",
+    "chittagong_answer": "লালন পরব"
+  },
+  {
+    "image_id": "culture_058",
+    "original_question": "ছবির এই খেলাটির নাম কী?",
+    "chittagong_question": "ছবির এই খেলাগো নাম কী?",
+    "original_answer": "লাঠিখেলা",
+    "chittagong_answer": "লাঠিখেলা"
+  },
+  {
+    "image_id": "culture_059",
+    "original_question": "ছবির এই ঐতিহ্যবাহী পুরুষদের পোশাকটির নাম কী?",
+    "chittagong_question": "ছবির এই পুরানা পুরুষর পোশাকগো নাম কী?",
+    "original_answer": "লুঙ্গি",
+    "chittagong_answer": "লুঙ্গি"
+  },
+  {
+    "image_id": "culture_060",
+    "original_question": "এই ছবিতে  কি  করছে  মানুষ গুলো?",
+    "chittagong_question": "এই ছবিত কী করতাছে মানুষগুলা?",
+    "original_answer": "মাছ  ধরছে",
+    "chittagong_answer": "মাছ ধরছে"
+  },
+  {
+    "image_id": "culture_061",
+    "original_question": "ছবিতে দেখা যাচ্ছে একটি  জনগোষ্ঠীর ঐতিহ্যবাহী ঘর, এ ঘর কাদের?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে এক গুষ্ঠির পুরানা ঘর, এই ঘর কাদের?",
+    "original_answer": "মারমাদের",
+    "chittagong_answer": "মারমাগো"
+  },
+  {
+    "image_id": "culture_062",
+    "original_question": "এই ছবিতে চাকমা সম্প্রদায়ের মহিলারা যে ঐতিহ্যবাহী পোশাক পরিধান করেন, তার নাম কী?",
+    "chittagong_question": "এই ছবিত চাকমা গুষ্ঠির মহিলারা যে পুরানা পোশাক পিন্দি, তার নাম কী?",
+    "original_answer": "পিনন-হাদি",
+    "chittagong_answer": "পিনন-হাদি"
+  },
+  {
+    "image_id": "culture_063",
+    "original_question": "এই ছবিতে যে খেলাটি দেখা যাচ্ছে—এর নাম কী?",
+    "chittagong_question": "এই ছবিত যে খেলাগো দেখা যাইতেছে—এগো নাম কী?",
+    "original_answer": "মার্ভেল খেলা",
+    "chittagong_answer": "মার্ভেল খেলা"
+  },
+  {
+    "image_id": "culture_064",
+    "original_question": "এই ছবিতে কী দেখানো হয়েছে? ",
+    "chittagong_question": "এই ছবিত কী দেখা যাইতেছে?",
+    "original_answer": "মাটির চুলার রান্না",
+    "chittagong_answer": "মাটির চুলার রান্ধা"
+  },
+  {
+    "image_id": "culture_065",
+    "original_question": "ছবিতে এ প্রাকৃতিক উপাদানটির নাম কী?",
+    "chittagong_question": "ছবিত এ প্রাকৃতিক উপাদানগো নাম কী?",
+    "original_answer": "মধু",
+    "chittagong_answer": "মউ"
+  },
+  {
+    "image_id": "culture_066",
+    "original_question": "ছবিতে কালো পতাকা ও তাজিয়া শোভাযাত্রা দেখা যাচ্ছে—শিয়া মুসলমানদের এই শোক দিবসটির নাম কী?",
+    "chittagong_question": "ছবিত কালা পতাকা আর তাজিয়া শোভাযাত্রা দেখা যাইতেছে—শিয়া মুসলমানর এই শোক দিবসগো নাম কী?",
+    "original_answer": "মহররম",
+    "chittagong_answer": "মহররম"
+  },
+  {
+    "image_id": "culture_067",
+    "original_question": "ছবিতে বাংলার গ্রামীণ এই খেলাটির নাম কী?",
+    "chittagong_question": "ছবিত বাংলার গাঁয়র এই খেলাগোর নাম কী?",
+    "original_answer": "মোরগ লড়াই",
+    "chittagong_answer": "মোরগ লড়াই"
+  },
+  {
+    "image_id": "culture_068",
+    "original_question": "ছবিতে ঢাকার এই বিশ্বখ্যাত শিল্পের নাম কী?",
+    "chittagong_question": "ছবিত ঢাকার এই বিশ্বখ্যাত শিল্পর নাম কী?",
+    "original_answer": "মসলিন",
+    "chittagong_answer": "মসলিন"
+  },
+  {
+    "image_id": "culture_069",
+    "original_question": "ছবিতে মাটির তৈরি কারিগরদের এই শিল্পকর্মটির নাম কী?",
+    "chittagong_question": "ছবিত মাটির তৈয়ার কারিগোরর এই শিল্পকর্মগো নাম কী?",
+    "original_answer": "মৃৎশিল্প",
+    "chittagong_answer": "মৃৎশিল্প"
+  },
+  {
+    "image_id": "culture_070",
+    "original_question": "ছবিতে মারমা জনগোষ্ঠীর এই উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত মারমা গুষ্ঠির এই উৎসবগো নাম কী?",
+    "original_answer": "চাংক্রান",
+    "chittagong_answer": "চাংক্রান"
+  },
+  {
+    "image_id": "culture_071",
+    "original_question": "ছবিতে ম্রু সম্প্রদায়-এই অনুষ্ঠানটির নাম কী?",
+    "chittagong_question": "ছবিত ম্রু গুষ্ঠির এই অনুষ্ঠানগো নাম কী?",
+    "original_answer": "ম্রু নববর্ষ",
+    "chittagong_answer": "ম্রু নববর্ষ"
+  },
+  {
+    "image_id": "culture_072",
+    "original_question": "ছবিতে কৃষকরা নতুন ধান কেটে আনন্দে উৎসব করছে—এ অন্নভোজন উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত কিষাণে নতুন ধান কাটি आनন্দে উৎসব করের—এই অন্নভোজন উৎসবগোর নাম কী?",
+    "original_answer": "নবান্ন",
+    "chittagong_answer": "নবান্ন"
+  },
+  {
+    "image_id": "culture_073",
+    "original_question": "ছবিতে হারমোনিয়াম ও তবলার তালে কবির গান পরিবেশন করা হচ্ছে—এই সংগীত ধারাটির নাম কী?",
+    "chittagong_question": "ছবিত হারমোনিয়াম আর তবলাঁর তালে কবির গান পরিবেশন করতাছে—এই গানর ধারাগো নাম কী?",
+    "original_answer": "নজরুল গীতি",
+    "chittagong_answer": "নজরুল গীতি"
+  },
+  {
+    "image_id": "culture_074",
+    "original_question": "ছবিতে কাপড়ে রঙিন সুতার নকশা দেখা যাচ্ছে—গ্রামীণ মহিলাদের হাতে সেলাই করা এই ঐতিহ্যবাহী শিল্পকর্মটির নাম কী?",
+    "chittagong_question": "ছবিত কাপড়র রংর সুতার নকশা দেখা যাইতেছে—গাঁয়র মহিলর হাতে সেলাই করা এই পুরানা শিল্পকর্মগো নাম কী?",
+    "original_answer": "নকশিকাঁথা",
+    "chittagong_answer": "নকশিকাঁথা"
+  },
+  {
+    "image_id": "culture_075",
+    "original_question": "ছবিতে এই ঐতিহ্যবাহী খেলাটির নাম কী?",
+    "chittagong_question": "ছবিত এই পুরানা খেলাগো নাম কী?",
+    "original_answer": "নৌকা বাইচ",
+    "chittagong_answer": "নৌকা বাইচ"
+  },
+  {
+    "image_id": "culture_076",
+    "original_question": "ছবিতে ড্রাম বাজনার সাথে সারি সারি নৌকা প্রতিযোগিতা করছে—গ্রামীণ বর্ষার এই উৎসবমুখর প্রতিযোগিতার নাম কী?",
+    "chittagong_question": "ছবিত ড্রাম বাজনার লগে সারি সারি নাও দৌড়াইতেছে—গাঁয়র বরষার এই উৎসবমুখর দৌড়র নাম কী?",
+    "original_answer": "নৌকা বাইচ",
+    "chittagong_answer": "নৌকা বাইচ"
+  },
+  {
+    "image_id": "culture_077",
+    "original_question": "ছবিতে গারো সম্প্রদায় নাচগান ও ঐতিহ্যবাহী পোশাকে উৎসব করছে—তাদের এই বিশেষ উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে গারো গুষ্ঠি নাচগান আর পুরানা পোশাকে উৎসব করের—এগো এই বিশেষ উৎসবর নাম কী?",
+    "original_answer": "ওয়াঙ্গালা উৎসব",
+    "chittagong_answer": "ওয়াঙ্গালা পরব"
+  },
+  {
+    "image_id": "culture_078",
+    "original_question": "ছবিতে পাহাড়ি সম্প্রদায় রঙিন পোশাক পরে নববর্ষ উদযাপন করছে—এই উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত পাহাড়ি গুষ্ঠি রংর পোশাক পরিয়া নববর্ষ উদযাপন করিরতাছে—এই উৎসবগো নাম কী?",
+    "original_answer": "পাহাড়িদের বৈশাখ",
+    "chittagong_answer": "পাহাড়িরার বৈশাখ"
+  },
+  {
+    "image_id": "culture_079",
+    "original_question": "ছবিতে বাংলার সবচেয়ে বড় এই লোকউৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত বাংলার সবচেয়ে বড় এই লোকউৎসবগো নাম কী?",
+    "original_answer": "পহেলা বৈশাখ",
+    "chittagong_answer": "পহেলা বৈশাখ"
+  },
+  {
+    "image_id": "culture_080",
+    "original_question": "ছবিতে এটি বাংলার কোন সামাজিক আচার-অনুষ্ঠানে ব্যবহৃত হতো?",
+    "chittagong_question": "ছবিত এগো বাংলার কোন সামাজিক আচার-অনুষ্ঠানে ব্যবহার অইতো?",
+    "original_answer": "বিয়ের পালকি",
+    "chittagong_answer": "বিয়ার পালকি"
+  },
+  {
+    "image_id": "culture_081",
+    "original_question": "ছবিতে কৃষকরা সবুজ পাতার খেত পরিচর্যা করছে—বাংলার একটি বিখ্যাত নগদ ফসল চাষের এই দৃশ্যের নাম কী?",
+    "chittagong_question": "ছবিত কৃষকরা সবুজ পাতা খেত পরিচর্যা করর—বাংলার একখান বিখ্যাত নগদ ফসল চাষর এই দৃশ্যর নাম কী?",
+    "original_answer": "পাট চাষ",
+    "chittagong_answer": "পাট চাষ"
+  },
+  {
+    "image_id": "culture_082",
+    "original_question": "ছবিতে এই শিল্পটির নাম কী?",
+    "chittagong_question": "ছবিত এই শিল্পগো নাম কী?",
+    "original_answer": "পাটশিল্প",
+    "chittagong_answer": "পাটশিল্প"
+  },
+  {
+    "image_id": "culture_083",
+    "original_question": "ছবিতে গ্বাংলার এই শীতকালীন উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত গ্বাংলার এই শীতকালীন উৎসবগো নাম কী?",
+    "original_answer": "পিঠা-পুলি উৎসব",
+    "chittagong_answer": "পিঠা-পুলি উতসব"
+  },
+  {
+    "image_id": "culture_084",
+    "original_question": "ছবিতে দোতারা হাতে গেয়ে শোনা যাচ্ছে গ্রামীণ জীবনের কথা—এটি বাংলার কোন সংগীত ধারার অন্তর্গত?",
+    "chittagong_question": "ছবিত দোতারা হাতে গাইয়ে শুনাইতাছে গাঁয়র জীবনের কথা—এগো বাংলার কোন গানর ধারাওত পড়ি?",
+    "original_answer": "পল্লীগীতি",
+    "chittagong_answer": "পল্লীগীতি"
+  },
+  {
+    "image_id": "culture_085",
+    "original_question": "ছবিতে এটি মকর সংক্রান্তি উপলক্ষে বসা কোন মেলার দৃশ্য?",
+    "chittagong_question": "ছবিত এগোর মকর সংক্রান্তি উপলক্ষে বসা কোন মেলাত দেখা যায়?",
+    "original_answer": "পুষ সংক্রান্তি মেলা",
+    "chittagong_answer": "পুষ সংক্রান্তি মেলা"
+  },
+  {
+    "image_id": "culture_086",
+    "original_question": "ছবিতে গ্রামের পাঠশালায় এই ঐতিহ্যবাহী পাঠপদ্ধতির নাম কী?",
+    "chittagong_question": "ছবিত গাঁয়র পাঠশালাত এই পুরানা পাঠপদ্ধতির নাম কী?",
+    "original_answer": "পুঁথি পাঠ",
+    "chittagong_answer": "পুঁথি পাঠ"
+  },
+  {
+    "image_id": "culture_087",
+    "original_question": "ছবিতে পুতুল নাচ বাংলাদেশে প্রথম কোথায় শুরু হয়েছিল?",
+    "chittagong_question": "ছবিত পুতুল নাচ বাংলাদেশে প্রথম কুথায় শুরু অইছিল?",
+    "original_answer": "ব্রাহ্মণবাড়িয়ার নবীনগরে",
+    "chittagong_answer": "ব্রাহ্মণবাড়িয়ার নবীনগরত"
+  },
+  {
+    "image_id": "culture_088",
+    "original_question": "ছবিতে এই ধর্মীয় উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত এই ধর্মীয় উৎসবগো নাম কী?",
+    "original_answer": "রাখি পূর্ণিমা",
+    "chittagong_answer": "রাখি পূর্ণিমা"
+  },
+  {
+    "image_id": "culture_089",
+    "original_question": "ছবিতে সমুদ্রসৈকতে হাজারো মানুষের ভিড় ও ভক্তরা পূজা দিচ্ছে—বাংলার এই উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে সমুদ্রসৈকতত হাজারো মানষর ভিড় আর ভক্তরা পূজা দেছে—বাংলার এই উৎসবগো নাম কী?",
+    "original_answer": "রাস মেলা",
+    "chittagong_answer": "রাস মেলা"
+  },
+  {
+    "image_id": "culture_090",
+    "original_question": "ছবিতে এই ঐতিহ্যবাহী ধর্মীয় উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত এই পুরানা ধর্মীয় উৎসবগো নাম কী?",
+    "original_answer": "রথযাত্রা",
+    "chittagong_answer": "রথযাত্রা"
+  },
+  {
+    "image_id": "culture_091",
+    "original_question": "ছবিতে বাংলার ঐতিহ্যবাহী এই বাহনের নাম কী?",
+    "chittagong_question": "ছবিত বাংলার পুরানা এই বাহনগো নাম কী?",
+    "original_answer": "রিকশা",
+    "chittagong_answer": "রিকশা"
+  },
+  {
+    "image_id": "culture_092",
+    "original_question": "ছবিতে মানুষ কবিগুরুকে স্মরণ করে গান গাইছে ও মেলা বসেছে—এই উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত মানুষ কবিগুরুরে স্মরণ করি গান গাইছে আর মেলা বইছে—এই উৎসবগো নাম কী?",
+    "original_answer": "রবীন্দ্র মেলা",
+    "chittagong_answer": "রবীন্দ্র মেলা"
+  },
+  {
+    "image_id": "culture_093",
+    "original_question": "ছবিতে শীতের শেষ দিনে ঢাকা শহরের পালিত এই উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত শীতর শেষ দিনর ঢাকা শহরর পালিত এই উৎসবগো নাম কী?",
+    "original_answer": "সাকরাইন",
+    "chittagong_answer": "সাকরাইন"
+  },
+  {
+    "image_id": "culture_094",
+    "original_question": "ছবিতে সাঁওতাল তরুণরা বড় ঢোল বাজাচ্ছে—তাদের ঐতিহ্যবাহী বাদ্যযন্ত্র বাজানোর এই দৃশ্যটির নাম কী?",
+    "chittagong_question": "ছবিত সাঁওতাল তরুয়ারা বড় ঢোল বাজাইতেছে—এগো পুরানা বাদ্যযন্ত্র বাজানোর এই দৃশ্যগো নাম কী?",
+    "original_answer": "সাঁওতাল ঢোল",
+    "chittagong_answer": "সাঁওতাল ঢোল"
+  },
+  {
+    "image_id": "culture_095",
+    "original_question": "ছবিতে যুবক-যুবতীরা হাত ধরে দল বেঁধে নাচছে—তাদের এই লোকনৃত্যের নাম কী?",
+    "chittagong_question": "ছবিত যুবক-যুবতীরা হাত ধরি দল বান্ধি নাচতাছে—ওইন লোকনৃত্যর নাম কী?",
+    "original_answer": "দং নাচ",
+    "chittagong_answer": "দং নাচ"
+  },
+  {
+    "image_id": "culture_096",
+    "original_question": "ছবিতে দলবদ্ধ হয়ে গাওয়া হচ্ছে বাংলার লোকগীতি—বিশেষত নারীরা পালা করে যে গান গায় তার নাম কী?",
+    "chittagong_question": "ছবিত দলবদ্ধ অইয়ার গাওয়া অইতাছে বাংলার লোকগীতি—বিশেষ করি মহিলারা পালা করি যে গান গায় তার নাম কী?",
+    "original_answer": "সারি গান",
+    "chittagong_answer": "সারি গান"
+  },
+  {
+    "image_id": "culture_097",
+    "original_question": "ছবিতে খাসিয়া জনগোষ্ঠীকে বছরের শেষ দিনে বিশেষ আচার-অনুষ্ঠান করতে দেখা যাচ্ছে—এ উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে খাসিয়া গুষ্ঠিক বছরের শেষ দিনত বিশেষ আচার-অনুষ্ঠান করের—এ উৎসবগো নাম কী?",
+    "original_answer": "সেং কুটসেম",
+    "chittagong_answer": "সেং কুটসেম"
+  },
+  {
+    "image_id": "culture_098",
+    "original_question": "ছবিতে মানুষ লাল-সবুজ পতাকা হাতে শহীদদের স্মরণ করছে—বাংলাদেশের জাতীয় দিবসটির নাম কী?",
+    "chittagong_question": "ছবিত মানুষ লাল-সবুজ পতাকা হাতে শহীদগো স্মরণ করের—বাংলাদেশর জাতীয় দিবসগো নাম কী?",
+    "original_answer": "স্বাধীনতা দিবস",
+    "chittagong_answer": "আজাদী দিন"
+  },
+  {
+    "image_id": "culture_099",
+    "original_question": "ছবিতে মারমা জনগোষ্ঠী তাদের নববর্ষের এই উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত মারমা গুষ্ঠি তারার নববর্ষর এই উৎসবগো নাম কী?",
+    "original_answer": "সংগ্রাই উৎসব",
+    "chittagong_answer": "সংগ্রাই পরব"
+  },
+  {
+    "image_id": "culture_100",
+    "original_question": "ছবিতে দুর্গা পূজার সময় শরৎকালের পূজা-অর্চনা চলছে—এই পূজার নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে দুর্গা পূজার সময় শরতর পূজা-অর্চনা চলিছে—এই পূজার নাম কী?",
+    "original_answer": "শারদ উৎসব",
+    "chittagong_answer": "শারদ পরব"
+  },
+  {
+    "image_id": "culture_101",
+    "original_question": "ছবিতে শিক্ষার্থীরা হাতে বই আর ফুল নিয়ে পূজা করছে—বিদ্যা ও জ্ঞানের দেবীর পূজাটির নাম কী?",
+    "chittagong_question": "ছবিত ছাত্রগো হাতে বই আর ফুল নিয়া পূজা করতাছে—বিদ্যা আর জ্ঞানের দেবীগো পূজাটার নাম কী?",
+    "original_answer": "সরস্বতী পূজা",
+    "chittagong_answer": "সরস্বতী পূজা"
+  },
+  {
+    "image_id": "culture_102",
+    "original_question": "ছবিতে মুসলমানরা রাতে নামাজ ও দোয়া করছে—এই ধর্মীয় রাতটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে মুসলমানরা রাইতত নামাজ আর দোয়া করের—এই ধর্মীয় রাইতগো নাম কী?",
+    "original_answer": "শবে বরাত",
+    "chittagong_answer": "শবে বরাত"
+  },
+  {
+    "image_id": "culture_103",
+    "original_question": "ছবিতে গরু সাজিয়ে মাঠে আনা হয়েছে—গ্রামীণ পশুপালকদের উৎসবটির নাম কী?",
+    "chittagong_question": "ছবিত গরু সাজাইয়া মাঠে আনা অইছে—গাঁয়র পশুপালকরর উৎসবগো নাম কী?",
+    "original_answer": "সোহরাই উৎসব",
+    "chittagong_answer": "সোহরাই পরব"
+  },
+  {
+    "image_id": "culture_104",
+    "original_question": "ছবিতে গারো তরুণীরা দলবদ্ধভাবে নাচছে—তাদের ঐতিহ্যবাহী নৃত্যটির নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে গারো তরুনিগো দলবদ্ধভাবে নাচতাছে—তারার পুরানা নাচগো নাম কী?",
+    "original_answer": "সোইং নাচ",
+    "chittagong_answer": "সোইং নাচ"
+  },
+  {
+    "image_id": "culture_105",
+    "original_question": "ছবিতে সোনারগাঁওয়ে হস্তশিল্প ও লোকশিল্পের প্রদর্শনী দেখা যাচ্ছে—মেলাটির নাম কী?",
+    "chittagong_question": "ছবিত সোনারগাঁওয়ে হস্তশিল্প আর লোকশিল্পর প্রদর্শনী দেখা যাইতেছে—মেলাগো নাম কী?",
+    "original_answer": "কারুশিল্প মেলা",
+    "chittagong_answer": "কারুশিল্প মেলা"
+  },
+  {
+    "image_id": "culture_106",
+    "original_question": "ছবিতে তাঁতে সুতো বুনে কাপড় তৈরি হচ্ছে—এই শিল্পটির নাম কী?",
+    "chittagong_question": "ছবিত তাঁতে সুতা বুনি কাপড় বানাইতাছে—এই শিল্পগো নাম কী?",
+    "original_answer": "তাঁতশিল্প",
+    "chittagong_answer": "তাঁতশিল্প"
+  },
+  {
+    "image_id": "culture_107",
+    "original_question": "ছবিতে মাটির তৈরি অলঙ্করণ ও স্থাপত্যশিল্প দেখা যাচ্ছে—এটি কোন শিল্পধারা?",
+    "chittagong_question": "ছবিত মাটির তৈরি সাজসজ্জা আর স্থাপত্য দেখা যাইতেছে—এগো কোন শিল্পধারা?",
+    "original_answer": "টেরাকোটা",
+    "chittagong_answer": "টেরাকোটা"
+  },
+  {
+    "image_id": "culture_108",
+    "original_question": "ছবিতে ত্রিপুরা সম্প্রদায়ের তরুণীরা ঐতিহ্যবাহী পোশাকে নাচছে—এই নৃত্যের নাম কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে ত্রিপুরা গুষ্ঠির তরুনিরা পুরানা পোশাকে নাচতাছে—এই নাচোর নাম কী?",
+    "original_answer": "ত্রিপুরা নাচ",
+    "chittagong_answer": "ত্রিপুরা নাচ"
+  },
+  {
+    "image_id": "culture_109",
+    "original_question": "ছবিতে দেখা যাচ্ছে উত্তরবঙ্গের মানুষ গ্রামীণ জীবনের দুঃখ-কষ্ট ও সুরেলা ভাটিয়ালি সুরে গান গাইছে—গানটির ধরণ কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে উত্তরবঙ্গের মানষ গ্রামীণ জীবনর দুঃখ-কষ্ট আর সুরেলা ভাটিয়ালি সুরে গান গাইতাছে—গানগো ধরণ কী?",
+    "original_answer": "ভাওয়াইয়া",
+    "chittagong_answer": "ভাওয়াইয়া"
+  },
+  {
+    "image_id": "culture_110",
+    "original_question": "ছবিতে মাঝি নৌকা বাইতে বাইতে নদীর স্রোতের সাথে গান গাইছে—এই লোকগানের নাম কী?",
+    "chittagong_question": "ছবিত মাঝি নাও বাইতে বাইতে নদীর সোঁতের লগে গান গাইছে—এই লোকগানর নাম কী?",
+    "original_answer": "ভাটিয়ালি",
+    "chittagong_answer": "ভাটিয়ালি"
+  },
+  {
+    "image_id": "culture_111",
+    "original_question": "ছবিতে গ্রামীণ এলাকায় বসা ঐতিহ্যবাহী মেলায় লোকসমাগম দেখা যাচ্ছে—এ মেলার নাম কী?",
+    "chittagong_question": "ছবিত গাঁয়র এলাকাত বসা পুরানা মেলাত লোকসমাগম দেখা যাইতেছে—এই মেলাগো নাম কী?",
+    "original_answer": "পোড়াদহ মেলা",
+    "chittagong_answer": "পোড়াদহ মেলা"
+  },
+  {
+    "image_id": "culture_112",
+    "original_question": "ছবিতে ভক্তরা নদীতে স্নান করে পূজা করছে এবং আশপাশে মেলার ভিড়—এই ধর্মীয় মেলার নাম কী?",
+    "chittagong_question": "ছবিত ভক্তরা নদীগোত স্নান করি পূজা করের আর আশপাশে মেলা ভিড়—এই ধর্মীয় মেলাগো নাম কী?",
+    "original_answer": "বারুণী মেলা",
+    "chittagong_answer": "বারুণী মেলা"
+  },
+  {
+    "image_id": "culture_113",
+    "original_question": "ছবিতে দেখা সরঞ্জামটি মাছ ধরার জন্য শতাব্দীর পর শতাব্দী ধরে ব্যবহৃত হচ্ছে—এর নাম কী?",
+    "chittagong_question": "ছবিত দেখা সরঞ্জামগো মাছ ধরির লাগি শতিকার পর শতিকা ধরি ব্যবহার অইতাছে—এগোর নাম কী?",
+    "original_answer": "বড়শি",
+    "chittagong_answer": "বড়শি"
+  },
+  {
+    "image_id": "culture_114",
+    "original_question": "ছবিতে কৃষক কোন ঐতিহ্যবাহী পদ্ধতিতে জমি চাষ করছেন?",
+    "chittagong_question": "ছবিত কিষান কোন পুরানা তরীকাত জমিন চাষ কররর?",
+    "original_answer": "গরুর হাল চাষ",
+    "chittagong_answer": "গরুর হাল চাষ"
+  }
+]

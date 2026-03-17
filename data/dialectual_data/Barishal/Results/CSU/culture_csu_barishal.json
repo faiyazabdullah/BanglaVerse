@@ -1,0 +1,800 @@
+[
+  {
+    "image_id": "culture_001",
+    "original_question": "ছবিতে দেখা যাচ্ছে সাঁওতাল সম্প্রদায়ের বসন্তকালীন ফুলের উৎসব—এটির নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে সাঁওতাল পাড়ার বসন্তকালীন ফুলের উতসব—এইটার নাম কী?",
+    "original_answer": "বাহা পরব",
+    "barishal_answer": "বাহা পরব"
+  },
+  {
+    "image_id": "culture_002",
+    "original_question": "ছবির এই বাঁশের তৈরি ঐতিহ্যবাহী বাদ্যযন্ত্রটির নাম কী?",
+    "barishal_question": "ছবির এই বাঁশের পুরান বাদ্যযন্ত্রখানর নাম কী?",
+    "original_answer": "বাশি",
+    "barishal_answer": "বাশি"
+  },
+  {
+    "image_id": "culture_003",
+    "original_question": "ছবির এই লোকশিল্পীরা একতারার সুরে যে গান পরিবেশন করছেন, সেটির নাম কী?",
+    "barishal_question": "ছবির এই লোকশিল্পীরা একতারার সুরে যে গান গাইতাছে, সেইটার নাম কী?",
+    "original_answer": "বাউল গান",
+    "barishal_answer": "বাউল গান"
+  },
+  {
+    "image_id": "culture_004",
+    "original_question": "ছবির এই উৎসবে অসংখ্য মানুষ শিল্পীদের গান শুনতে জড়ো হয়েছে—উৎসবটির নাম কী?",
+    "barishal_question": "ছবির এই উতসবে অনেক মানুষ শিল্পীর গান শুননের লাইগা জড়ো অইছে—উতসবটার নাম কী?",
+    "original_answer": "বাউল মেলা",
+    "barishal_answer": "বাউল মেলা"
+  },
+  {
+    "image_id": "culture_005",
+    "original_question": "ছবিতে দেখা যাচ্ছে প্রাচীন বিনোদনের যন্ত্র—এর নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে পুরান বিনোদনের যন্ত্র—এইডার নাম কী?",
+    "original_answer": "বায়োস্কোপ",
+    "barishal_answer": "বায়োস্কোপ"
+  },
+  {
+    "image_id": "culture_006",
+    "original_question": "ছবির এই দিনে বিসর্জনের আচার পালিত হয়—দিনটির নাম কী?",
+    "barishal_question": "ছবির এই দিনে বিসর্জনের আচার পালিত হয়—দিনটার নাম কী?",
+    "original_answer": "বিজয়া দশমী",
+    "barishal_answer": "বিজয়া দশমী"
+  },
+  {
+    "image_id": "culture_007",
+    "original_question": "ছবির এই দিনে মানুষ পতাকা নিয়ে মুক্তিযুদ্ধের গৌরব স্মরণ করে—এ দিনটি কী?",
+    "barishal_question": "ছবির এই দিনে মানুষ পতাকা লইয়া মুক্তিযুদ্ধের গৌরব স্মরণ করে—এই দিনখান কী?",
+    "original_answer": "বিজয় দিবস",
+    "barishal_answer": "বিজয় দিবস"
+  },
+  {
+    "image_id": "culture_008",
+    "original_question": "ছবিতে উপজাতিরা পালন করা ঐতিহ্যবাহী উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে উপজাতিরা পালন করা পুরান উতসবটার নাম কী?",
+    "original_answer": "বিজু উৎসব",
+    "barishal_answer": "বিজু পরব"
+  },
+  {
+    "image_id": "culture_009",
+    "original_question": "ছবির এই মহাসমাবেশে লাখো মুসল্লি ধর্মীয় আলোচনায় অংশ নিচ্ছে—সমাবেশটির নাম কী?",
+    "barishal_question": "ছবির এই মহাসমাবেশে লাখো মুসল্লি ধর্মীয় আলোচনায় অংশ নিতাছে—সমাবেশখান নাম কী?",
+    "original_answer": "বিশ্ব ইজতেমা",
+    "barishal_answer": "বিশ্ব ইজতেমা"
+  },
+  {
+    "image_id": "culture_010",
+    "original_question": "ছবির এই সামাজিক আচারটি বাঙালির জীবনের গুরুত্বপূর্ণ পর্ব—এটি কী?",
+    "barishal_question": "ছবির এই সামাজিক আচারখান বাঙালির জীবনের গুরুত্বপূর্ণ পর্ব—এইটা কী?",
+    "original_answer": "বিয়ে",
+    "barishal_answer": "বিয়া"
+  },
+  {
+    "image_id": "culture_011",
+    "original_question": "ছবির এই উৎসবটি পার্বত্য অঞ্চলে নববর্ষে উদযাপন করে—নাম কী?",
+    "barishal_question": "ছবির এই উৎসবটি পার্বত্য অঞ্চলে নববর্ষে উদযাপন করে—নাম কী?",
+    "original_answer": "বৈসাবি",
+    "barishal_answer": "বৈসাবি"
+  },
+  {
+    "image_id": "culture_012",
+    "original_question": "ছবিতে দেখা যাচ্ছে ঐতিহ্যবাহী শক্তির খেলা—এর নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে পুরান শক্তির খেলা—এইডার নাম কী?",
+    "original_answer": "বলি খেলা",
+    "barishal_answer": "বলি খেলা"
+  },
+  {
+    "image_id": "culture_013",
+    "original_question": "ছবির এই দিনটির নাম কী?",
+    "barishal_question": "ছবির এই দিনটির নাম কী?",
+    "original_answer": "বুদ্ধ পূর্ণিমা",
+    "barishal_answer": "বুদ্ধ পূর্ণিমা"
+  },
+  {
+    "image_id": "culture_014",
+    "original_question": "ছবির এই রাতে মানুষ আনন্দে উৎসবের প্রস্তুতি নেয়—রাতটির নাম কী?",
+    "barishal_question": "ছবির এই রাতে মানুষ আনন্দে উতসবের প্রস্তুতি নেয়—এই রাতটার নাম কী?",
+    "original_answer": "চাঁদ রাত",
+    "barishal_answer": "চাঁদ রাত"
+  },
+  {
+    "image_id": "culture_015",
+    "original_question": "ছবিতে দেখা যাচ্ছে ঐতিহ্যবাহী হাতের কাজ—এ শিল্পটির নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে পুরান হাতের কাজ—এই শিল্পখানর নাম কী?",
+    "original_answer": "চাকমা হস্তশিল্প",
+    "barishal_answer": "চাকমা হস্তশিল্প"
+  },
+  {
+    "image_id": "culture_016",
+    "original_question": "ছবির এই দলটি পাহাড়ি অঞ্চলের ঐতিহ্যবাহী গান পরিবেশন করছে—এ গানের নাম কী?",
+    "barishal_question": "ছবির এই দলখান পাহাড়ি এলাকার পুরান গান গাইতেছে—এই গানের নাম কী?",
+    "original_answer": "চাকমা লোকগান",
+    "barishal_answer": "চাকমা লোকগান"
+  },
+  {
+    "image_id": "culture_017",
+    "original_question": "ছবিতে দেখা যাচ্ছে কিশোরীরা ঐতিহ্যবাহী পোশাকে সজ্জিত—এদের পোশাকের ধরন কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে পুলাওয়েরা পুরান পোশাকে সাজ্জা—এগো পোশাকের ধরন কী?",
+    "original_answer": "চাকমা পোশাক",
+    "barishal_answer": "চাকমা পোশাক"
+  },
+  {
+    "image_id": "culture_018",
+    "original_question": "ছবির এই উৎসবটি বর্ষবিদায় উপলক্ষে উদযাপিত হয়—উৎসবটির নাম কী?",
+    "barishal_question": "ছবির এই উতসবখান বর্ষবিদায় উপলক্ষে উতসব হয়—এইটার নাম কী?",
+    "original_answer": "চৈত্র সংক্রান্তি",
+    "barishal_answer": "চৈতর সংক্রান্তি"
+  },
+  {
+    "image_id": "culture_019",
+    "original_question": "ছবির খেলাটির নাম কী?",
+    "barishal_question": "ছবির খেলাখানের নাম কী?",
+    "original_answer": "দাড়িয়াবান্ধা",
+    "barishal_answer": "দাড়িয়াবান্ধা"
+  },
+  {
+    "image_id": "culture_020",
+    "original_question": "ছবির এই মেলাটির নাম কী?",
+    "barishal_question": "ছবির এই মেলাখান নাম কী?",
+    "original_answer": "ধামরাই রথের মেলা",
+    "barishal_answer": "ধামরাই রথের মেলা"
+  },
+  {
+    "image_id": "culture_021",
+    "original_question": "ছবিতে এ কাজটির নাম কী?",
+    "barishal_question": "ছবিতে এই কাজটার নাম কী?",
+    "original_answer": "ধান চাষ",
+    "barishal_answer": "ধান চাষ"
+  },
+  {
+    "image_id": "culture_022",
+    "original_question": "ছবির এই উৎসবে আনন্দে নাচ-গান হয়—এটির নাম কী?",
+    "barishal_question": "ছবির এই উতসবে আনন্দে নাচ-গান হয়—এইটার নাম কী?",
+    "original_answer": "নবান্ন উৎসবে",
+    "barishal_answer": "নবান্ন উৎসবে"
+  },
+  {
+    "image_id": "culture_023",
+    "original_question": "ছবিতে দেখা যাচ্ছে দলবদ্ধভাবে নাচ হচ্ছে—নাচটির নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে দলবদ্ধভাবে নাচ হইতাছে—নাচখানর নাম কী?",
+    "original_answer": "ঢোল নাচ",
+    "barishal_answer": "ঢোল নাচ"
+  },
+  {
+    "image_id": "culture_024",
+    "original_question": "ছবির এ উৎসবটির নাম কী?",
+    "barishal_question": "ছবির এই উতসবখানর নাম কী?",
+    "original_answer": "দোল পূর্ণিমা",
+    "barishal_answer": "দোল পূর্ণিমা"
+  },
+  {
+    "image_id": "culture_025",
+    "original_question": "ছবিতে দেখা যাচ্ছে ঐতিহ্যবাহী নৃত্য—এই নাচটির নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাচ্ছে ঐতিহ্যবাহী নৃত্য—এই নাচটির নাম কী?",
+    "original_answer": "ড্রাম নাচ",
+    "barishal_answer": "ড্রাম নাচ"
+  },
+  {
+    "image_id": "culture_026",
+    "original_question": "ছবির এই পূজায় দেবীর আরাধনা করা হয়—উৎসবটির নাম কী?",
+    "barishal_question": "ছবির এই পূজায় দেবীর আরাধনা করা হয়—এই উতসবখানর নাম কী?",
+    "original_answer": "দুর্গাপূজা",
+    "barishal_answer": "দুর্গাপূজা"
+  },
+  {
+    "image_id": "culture_027",
+    "original_question": "ছবিতে এ ধর্মীয় উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে এ ধর্মীয় উৎসবটির নাম কী?",
+    "original_answer": "ঈদুল আজহা",
+    "barishal_answer": "ঈদুল আজহা"
+  },
+  {
+    "image_id": "culture_028",
+    "original_question": "ছবির এই দিনে মুসলমানরা নামাজ পড়ে ও আনন্দ করে—দিনটির নাম কী?",
+    "barishal_question": "ছবির এই দিনে মুসলমানরা নামাজ পড়ে ও আনন্দ করে—দিনটার নাম কী?",
+    "original_answer": "ঈদুল ফিতর",
+    "barishal_answer": "ঈদুল ফিতর"
+  },
+  {
+    "image_id": "culture_029",
+    "original_question": "ছবিতে মানুষ ফুল দিয়ে শ্রদ্ধা জানাচ্ছে—দিনটি কী?",
+    "barishal_question": "ছবিতে মানুষ ফুল দিয়া শ্রদ্ধা জানাইতেছে—দিনটা কী?",
+    "original_answer": "একুশে ফেব্রুয়ারি",
+    "barishal_answer": "একুশে ফেব্রুয়ারি"
+  },
+  {
+    "image_id": "culture_030",
+    "original_question": "ছবির এই লোকসংগীতটি বিশেষত ঢোলের তালে গাওয়া হয়—গানের ধরনটি কী?",
+    "barishal_question": "ছবির এই লোকসংগীতখান বিশেষত ঢোলের তালে গাওয়া হয়—গানের ধরনখান কী?",
+    "original_answer": "গাজীর গান",
+    "barishal_answer": "গাজীর গান"
+  },
+  {
+    "image_id": "culture_031",
+    "original_question": "ছবিতে দেখা যাচ্ছে গারোদের ঐতিহ্যবাহী কুঁড়েঘর—এ বাসার নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে গারোদের পুরান কুঁড়েঘর—এই বাসার নাম কী?",
+    "original_answer": "গারো ঘর",
+    "barishal_answer": "গারো ঘর"
+  },
+  {
+    "image_id": "culture_032",
+    "original_question": "ছবির এই পোশাক গারো সম্প্রদায়ের ঐতিহ্যের অংশ—পোশাকটির নাম কী?",
+    "barishal_question": "ছবির এই পোশাকখান গারো পাড়ার পুরান জিনিস—পোশাকটান নাম কী?",
+    "original_answer": "গারো পোশাক",
+    "barishal_answer": "গারো পোশাক"
+  },
+  {
+    "image_id": "culture_033",
+    "original_question": "ছবির এই আচারটি বিয়ের প্রধান আনুষ্ঠানিকতা—এর নাম কী?",
+    "barishal_question": "ছবির এই আচারখান বিয়ার প্রধান উতসব—এইটার নাম কী?",
+    "original_answer": "গায়ে হলুদ",
+    "barishal_answer": "গায়ে হলুদ"
+  },
+  {
+    "image_id": "culture_034",
+    "original_question": "ছবির এই মেলাটি গাজীপুরে অনুষ্ঠিত হয়—মেলার নাম কী?",
+    "barishal_question": "ছবির এই মেলাখান গাজীপুরে হয়—মেলার নাম কী?",
+    "original_answer": "চৈতাইল মেলা",
+    "barishal_answer": "চৈতা মেলা"
+  },
+  {
+    "image_id": "culture_035",
+    "original_question": "ছবির এই মেলার নাম কী?",
+    "barishal_question": "ছবির এই মেলার নাম কী?",
+    "original_answer": "জামাই মেলা",
+    "barishal_answer": "জামাই মেলা"
+  },
+  {
+    "image_id": "culture_036",
+    "original_question": "ছবিতে শিশুরা দৌড়ে খেলা করছে—খেলাটির নাম কী?",
+    "barishal_question": "ছবিতে পোলাপাইন দৌড়াইয়া খেলতাছে—খেলথানের নাম কী?",
+    "original_answer": "গোল্লাছুট",
+    "barishal_answer": "গোল্লাছুট"
+  },
+  {
+    "image_id": "culture_037",
+    "original_question": "ছবিতে দেখা গ্রামীণ বাহন—এর নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে গামের বাহন—এইটার নাম কী?",
+    "original_answer": "গরুর গাড়ি",
+    "barishal_answer": "গরুর গাড়ি"
+  },
+  {
+    "image_id": "culture_038",
+    "original_question": "ছবির এই মেলায় গ্রামীণ খেলাধুলা ও পণ্যের সমাহার দেখা যায়—এটি কী?",
+    "barishal_question": "ছবির এই মেলায় গামের খেলাধুলা আর জিনিসপত্রের সমাহার দেখা যায়—এইটা কী?",
+    "original_answer": "গ্রামীণ মেলা",
+    "barishal_answer": "গ্রামীণ মেলা"
+  },
+  {
+    "image_id": "culture_039",
+    "original_question": "ছবিতে তরুণরা দলে দলে ধাওয়া করে খেলছে—খেলাটির নাম কী?",
+    "barishal_question": "ছবিতে তরুণরা দলে দলে ধাওয়া করে খেলছে—খেলাটির নাম কী?",
+    "original_answer": "হাডুডু",
+    "barishal_answer": "হাডুডু"
+  },
+  {
+    "image_id": "culture_040",
+    "original_question": "ছবিতে দেখা যাচ্ছে আলো দেওয়ার ঐতিহ্যবাহী যন্ত্রটি—এর নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাচ্ছে আলো দেওয়ার ঐতিহ্যবাহী যন্ত্রটি—এর নাম কী?",
+    "original_answer": "হারিকেন",
+    "barishal_answer": "হারিকেন"
+  },
+  {
+    "image_id": "culture_041",
+    "original_question": "ছবির এই বস্ত্র ঐতিহ্যবাহী হস্তশিল্প—এটির নাম কী?",
+    "barishal_question": "ছবির এই কাপড়খান পুরান হস্তশিল্প—এইটার নাম কী?",
+    "original_answer": "জামদানি",
+    "barishal_answer": "জামদানি"
+  },
+  {
+    "image_id": "culture_042",
+    "original_question": "ছবির এই গানের ধরনটি দুঃখ ও ধর্মীয় ভাব গেয়ে প্রকাশ করে—গানের নাম কী?",
+    "barishal_question": "ছবির এই গানের ধরণখান দুক্খ আর ধর্মীয় ভাব গাইয়া প্রকাশ করে—গানের নাম কী?",
+    "original_answer": "জারি গান",
+    "barishal_answer": "জারি গান"
+  },
+  {
+    "image_id": "culture_043",
+    "original_question": "ছবিতে দেখা মেলার নাম কী?",
+    "barishal_question": "ছবিতে দেখা মেলাখান নাম কী?",
+    "original_answer": "মধুমেলা",
+    "barishal_answer": "মধুমেলা"
+  },
+  {
+    "image_id": "culture_044",
+    "original_question": "ছবির এই নাট্যশিল্পটি গ্রামীণ মঞ্চে পরিবেশিত হয়—শিল্পটির নাম কী?",
+    "barishal_question": "ছবির এই নাট্যশিল্পখান গামের মঞ্চে কইর্যা পরিবেশন করা হয়—শিল্পিটর নাম কী?",
+    "original_answer": "যাত্রাপালা",
+    "barishal_answer": "যাত্রাপালা"
+  },
+  {
+    "image_id": "culture_045",
+    "original_question": "ছবির এই উৎসবে চাকমারা ঐতিহ্যবাহী আচার পালন করে—উৎসবটির নাম কী?",
+    "barishal_question": "ছবির এই উতসবে চাকমারা পুরান আচার পালন করে—উতসবখানর নাম কী?",
+    "original_answer": "ঝাপ উৎসব",
+    "barishal_answer": "ঝাপ পরব"
+  },
+  {
+    "image_id": "culture_046",
+    "original_question": "ছবিতে দেখা উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে দেখা উতসবটার নাম কী?",
+    "original_answer": "জন্মাষ্টমী",
+    "barishal_answer": "জন্মাষ্টমী"
+  },
+  {
+    "image_id": "culture_047",
+    "original_question": "ছবির এই খেলা আন্তর্জাতিকভাবে জনপ্রিয় দৌড়-ট্যাগ খেলা—এর নাম কী?",
+    "barishal_question": "ছবির এই খেলা আন্তর্জাতিকভাবে জনপ্রিয় দৌড়-ট্যাগ খেলা—এইটার নাম কী?",
+    "original_answer": "কাবাডি",
+    "barishal_answer": "কাবাডি"
+  },
+  {
+    "image_id": "culture_048",
+    "original_question": "ছবিতে কোন পূজাটি হচ্ছে?",
+    "barishal_question": "ছবিতে কোন পুজাখান হইতাছে?",
+    "original_answer": "কালীপূজা",
+    "barishal_answer": "কালীপূজা"
+  },
+  {
+    "image_id": "culture_049",
+    "original_question": "ছবিতে দেখা যাচ্ছে লোহা গলিয়ে তৈজস বানাচ্ছেন কারিগর—এ পেশার নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে লোহা গলইয়া তৈজস বানাইতাছে কারিগর—এই পেশার নাম কী?",
+    "original_answer": "কামার",
+    "barishal_answer": "কামার"
+  },
+  {
+    "image_id": "culture_050",
+    "original_question": "ছবিতে দেখা শিশুদের খেলাটির নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে পোলাপানের খেলাখানর নাম কী?",
+    "original_answer": "কানা মাচি",
+    "barishal_answer": "কানা মাছি"
+  },
+  {
+    "image_id": "culture_051",
+    "original_question": "ছবির এই পোশাক একটি সম্প্রদায়ের ঐতিহ্যবাহী পরিধান—এর নাম কী?",
+    "barishal_question": "ছবির এই পোশাকখান এক পাড়ার পুরান গেরদান—এইটার নাম কী?",
+    "original_answer": "খাসিয়া পোশাক",
+    "barishal_answer": "খাসিয়া পোশাক"
+  },
+  {
+    "image_id": "culture_052",
+    "original_question": "ছবিতে দেখা এ কৃষি পদ্ধতির নাম কী?",
+    "barishal_question": "ছবিতে দেখা এই কৃষি পদ্ধতির নাম কী?",
+    "original_answer": "জুম চাষ",
+    "barishal_answer": "জুম চাষ"
+  },
+  {
+    "image_id": "culture_053",
+    "original_question": "ছবিতে খাসিয়াদের পাহাড়ি গ্রামীণ বসতি দেখা যাচ্ছে—একে কী বলা হয়?",
+    "barishal_question": "ছবিতে খাসিয়াদের পাহাড়ি গামের বসতি দেখা যাইতাছে—এইটারে কী কয়?",
+    "original_answer": "খাসিয়া পুঞ্জি",
+    "barishal_answer": "খাসিয়া পুঞ্জি"
+  },
+  {
+    "image_id": "culture_054",
+    "original_question": "ছবির এ চাষের নাম কী?",
+    "barishal_question": "ছবির এ চাষের নাম কী?",
+    "original_answer": "পান চাষ",
+    "barishal_answer": "পান চাষ"
+  },
+  {
+    "image_id": "culture_055",
+    "original_question": "ছবিতে দেখা যাচ্ছে ধর্মীয় ভক্তিমূলক গান গাওয়া হচ্ছে—এ গানের নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে ধর্মীয় ভক্তিমূলক গান গাওয়া হইতাছে—এই গানের নাম কী?",
+    "original_answer": "কীর্তন",
+    "barishal_answer": "কীর্তন"
+  },
+  {
+    "image_id": "culture_056",
+    "original_question": "ছবির শিল্পটির নাম কী?",
+    "barishal_question": "ছবির শিল্পখান নাম কী?",
+    "original_answer": "কোমরশিল্প",
+    "barishal_answer": "কোমরশিল্প"
+  },
+  {
+    "image_id": "culture_057",
+    "original_question": "ছবিতে হাজারো মানুষ গান উৎসবে অংশ নিচ্ছে—এ উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে হাজারো মানুষ গান উতসবে অংশ নিতাছে—এই উতসবটার নাম কী?",
+    "original_answer": "লালন উৎসব",
+    "barishal_answer": "লালন পরব"
+  },
+  {
+    "image_id": "culture_058",
+    "original_question": "ছবির এই খেলাটির নাম কী?",
+    "barishal_question": "ছবির এই খেলাখান নাম কী?",
+    "original_answer": "লাঠিখেলা",
+    "barishal_answer": "লাঠিখেলা"
+  },
+  {
+    "image_id": "culture_059",
+    "original_question": "ছবির এই ঐতিহ্যবাহী পুরুষদের পোশাকটির নাম কী?",
+    "barishal_question": "ছবির এই পুরান পুরুষদের পোশাকখানর নাম কী?",
+    "original_answer": "লুঙ্গি",
+    "barishal_answer": "লুঙ্গি"
+  },
+  {
+    "image_id": "culture_060",
+    "original_question": "এই ছবিতে  কি  করছে  মানুষ গুলো?",
+    "barishal_question": "এই ছবিতে কী করতাছে মানুষগুলা?",
+    "original_answer": "মাছ  ধরছে",
+    "barishal_answer": "মাছ ধরতাছে"
+  },
+  {
+    "image_id": "culture_061",
+    "original_question": "ছবিতে দেখা যাচ্ছে একটি  জনগোষ্ঠীর ঐতিহ্যবাহী ঘর, এ ঘর কাদের?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে এক গোষ্ঠীর পুরান ঘর, এই ঘর কাদের?",
+    "original_answer": "মারমাদের",
+    "barishal_answer": "মারমাদের"
+  },
+  {
+    "image_id": "culture_062",
+    "original_question": "এই ছবিতে চাকমা সম্প্রদায়ের মহিলারা যে ঐতিহ্যবাহী পোশাক পরিধান করেন, তার নাম কী?",
+    "barishal_question": "এই ছবিতে চাকমা পাড়ার মহিলারা যে পুরান কাপড়খান পরে, তার নাম কী?",
+    "original_answer": "পিনন-হাদি",
+    "barishal_answer": "পিনন-হাদি"
+  },
+  {
+    "image_id": "culture_063",
+    "original_question": "এই ছবিতে যে খেলাটি দেখা যাচ্ছে—এর নাম কী?",
+    "barishal_question": "এই ছবিতে যে খেলাখান দেখা যাইতাছে—এইটার নাম কী?",
+    "original_answer": "মার্ভেল খেলা",
+    "barishal_answer": "মার্ভেল খেলা"
+  },
+  {
+    "image_id": "culture_064",
+    "original_question": "এই ছবিতে কী দেখানো হয়েছে? ",
+    "barishal_question": "এই ছবিতে কী দেখানো হইছে?",
+    "original_answer": "মাটির চুলার রান্না",
+    "barishal_answer": "মাটির চুলার রান্না"
+  },
+  {
+    "image_id": "culture_065",
+    "original_question": "ছবিতে এ প্রাকৃতিক উপাদানটির নাম কী?",
+    "barishal_question": "ছবিতে এই প্রাকৃতিক উপাদানটার নাম কী?",
+    "original_answer": "মধু",
+    "barishal_answer": "মধু"
+  },
+  {
+    "image_id": "culture_066",
+    "original_question": "ছবিতে কালো পতাকা ও তাজিয়া শোভাযাত্রা দেখা যাচ্ছে—শিয়া মুসলমানদের এই শোক দিবসটির নাম কী?",
+    "barishal_question": "ছবিতে কালা পতাকা আর তাজিয়া শোভাযাত্রা দেখা যাইতাছে—শিয়া মুসলমানের এই শোক দিবসটার নাম কী?",
+    "original_answer": "মহররম",
+    "barishal_answer": "মহররম"
+  },
+  {
+    "image_id": "culture_067",
+    "original_question": "ছবিতে বাংলার গ্রামীণ এই খেলাটির নাম কী?",
+    "barishal_question": "ছবিতে বাংলার গামের এই খেলাটার নাম কী?",
+    "original_answer": "মোরগ লড়াই",
+    "barishal_answer": "মোরগ লড়াই"
+  },
+  {
+    "image_id": "culture_068",
+    "original_question": "ছবিতে ঢাকার এই বিশ্বখ্যাত শিল্পের নাম কী?",
+    "barishal_question": "ছবিতে ঢাকার এই বিশ্বখ্যাত শিল্পের নাম কী?",
+    "original_answer": "মসলিন",
+    "barishal_answer": "মসলিন"
+  },
+  {
+    "image_id": "culture_069",
+    "original_question": "ছবিতে মাটির তৈরি কারিগরদের এই শিল্পকর্মটির নাম কী?",
+    "barishal_question": "ছবিতে মাটির কারিগরদের এই শিল্পকর্মখানর নাম কী?",
+    "original_answer": "মৃৎশিল্প",
+    "barishal_answer": "মৃৎশিল্প"
+  },
+  {
+    "image_id": "culture_070",
+    "original_question": "ছবিতে মারমা জনগোষ্ঠীর এই উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে মারমা জনগোষ্ঠীর এই উৎসবটির নাম কী?",
+    "original_answer": "চাংক্রান",
+    "barishal_answer": "চাংক্রান"
+  },
+  {
+    "image_id": "culture_071",
+    "original_question": "ছবিতে ম্রু সম্প্রদায়-এই অনুষ্ঠানটির নাম কী?",
+    "barishal_question": "ছবিতে ম্রু পাড়ার—এই অনুষ্ঠানখানর নাম কী?",
+    "original_answer": "ম্রু নববর্ষ",
+    "barishal_answer": "ম্রু নববর্ষ"
+  },
+  {
+    "image_id": "culture_072",
+    "original_question": "ছবিতে কৃষকরা নতুন ধান কেটে আনন্দে উৎসব করছে—এ অন্নভোজন উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে কৃষকরা নতুন ধান কাট্যা আনন্দে উতসব করতাছে—এই অন্নভোজন উতসবটার নাম কী?",
+    "original_answer": "নবান্ন",
+    "barishal_answer": "নবান্ন"
+  },
+  {
+    "image_id": "culture_073",
+    "original_question": "ছবিতে হারমোনিয়াম ও তবলার তালে কবির গান পরিবেশন করা হচ্ছে—এই সংগীত ধারাটির নাম কী?",
+    "barishal_question": "ছবিতে হারমোনিয়াম আর তবলার তালে কবির গান বাজানো হইতাছে—এই গানখানর নাম কী?",
+    "original_answer": "নজরুল গীতি",
+    "barishal_answer": "নজরুল গীতি"
+  },
+  {
+    "image_id": "culture_074",
+    "original_question": "ছবিতে কাপড়ে রঙিন সুতার নকশা দেখা যাচ্ছে—গ্রামীণ মহিলাদের হাতে সেলাই করা এই ঐতিহ্যবাহী শিল্পকর্মটির নাম কী?",
+    "barishal_question": "ছবিতে কাপড়ে রঙ্গের সুতার নকশা দেখা যাইতাছে—গামের মহিলাদের হাতে সেলাই করা এই পুরান শিল্পকর্মখানর নাম কী?",
+    "original_answer": "নকশিকাঁথা",
+    "barishal_answer": "নকশিকাঁথা"
+  },
+  {
+    "image_id": "culture_075",
+    "original_question": "ছবিতে এই ঐতিহ্যবাহী খেলাটির নাম কী?",
+    "barishal_question": "ছবিতে এই পুরান খেলাটার নাম কী?",
+    "original_answer": "নৌকা বাইচ",
+    "barishal_answer": "নৌকা বাইচ"
+  },
+  {
+    "image_id": "culture_076",
+    "original_question": "ছবিতে ড্রাম বাজনার সাথে সারি সারি নৌকা প্রতিযোগিতা করছে—গ্রামীণ বর্ষার এই উৎসবমুখর প্রতিযোগিতার নাম কী?",
+    "barishal_question": "ছবিতে ড্রাম বাজানের লগে সারি সারি নাও দৌড়াইতেছে—গামের বরসার এই উতসবমুখর দৌড়ের নাম কী?",
+    "original_answer": "নৌকা বাইচ",
+    "barishal_answer": "নৌকা বাইচ"
+  },
+  {
+    "image_id": "culture_077",
+    "original_question": "ছবিতে গারো সম্প্রদায় নাচগান ও ঐতিহ্যবাহী পোশাকে উৎসব করছে—তাদের এই বিশেষ উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে গারো পাড়া নাচগান আর পুরান পোশাকে উতসব করতাছে—ওগো এই বিশেষ উতসবটার নাম কী?",
+    "original_answer": "ওয়াঙ্গালা উৎসব",
+    "barishal_answer": "ওয়াঙ্গালা পরব"
+  },
+  {
+    "image_id": "culture_078",
+    "original_question": "ছবিতে পাহাড়ি সম্প্রদায় রঙিন পোশাক পরে নববর্ষ উদযাপন করছে—এই উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে পাহাড়ি পাড়া রঙিন জামা পইরা নববর্ষ উতসব করতাছে—এই উতসবটার নাম কী?",
+    "original_answer": "পাহাড়িদের বৈশাখ",
+    "barishal_answer": "পাহাড়ির বৈশাখ"
+  },
+  {
+    "image_id": "culture_079",
+    "original_question": "ছবিতে বাংলার সবচেয়ে বড় এই লোকউৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে বাংলার সবচেয়ে বড় এই লোকউতসবখানর নাম কী?",
+    "original_answer": "পহেলা বৈশাখ",
+    "barishal_answer": "পহেলা বৈশাখ"
+  },
+  {
+    "image_id": "culture_080",
+    "original_question": "ছবিতে এটি বাংলার কোন সামাজিক আচার-অনুষ্ঠানে ব্যবহৃত হতো?",
+    "barishal_question": "ছবিতে এইটা বাংলার কোন সামাজিক আচার-অনুষ্ঠানে ব্যবহার অইতো?",
+    "original_answer": "বিয়ের পালকি",
+    "barishal_answer": "বিয়ার পালকি"
+  },
+  {
+    "image_id": "culture_081",
+    "original_question": "ছবিতে কৃষকরা সবুজ পাতার খেত পরিচর্যা করছে—বাংলার একটি বিখ্যাত নগদ ফসল চাষের এই দৃশ্যের নাম কী?",
+    "barishal_question": "ছবিতে কৃষকরা সবুজ পাতার খেত পরিচর্যা করতাছে—বাংলার একখান বিখ্যাত নগদ ফসল চাষের এই দৃশ্যের নাম কী?",
+    "original_answer": "পাট চাষ",
+    "barishal_answer": "পাট চাষ"
+  },
+  {
+    "image_id": "culture_082",
+    "original_question": "ছবিতে এই শিল্পটির নাম কী?",
+    "barishal_question": "ছবিতে এই শিল্পখান নাম কী?",
+    "original_answer": "পাটশিল্প",
+    "barishal_answer": "পাটশিল্প"
+  },
+  {
+    "image_id": "culture_083",
+    "original_question": "ছবিতে গ্বাংলার এই শীতকালীন উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে গ্বাংলার এই শীতকালীন উতসবখানর নাম কী?",
+    "original_answer": "পিঠা-পুলি উৎসব",
+    "barishal_answer": "পিঠা-পুলি পরব"
+  },
+  {
+    "image_id": "culture_084",
+    "original_question": "ছবিতে দোতারা হাতে গেয়ে শোনা যাচ্ছে গ্রামীণ জীবনের কথা—এটি বাংলার কোন সংগীত ধারার অন্তর্গত?",
+    "barishal_question": "ছবিতে দোতারা হাতে গাইয়া শুনাইতাছে গামের জীবনের কথা—এইটা বাংলার কোন গান ধারার অন্তর্গত?",
+    "original_answer": "পল্লীগীতি",
+    "barishal_answer": "পল্লীগীতি"
+  },
+  {
+    "image_id": "culture_085",
+    "original_question": "ছবিতে এটি মকর সংক্রান্তি উপলক্ষে বসা কোন মেলার দৃশ্য?",
+    "barishal_question": "ছবিতে এইটা মকর সংক্রান্তি উপলক্ষে বসা কোন মেলার দৃশ্য?",
+    "original_answer": "পুষ সংক্রান্তি মেলা",
+    "barishal_answer": "পুষ সংক্রান্তি মেলা"
+  },
+  {
+    "image_id": "culture_086",
+    "original_question": "ছবিতে গ্রামের পাঠশালায় এই ঐতিহ্যবাহী পাঠপদ্ধতির নাম কী?",
+    "barishal_question": "ছবিতে গামের পাঠশালায় এই পুরান পাঠপদ্ধতির নাম কী?",
+    "original_answer": "পুঁথি পাঠ",
+    "barishal_answer": "পুঁথি পাঠ"
+  },
+  {
+    "image_id": "culture_087",
+    "original_question": "ছবিতে পুতুল নাচ বাংলাদেশে প্রথম কোথায় শুরু হয়েছিল?",
+    "barishal_question": "ছবিতে পুতুল নাচ বাংলাদেশে প্রথম কোনখান শুরু অইছিল?",
+    "original_answer": "ব্রাহ্মণবাড়িয়ার নবীনগরে",
+    "barishal_answer": "ব্রাহ্মণবাড়িয়ার নবীনগরে"
+  },
+  {
+    "image_id": "culture_088",
+    "original_question": "ছবিতে এই ধর্মীয় উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে এই ধর্মীয় উতসবখানর নাম কী?",
+    "original_answer": "রাখি পূর্ণিমা",
+    "barishal_answer": "রাখি পূর্ণিমা"
+  },
+  {
+    "image_id": "culture_089",
+    "original_question": "ছবিতে সমুদ্রসৈকতে হাজারো মানুষের ভিড় ও ভক্তরা পূজা দিচ্ছে—বাংলার এই উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে সমুদ্দুর পাড়ে হাজারো মানুষের ভিড় আর ভক্তরা পুজা দিতেছে—বাংলার এই উতসবটার নাম কী?",
+    "original_answer": "রাস মেলা",
+    "barishal_answer": "রাস মেলা"
+  },
+  {
+    "image_id": "culture_090",
+    "original_question": "ছবিতে এই ঐতিহ্যবাহী ধর্মীয় উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে এই পুরান ধাম্মিক উতসবটার নাম কী?",
+    "original_answer": "রথযাত্রা",
+    "barishal_answer": "রথযাত্রা"
+  },
+  {
+    "image_id": "culture_091",
+    "original_question": "ছবিতে বাংলার ঐতিহ্যবাহী এই বাহনের নাম কী?",
+    "barishal_question": "ছবিতে বাংলার পুরান এই বাহনের নাম কী?",
+    "original_answer": "রিকশা",
+    "barishal_answer": "রিকশা"
+  },
+  {
+    "image_id": "culture_092",
+    "original_question": "ছবিতে মানুষ কবিগুরুকে স্মরণ করে গান গাইছে ও মেলা বসেছে—এই উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে মানুষ কবিগুরুরে স্মরণ কইর্যা গান গাইতাছে আর মেলা বইস্যা গ্যাছে—এই উতসবখান নাম কী?",
+    "original_answer": "রবীন্দ্র মেলা",
+    "barishal_answer": "রবীন্দ্র মেলা"
+  },
+  {
+    "image_id": "culture_093",
+    "original_question": "ছবিতে শীতের শেষ দিনে ঢাকা শহরের পালিত এই উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে শীতের শেষ দিনে ঢাকা শহরের পালিত এই উতসবটার নাম কী?",
+    "original_answer": "সাকরাইন",
+    "barishal_answer": "সাকরাইন"
+  },
+  {
+    "image_id": "culture_094",
+    "original_question": "ছবিতে সাঁওতাল তরুণরা বড় ঢোল বাজাচ্ছে—তাদের ঐতিহ্যবাহী বাদ্যযন্ত্র বাজানোর এই দৃশ্যটির নাম কী?",
+    "barishal_question": "ছবিতে সাঁওতাল তরুণেরা বড় ঢোল বাজাইতাছে—ঐ পুরান বাদ্য বাজানোর এই দৃশ্যটার নাম কী?",
+    "original_answer": "সাঁওতাল ঢোল",
+    "barishal_answer": "সাঁওতাল ঢোল"
+  },
+  {
+    "image_id": "culture_095",
+    "original_question": "ছবিতে যুবক-যুবতীরা হাত ধরে দল বেঁধে নাচছে—তাদের এই লোকনৃত্যের নাম কী?",
+    "barishal_question": "ছবিতে যুবক-যুবতীরা হাত ধইরা দল বাইন্ধা নাচতাছে—ঐনগো এই লোকনৃত্যের নাম কী?",
+    "original_answer": "দং নাচ",
+    "barishal_answer": "দং নাচ"
+  },
+  {
+    "image_id": "culture_096",
+    "original_question": "ছবিতে দলবদ্ধ হয়ে গাওয়া হচ্ছে বাংলার লোকগীতি—বিশেষত নারীরা পালা করে যে গান গায় তার নাম কী?",
+    "barishal_question": "ছবিতে দলবদ্ধ অইয়া গাওয়া হইতাছে বাংলার লোকগীতি—বিশেষ কইর্যা মাইয়্যাডির‍্যা পালা কইর্যা যে গান গায় তার নাম কী?",
+    "original_answer": "সারি গান",
+    "barishal_answer": "সারি গান"
+  },
+  {
+    "image_id": "culture_097",
+    "original_question": "ছবিতে খাসিয়া জনগোষ্ঠীকে বছরের শেষ দিনে বিশেষ আচার-অনুষ্ঠান করতে দেখা যাচ্ছে—এ উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে খাসিয়া পাড়ারে বছরের শেষ দিনে বিশেষ আচার-অনুষ্ঠান করতা দেখা যাইতাছে—এই উতসবটার নাম কী?",
+    "original_answer": "সেং কুটসেম",
+    "barishal_answer": "সেং কুটসেম"
+  },
+  {
+    "image_id": "culture_098",
+    "original_question": "ছবিতে মানুষ লাল-সবুজ পতাকা হাতে শহীদদের স্মরণ করছে—বাংলাদেশের জাতীয় দিবসটির নাম কী?",
+    "barishal_question": "ছবিতে মানুষ লাল-সবুজ পতাকা হাতে শহীদদের স্মরণ করতাছে—বাংলাদেশের জাতীয় দিবসটার নাম কী?",
+    "original_answer": "স্বাধীনতা দিবস",
+    "barishal_answer": "স্বাধীনতা দিবস"
+  },
+  {
+    "image_id": "culture_099",
+    "original_question": "ছবিতে মারমা জনগোষ্ঠী তাদের নববর্ষের এই উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে মারমা পাড়া তাদের নববর্ষের এই উতসবখানের নাম কী?",
+    "original_answer": "সংগ্রাই উৎসব",
+    "barishal_answer": "সংগ্রাই পরব"
+  },
+  {
+    "image_id": "culture_100",
+    "original_question": "ছবিতে দুর্গা পূজার সময় শরৎকালের পূজা-অর্চনা চলছে—এই পূজার নাম কী?",
+    "barishal_question": "ছবিতে দুর্গা পূজার সময় শরৎকালের পূজা-অর্চনা চলতাছে—এই পূজার নাম কী?",
+    "original_answer": "শারদ উৎসব",
+    "barishal_answer": "শারদ পরব"
+  },
+  {
+    "image_id": "culture_101",
+    "original_question": "ছবিতে শিক্ষার্থীরা হাতে বই আর ফুল নিয়ে পূজা করছে—বিদ্যা ও জ্ঞানের দেবীর পূজাটির নাম কী?",
+    "barishal_question": "ছবিতে ছাতরা হাতে বই আর ফুল লইয়া পুজা করতাছে—বিদ্যা আর জ্ঞানের দেবীর পুজাখানর নাম কী?",
+    "original_answer": "সরস্বতী পূজা",
+    "barishal_answer": "সরস্বতী পূজা"
+  },
+  {
+    "image_id": "culture_102",
+    "original_question": "ছবিতে মুসলমানরা রাতে নামাজ ও দোয়া করছে—এই ধর্মীয় রাতটির নাম কী?",
+    "barishal_question": "ছবিতে মুসলমানরা রাইত্‍ে নামাজ ও দোয়া করতাছে—এই ধর্মীয় রাইত্‍খানর নাম কী?",
+    "original_answer": "শবে বরাত",
+    "barishal_answer": "শবে বরাত"
+  },
+  {
+    "image_id": "culture_103",
+    "original_question": "ছবিতে গরু সাজিয়ে মাঠে আনা হয়েছে—গ্রামীণ পশুপালকদের উৎসবটির নাম কী?",
+    "barishal_question": "ছবিতে গরু সাজাইয়া মাঠে আনছে—গামের পশুপালকদের উতসবটার নাম কী?",
+    "original_answer": "সোহরাই উৎসব",
+    "barishal_answer": "সোহরাই পরব"
+  },
+  {
+    "image_id": "culture_104",
+    "original_question": "ছবিতে গারো তরুণীরা দলবদ্ধভাবে নাচছে—তাদের ঐতিহ্যবাহী নৃত্যটির নাম কী?",
+    "barishal_question": "ছবিতে গারো মাইয়াডিলা দলবদ্ধভাবে নাচতাছে—ঐ পুরান নাচখানর নাম কী?",
+    "original_answer": "সোইং নাচ",
+    "barishal_answer": "সোইং নাচ"
+  },
+  {
+    "image_id": "culture_105",
+    "original_question": "ছবিতে সোনারগাঁওয়ে হস্তশিল্প ও লোকশিল্পের প্রদর্শনী দেখা যাচ্ছে—মেলাটির নাম কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে সোনারগাঁওয়ে হস্তশিল্প আর লোকশিল্পের মেলা—এই মেলাখানর নাম কী?",
+    "original_answer": "কারুশিল্প মেলা",
+    "barishal_answer": "কারুশিল্প মেলা"
+  },
+  {
+    "image_id": "culture_106",
+    "original_question": "ছবিতে তাঁতে সুতো বুনে কাপড় তৈরি হচ্ছে—এই শিল্পটির নাম কী?",
+    "barishal_question": "ছবিতে তাঁতে সুতা বুইন্যা কাপড় বানাইতাছে—এই শিল্পখান নাম কী?",
+    "original_answer": "তাঁতশিল্প",
+    "barishal_answer": "তাঁতশিল্প"
+  },
+  {
+    "image_id": "culture_107",
+    "original_question": "ছবিতে মাটির তৈরি অলঙ্করণ ও স্থাপত্যশিল্প দেখা যাচ্ছে—এটি কোন শিল্পধারা?",
+    "barishal_question": "ছবিতে মাটির তৈরি সাজসজ্জা আর ঘরবাড়ির কারুকাজ দেখা যাইতাছে—এইটা কোন শিল্পধারা?",
+    "original_answer": "টেরাকোটা",
+    "barishal_answer": "টেরাকোটা"
+  },
+  {
+    "image_id": "culture_108",
+    "original_question": "ছবিতে ত্রিপুরা সম্প্রদায়ের তরুণীরা ঐতিহ্যবাহী পোশাকে নাচছে—এই নৃত্যের নাম কী?",
+    "barishal_question": "ছবিতে ত্রিপুরা পাড়ার মাইয়াডিগে পুরান পোশাকে নাচতাছে—এই নাচের নাম কী?",
+    "original_answer": "ত্রিপুরা নাচ",
+    "barishal_answer": "ত্রিপুরা নাচ"
+  },
+  {
+    "image_id": "culture_109",
+    "original_question": "ছবিতে দেখা যাচ্ছে উত্তরবঙ্গের মানুষ গ্রামীণ জীবনের দুঃখ-কষ্ট ও সুরেলা ভাটিয়ালি সুরে গান গাইছে—গানটির ধরণ কী?",
+    "barishal_question": "ছবিতে দেখা যাইতাছে উত্তরবঙ্গের মানুষ গামের জীবনের দুঃখ-কষ্ট ও সুরেলা ভাটিয়ালি সুরে গান গাইতাছে—গানটার ধরণ কী?",
+    "original_answer": "ভাওয়াইয়া",
+    "barishal_answer": "ভাওয়াইয়া"
+  },
+  {
+    "image_id": "culture_110",
+    "original_question": "ছবিতে মাঝি নৌকা বাইতে বাইতে নদীর স্রোতের সাথে গান গাইছে—এই লোকগানের নাম কী?",
+    "barishal_question": "ছবিতে মাঝি নৌকা বাইতে বাইতে নদীর স্রোতের সাথে গান গাইছে—এই লোকগানের নাম কী?",
+    "original_answer": "ভাটিয়ালি",
+    "barishal_answer": "ভাটিয়ালি"
+  },
+  {
+    "image_id": "culture_111",
+    "original_question": "ছবিতে গ্রামীণ এলাকায় বসা ঐতিহ্যবাহী মেলায় লোকসমাগম দেখা যাচ্ছে—এ মেলার নাম কী?",
+    "barishal_question": "ছবিতে গ্রামীণ এলাকায় বসা ঐতিহ্যবাহী মেলায় লোকসমাগম দেখা যাচ্ছে—এ মেলার নাম কী?",
+    "original_answer": "পোড়াদহ মেলা",
+    "barishal_answer": "পোড়াদহ মেলা"
+  },
+  {
+    "image_id": "culture_112",
+    "original_question": "ছবিতে ভক্তরা নদীতে স্নান করে পূজা করছে এবং আশপাশে মেলার ভিড়—এই ধর্মীয় মেলার নাম কী?",
+    "barishal_question": "ছবিতে ভক্তরা নদীতে চান কইর্যা পূজা করতাছে আর আশেপাশে মেলা দেখা যাইতাছে—এই ধর্মীয় মেলার নাম কী?",
+    "original_answer": "বারুণী মেলা",
+    "barishal_answer": "বারুণী মেলা"
+  },
+  {
+    "image_id": "culture_113",
+    "original_question": "ছবিতে দেখা সরঞ্জামটি মাছ ধরার জন্য শতাব্দীর পর শতাব্দী ধরে ব্যবহৃত হচ্ছে—এর নাম কী?",
+    "barishal_question": "ছবিতে দেখা সরঞ্জামটি মাছ ধরার জন্য শতাব্দীর পর শতাব্দী ধরে ব্যবহৃত হচ্ছে—এর নাম কী?",
+    "original_answer": "বড়শি",
+    "barishal_answer": "বড়শি"
+  },
+  {
+    "image_id": "culture_114",
+    "original_question": "ছবিতে কৃষক কোন ঐতিহ্যবাহী পদ্ধতিতে জমি চাষ করছেন?",
+    "barishal_question": "ছবিতে কৃষক কোন পুরান পদ্ধতিতে জমি চাষ করতাছে?",
+    "original_answer": "গরুর হাল চাষ",
+    "barishal_answer": "গরুর হাল চাষ"
+  }
+]

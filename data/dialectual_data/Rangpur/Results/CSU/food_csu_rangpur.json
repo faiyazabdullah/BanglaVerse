@@ -1,0 +1,1052 @@
+[
+  {
+    "image_id": "food_001",
+    "original_question": "এই খাবারটির নাম কী?",
+    "rangpur_question": "এই খাবারগো নাম কী?",
+    "original_answer": "ভুনা খিচুরি",
+    "rangpur_answer": "ভুনা খিচুড়ি"
+  },
+  {
+    "image_id": "food_002",
+    "original_question": "কোন খাবারের প্রধান উপাদান ভাত ও ইলিশ মাছ, যা বিশেষভাবে গ্রামীণ বাংলাদেশের সকালে খাওয়া হয়?",
+    "rangpur_question": "কোন খাবারর প্রধান জিনিস ভাত আর ইলিশ মাছ, যা বিশেষ কইরে গেরামী বাংলাদেশর সকালেই খাইয়া হয়?",
+    "original_answer": "পান্তা ইলিশ",
+    "rangpur_answer": "পান্তা ইলিশগো"
+  },
+  {
+    "image_id": "food_003",
+    "original_question": "কোন পদটি সর্ষে এবং দেশীয় মশলার সংমিশ্রণে তৈরি ইলিশ মাছ দিয়ে রান্না করা হয়?",
+    "rangpur_question": "কোন পদগো সর্ষে আর দেশী মশলার মিশেলে অইয়া ইলিশ মাছ দিয়া রান্ধা হয়?",
+    "original_answer": "শর্ষে ইলিশ",
+    "rangpur_answer": "শর্ষে ইলিশ"
+  },
+  {
+    "image_id": "food_004",
+    "original_question": "বাংলাদেশের কোন মিষ্টি খাবারটি সাদা, নরম ও গোলাকার এবং ছানা দিয়ে তৈরি?",
+    "rangpur_question": "বাংলাদেশর কোন মিষ্টি জিনিসগো সাদা, নরম আর গোল্লা অইয়া ছানা দিয়া তৈয়ার?",
+    "original_answer": "রসগোল্লা",
+    "rangpur_answer": "রসগোল্লা"
+  },
+  {
+    "image_id": "food_005",
+    "original_question": "উৎসব বা বিয়ের সময় কোন খাবারটি মুরগি ও সুগন্ধি চাল দিয়ে তৈরি হয়?",
+    "rangpur_question": "উৎসব বা বিয়ার সময় কোনগো জিনিস মুরগি আর সুগন্ধি চাল অইয়া তৈয়ার অয়?",
+    "original_answer": "মোরগ পোলাও",
+    "rangpur_answer": "মোরগ পোলাও"
+  },
+  {
+    "image_id": "food_006",
+    "original_question": "কোন খাবারটি কালো মরিচ ও দেশীয় মশলা দিয়ে গরুর মাংস দিয়ে তৈরি হয়?",
+    "rangpur_question": "কোন খাবারগো কালো মরিচ আর দেশী মশলা দিয়্যা গরুর মাংস দিয়্যা অইয়া?",
+    "original_answer": "গরুর কালা ভুনা",
+    "rangpur_answer": "গরুর কালা ভুনা"
+  },
+  {
+    "image_id": "food_007",
+    "original_question": "কোন পদটি শুকনো মাছ ব্যবহার করে ঝাল মশলার সংমিশ্রণে তৈরি?",
+    "rangpur_question": "কোন পদগো শুকনো মাছ ব্যবহার কইরে ঝাল মশলার সংমিশ্রণে অইয়া তৈরি?",
+    "original_answer": "শুটকি ভুনা",
+    "rangpur_answer": "শুটকি ভুনা"
+  },
+  {
+    "image_id": "food_008",
+    "original_question": "বাংলাদেশের চা-বিকেলের খাবারের জন্য কোন খাবারটি সাধারণত ভাজা, এবং আলু/মাংস দিয়ে তৈরি হয়?",
+    "rangpur_question": "বাংলাদেশর চা-বিকেলের খাবারর লাগি কোন জিনিসগো সাধারণত ভাজা, আর আলু/মাংস দিয়া অইয়া?",
+    "original_answer": "শিঙাড়া",
+    "rangpur_answer": "শিঙাড়া"
+  },
+  {
+    "image_id": "food_009",
+    "original_question": "কোন খাবারটি সাধারণত গরম তেল বা ঘি তে ভাজা হয় এবং মিষ্টি বা নোনতা স্বাদে পরিবেশন করা হয়?",
+    "rangpur_question": "কোন খাবারগো সাধারণত গরম তেল বা ঘি তে ভাজা অইয়া আর মিষ্টি বা নোনতা স্বাদে পরিবেশন করা হয়?",
+    "original_answer": "পুড়ি",
+    "rangpur_answer": "পুড়ি"
+  },
+  {
+    "image_id": "food_010",
+    "original_question": "কোন খাবারটি তেঁতুলের পানি, মসলা ও ছোট রুটি দিয়ে তৈরি, যা বাংলাদেশের রাস্তার জনপ্রিয় স্ন্যাকস?",
+    "rangpur_question": "কোন খাবারগো তেঁতুলের পানি, মসলা আর ছোট রুটি অইয়া তৈয়ার, যাহা বাংলাদেশর রাস্তার জনপ্রিয় স্ন্যাকস?",
+    "original_answer": "ফুচকা",
+    "rangpur_answer": "ফুচকা"
+  },
+  {
+    "image_id": "food_011",
+    "original_question": "কোন খাওয়াটি মূলত ফুচকা-এর মতোই, তবে উপরে দই ও মশলা দিয়ে পরিবেশন করা হয়?",
+    "rangpur_question": "কোন খাউয়াগো মূলত ফুচকা-এর মতন, কিন্তু উপরে দই আর মশলা দিয়া পরিবেশন করা হয়?",
+    "original_answer": "দই ফুচকা",
+    "rangpur_answer": "দই ফুচকা"
+  },
+  {
+    "image_id": "food_012",
+    "original_question": "বাংলাদেশের রাস্তার জনপ্রিয় স্ট্রিট ফুড, যেটিতে আলু, ছোলা ও মশলার মিশ্রণ থাকে, কোনটি?",
+    "rangpur_question": "বাংলাদেশর রাস্তার জনপ্রিয় স্ট্রিট ফুড, যেটিতে আলু, ছোলা আর মশলার মিশ্রণ থাকে, কোনগো?",
+    "original_answer": "চটপটি",
+    "rangpur_answer": "চটপটি"
+  },
+  {
+    "image_id": "food_013",
+    "original_question": "এটি ভেজিটেবল, প্রধান উপাদান বেগুন এবং তেলে ভাজা করা হয়, কোন পদটি?",
+    "rangpur_question": "এগো ভেজিটেবল, প্রধান উপাদান বেগুন আর তেলে ভাজা অইয়া গ্যাছে, কোন পদগো?",
+    "original_answer": "বেগুন ভাজা",
+    "rangpur_answer": "বেগুন ভাজা"
+  },
+  {
+    "image_id": "food_014",
+    "original_question": "এক ধরনের মিষ্টি, যা ছানা, দুধ আর দই দিয়ে তৈরি, কোনটি?",
+    "rangpur_question": "এক ধরনর মিষ্টি, যাহা ছানা, দুধ আর দই অইয়া তৈয়ার, কোনগো?",
+    "original_answer": "শরার দই",
+    "rangpur_answer": "শড়ার দই"
+  },
+  {
+    "image_id": "food_015",
+    "original_question": "কোন মিষ্টি প্রধানত ছানা থেকে তৈরি এবং ঘরে বা মিষ্টির দোকানে সহজলভ্য?",
+    "rangpur_question": "কোন মিষ্টি প্রধানত ছানা অইয়া তৈয়ার আর ঘরে বা মিষ্টির দোকানত সহজলভ্য?",
+    "original_answer": "পেরা সন্দেশ",
+    "rangpur_answer": "পেরা সন্দেশ"
+  },
+  {
+    "image_id": "food_016",
+    "original_question": "কোন সন্দেশের প্রধান উপাদান গুড় এবং এটি বিশেষ করে ঠান্ডা সময়ে প্রিয়?",
+    "rangpur_question": "কোন সন্দেশর প্রধান উপাদান গুড় আর এডার বিশেষ কইরে ঠান্ডা সময়র প্রিয় জিনিস?",
+    "original_answer": "গুড়ের সন্দেশ",
+    "rangpur_answer": "গুড়র সন্দেশ"
+  },
+  {
+    "image_id": "food_017",
+    "original_question": "বাংলাদেশের প্রিয় মিষ্টি, যা ছানা থেকে তৈরি এবং কোমল স্বাদের জন্য পরিচিত, কোনটি?",
+    "rangpur_question": "বাংলাদেশর প্রিয় মিষ্টি, যা ছানা অইয়া তৈয়ার আর কোমল স্বাদের লাগি পরিচিত, কোনগো?",
+    "original_answer": "চানার সন্দেশ",
+    "rangpur_answer": "চানার সন্দেশ"
+  },
+  {
+    "image_id": "food_018",
+    "original_question": "নারকেল দিয়ে ভরা, পিঠার মধ্যে বিশেষ ধরনের যা দুধ বা চিনি দিয়ে পরিবেশন করা হয়, কোনটি?",
+    "rangpur_question": "নারকেল দিয়া ভরা, পিঠার মধ্যে বিশেষ ধরনর যাহা দুধ বা চিনি দিয়া পরিবেশন করা অইয়া থাকে, কোনগো?",
+    "original_answer": "পাটিসাপটা",
+    "rangpur_answer": "পাটিসাপটা"
+  },
+  {
+    "image_id": "food_019",
+    "original_question": "ভাপা পিঠা সাধারণত কোনভাবে রান্না করা হয়?",
+    "rangpur_question": "ভাপা পিঠা সাধারণত কোনরকমে অইয়া রান্না কইরা হয়?",
+    "original_answer": "ভাপে",
+    "rangpur_answer": "ভাপে"
+  },
+  {
+    "image_id": "food_020",
+    "original_question": "পুলি পিঠা কোন ধরনের উপাদান দিয়ে তৈরি হয় এবং কোন খাবারটি বিশেষ দিনে জনপ্রিয়?",
+    "rangpur_question": "পুলি পিঠা কোন ধরনর জিনিস দিয়া অইয়া আর কোন খাবারগো বিশেষ দিনর জনপ্রিয়?",
+    "original_answer": "ময়দা ও নারকেল, উৎসবের দিনে",
+    "rangpur_answer": "ময়দা আর নারকেল, উৎসবের দিনো"
+  },
+  {
+    "image_id": "food_021",
+    "original_question": "এই খাবারের প্রধান উপকরণ কী?",
+    "rangpur_question": "এই খাবারর প্রধান উপকরণ কী জিনিস?",
+    "original_answer": "ময়দা",
+    "rangpur_answer": "ময়দা"
+  },
+  {
+    "image_id": "food_022",
+    "original_question": "এই খাবারটির প্রধান বৈশিষ্ট্য কী?",
+    "rangpur_question": "এই খাবারগো প্রধান বৈশিষ্ট্য কী জিনিস?",
+    "original_answer": "শিল্পসমৃদ্ধ নকশা",
+    "rangpur_answer": "শিল্পোসমৃদ্ধ নকশা"
+  },
+  {
+    "image_id": "food_023",
+    "original_question": "এই খাবারটি মূলত কোন ধর্মীয় উৎসবে বেশি খাওয়া হয়?",
+    "rangpur_question": "এই খাবারগো মূলতো কোন ধর্মীয় উৎসবে বেশি খাইয়া হয়?",
+    "original_answer": "ঈদ",
+    "rangpur_answer": "ঈদ"
+  },
+  {
+    "image_id": "food_024",
+    "original_question": "এই মাছের ঝোলটি বাংলাদেশের কোন অঞ্চলে বেশি জনপ্রিয়?",
+    "rangpur_question": "এই মাছর ঝোলগো বাংলাদেশর কোন এলাকায় বেশি জনপ্রিয়?",
+    "original_answer": "খুলনা",
+    "rangpur_answer": "খুলনা"
+  },
+  {
+    "image_id": "food_025",
+    "original_question": "এই খাবারটির প্রধান উপকরণ কী?",
+    "rangpur_question": "এই খাবারগো প্রধান উপকরণ কী?",
+    "original_answer": "আলু",
+    "rangpur_answer": "আলু"
+  },
+  {
+    "image_id": "food_026",
+    "original_question": "এই ভর্তাটি সাধারণত কোন খাবারের সঙ্গে বেশি খাওয়া হয়?",
+    "rangpur_question": "এই ভর্তাগো সাধারণত কোন খাবারর স ang বেশি খাইয়া হয়?",
+    "original_answer": "ভাত",
+    "rangpur_answer": "ভাত"
+  },
+  {
+    "image_id": "food_027",
+    "original_question": "এই শাকটি খাওয়ার ফলে শরীরে কোন উপাদান বেশি পাওয়া যায়?",
+    "rangpur_question": "এই শাকগো খাইবার ফলে শরীলত কোন উপাদান বেশি পাওয়া যায়?",
+    "original_answer": "আয়রন",
+    "rangpur_answer": "আয়রন"
+  },
+  {
+    "image_id": "food_028",
+    "original_question": "সবুজ শাক কোন ঋতুতে সবচেয়ে বেশি পাওয়া যায়?",
+    "rangpur_question": "সবুজ শাক কোন ঋতুতে সবচাইতে বেশি পাওয়া যায়?",
+    "original_answer": "শীতকাল",
+    "rangpur_answer": "শীতকাল"
+  },
+  {
+    "image_id": "food_029",
+    "original_question": "পিয়াজু সাধারণত কোন সময়ে বেশি খাওয়া হয়?",
+    "rangpur_question": "পিয়াজু সাধারণত কোন সময় বেশি খাইয়া হয়?",
+    "original_answer": "রমজান মাসে ইফতারে",
+    "rangpur_answer": "রমজান মাসর ইফতারে"
+  },
+  {
+    "image_id": "food_030",
+    "original_question": "ঢেঁড়স ভাজি কোন ঋতুতে সহজলভ্য সবজি দিয়ে তৈরি হয়?",
+    "rangpur_question": "ঢেঁড়স ভাজি কোন ঋতুতে সহজলভ্য সবজি অইয়া তৈরর হয়?",
+    "original_answer": "গ্রীষ্মকাল",
+    "rangpur_answer": "গ্রীষ্মকাল"
+  },
+  {
+    "image_id": "food_031",
+    "original_question": "তিলের মুয়া সাধারণত কোন উৎসবে বেশি তৈরি হয়?",
+    "rangpur_question": "তিলের মুয়া সাধারণত কোন উৎসবে বেশি অইয়া তৈয়ার হয়?",
+    "original_answer": "পৌষ সংক্রান্তি",
+    "rangpur_answer": "পৌষ সংক্রান্তি"
+  },
+  {
+    "image_id": "food_032",
+    "original_question": "তিলের খাজা কী ধরনের খাবার?",
+    "rangpur_question": "তিলের খাজা কী ধরনর খাবার?",
+    "original_answer": "মিষ্টি",
+    "rangpur_answer": "মিষ্টি"
+  },
+  {
+    "image_id": "food_033",
+    "original_question": "মুড়ির মুয়া তৈরিতে মুড়ি ছাড়াও প্রধান উপকরণ কী?",
+    "rangpur_question": "মুড়ির মুয়া তৈরীর নাগি মুড়ি ছাড়া আর প্রধান জিনিস কী?",
+    "original_answer": "গুড়",
+    "rangpur_answer": "গুড়"
+  },
+  {
+    "image_id": "food_034",
+    "original_question": "নারকেলের নারু সাধারণত কোন উপকরণ দিয়ে তৈরি হয়?",
+    "rangpur_question": "নারকেলের নারু সাধারণত কোন জিনিস দিয়া তয়ারি অয়?",
+    "original_answer": "নারকেল ও গুড়",
+    "rangpur_answer": "নারকেল আর গুড়"
+  },
+  {
+    "image_id": "food_035",
+    "original_question": "কোন অঞ্চলের নৃগোষ্ঠীদের ভোজন তালিকায় বাঁশ কোড়লের বিশেষ স্থান রয়েছে?",
+    "rangpur_question": "কোন এলাকার নৃগোষ্ঠীরর ভোজন তালিকাত বাঁশ কোড়লর বিশেষ জাগা রইছে?",
+    "original_answer": "পার্বত্য চট্টগ্রাম অঞ্চল",
+    "rangpur_answer": "পার্বত্য চট্টগ্রাম এলাকা"
+  },
+  {
+    "image_id": "food_036",
+    "original_question": "নাপ্পি কোন অঞ্চলের ঐতিহ্যবাহী খাবার?",
+    "rangpur_question": "নাপ্পি কোন এলাকার পুরানা খাবার?",
+    "original_answer": "চট্টগ্রাম পার্বত্য অঞ্চল",
+    "rangpur_answer": "চট্টগ্রামর পার্বত্য এলাকা"
+  },
+  {
+    "image_id": "food_037",
+    "original_question": "ছানার মিষ্টির মধ্যে কোনটি সবচেয়ে বিখ্যাত?",
+    "rangpur_question": "ছানার মিষ্টির মধ্যে কোনগো সবচাইতে বিখ্যাত?",
+    "original_answer": "ছানার চমচম",
+    "rangpur_answer": "ছানার চমচম"
+  },
+  {
+    "image_id": "food_038",
+    "original_question": "বাতাসা সাধারণত কোন অনুষ্ঠানে বেশি ব্যবহার হয়?",
+    "rangpur_question": "বাতাসা সাধারণত কোন অনুষ্ঠানে বেশি অইয়া ব্যবহার হয়?",
+    "original_answer": "ধর্মীয় ও পূজা-অর্চনায়",
+    "rangpur_answer": "ধর্মীয় আর পূজা-অর্চায়"
+  },
+  {
+    "image_id": "food_039",
+    "original_question": "রস মালাই মূলত কোন উপকরণ দিয়ে তৈরি?",
+    "rangpur_question": "রস মালাই মূলত কোন জিনিস দিয়া তৈয়ার?",
+    "original_answer": "ছানা ও দুধ",
+    "rangpur_answer": "ছানা আর দুধ"
+  },
+  {
+    "image_id": "food_040",
+    "original_question": "বাকরখানি কোন শহরের বিশেষ খাবার?",
+    "rangpur_question": "বাকরখানি কোন গেরামের বিশেষ খাবার?",
+    "original_answer": "ঢাকা",
+    "rangpur_answer": "ঢাকা"
+  },
+  {
+    "image_id": "food_041",
+    "original_question": "মুড়ি-চানাচুর মাখা সাধারণত কোন সময়ে বেশি খাওয়া হয়?",
+    "rangpur_question": "মুড়ি-চানাচুর মাখা সাধারণত কোন সময় বেশি খাইয়া হয়?",
+    "original_answer": "বিকেলের নাস্তায়",
+    "rangpur_answer": "বিকেলের নাস্তায়"
+  },
+  {
+    "image_id": "food_042",
+    "original_question": "ঝুরি কোন খাবারের একটি প্রকার?",
+    "rangpur_question": "ঝুরি কোন খাবারর একগো প্রকার?",
+    "original_answer": "চানাচুর",
+    "rangpur_answer": "চানাচুর"
+  },
+  {
+    "image_id": "food_043",
+    "original_question": "চানাচুর সাধারণত কী ধরনের খাবার?",
+    "rangpur_question": "চানাচুর সাধারণত কী ধরনর খাবার?",
+    "original_answer": "ঝাল ও নোনতা",
+    "rangpur_answer": "ঝাল আর নোনতা"
+  },
+  {
+    "image_id": "food_044",
+    "original_question": "আমসত্ত্ব কোন ফল থেকে তৈরি হয়?",
+    "rangpur_question": "আমসত্ত্ব কোন ফল অইয়া তৈরর হয়?",
+    "original_answer": "আম",
+    "rangpur_answer": "আম"
+  },
+  {
+    "image_id": "food_045",
+    "original_question": "লটি দিয়ে ছোট চিংড়ির ঝোল কোন অঞ্চলে বেশি খাওয়া হয়?",
+    "rangpur_question": "লটি দিয়া ছোট চিংড়ির ঝোল কোন এলাকায় বেশি খায়?",
+    "original_answer": "গ্রামীণ বাংলাদেশ",
+    "rangpur_answer": "গেরামী বাংলাদেশ"
+  },
+  {
+    "image_id": "food_046",
+    "original_question": "চিতই পিঠা সাধারণত কোন ঋতুতে বেশি তৈরি হয়?",
+    "rangpur_question": "চিতই পিঠা সাধারণত কোন ঋতুতে বেশি অইয়া তৈয়ার হয়?",
+    "original_answer": "শীতকাল",
+    "rangpur_answer": "ঠান্ডা কাল"
+  },
+  {
+    "image_id": "food_047",
+    "original_question": "কই মাছের ঝোল কোন ধরনের রান্না?",
+    "rangpur_question": "কই মাছর ঝোল কোন ধরনর রান্না?",
+    "original_answer": "দেশি মাছের রান্না",
+    "rangpur_answer": "দেশি মাছর রন্ধন"
+  },
+  {
+    "image_id": "food_048",
+    "original_question": "বরইয়ের আচার খাওয়ার স্বাদ কেমন হয়?",
+    "rangpur_question": "বরইর আচার খাইবার স্বাদ কেমন অয়?",
+    "original_answer": "টক-মিষ্টি",
+    "rangpur_answer": "টক-মিষ্টি"
+  },
+  {
+    "image_id": "food_049",
+    "original_question": "আমের মিষ্টি আচার কোন সময়ে বেশি তৈরি হয়?",
+    "rangpur_question": "আমের মিষ্টি আচার কোন সময় বেশি অইয়া থাকে?",
+    "original_answer": "গ্রীষ্মকালে আম মৌসুমে",
+    "rangpur_answer": "গ্রীষ্মকালে আমর মৌসুম"
+  },
+  {
+    "image_id": "food_050",
+    "original_question": "চিটা পিঠা রান্নার জন্য সাধারণত কী ব্যবহার করা হয়?",
+    "rangpur_question": "চিটা পিঠা রান্নার লাগি সাধারণত কী ব্যবহার অইয়া থাকে?",
+    "original_answer": "চাল গুঁড়া",
+    "rangpur_answer": "চাউলর গুড়া"
+  },
+  {
+    "image_id": "food_051",
+    "original_question": "জিলাপি কোন সময়ে বেশি খাওয়া হয়?",
+    "rangpur_question": "জিলিপি কোন সময় বেশি খাইয়া হয়?",
+    "original_answer": "রমজান মাসে ইফতারে",
+    "rangpur_answer": "রমজান মাসর ইফতারে"
+  },
+  {
+    "image_id": "food_052",
+    "original_question": "লবণ পিঠার স্বাদ কেমন?",
+    "rangpur_question": "লবণ পিঠার স্বাদ কী জিনিস?",
+    "original_answer": "নোনতা",
+    "rangpur_answer": "নোনতা"
+  },
+  {
+    "image_id": "food_053",
+    "original_question": "দুধ পাকন পিঠা তৈরির প্রধান উপকরণ কী?",
+    "rangpur_question": "দুধ পাকন পিঠা বানানোর প্রধান জিনিস কী?",
+    "original_answer": "চাল গুঁড়া ও দুধ",
+    "rangpur_answer": "চাউলর গুঁড়া আর দুধ"
+  },
+  {
+    "image_id": "food_054",
+    "original_question": "পরোটা সাধারণত কোন খাবারের সঙ্গে খাওয়া হয়?",
+    "rangpur_question": "পরোটা সাধারণত কোন খাবারর স ang খাওয়া হয়?",
+    "original_answer": "সবজি বা মাংসের তরকারি",
+    "rangpur_answer": "সবজি বা মাংসর তরকারি"
+  },
+  {
+    "image_id": "food_055",
+    "original_question": "ঢোকার ডালনা কোন ডাল দিয়ে তৈরি?",
+    "rangpur_question": "ঢোকার ডালনা কোন ডাল অইয়া তৈয়ার?",
+    "original_answer": "ছোলা ডাল",
+    "rangpur_answer": "ছোলা ডাল"
+  },
+  {
+    "image_id": "food_056",
+    "original_question": "আলু দিয়ে মুরগির মাংস কোন ধরণের খাবার?",
+    "rangpur_question": "আলু দিয়া মুরগির মাংস কোন ধরনর খাবার?",
+    "original_answer": "দেশি তরকারি",
+    "rangpur_answer": "দেশি তরকারি"
+  },
+  {
+    "image_id": "food_057",
+    "original_question": "ডিমের ডালনা কোন ধরনের রান্না?",
+    "rangpur_question": "ডিমের ডালনা কোন ধরনর রান্না?",
+    "original_answer": "ঝোল জাতীয়",
+    "rangpur_answer": "ঝোল জাতীয়"
+  },
+  {
+    "image_id": "food_058",
+    "original_question": "আলু পোস্ত কোন অঞ্চলের জনপ্রিয় খাবার?",
+    "rangpur_question": "আলু পোস্ত কোন এলাকার জনপ্রিয় খাবার?",
+    "original_answer": "পশ্চিমবঙ্গ ও বাংলাদেশ",
+    "rangpur_answer": "পশ্চিমবঙ্গ আর বাংলাদেশ"
+  },
+  {
+    "image_id": "food_059",
+    "original_question": "ডিমের কোরমা কোন ধরনের রান্না?",
+    "rangpur_question": "ডিমের কোরমা কোন ধরনর রান্না?",
+    "original_answer": "মসলাযুক্ত ঝোল",
+    "rangpur_answer": "মশলাযুক্ত ঝোল"
+  },
+  {
+    "image_id": "food_060",
+    "original_question": "ডিমের চপ সাধারণত কোন সময় খাওয়া হয়?",
+    "rangpur_question": "ডিমের চপ সাধারণত কোন সময় খাইয়া হয়?",
+    "original_answer": "বিকেলের নাস্তায়",
+    "rangpur_answer": "বিকেলের নাস্তাত"
+  },
+  {
+    "image_id": "food_061",
+    "original_question": "গরুর মাংস কোষা কেমন ধরনের রান্না?",
+    "rangpur_question": "গরুর মাংস কোষা কী ধরনর রান্না?",
+    "original_answer": "ঝাল ও ঘন ঝোল",
+    "rangpur_answer": "ঝাল আর ঘন ঝোল"
+  },
+  {
+    "image_id": "food_062",
+    "original_question": "তেহারি কোন চাল দিয়ে সাধারণত তৈরি হয়?",
+    "rangpur_question": "তেহারি কোন চাউল দিয়া সাধারণত অইয়া অয়?",
+    "original_answer": "চিনিগুড়া চাল",
+    "rangpur_answer": "চিনিগুড়া চাল"
+  },
+  {
+    "image_id": "food_063",
+    "original_question": "পটল ভাজি কোন সময়ে বেশি খাওয়া হয়?",
+    "rangpur_question": "পটল ভাজি কোন সময় বেশি খায়া হয়?",
+    "original_answer": "ভাতের সঙ্গে",
+    "rangpur_answer": "ভাতের স ang"
+  },
+  {
+    "image_id": "food_064",
+    "original_question": "পটল পোস্ত রান্নার বিশেষ উপাদান কী?",
+    "rangpur_question": "পটল পোস্ত রান্নার বিশেষ জিনিস কী?",
+    "original_answer": "পোস্ত দানা",
+    "rangpur_answer": "পোস্ত দানা"
+  },
+  {
+    "image_id": "food_065",
+    "original_question": "আলু ভাজি সাধারণত কীসের সঙ্গে খাওয়া হয়?",
+    "rangpur_question": "আলু ভাজি সাধারণত কীসের স ang খাইয়া হয়?",
+    "original_answer": "ভাত বা রুটি",
+    "rangpur_answer": "ভাত বা রুটি"
+  },
+  {
+    "image_id": "food_066",
+    "original_question": "কুমড়োর ছক্কা কোন ঋতুর সময়ে বেশি তৈরি হয়?",
+    "rangpur_question": "কুমড়োর ছক্কা কোন ঋতর সময় বেশি অইয়া তৈয়ার হয়?",
+    "original_answer": "শীতকাল",
+    "rangpur_answer": "ঠান্ডা কাল"
+  },
+  {
+    "image_id": "food_067",
+    "original_question": "ছোট মাছের চচ্চড়ি কেমন স্বাদের হয়?",
+    "rangpur_question": "ছোট মাছর চচ্চড়ি কেমন স্বাদের অইয়া?",
+    "original_answer": "ঝাল-মশলাদার",
+    "rangpur_answer": "ঝাল-মশলাদার"
+  },
+  {
+    "image_id": "food_068",
+    "original_question": "মোগলাই পরোটা কোথায় বেশি জনপ্রিয়?",
+    "rangpur_question": "মোগলাই পরোটা কোনঠে বেশি জনপ্রিয়?",
+    "original_answer": "ঢাকা শহরে",
+    "rangpur_answer": "ঢাকা শহরত"
+  },
+  {
+    "image_id": "food_069",
+    "original_question": "পায়েশ তৈরির প্রধান উপকরণ কী?",
+    "rangpur_question": "পায়েশ বানানোর প্রধান জিনিস কী?",
+    "original_answer": "চাল ও দুধ",
+    "rangpur_answer": "চাউল আর দুধ"
+  },
+  {
+    "image_id": "food_070",
+    "original_question": "রাজভোগ কোন ধরনের মিষ্টি?",
+    "rangpur_question": "রাজভোগ কোন ধরনর মিষ্টি?",
+    "original_answer": "ছানার মিষ্টি",
+    "rangpur_answer": "ছানার মিষ্টি"
+  },
+  {
+    "image_id": "food_071",
+    "original_question": "পান্তুয়া কোন ধরনের মিষ্টি?",
+    "rangpur_question": "পান্তুয়া কোন ধরনর মিষ্টি?",
+    "original_answer": "ভাজা মিষ্টি",
+    "rangpur_answer": "ভাজা মিষ্টি"
+  },
+  {
+    "image_id": "food_072",
+    "original_question": "কালোজাম দেখতে কেমন?",
+    "rangpur_question": "কালোজাম দেখতে কী রকম?",
+    "original_answer": "গোল ও কালো",
+    "rangpur_answer": "গোল আর কালা"
+  },
+  {
+    "image_id": "food_073",
+    "original_question": "ভাত সাধারণত কোন খাবারের সঙ্গে খাওয়া হয়?",
+    "rangpur_question": "ভাত সাধারণত কোন খাবারর লগে খায়া হয়?",
+    "original_answer": "তরকারি",
+    "rangpur_answer": "তরকারি"
+  },
+  {
+    "image_id": "food_074",
+    "original_question": "ছানার জিলাপি কোন উপকরণ দিয়ে তৈরি?",
+    "rangpur_question": "ছানার জিলাপি কোন জিনিস দিয়া তৈয়ার?",
+    "original_answer": "ছানা",
+    "rangpur_answer": "ছানা"
+  },
+  {
+    "image_id": "food_075",
+    "original_question": "দুধ পুলি পিঠা কোন উৎসবে জনপ্রিয়?",
+    "rangpur_question": "দুধ পুলি পিঠা কোন উৎসবে জনপ্রিয়?",
+    "original_answer": "পৌষ পার্বণ",
+    "rangpur_answer": "পউষ পার্বণ"
+  },
+  {
+    "image_id": "food_076",
+    "original_question": "আখের রস সাধারণত কোন ঋতুতে খাওয়া হয়?",
+    "rangpur_question": "আখের রস সাধারণত কোন ঋতুতে খায়া হয়?",
+    "original_answer": "গ্রীষ্মকাল",
+    "rangpur_answer": "গ্রীষ্মকাল"
+  },
+  {
+    "image_id": "food_077",
+    "original_question": "চিংড়ি মাছ ভুনা কোন স্বাদের রান্না?",
+    "rangpur_question": "চিংড়ি মাছ ভুনা কোন স্বাদের রান্না?",
+    "original_answer": "ঝাল-মশলাদার",
+    "rangpur_answer": "ঝাল-মশলাদার"
+  },
+  {
+    "image_id": "food_078",
+    "original_question": "জলপাইয়ের তেলের আচার কেমন স্বাদের?",
+    "rangpur_question": "জলপাই তেলর আচার কীলাক স্বাদের?",
+    "original_answer": "ঝাল-টক",
+    "rangpur_answer": "ঝাল-টক"
+  },
+  {
+    "image_id": "food_079",
+    "original_question": "জলপাইয়ের মিষ্টি আচার কোন ধরনের স্বাদের?",
+    "rangpur_question": "জলপাইর মিষ্টি আচার কোন ধরনর স্বাদের?",
+    "original_answer": "মিষ্টি",
+    "rangpur_answer": "মিষ্টি"
+  },
+  {
+    "image_id": "food_080",
+    "original_question": "আমের তেলের আচার সাধারণত কোন ঋতুতে বেশি তৈরি হয়?",
+    "rangpur_question": "আমের তেলের আছার সাধারণত কোন ঋৌত বেশি তৈর অয়?",
+    "original_answer": "গ্রীষ্মকাল",
+    "rangpur_answer": "গ্রীষ্মকাল"
+  },
+  {
+    "image_id": "food_081",
+    "original_question": "লেবুর আচার কেমন স্বাদের হয়?",
+    "rangpur_question": "লেবুর আচার কীলাক স্বাদের অয়?",
+    "original_answer": "টক",
+    "rangpur_answer": "টক"
+  },
+  {
+    "image_id": "food_082",
+    "original_question": "টমেটো ভর্তায় কী ধরনের স্বাদ বেশি থাকে?",
+    "rangpur_question": "টমেটো ভর্তাত কী ধরনর স্বাদ বেশি থাকে?",
+    "original_answer": "টক",
+    "rangpur_answer": "টক"
+  },
+  {
+    "image_id": "food_083",
+    "original_question": "বুন্দিয়া কেমন মিষ্টি?",
+    "rangpur_question": "বুন্দিয়া কেমন মিষ্টি?",
+    "original_answer": "ঝুরঝুরে",
+    "rangpur_answer": "ঝুরঝুরে"
+  },
+  {
+    "image_id": "food_084",
+    "original_question": "বেবি মিষ্টি দেখতে কেমন?",
+    "rangpur_question": "বেবি মিষ্টি দেখতে ক্যান?",
+    "original_answer": "ছোট আকারের মিষ্টি",
+    "rangpur_answer": "ছোটগো মিষ্টি"
+  },
+  {
+    "image_id": "food_085",
+    "original_question": "মুরালি কী ধরণের খাবার?",
+    "rangpur_question": "মুরালি কী ধরনর খাবার?",
+    "original_answer": "মিষ্টি",
+    "rangpur_answer": "মিষ্টি"
+  },
+  {
+    "image_id": "food_086",
+    "original_question": "নিমকি সাধারণত কোন সময় খাওয়া হয়?",
+    "rangpur_question": "নিমকি সাধারণত কোন সময় খাইয়া হয়?",
+    "original_answer": "নাস্তায়",
+    "rangpur_answer": "নাস্তাত"
+  },
+  {
+    "image_id": "food_087",
+    "original_question": "মনাকা সাধারণত কেমন ধরনের খাবার?",
+    "rangpur_question": "মনাকা সাধারণত কী ধরনর খাবার?",
+    "original_answer": "বিস্কুট জাতীয়",
+    "rangpur_answer": "বিস্কুট জাতীয়"
+  },
+  {
+    "image_id": "food_088",
+    "original_question": "তালের বড়া কোন ঋতুর খাবার?",
+    "rangpur_question": "তালর বড়া কোন ঋতুর খাবার?",
+    "original_answer": "বর্ষাকাল",
+    "rangpur_answer": "বর্ষাকাল"
+  },
+  {
+    "image_id": "food_089",
+    "original_question": "ডিম ভর্তায় কোন উপাদান অবশ্যই থাকে?",
+    "rangpur_question": "ডিম ভর্তাত কোন জিনিস অবশ্যই থাহে?",
+    "original_answer": "ডিম",
+    "rangpur_answer": "ডিম"
+  },
+  {
+    "image_id": "food_090",
+    "original_question": "মসুর ডাল সাধারণত কীসের সঙ্গে খাওয়া হয়?",
+    "rangpur_question": "মসুর ডাল সাধারণত কীকর লগে খায়া হয়?",
+    "original_answer": "ভাত",
+    "rangpur_answer": "ভাত"
+  },
+  {
+    "image_id": "food_091",
+    "original_question": "ঢেঁড়শ চাষের জন্য কোন মাটি সবচেয়ে উপযুক্ত?",
+    "rangpur_question": "ঢেঁড়শ চাষের লাগি কোন মাটি সবচাইতে উপযুক্ত?",
+    "original_answer": "বেলে দোআঁশ মাটি",
+    "rangpur_answer": "বেলে দোআঁশ মাটি"
+  },
+  {
+    "image_id": "food_092",
+    "original_question": "চিংড়ি মাছের ভর্তা কোন খাবারের সাথে সবচেয়ে বেশি খাওয়া হয়?",
+    "rangpur_question": "চিংড়ি মাছর ভর্তা কোন খাবারর সগগে সবচাইতে বেশি খাইয়া হয়?",
+    "original_answer": "ভাত",
+    "rangpur_answer": "ভাত"
+  },
+  {
+    "image_id": "food_093",
+    "original_question": "বেগুন দিয়ে ইলিশ কোন ধরণের পদ?",
+    "rangpur_question": "বেগুন দিয়া ইলিশ কোন ধরনর পদ?",
+    "original_answer": "ঝোল",
+    "rangpur_answer": "ঝোল"
+  },
+  {
+    "image_id": "food_094",
+    "original_question": "আলু দিয়ে টেংরা মাছের ঝোল কোন অঞ্চলে বেশি জনপ্রিয়?",
+    "rangpur_question": "আলু দিয়া টেংরা মাছর ঝোল কোন এলাকার বেশি জনপ্রিয়?",
+    "original_answer": "বাংলাদেশ",
+    "rangpur_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "food_095",
+    "original_question": "আলু দিয়ে শোল মাছ রান্নার সময় কোন মসলা সাধারণত ব্যবহৃত হয় না?",
+    "rangpur_question": "আলু দিয়া শোল মাছ রান্নার সময় কোন মসলা সাধারণত ব্যবহার অয় না?",
+    "original_answer": "গরম মসলা",
+    "rangpur_answer": "গরম মশলা"
+  },
+  {
+    "image_id": "food_096",
+    "original_question": "শোল মাছ ভুনা কোন ধরনের রান্না?",
+    "rangpur_question": "শোল মাছ ভুনা কোন ধরনর রান্না?",
+    "original_answer": "শুকনা ঝাল",
+    "rangpur_answer": "শুকনা ঝাল"
+  },
+  {
+    "image_id": "food_097",
+    "original_question": "রুই মাছের কালিয়া সাধারণত কোন উপাদান দিয়ে রান্না করা হয়?",
+    "rangpur_question": "রুই মাছর কালিয়া সাধারণত কোন উপাদান দিয়েই রান্না কইর‍্যা থাহে?",
+    "original_answer": "পেঁয়াজ ও মশলা",
+    "rangpur_answer": "পেঁয়াজ আর মশলা"
+  },
+  {
+    "image_id": "food_098",
+    "original_question": "মেজ্জান গোশ্ত কোন অঞ্চলের বিখ্যাত খাবার?",
+    "rangpur_question": "মেজ্জান গোশ্ত কোন এলাকার বিখ্যাত খাবার?",
+    "original_answer": "চট্টগ্রাম",
+    "rangpur_answer": "চট্টগ্রাম"
+  },
+  {
+    "image_id": "food_099",
+    "original_question": "চনার ডাল মূলত কোন শস্য থেকে তৈরি হয়?",
+    "rangpur_question": "চনার ডাল মুলত কোন শস্য অইয়া তৈরর হয়?",
+    "original_answer": "ছোলা",
+    "rangpur_answer": "ছোলাগো"
+  },
+  {
+    "image_id": "food_100",
+    "original_question": "চিংড়ি দিয়ে মূলার শাকের পিঠুলি কোন ধরণের খাবার??",
+    "rangpur_question": "চিংড়ি দিয়া মূলার শাকর পিঠুলি কোন ধরনর খাবার?",
+    "original_answer": "তরকারি",
+    "rangpur_answer": "তরকারি"
+  },
+  {
+    "image_id": "food_101",
+    "original_question": "তেলাপিয়া মাছ কোন অঞ্চলে বেশি পাওয়া যায়?",
+    "rangpur_question": "তেলাপিয়া মাছ কোন এলাকায় বেশি পাওয়া যায়?",
+    "original_answer": "মিঠা পানির হাওর ও পুকুরে",
+    "rangpur_answer": "মিঠা পানির হাওর আর পুকুরে"
+  },
+  {
+    "image_id": "food_102",
+    "original_question": "বেগুনি কোন সময়ে বেশি খাওয়া হয়?",
+    "rangpur_question": "বেগুনি কোন সময় বেশি খায়া হয়?",
+    "original_answer": "রমজান মাসে",
+    "rangpur_answer": "রমজান মাসত"
+  },
+  {
+    "image_id": "food_103",
+    "original_question": "আলুর চপ কী ধরণের খাবার?",
+    "rangpur_question": "আলুর চপ কী ধরনর খাবার?",
+    "original_answer": "ভাজা নাস্তা",
+    "rangpur_answer": "ভাজা নাস্তা"
+  },
+  {
+    "image_id": "food_104",
+    "original_question": "কাঁচাগোল্লা কোন জেলার বিখ্যাত খাবার?",
+    "rangpur_question": "কাঁচাগোল্লা কোন জেলার বিখ্যাত খাবার?",
+    "original_answer": "নাটোর",
+    "rangpur_answer": "নাটোর"
+  },
+  {
+    "image_id": "food_105",
+    "original_question": "ছানামুখী কোন জেলার বিখ্যাত খাবার?",
+    "rangpur_question": "ছানামুখী কোন জেলার বিখ্যাত খাবার?",
+    "original_answer": "পাতলা লম্বা",
+    "rangpur_answer": "পাতলা লম্বা"
+  },
+  {
+    "image_id": "food_106",
+    "original_question": "ঘোল কোন জেলার বিখ্যাত পানীয়?",
+    "rangpur_question": "ঘোল কোন জেলার বিখ্যাত পানীয়?",
+    "original_answer": "সিরাজগঞ্জ",
+    "rangpur_answer": "সিরাজগঞ্জ"
+  },
+  {
+    "image_id": "food_107",
+    "original_question": "ফুলঝুরি পিঠা কেমন আকারের হয়?",
+    "rangpur_question": "ফুলঝুরি পিঠা ক্যন সাইজের অয়?",
+    "original_answer": "ঝুরঝুরে",
+    "rangpur_answer": "ঝুরঝুরে"
+  },
+  {
+    "image_id": "food_108",
+    "original_question": "সেমাই পিঠা প্রধানত কোন উপাদান দিয়ে তৈরি?",
+    "rangpur_question": "সেমাই পিঠা প্রধানত কোন জিনিস দিয়া তয়ারী?",
+    "original_answer": "ময়দা",
+    "rangpur_answer": "ময়দা"
+  },
+  {
+    "image_id": "food_109",
+    "original_question": "ফিরনি কোন উপাদান দিয়ে তৈরি হয়?",
+    "rangpur_question": "ফিরনি কোন জিনিস দিয়া অইয়া?",
+    "original_answer": "চালগুঁড়া ও দুধ",
+    "rangpur_answer": "চালগুঁড়া আর দুধ"
+  },
+  {
+    "image_id": "food_110",
+    "original_question": "গোলাপ জাম কোন মিষ্টির সাথে সাদৃশ্যপূর্ণ?",
+    "rangpur_question": "গোলাপ জাম কোন মিষ্টির লগে সাদৃশ্যপূর্ণ?",
+    "original_answer": "কালোজাম",
+    "rangpur_answer": "কালোজাম"
+  },
+  {
+    "image_id": "food_111",
+    "original_question": "লেটকা খিচুড়ি কোন সময়ে বেশি রান্না হয়?",
+    "rangpur_question": "লেটকা খিচুড়ি কোন সময় বেশি রান্ধা অয়?",
+    "original_answer": "বর্ষাকাল",
+    "rangpur_answer": "বর্ষাকাল"
+  },
+  {
+    "image_id": "food_112",
+    "original_question": "কলিজা ভুনা সাধারণত গরু/খাসির কোন অঙ্গ দিয়ে তৈরি করা হয়?",
+    "rangpur_question": "কলিজা ভুনা সাধারণত গরু/খাসির কোন অঙ্গ দিয়া তৈয়ার অইয়া থাকে?",
+    "original_answer": "গরু বা খাসি",
+    "rangpur_answer": "গরু বা খাসি"
+  },
+  {
+    "image_id": "food_113",
+    "original_question": "পাতলা ডাল সাধারণত কীসের সঙ্গে খাওয়া হয়?",
+    "rangpur_question": "পাতলা ডাল সাধারণত কীসের স ang খাইয়া হয়?",
+    "original_answer": "ভাত",
+    "rangpur_answer": "ভাত"
+  },
+  {
+    "image_id": "food_114",
+    "original_question": "চালকুমড়ো ভাজি কোন ধরনের সবজি?",
+    "rangpur_question": "চালকুমড়ো ভাজি কোন ধরনর সবজি?",
+    "original_answer": "কুমড়ো জাতীয়",
+    "rangpur_answer": "কুমড়াগো"
+  },
+  {
+    "image_id": "food_115",
+    "original_question": "ডিম মিষ্টি কুমড়ো ভাজির স্বাদ কেমন?",
+    "rangpur_question": "ডিমো মিষ্টি কুমড়ো ভাজির স্বাদ কী জিনিস?",
+    "original_answer": "হালকা মিষ্টি ও নরম",
+    "rangpur_answer": "হালকা মিষ্ট আর নরম"
+  },
+  {
+    "image_id": "food_116",
+    "original_question": "পটল দিয়ে ইলিশ রান্না কোন স্বাদের হয়?",
+    "rangpur_question": "পটল দিয়া ইলিশ রান্ধা কোন স্বাদের অয়?",
+    "original_answer": "ঝাল-টক",
+    "rangpur_answer": "ঝাল-টক"
+  },
+  {
+    "image_id": "food_117",
+    "original_question": "নোনা ইলিশ শুঁটকি কোন অঞ্চলের জনপ্রিয় খাবার?",
+    "rangpur_question": "নোনা ইলিশ শুঁটকি কোন এলাকার জনপ্রিয় খাবার?",
+    "original_answer": "চট্টগ্রাম",
+    "rangpur_answer": "চট্টগ্রাম"
+  },
+  {
+    "image_id": "food_118",
+    "original_question": "কচু শাক দিয়ে চিংড়ি রান্না কোন অঞ্চলে বিখ্যাত?",
+    "rangpur_question": "কচু শাক দিয়া চিংড়ি রান্ধা কোন এলাকার বিখ্যাত?",
+    "original_answer": "গ্রামবাংলা",
+    "rangpur_answer": "গেরামবাংলা"
+  },
+  {
+    "image_id": "food_119",
+    "original_question": "মগজ ভাজি কোন অঙ্গপ্রত্যঙ্গ দিয়ে তৈরি?",
+    "rangpur_question": "মগজ ভাজি কোন অঙ্গপ্রত্যঙ্গ দিয়েই তৈরি?",
+    "original_answer": "গরু বা খাসির মগজ",
+    "rangpur_answer": "গরু বা খাসির মগজ"
+  },
+  {
+    "image_id": "food_120",
+    "original_question": "মাছের ডিম ভুনা কোন ঋতুতে বেশি খাওয়া হয়?",
+    "rangpur_question": "মাছর ডিম ভুনা কোন ঋতুতে বেশি খাইয়া হয়?",
+    "original_answer": "বর্ষাকাল",
+    "rangpur_answer": "বর্ষাকাল"
+  },
+  {
+    "image_id": "food_121",
+    "original_question": "একসময় কোন জায়গায় প্রচুর চিতল মাছ পাওয়া যেত?",
+    "rangpur_question": "একসময় কোন গেরামে প্রচুর চিতল মাছ পাওয়া যাইতো?",
+    "original_answer": "হাওর",
+    "rangpur_answer": "হাওর"
+  },
+  {
+    "image_id": "food_122",
+    "original_question": "ধুন্দুল ভাজি কোন মৌসুমি সবজি দিয়ে রান্না হয়?",
+    "rangpur_question": "ধুন্দুল ভাজি কোন মৌসুমী সবজি অইয়া রান্ধা হয়?",
+    "original_answer": "ধুন্দুল",
+    "rangpur_answer": "ধুন্দুল"
+  },
+  {
+    "image_id": "food_123",
+    "original_question": "ধুন্দুল দিয়ে চিংড়ি মাছের ঝোল সাধারণত কোন মৌসুমে বেশি খাওয়া হয়?",
+    "rangpur_question": "ধুন্দুল দিয়া চিংড়ি মাছর ঝোল সাধারণত কোন মৌসুমে বেশি খাইয়া হয়?",
+    "original_answer": "গ্রীষ্ম ও বর্ষাকালে",
+    "rangpur_answer": "গ্রীষ্ম আর বর্ষাকালে"
+  },
+  {
+    "image_id": "food_124",
+    "original_question": "পেপে ভর্তার প্রধান উপকরণ কোনটি?",
+    "rangpur_question": "পেঁপে ভর্তার প্রধান উপকরণ কোনগো?",
+    "original_answer": "কাঁচা পেপে",
+    "rangpur_answer": "কাঁচাপাকা পেঁপে"
+  },
+  {
+    "image_id": "food_125",
+    "original_question": "ডিম ভাজি সাধারণত কোন সময় সকালের নাশতায় বেশি খাওয়া হয়?",
+    "rangpur_question": "ডিম ভাজি সাধারণত কোন সময় সকালর নাশতাত বেশি খাইয়া হয়?",
+    "original_answer": "সকাল",
+    "rangpur_answer": "সকাল"
+  },
+  {
+    "image_id": "food_126",
+    "original_question": "চাপটি কোন ধরণের খাবারের অন্তর্গত?",
+    "rangpur_question": "চাপটি কোন ধরনর খাবারর অন্তর্গত?",
+    "original_answer": "পিঠা",
+    "rangpur_answer": "পিঠা"
+  },
+  {
+    "image_id": "food_127",
+    "original_question": "রূপচাঁদা ভাজি কোন মাছ দিয়ে তৈরি করা হয়?",
+    "rangpur_question": "রূপচাঁদা ভাজি কোন মাছ অইয়া তৈরর করা হয়?",
+    "original_answer": "রূপচাঁদা মাছ",
+    "rangpur_answer": "রূপচাঁদা মাছ"
+  },
+  {
+    "image_id": "food_128",
+    "original_question": "মুরগির রোস্ট কোন বিশেষ অনুষ্ঠানে পরিবেশন করা হয়?",
+    "rangpur_question": "মুরগির রোস্ট কোন বিশেষ অনুষ্ঠানর সময় পরিবেশন কইর‍্যা অয়?",
+    "original_answer": "বিয়ে",
+    "rangpur_answer": "বিয়া"
+  },
+  {
+    "image_id": "food_129",
+    "original_question": "অবাক সন্দেশ কোন ধরণের মিষ্টি?",
+    "rangpur_question": "অবাক সন্দেশ কোন ধরনর মিষ্টি?",
+    "original_answer": "দুধ দিয়ে তৈরি",
+    "rangpur_answer": "দুধ দিয়া"
+  },
+  {
+    "image_id": "food_130",
+    "original_question": "ইলিশ পেটি সন্দেশে প্রধান উপকরণ কী ব্যবহৃত হয়?",
+    "rangpur_question": "ইলিশ পেটি সন্দেশত প্রধান উপকরণ কী অইয়া ব্যবহৃত হয়?",
+    "original_answer": "ছানা",
+    "rangpur_answer": "ছানা"
+  },
+  {
+    "image_id": "food_131",
+    "original_question": "নেহারিতে গরুর কোন অংশ ব্যবহার করা হয়?",
+    "rangpur_question": "নেহারিত গরুর কোনগো অংশ ব্যবহার অইয়াগেছে?",
+    "original_answer": "পাঁজর ও পায়ের মাংস",
+    "rangpur_answer": "পাঁজর আর পায়ার গোস"
+  },
+  {
+    "image_id": "food_132",
+    "original_question": "করলা ভাজি কোন স্বাদের জন্য বিখ্যাত?",
+    "rangpur_question": "করলা ভাজি কোন স্বাদের লাগি বিখ্যাত?",
+    "original_answer": "তিক্ত",
+    "rangpur_answer": "তিক্ত"
+  },
+  {
+    "image_id": "food_133",
+    "original_question": "কাচ্চি বিরিয়ানি সাধারণত কোন উৎসবে খাওয়া হয়?",
+    "rangpur_question": "কাচ্চি বিরিয়ানি সাধারণত কোন উৎসবে খাইয়া হয়?",
+    "original_answer": "বিয়ে",
+    "rangpur_answer": "বিয়া"
+  },
+  {
+    "image_id": "food_134",
+    "original_question": "সজনের চোরচোরিতে প্রধান সবজি কোনটি?",
+    "rangpur_question": "সোজনর চোরচোরিত প্রধান সবজি কোনগো?",
+    "original_answer": "সজন ডাঁটা",
+    "rangpur_answer": "সজন ডাঁটা"
+  },
+  {
+    "image_id": "food_135",
+    "original_question": "বাঁধাকপি ভাজি কোন মৌসুমে বেশি পাওয়া যায়?",
+    "rangpur_question": "বাঁধাকপি ভাজি কোন মৌসুমে বেশি পাওয়া যায়?",
+    "original_answer": "শীতকাল",
+    "rangpur_answer": "শীতকাল"
+  },
+  {
+    "image_id": "food_136",
+    "original_question": "গরুর ভুঁড়ি ভাজি সাধারণত কোন অঞ্চলের জনপ্রিয় খাবার?",
+    "rangpur_question": "গরুর ভুঁড়ি ভাজি সাধারণত কোন এলাকার জনপ্রিয় খাবার?",
+    "original_answer": "চট্টগ্রাম",
+    "rangpur_answer": "চট্টগ্রাম"
+  },
+  {
+    "image_id": "food_137",
+    "original_question": "কালোজিরা ভর্তা সাধারণত কোন খাবারের সঙ্গে খাওয়া হয়?",
+    "rangpur_question": "কালোজিরা ভর্তা সাধারণত কোন খাবারর স ang খাওয়া হয়?",
+    "original_answer": "ভাত",
+    "rangpur_answer": "ভাত"
+  },
+  {
+    "image_id": "food_138",
+    "original_question": "জর্দা সেমাইতে প্রধান মসলা হিসেবে কী ব্যবহার হয়?",
+    "rangpur_question": "জর্দা সেমাইর প্রধান মশলা হিসাবে কী ব্যবহার অয়?",
+    "original_answer": "এলাচ",
+    "rangpur_answer": "এলাচ"
+  },
+  {
+    "image_id": "food_139",
+    "original_question": "লাচ্ছা সেমাই সাধারণত কোন উৎসবে খাওয়া হয়?",
+    "rangpur_question": "লাচ্ছা সেমাই সাধারণত কোন উৎসবে খাইয়া হয়?",
+    "original_answer": "ঈদ",
+    "rangpur_answer": "ঈদ"
+  },
+  {
+    "image_id": "food_140",
+    "original_question": "শিং মাছের ঝোল সাধারণত কোন খাবারের সাথে পরিবেশন করা হয়?",
+    "rangpur_question": "শিং মাছর ঝোল সাধারণত কোন খাবারর সউগে পরিবেশন কইর‍্যা দেওয়া হয়?",
+    "original_answer": "ভাত",
+    "rangpur_answer": "ভাত"
+  },
+  {
+    "image_id": "food_141",
+    "original_question": "ফুলকপি ভাজি কোন ঋতুতে বেশি খাওয়া হয়?",
+    "rangpur_question": "ফুলকপি ভাজি কোন ঋতুতে বেশি খাইয়া হয়?",
+    "original_answer": "শীতকাল",
+    "rangpur_answer": "শীতকাল"
+  },
+  {
+    "image_id": "food_142",
+    "original_question": "বালাচাও কোন অঞ্চলের বিশেষ খাবার?",
+    "rangpur_question": "বালাচাও কোন এলাকার বিশেষ খাবার?",
+    "original_answer": "চট্টগ্রাম",
+    "rangpur_answer": "চট্টগ্রাম"
+  },
+  {
+    "image_id": "food_143",
+    "original_question": "মুসুর ডাল দিয়ে পুঁই শাক রান্না করলে কোন স্বাদটি বেশি হয়?",
+    "rangpur_question": "মুসুর ডাল দিয়া পুঁই শাক রান্ধিলে কোন স্বাদগো বেশি অইয়া?",
+    "original_answer": "ঝোল ঝোল",
+    "rangpur_answer": "ঝোল ঝোল"
+  },
+  {
+    "image_id": "food_144",
+    "original_question": "মেরা পিঠা সাধারণত কোন সময় খাওয়া হয়?",
+    "rangpur_question": "মেরা পিঠা সাধারণত কোন সময় খায়া হয়?",
+    "original_answer": "শীতকাল",
+    "rangpur_answer": "ঠান্ডা কাল"
+  },
+  {
+    "image_id": "food_145",
+    "original_question": "কাকরোল ভাজি কোন ভাজির সঙ্গে সবচেয়ে বেশি মিল আছে?",
+    "rangpur_question": "কাকরোল ভাজি কোন ভাজির লগে সবচাইতে বেশি মিল আছে?",
+    "original_answer": "পটল ভাজি",
+    "rangpur_answer": "পটল ভাজি"
+  },
+  {
+    "image_id": "food_146",
+    "original_question": "আমের ঝুরি আচার কোন স্বাদের জন্য জনপ্রিয়?",
+    "rangpur_question": "আমের ঝুরি আচার কোন স্বাদের লাগি জনপ্রিয়?",
+    "original_answer": "টক",
+    "rangpur_answer": "টক"
+  },
+  {
+    "image_id": "food_147",
+    "original_question": "কাঁচা কলার ভর্তা খেলে শরীরের কোন উপকার হয়?",
+    "rangpur_question": "কাঁচা কলার ভর্তা খাইলে শরীলের কোন উপকার অইয়া?",
+    "original_answer": "হজমশক্তি বাড়ে",
+    "rangpur_answer": "হজমশক্তি বাড়ে"
+  },
+  {
+    "image_id": "food_148",
+    "original_question": "কই মাছ ভাজা সাধারণত কোন খাবারের সঙ্গে পরিবেশন করা হয়?",
+    "rangpur_question": "কই মাছ ভাজা সাধারণত কোন খাবারর লগে পরিবেশন করা হয়?",
+    "original_answer": "ভাত",
+    "rangpur_answer": "ভাত"
+  },
+  {
+    "image_id": "food_149",
+    "original_question": "মাছের ডিম ভাজি কোন সময় বেশি খাওয়া হয়?",
+    "rangpur_question": "মাছর ডিম ভাজি কোন সময় বেশি খাইয়া হয়?",
+    "original_answer": "বর্ষাকাল",
+    "rangpur_answer": "বর্ষাকাল"
+  },
+  {
+    "image_id": "food_150",
+    "original_question": "মুড়িঘণ্টে কোন মাছের মাথা সাধারণত ব্যবহার করা হয়?",
+    "rangpur_question": "মুড়িঘণ্টে কোন মাছর মাথা সাধারণত ব্যবহার অইয়া থাকে?",
+    "original_answer": "রুই বা কাতলা",
+    "rangpur_answer": "রুই বা কাতলা"
+  }
+]

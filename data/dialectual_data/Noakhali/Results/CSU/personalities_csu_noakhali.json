@@ -1,0 +1,1052 @@
+[
+  {
+    "image_id": "personality_001",
+    "original_question": "তাজউদ্দীন আহমদ কে ছিলেন?",
+    "noakhali_question": "তাজউদ্দীন আহমদ কে আছিল?",
+    "original_answer": "বাংলাদেশের প্রথম প্রধানমন্ত্রী",
+    "noakhali_answer": "বাংলাদেশর প্রথম প্রধানমন্ত্রী"
+  },
+  {
+    "image_id": "personality_002",
+    "original_question": "হুমায়ূন আহমেদ কোন ক্ষেত্রে খ্যাত ছিলেন?",
+    "noakhali_question": "হুমায়ূন আহমেদ কোন কামে খ্যাত আছিল?",
+    "original_answer": "ঔপন্যাসিক, নাট্যকার ও চলচ্চিত্র নির্মাতা",
+    "noakhali_answer": "ঔপন্যাসিক, নাট্যকার আর চলচ্চিত্র নির্মাতা"
+  },
+  {
+    "image_id": "personality_003",
+    "original_question": "আবদুল হামিদ খান ভাসানী কোন ধরনের রাজনীতিতে খ্যাত ছিলেন?",
+    "noakhali_question": "আবদুল হামিদ খান ভাসানী কোন ধরনের রাজনীতিতে খ্যাত আসলা?",
+    "original_answer": "তৃণমূল রাজনীতি ও গণআন্দোলন",
+    "noakhali_answer": "তৃণমূল রাজনীতি আর গণআন্দোলন"
+  },
+  {
+    "image_id": "personality_004",
+    "original_question": "শাহ আবদুল করিম কোন ক্ষেত্রে কিংবদন্তি?",
+    "noakhali_question": "শাহ আবদুল করিম কোন ক্ষেত্রে কিংবদন্তি?",
+    "original_answer": "সঙ্গীতশিল্পী, সুরকার ও সঙ্গীত শিক্ষক",
+    "noakhali_answer": "গায়ক, সুরকার আর গান-বাজনার উস্তাদ"
+  },
+  {
+    "image_id": "personality_005",
+    "original_question": "রবীন্দ্রনাথ ঠাকুরের সবচেয়ে পরিচিত অবদান কী?",
+    "noakhali_question": "রবীন্দ্রনাথ ঠাকুরের সবচেয়ে পরিচিত অবদান কী?",
+    "original_answer": "সাহিত্যে নোবেল পুরস্কার অর্জন",
+    "noakhali_answer": "সাহিত্যে নোবেল পুরস্কার অর্জন"
+  },
+  {
+    "image_id": "personality_006",
+    "original_question": "মুহাম্মদ কুদরত-এ-খুদা কোন ক্ষেত্রে খ্যাত ছিলেন?",
+    "noakhali_question": "মুহাম্মদ কুদরত-এ-খুদা কোন ক্ষেত্রে খ্যাত আসলা?",
+    "original_answer": "জীব রসায়নবিদ ও শিক্ষাবিদ",
+    "noakhali_answer": "জীব রসায়নবিদ আর শিক্ষাবিদ"
+  },
+  {
+    "image_id": "personality_007",
+    "original_question": "শেখ মুজিবুর রহমান কোন গুরুত্বপূর্ণ পদে ছিলেন?",
+    "noakhali_question": "শেখ মুজিবুর রহমান কোন গুরুত্বপূর্ণ পদে আছিলেন?",
+    "original_answer": "বাংলাদেশের প্রথম রাষ্ট্রপতি",
+    "noakhali_answer": "বাংলাদেশর প্রথম রাষ্ট্রপতি"
+  },
+  {
+    "image_id": "personality_008",
+    "original_question": "শেখ হাসিনা কতবার প্রধানমন্ত্রী হয়েছেন?",
+    "noakhali_question": "শেখ হাসিনা কতবার প্রধানমন্ত্রী অইছেন?",
+    "original_answer": "চারবার",
+    "noakhali_answer": "চারবার"
+  },
+  {
+    "image_id": "personality_009",
+    "original_question": "জিয়াউর রহমান কোন রাজনৈতিক দল প্রতিষ্ঠা করেন?",
+    "noakhali_question": "জিয়াউর রহমান কোন দল বানাইছিল?",
+    "original_answer": "বাংলাদেশ জাতীয়তাবাদী দল",
+    "noakhali_answer": "বাংলাদেশ জাতীয়তাবাদী দল"
+  },
+  {
+    "image_id": "personality_010",
+    "original_question": "বেগম খালেদা জিয়ার উল্লেখযোগ্য কীর্তি কী?",
+    "noakhali_question": "বেগম খালেদা জিয়ার উল্লেখযোগ্য কীর্তি কী?",
+    "original_answer": "বাংলাদেশের প্রথম মহিলা প্রধানমন্ত্রী",
+    "noakhali_answer": "বাংলাদেশর প্রথম মহিলা প্রধানমন্ত্রী"
+  },
+  {
+    "image_id": "personality_011",
+    "original_question": "হুসেইন মুহাম্মদ এরশাদ কোন রাজনৈতিক দল গঠন করেন?",
+    "noakhali_question": "হুসেইন মুহাম্মদ এরশাদ কোন রাজনৈতিক দল গড়ি?",
+    "original_answer": "জাতীয় পার্টি",
+    "noakhali_answer": "জাতীয় পার্টি"
+  },
+  {
+    "image_id": "personality_012",
+    "original_question": "মোহাম্মদ আবদুল হামিদ বাংলাদেশের কোন গুরুত্বপূর্ণ পদে ছিলেন?",
+    "noakhali_question": "মোহাম্মদ আবদুল হামিদ বাংলাদেশের কোন গুরুত্বপূর্ণ পদে আছিল?",
+    "original_answer": "বাংলাদেশের রাষ্ট্রপতি, আইনজীবী ও রাজনীতিবিদ",
+    "noakhali_answer": "বাংলাদেশর রাষ্ট্রপতি, আইনজীবী আর রাজনীতিবিদ"
+  },
+  {
+    "image_id": "personality_013",
+    "original_question": "মুহাম্মদ আতাউল গণি ওসমানী বাংলাদেশের ইতিহাসে কোন খাতে পরিচিত ছিলেন?",
+    "noakhali_question": "মুহাম্মদ আতাউল গণি ওসমানী বাংলাদেশের ইতিহাসে কোন খাতে পরিচিত আসলা?",
+    "original_answer": "মুক্তিবাহিনীর সর্বাধিনায়ক",
+    "noakhali_answer": "ফৌজদার"
+  },
+  {
+    "image_id": "personality_014",
+    "original_question": "সৈয়দ নজরুল ইসলাম কোন সরকারের অস্থায়ী রাষ্ট্রপতি ছিলেন?",
+    "noakhali_question": "সৈয়দ নজরুল ইসলাম কোন সরকারের অস্থায়ী রাষ্ট্রপতি আছিল?",
+    "original_answer": "মুজিবনগর সরকার",
+    "noakhali_answer": "মুজিবনগর সরকার"
+  },
+  {
+    "image_id": "personality_015",
+    "original_question": "মুহাম্মদ ইউনূস কোন অর্থনৈতিক প্রজেক্ট ও প্রতিষ্ঠানের জন্য বিখ্যাত?",
+    "noakhali_question": "মুহাম্মদ ইউনূস কোন অর্থনৈতিক প্রজেক্ট আর প্রতিষ্ঠানের লাগি বিখ্যাত?",
+    "original_answer": "মাইক্রোক্রেডিটের সূচনা ও গ্রামীণ ব্যাংকের প্রতিষ্ঠাতা",
+    "noakhali_answer": "মাইক্রোক্রেডিটের শুরু আর গ্রামীণ ব্যাংকের প্রতিষ্ঠাতা"
+  },
+  {
+    "image_id": "personality_016",
+    "original_question": "আবুল বারকাত কোন ধারণার জন্য পরিচিত?",
+    "noakhali_question": "আবুল বারকাত কোন ধারণার লাগি পরিচিত?",
+    "original_answer": "জনগণের অর্থনীতি বা অডিওকন",
+    "noakhali_answer": "জনগণের অর্থনীতি বা অডিওকন"
+  },
+  {
+    "image_id": "personality_017",
+    "original_question": "সার ফজলে হাসান আবেদ কোন বৃহত্তম এনজিও-এর প্রতিষ্ঠাতা?",
+    "noakhali_question": "স্যার ফজলে হাসান আবেদ কোন বড় এনজিও-এর প্রতিষ্ঠাতা?",
+    "original_answer": "ব্র্যাক",
+    "noakhali_answer": "ব্র্যাক"
+  },
+  {
+    "image_id": "personality_018",
+    "original_question": "শেরে বাংলা এ. কে. ফজলুল হক কোন পদে খ্যাত ছিলেন?",
+    "noakhali_question": "শেরে বাংলা এ. কে. ফজলুল হক কোন পদে খ্যাত আছিল?",
+    "original_answer": "বেঙ্গলের প্রথম মুসলিম মুখ্যমন্ত্রী",
+    "noakhali_answer": "বেঙ্গলের প্রথম মুসলিম মুখ্যমন্ত্রী"
+  },
+  {
+    "image_id": "personality_019",
+    "original_question": "সুফিয়া কামাল কোন ক্ষেত্রে অগ্রদূত ছিলেন?",
+    "noakhali_question": "সুফিয়া কামাল কোন ক্ষেত্রে আগু বাড়াইতাছিল?",
+    "original_answer": "নারী মুক্তি ও সাহিত্য আন্দোলন",
+    "noakhali_answer": "নারীর মুক্তি আর সাহিত্য আন্দোলন"
+  },
+  {
+    "image_id": "personality_020",
+    "original_question": "জসীমউদ্দীন কোন ধরনের সাহিত্যিক ছিলেন এবং কোন বিষয়ের জন্য খ্যাত?",
+    "noakhali_question": "জসীমউদ্দীন কোন ধরনের সাহিত্যিক আছিল আর কোন বিষয়ের লাগি খ্যাত?",
+    "original_answer": "পল্লী কবি, গ্রামীণ জীবনের অমর কথক",
+    "noakhali_answer": "পল্লী কবি, গেরামের জীবনের অমর কথক"
+  },
+  {
+    "image_id": "personality_021",
+    "original_question": "সেলিনা হোসেন কোন ক্ষেত্রে বাংলা সাহিত্যের পরিচিত কণ্ঠ হিসেবে খ্যাত?",
+    "noakhali_question": "সেলিনা হোসেন কোন ক্ষেত্রে বাংলা সাহিত্যের পরিচিত কণ্ঠ হিসাবে খ্যাত?",
+    "original_answer": "উপন্যাসিক, বাংলা সাহিত্যে গুরুত্বপূর্ণ অবদান",
+    "noakhali_answer": "উপন্যাসিক, বাংলা সাহিত্যে গুরুত্বপূর্ণ অবদান"
+  },
+  {
+    "image_id": "personality_022",
+    "original_question": "আনিসুল হক কোন বিখ্যাত উপন্যাসের রচয়িতা?",
+    "noakhali_question": "আনিসুল হক কোন বিখ্যাত উপন্যাসের রচয়িতা?",
+    "original_answer": "‘মা’ উপন্যাসের রচয়িতা",
+    "noakhali_answer": "‘মা’ উপন্যাসের রচয়িতা"
+  },
+  {
+    "image_id": "personality_023",
+    "original_question": "সৈয়দ মুজতবা আলী কোন ধরনের সাহিত্যিক এবং কোন বিষয়ের প্রতি তাঁর লেখনী সমৃদ্ধ ছিল?",
+    "noakhali_question": "সৈয়দ মুজতবা আলী কোন ধরনের সাহিত্যিক আর কোন বিষয়ের ওপর তাঁর লেখালেখি ভরপুর আছিল?",
+    "original_answer": "ভ্রমণ ও ভাষাচিন্তায় সমৃদ্ধ লেখনী, লেখক",
+    "noakhali_answer": "ভ্রমণ আর ভাষাচিন্তায় ভরপুর লেখনী, লেখক"
+  },
+  {
+    "image_id": "personality_024",
+    "original_question": "আহমদ ছফার বিখ্যাত বই কোনটি?",
+    "noakhali_question": "আহমদ ছফার বিখ্যাত বইডা কোনডা?",
+    "original_answer": "বুদ্ধিবৃত্তির নতুন বিন্যাস",
+    "noakhali_answer": "বুদ্ধির নতুন বিন্যাস"
+  },
+  {
+    "image_id": "personality_025",
+    "original_question": "আল মাহমুদ এর বিখ্যাত কাব্যগ্রন্থ কোনটি?",
+    "noakhali_question": "আল মাহমুদ এর বিখ্যাত কাব্যগ্রন্থ কোনডা?",
+    "original_answer": "সোনালী কাবিন",
+    "noakhali_answer": "সোনালী কাবিন"
+  },
+  {
+    "image_id": "personality_026",
+    "original_question": "হাসান আজিজুল হক কিসের মাধ্যমে মানুষের জটিল মানসিকতা ফুটিয়েছেন?",
+    "noakhali_question": "হাসান আজিজুল হক কিসের মাধ্যমে মানুষের জটিল মানসিকতা ফুডাইছে?",
+    "original_answer": "ছোটগল্প ও উপন্যাসের মাধ্যমে",
+    "noakhali_answer": "ছোটগল্প আর উপন্যাসের মাধ্যমে"
+  },
+  {
+    "image_id": "personality_027",
+    "original_question": "তসলিমা নাসরিন কোন সামাজিক আন্দোলনের জন্য বিখ্যাত?",
+    "noakhali_question": "তসলিমা নাসরিন কোন সামাজিক আন্দোলনের লাগি বিখ্যাত?",
+    "original_answer": "নারী অধিকার ও মানবাধিকার কর্মী, সমাজবিরোধী অনাচারের বিরুদ্ধে",
+    "noakhali_answer": "নারী অধিকার আর মানবাধিকার কর্মী, সমাজবিরোধী অনাচারের বিরুদ্ধে"
+  },
+  {
+    "image_id": "personality_028",
+    "original_question": "মাহমুদুল হক এর বিখ্যাত উপন্যাস কোনটি?",
+    "noakhali_question": "মাহমুদুল হক এর বিখ্যাত উপন্যাস কোনডা?",
+    "original_answer": "কালো বরফ",
+    "noakhali_answer": "কালো বরফ"
+  },
+  {
+    "image_id": "personality_029",
+    "original_question": "শওকত ওসমান এর জন্মসূত্রে নাম কি?",
+    "noakhali_question": "শওকত ওসমান এর জন্মসূত্রে নাম কী?",
+    "original_answer": "শেখ আজিজুর রহমান",
+    "noakhali_answer": "শেখ আজিজুর রহমান"
+  },
+  {
+    "image_id": "personality_030",
+    "original_question": "সৈয়দ শামসুল হক কোন পুরস্কার পেয়েছেন?",
+    "noakhali_question": "সৈয়দ শামসুল হক কোন পুরস্কার পাইছে?",
+    "original_answer": "একুশে পদক ও স্বাধীনতা পুরস্কার",
+    "noakhali_answer": "একুশে পদক আর স্বাধীনতা পুরস্কার"
+  },
+  {
+    "image_id": "personality_031",
+    "original_question": "সত্যেন্দ্রনাথ বোস কোন গুরুত্বপূর্ণ বৈজ্ঞানিক আবিষ্কার করেছেন যা বিশ্ববিজ্ঞানকে সমৃদ্ধ করেছে?",
+    "noakhali_question": "সত্যেন্দ্রনাথ বোস কোন গুরুত্বপূর্ণ বৈজ্ঞানিক আবিষ্কার করিসিল যা বিশ্ববিজ্ঞানরে সমৃদ্ধ করিসিল?",
+    "original_answer": "বোস–আইনস্টাইন পরিসংখ্যান",
+    "noakhali_answer": "বোস–আইনস্টাইন পরিসংখ্যান"
+  },
+  {
+    "image_id": "personality_032",
+    "original_question": "কাজী আজিজুল মওলা কোন ক্ষেত্রে গুরুত্বপূর্ণ অবদান রেখেছেন?",
+    "noakhali_question": "কাজী আজিজুল মওলা কোন ক্ষেত্রে গুরুত্বপূর্ণ অবদান রাখছে?",
+    "original_answer": "স্থাপত্য ও নকশা",
+    "noakhali_answer": "স্থাপত্য আর নকশা"
+  },
+  {
+    "image_id": "personality_033",
+    "original_question": "জামিলুর রেজা চৌধুরী কোন অলিম্পিয়াডের সভাপতি ছিলেন?",
+    "noakhali_question": "জামিলুর রেজা চৌধুরী কোন অলিম্পিয়াডের সভাপতি আছিল?",
+    "original_answer": "বাংলাদেশ গণিত অলিম্পিয়াড",
+    "noakhali_answer": "বাংলাদেশ গণিত অলিম্পিয়াড"
+  },
+  {
+    "image_id": "personality_034",
+    "original_question": "দিপু মনি কোন পদে প্রথম নারী হিসেবে পরিচিত?",
+    "noakhali_question": "দিপু মনি কোন পদে প্রথম নারী হিসাবে পরিচিত?",
+    "original_answer": "প্রথম নারী পররাষ্ট্রমন্ত্রী ও প্রথম নারী শিক্ষামন্ত্রী",
+    "noakhali_answer": "প্রথম নারী পররাষ্ট্রমন্ত্রী আর প্রথম নারী শিক্ষামন্ত্রী"
+  },
+  {
+    "image_id": "personality_035",
+    "original_question": "অনোরা বেগম কোন খাতে গুরুত্বপূর্ণ অবদান রেখেছেন?",
+    "noakhali_question": "আনোরা বেগম কোন খাতে গুরুত্বপূর্ণ অবদান রাখছে?",
+    "original_answer": "পদার্থবিজ্ঞান গবেষণা",
+    "noakhali_answer": "পদার্থবিজ্ঞান গবেষণা"
+  },
+  {
+    "image_id": "personality_036",
+    "original_question": "মুনির হাসান কোন খাতে দেশের অগ্রগতিতে অবদান রেখেছেন?",
+    "noakhali_question": "মুনির হাসান কোন খাতে দেশের অগ্রগতিতে অবদান রাখছে?",
+    "original_answer": "তথ্যপ্রযুক্তি খাত",
+    "noakhali_answer": "তথ্যপ্রযুক্তি খাত"
+  },
+  {
+    "image_id": "personality_037",
+    "original_question": "আহসানুল্লাহ কোন বিশ্ববিদ্যালয়ের প্রতিষ্ঠাতা ছিলেন?",
+    "noakhali_question": "আহছানউল্লা কোন বিশ্ববিদ্যালয়র প্রতিষ্ঠাতা আছইন?",
+    "original_answer": "আহসানুল্লাহ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়ের",
+    "noakhali_answer": "আহসানুল্লাহ প্রকৌশল আর প্রযুক্তি বিশ্ববিদ্যালয়ের"
+  },
+  {
+    "image_id": "personality_038",
+    "original_question": "নুরুল ইসলাম কোন পুরস্কার পেয়েছেন?",
+    "noakhali_question": "নুরুল ইসলাম কোন পুরস্কার পাইছে?",
+    "original_answer": "বাংলাদেশ ব্যাংক পুরস্কার",
+    "noakhali_answer": "বাংলাদেশ ব্যাংক পুরস্কার"
+  },
+  {
+    "image_id": "personality_039",
+    "original_question": "ড. সামিয়া সাবরিনা কোন ক্ষেত্রে গবেষণা করেন?",
+    "noakhali_question": "ড. সামিয়া সাবরিনা কোন ক্ষেত্রে গবেষণা করতাছে?",
+    "original_answer": "ন্যানোটেকনোলজি",
+    "noakhali_answer": "ন্যানোটেকনোলজি"
+  },
+  {
+    "image_id": "personality_040",
+    "original_question": "জাফর ইকবাল কোন বিজ্ঞানের সঙ্গে যুক্ত?",
+    "noakhali_question": "জাফর ইকবাল কোন বিজ্ঞানের লগে যুক্ত?",
+    "original_answer": "পদার্থবিদ্যা",
+    "noakhali_answer": "পদাথবিদ্যা"
+  },
+  {
+    "image_id": "personality_041",
+    "original_question": "শাকিব আল হাসান-এর বিশেষত্ব কী?",
+    "noakhali_question": "শাকিব আল হাসান-এর বিশেষত্ব কী?",
+    "original_answer": "অলরাউন্ডার ক্রিকেটার",
+    "noakhali_answer": "অলরাউন্ডার খেলোয়াড়"
+  },
+  {
+    "image_id": "personality_042",
+    "original_question": "মাশরাফি মোর্তজার ডাকনাম কী",
+    "noakhali_question": "মাশরাফি মোর্তজার ডাকনাম কী",
+    "original_answer": "নড়াইল এক্সপ্রেস",
+    "noakhali_answer": "নড়াইল এক্সপ্রেস"
+  },
+  {
+    "image_id": "personality_043",
+    "original_question": "তামিম ইকবাল কে?",
+    "noakhali_question": "তামিম ইকবাল কেডা?",
+    "original_answer": "ওপেনিং ব্যাটসম্যান",
+    "noakhali_answer": "ওপেনিং ব্যাটসম্যান"
+  },
+  {
+    "image_id": "personality_044",
+    "original_question": "মুশফিকুর রহিম বাংলাদেশের ক্রিকেটে কোন ভূমিকায় গুরুত্বপূর্ণ?",
+    "noakhali_question": "মুশফিকুর রহিম বাংলাদেশের ক্রিকেটে কোন ভূমিকায় জরুরি?",
+    "original_answer": "উইকেটকিপার-ব্যাটসম্যান",
+    "noakhali_answer": "উইকেটকিপার-ব্যাটসম্যান"
+  },
+  {
+    "image_id": "personality_045",
+    "original_question": "মুস্তাফিজুর রহমানর ডাকনাম কী?",
+    "noakhali_question": "মুস্তাফিজুর রহমানর ডাকনাম কী?",
+    "original_answer": "দ্য ফিজ",
+    "noakhali_answer": "দ্য ফিজ"
+  },
+  {
+    "image_id": "personality_046",
+    "original_question": "রুমানা আহমেদ কোন দলের অধিনায়ক?",
+    "noakhali_question": "রুমানা আহমেদ কোন দলের অধিনায়ক?",
+    "original_answer": "বাংলাদেশ নারী ক্রিকেট দল",
+    "noakhali_answer": "বাংলাদেশ নারী ক্রিকেট দল"
+  },
+  {
+    "image_id": "personality_047",
+    "original_question": "সালমা খাতুন কেমন খেলোয়াড়?",
+    "noakhali_question": "সালমা খাতুন কেমুন খেলোয়াড়?",
+    "original_answer": "প্রমিলা ক্রিকেটার",
+    "noakhali_answer": "মেয়া খেলোয়ার"
+  },
+  {
+    "image_id": "personality_048",
+    "original_question": "মোনেম মুন্না কোন খেলার কিংবদন্তি?",
+    "noakhali_question": "মোনেম মুন্না কোন খেলার কিংবদন্তি?",
+    "original_answer": "ফুটবল",
+    "noakhali_answer": "ফুটবল"
+  },
+  {
+    "image_id": "personality_049",
+    "original_question": "আলফাজ আহমেদ কোন খেলার সঙ্গে যুক্ত?",
+    "noakhali_question": "আলফাজ আহমেদ কোন খেলার লগে যুক্ত?",
+    "original_answer": "ফুটবল",
+    "noakhali_answer": "ফুটবল"
+  },
+  {
+    "image_id": "personality_050",
+    "original_question": "ইমরানুর রহমান কোন প্রতিযোগিতায় স্বর্ণপদক জিতেছেন?",
+    "noakhali_question": "ইমরানুর রহমান কোন প্রতিযোগিতায় সোনা জিত্তেছে?",
+    "original_answer": "কমনওয়েলথ গেমসে",
+    "noakhali_answer": "কমনওয়েলথ গেমসে"
+  },
+  {
+    "image_id": "personality_051",
+    "original_question": "মাবিয়া আখতার সীমান্ত কোন খেলার জন্য পরিচিত?",
+    "noakhali_question": "মাবিয়া আখতার সীমান্ত কোন খেলার লাগি পরিচিত?",
+    "original_answer": "ওজন উত্তোলন",
+    "noakhali_answer": "ওজন তুলন"
+  },
+  {
+    "image_id": "personality_052",
+    "original_question": "রুবানা হক কোন প্রতিষ্ঠানের সভাপতি?",
+    "noakhali_question": "রুবানা হক কোন প্রতিষ্ঠানের সভাপতিডা?",
+    "original_answer": " বাংলাদেশ পোশাক প্রস্তুতকারক ও রপ্তানিকারক সমিতি",
+    "noakhali_answer": "বাংলাদেশ পোশাক తయ্যার আর রপ্তানী করনের সমিতি"
+  },
+  {
+    "image_id": "personality_053",
+    "original_question": "সালমান এফ রহমান কে?",
+    "noakhali_question": "সালমান এফ রহমান কেডা?",
+    "original_answer": "বেক্সিমকো গ্রুপের ভাইস চেয়ারম্যান",
+    "noakhali_answer": "বেক্সিমকো গ্রুপের ভাইস চেয়ারম্যান"
+  },
+  {
+    "image_id": "personality_054",
+    "original_question": "জাহানারা ইমামের উল্লেখযোগ্য প্রবন্ধ কোনটি?",
+    "noakhali_question": "জাহানারা ইমামের উল্লেখযোগ্য প্রবন্ধ কোনডা?",
+    "original_answer": "একাত্তরের দিনগুলি",
+    "noakhali_answer": "একাত্তরের দিনগুলি"
+  },
+  {
+    "image_id": "personality_055",
+    "original_question": "আইরিন খান কোন আন্তর্জাতিক সংস্থার সাবেক মহাসচিব?",
+    "noakhali_question": "আইরিন খান কোন আন্তর্জাতিক সংস্থার সাবেক মহাসচিব?",
+    "original_answer": "অ্যামনেস্টি ইন্টারন্যাশনাল",
+    "noakhali_answer": "অ্যামনেস্টি ইন্টারন্যাশনাল"
+  },
+  {
+    "image_id": "personality_056",
+    "original_question": "খুশি কবির কোন বিষয়ে স্নাতক ডিগ্রি অর্জন করেছেন?",
+    "noakhali_question": "খুশি কবির কোন বিষয়ে স্নাতক ডিগ্রি অর্জন কররইছে?",
+    "original_answer": "চারুকলা",
+    "noakhali_answer": "চারুকলা"
+  },
+  {
+    "image_id": "personality_057",
+    "original_question": "মালেকা খানের গুরুত্বপূর্ণ অবদান কী?",
+    "noakhali_question": "মালেকা খানের গুরুত্বপূর্ণ অবদান কী?",
+    "original_answer": "বীরাঙ্গনা নারীদের পুনর্বাসন, সুরক্ষা ও অধিকার রক্ষা",
+    "noakhali_answer": "বীরাঙ্গনা নারাইনর পুনর্বাসন, সুরক্ষা আর অধিকার রক্ষা"
+  },
+  {
+    "image_id": "personality_058",
+    "original_question": "রোকেয়া সাখাওয়াত হোসেন কোন জাগরণের অগ্রদূত ছিলেন?",
+    "noakhali_question": "রোকেয়া সাখাওয়াত হোসেন কোন জাগরণের অগ্রদূত আছইন?",
+    "original_answer": "নারী শিক্ষার জাগরণের",
+    "noakhali_answer": "নারি শিক্ষার জাগরণের"
+  },
+  {
+    "image_id": "personality_059",
+    "original_question": "মনিরা রহমান কী ধরনের সমাজকর্মে সক্রিয় ছিলেন?",
+    "noakhali_question": "মনিরা রহমান কী ধরনের সমাজকর্মে সক্রিয় আছলইন?",
+    "original_answer": "অ্যাসিড হামলা প্রতিরোধ",
+    "noakhali_answer": "এসিড হামলা প্রতিরোধ"
+  },
+  {
+    "image_id": "personality_060",
+    "original_question": "তাহসান রহমান খান কে?",
+    "noakhali_question": "তাহসান রহমান খান কেডা?",
+    "original_answer": "গায়ক, সুরকার এবং অভিনেতা",
+    "noakhali_answer": "গায়ক, সুরকার আর অভিনেতা"
+  },
+  {
+    "image_id": "personality_061",
+    "original_question": "নভীদ মাহবুব কোন ধরনের শিল্পী?",
+    "noakhali_question": "নভীদ মাহবুব কোন ধরনের শিল্পী?",
+    "original_answer": "স্ট্যান্ড-আপ কমেডিয়ান",
+    "noakhali_answer": "স্ট্যান্ড-আপ কমেডিয়ান"
+  },
+  {
+    "image_id": "personality_062",
+    "original_question": "রফিক আজম কে?",
+    "noakhali_question": "রফিক আজম কেডা?",
+    "original_answer": "বাংলাদেশী স্থপতি",
+    "noakhali_answer": "বাংলাদেশী স্থপতি"
+  },
+  {
+    "image_id": "personality_063",
+    "original_question": "শাবানা কোন ক্ষেত্রে পরিচিত?",
+    "noakhali_question": "শাবানা কোন কামে পরিচিত?",
+    "original_answer": "বাংলাদেশের চলচ্চিত্র",
+    "noakhali_answer": "বাংলাদেশর সিনেমা"
+  },
+  {
+    "image_id": "personality_064",
+    "original_question": "বিবি রাসেল কোন ক্ষেত্রে আন্তর্জাতিকভাবে খ্যাতিসম্পন্ন?",
+    "noakhali_question": "বিবি রাসেল কোন ক্ষেত্রে আন্তর্জাতিকভাবে খ্যাতিসম্পন্ন?",
+    "original_answer": "ফ্যাশন ডিজাইন ও মডেলিং",
+    "noakhali_answer": "ফ্যাশন ডিজাইন আর মডেলিং"
+  },
+  {
+    "image_id": "personality_065",
+    "original_question": "কানিজ আলমাস খান কোন শিল্পের নেত্রী?",
+    "noakhali_question": "কানিজ আলমাস খান কোন শিল্পের নেত্রী?",
+    "original_answer": "সৌন্দর্য ও বিউটি ইন্ডাস্ট্রি",
+    "noakhali_answer": "সৌন্দর্য আর বিউটি ইন্ডাস্ট্রি"
+  },
+  {
+    "image_id": "personality_066",
+    "original_question": "ওয়াসফিয়া নাজরীন এর পরিচিতি কী?",
+    "noakhali_question": "ওয়াসফিয়া নাজরীন এর পরিচিতি কী?",
+    "original_answer": "সর্বকনিষ্ঠ বাংলাদেশী পর্বতারোহী",
+    "noakhali_answer": "সবচেয়ে ছোট বাংলাদেশী পর্বতারোহী"
+  },
+  {
+    "image_id": "personality_067",
+    "original_question": "ফিরোজ মাহমুদ কোন ধরনের শিল্পী?",
+    "noakhali_question": "ফিরোজ মাহমুদ কোন ধরনের শিল্পী?",
+    "original_answer": "ভিজ্যুয়াল শিল্পী",
+    "noakhali_answer": "ভিজ্যুয়াল শিল্পী"
+  },
+  {
+    "image_id": "personality_068",
+    "original_question": "শাহিদুল আলম কোন প্রতিষ্ঠান প্রতিষ্ঠা করেছেন?",
+    "noakhali_question": "শাহিদুল আলম কোন প্রতিষ্ঠান গড়িছেন?",
+    "original_answer": "দৃক পিকচার লাইব্রেরি ও পাঠশালা",
+    "noakhali_answer": "দৃক পিকচার লাইব্রেরি আর পাঠশালা"
+  },
+  {
+    "image_id": "personality_069",
+    "original_question": "মুনেম ওয়াসিফ কোন ক্ষেত্রে অবদান রেখেছেন?",
+    "noakhali_question": "মুনেম ওয়াসিফ কোন ক্ষেত্রে অবদান রাখছে?",
+    "original_answer": "ডকুমেন্টারি ফটোগ্রাফি",
+    "noakhali_answer": "ডকুমেন্টারি ফটোগ্রাফি"
+  },
+  {
+    "image_id": "personality_070",
+    "original_question": "গাজী নাফিস আহমেদ এর ফটোগ্রাফি ক্যারিয়ারের উল্লেখযোগ্য অবদান কী?",
+    "noakhali_question": "গাজী নাফিস আহমেদ এর ফটোগ্রাফি ক্যারিয়ারের উল্লেখযোগ্য অবদান কী?",
+    "original_answer": "ইনার ফেস",
+    "noakhali_answer": "ইনার ফেস"
+  },
+  {
+    "image_id": "personality_071",
+    "original_question": "আহসান হাবীব কে?",
+    "noakhali_question": "আহসান হাবীব কেডা?",
+    "original_answer": "কার্টুনিস্ট",
+    "noakhali_answer": "কার্টুনিস্ট"
+  },
+  {
+    "image_id": "personality_072",
+    "original_question": "মুস্তাফা মনোয়ার কোন শিল্পের অগ্রদূত?",
+    "noakhali_question": "মুস্তাফা মনোয়ার কোন শিল্পের অগ্রদূত?",
+    "original_answer": "বাংলাদেশের পাপেট শিল্প",
+    "noakhali_answer": "বাংলাদেশের পাপেট শিল্প"
+  },
+  {
+    "image_id": "personality_073",
+    "original_question": "কমল লোহানি কোন উচ্চ পদকে ভূষিত হয়েছেন?",
+    "noakhali_question": "কমল লোহানি কোন বড়া পদকে ভূষিত অইছে?",
+    "original_answer": "একুশে পদক",
+    "noakhali_answer": "একুশে পদক"
+  },
+  {
+    "image_id": "personality_074",
+    "original_question": "নাসিরুদ্দিন ইউসুফ কোন ক্ষেত্রে পরিচিত?",
+    "noakhali_question": "নাসিরুদ্দিন ইউসুফ কোন ক্ষেত্রে পরিচিত?",
+    "original_answer": "বাংলাদেশী মঞ্চনাটক",
+    "noakhali_answer": "বাংলাদেশী মঞ্চনাটক"
+  },
+  {
+    "image_id": "personality_075",
+    "original_question": "রামেন্দু মজুমদার কে?",
+    "noakhali_question": "রামেন্দু মজুমদার কেডা?",
+    "original_answer": "অভিনেতা, মঞ্চ নির্দেশক ও নির্মাতা",
+    "noakhali_answer": "অভিনেতা, মঞ্চ নির্দেশক আর নির্মাতা"
+  },
+  {
+    "image_id": "personality_076",
+    "original_question": "নায়ক রাজ রাজ্জাক কোন ক্ষেত্রে কিংবদন্তি?",
+    "noakhali_question": "নায়ক রাজ রাজ্জাক কোন ক্ষেত্রে কিংবদন্তি?",
+    "original_answer": "বাংলাদেশের সিনেমা",
+    "noakhali_answer": "বাংলাসিনেমার"
+  },
+  {
+    "image_id": "personality_077",
+    "original_question": "আলমগীর বাংলাদেশের কোন শিল্পে পরিচিত?",
+    "noakhali_question": "আলমগীর বাংলাদেশের কোন শিল্পে পরিচিত?",
+    "original_answer": "চলচ্চিত্র",
+    "noakhali_answer": "ফিলিম"
+  },
+  {
+    "image_id": "personality_078",
+    "original_question": "ফারুক কোন ক্ষেত্রে সুপরিচিত?",
+    "noakhali_question": "ফারুক কোন কামে সুপরিচিত?",
+    "original_answer": "বাংলাদেশের সিনেমা",
+    "noakhali_answer": "বাংলাদেশের সিনেমা"
+  },
+  {
+    "image_id": "personality_079",
+    "original_question": "সোহেল রানা কোন শিল্পে খ্যাত?",
+    "noakhali_question": "সোহেল রানা কোন শিল্পে খ্যাত?",
+    "original_answer": "চলচ্চিত্র",
+    "noakhali_answer": "ফিলিম"
+  },
+  {
+    "image_id": "personality_080",
+    "original_question": "জসিমকে বাংলা চলচ্চিত্রে বিশেষভাবে কোন খাতের জন্য স্মরণ করা হয়?",
+    "noakhali_question": "জসিমরে বাংলা চলচ্চিএে বিশেষে কোন খাতের লাইগ্যা মনে রাখা হয়?",
+    "original_answer": "অ্যাকশন সিনেমার পথপ্রদর্শক",
+    "noakhali_answer": "অ্যাকশন সিনেমার পথপ্রদর্শক"
+  },
+  {
+    "image_id": "personality_081",
+    "original_question": "ইলিয়াস কাঞ্চনের আসল নাম কী?",
+    "noakhali_question": "ইলিয়াস কাঞ্চনের আসল নাম কী?",
+    "original_answer": "ইদ্রিস আলী",
+    "noakhali_answer": "ইদ্রিসআলী"
+  },
+  {
+    "image_id": "personality_082",
+    "original_question": "আনোয়ার হোসেনের প্রথম চলচ্চিত্র কোনটি?",
+    "noakhali_question": "আনোয়ার হোসেনের প্রথম চলচিত্র কোনডা?",
+    "original_answer": "চলচ্চিত্র অভিনেতা",
+    "noakhali_answer": "চলচ্চিত্র অভিনেতা"
+  },
+  {
+    "image_id": "personality_083",
+    "original_question": "আব্দুল কাদের সিদ্দিকীকে কোন খেতাবে ভূষিত করা হয়েছিল?",
+    "noakhali_question": "আব্দুল কাদের সিদ্দিকীরে কোন খেতাবে ভূষিত করছিলো?",
+    "original_answer": "বীর উত্তম",
+    "noakhali_answer": "বীর উত্তম"
+  },
+  {
+    "image_id": "personality_084",
+    "original_question": "নুর হোসেন বাংলাদেশের কোন ক্ষেত্রে খ্যাত?",
+    "noakhali_question": "নুর হোসেন বাংলাদেশের কোন ক্ষেত্রে খ্যাত?",
+    "original_answer": "গণতন্ত্রের শহিদ",
+    "noakhali_answer": "গণতন্ত্রের শহিদ"
+  },
+  {
+    "image_id": "personality_085",
+    "original_question": "ধীরেন্দ্রনাথ দত্ত কোন আন্দোলনের নেতা ছিলেন?",
+    "noakhali_question": "ধীরেন্দ্রনাথ দত্ত কোন আন্দোলনের নেতা আছিল?",
+    "original_answer": "ভাষা আন্দোলন",
+    "noakhali_answer": "ভাষা আন্দোলন"
+  },
+  {
+    "image_id": "personality_086",
+    "original_question": "সালাম কোন ক্ষেত্রে পরিচিত?",
+    "noakhali_question": "সালাম কোন ক্ষেত্রে পরিচিত?",
+    "original_answer": "ভাষা শহিদ",
+    "noakhali_answer": "ভাষা শহিদ"
+  },
+  {
+    "image_id": "personality_087",
+    "original_question": "রফিক উদ্দিন আহমেদ কোন ক্ষেত্রে খ্যাত?",
+    "noakhali_question": "রফিক উদ্দিন আহমেদ কোন ক্ষেত্রে খ্যাত?",
+    "original_answer": "ভাষা শহিদ",
+    "noakhali_answer": "ভাষা শহিদ"
+  },
+  {
+    "image_id": "personality_088",
+    "original_question": "আবুল বরকত কোন আন্দোলনের অংশ ছিলেন?",
+    "noakhali_question": "আবুল বরকত কোন আন্দোলনের লগে আছিল?",
+    "original_answer": "ভাষা শহিদ",
+    "noakhali_answer": "ভাষা শহিদ"
+  },
+  {
+    "image_id": "personality_089",
+    "original_question": "শফিউর রহমান কোন ক্ষেত্রে পরিচিত?",
+    "noakhali_question": "শফিউর রহমান কোন ক্ষেত্রে পরিচিত?",
+    "original_answer": "ভাষা শহিদ",
+    "noakhali_answer": "ভাষা শহিদ"
+  },
+  {
+    "image_id": "personality_090",
+    "original_question": "আব্দুল গফফার চৌধুরী কোন গানের রচয়িতা?",
+    "noakhali_question": "আব্দুল গফফার চৌধুরী কোন গানের রচয়িতা?",
+    "original_answer": "'আমার ভাইয়ের রক্তে রাঙানো' গান",
+    "noakhali_answer": "'আমার ভাইয়ের রক্তে রাঙানো' গান"
+  },
+  {
+    "image_id": "personality_091",
+    "original_question": "মফজ্জল হোসেন চৌধুরী মায়া কোন আন্দোলনে অংশগ্রহণ করেছিলেন?",
+    "noakhali_question": "মফজ্জল হোসেন চৌধুরী মায়া কোন আন্দোলনে অংশগ্রহণ করসিল?",
+    "original_answer": "মুক্তিযুদ্ধ ১৯৭১",
+    "noakhali_answer": "মুক্তিযুদ্ধ ১৯৭১"
+  },
+  {
+    "image_id": "personality_092",
+    "original_question": "মেজর খালেদ মোশারফ কোন গুরুত্বপূর্ণ ঐতিহাসিক ঘটনার নায়ক ছিলেন?",
+    "noakhali_question": "মেজর খালেদ মোশারফ কোন গুরুত্বপূর্ণ ঐতিহাসিক ঘটনার নায়ক আছিল?",
+    "original_answer": "বাংলাদেশের স্বাধীনতা যুদ্ধ",
+    "noakhali_answer": "বাংলাদেশর স্বাধীনতা যুদ্ধ"
+  },
+  {
+    "image_id": "personality_093",
+    "original_question": "এ.এস.এম. আবদুর রব কোন রাজনৈতিক সংগঠন বা ছাত্র আন্দোলনের নেতৃত্ব দিয়েছেন?",
+    "noakhali_question": "এ.এস.এম. আবদুর রব কোন রাজনৈতিক সংগঠন বা ছাত্র আন্দোলনের নেতৃত্ব দিছে?",
+    "original_answer": "ছাত্রলীগ ও ছাত্র আন্দোলন",
+    "noakhali_answer": "ছাত্রলীগ আর ছাত্র আন্দোলন"
+  },
+  {
+    "image_id": "personality_094",
+    "original_question": "আসাদুজ্জামান নূর কত বারের বেশি নাটকে অভিনয় করেছেন?",
+    "noakhali_question": "আসাদুজ্জামান নূর কত বারের বেশি নাটকে অভিনয় করছইন?",
+    "original_answer": "৬০০",
+    "noakhali_answer": "ছয়শো"
+  },
+  {
+    "image_id": "personality_095",
+    "original_question": "রিয়াজ কোন ধরণের চলচ্চিত্রে অভিনয় করেছেন?",
+    "noakhali_question": "রিয়াজ কোন ধরণের চলচ্চিত্রে অভিনয় করতাছে?",
+    "original_answer": "বাংলাদেশি চলচ্চিত্র",
+    "noakhali_answer": "বাংলাদেশী চলচিত্র"
+  },
+  {
+    "image_id": "personality_096",
+    "original_question": "সুচিত্রা সেন কোন চলচ্চিত্র উৎসবে সেরা অভিনেত্রীর পুরস্কার জিতেছিলেন?",
+    "noakhali_question": "সুচিত্রা সেন কোন চলচ্চিত্র উৎসবে সেরা অভিনেত্রীর পুরস্কার জিতছিলি?",
+    "original_answer": "মস্কো চলচ্চিত্র উৎসব",
+    "noakhali_answer": "মস্কো চলচ্চিত্র উৎসব"
+  },
+  {
+    "image_id": "personality_097",
+    "original_question": "সালমান শাহ এর জন্ম নাম কী ছিল?",
+    "noakhali_question": "সালমান শাহ এর জন্ম নাম কী আছিল?",
+    "original_answer": "চৌধুরী মোহাম্মদ শাহরিয়ার ইমন",
+    "noakhali_answer": "চৌধুরী মোহাম্মদ শাহরিয়ার ইমন"
+  },
+  {
+    "image_id": "personality_098",
+    "original_question": "শাবনূর এর জন্ম নাম কী ছিল?",
+    "noakhali_question": "শাবনূর এর আসল নাম কী আছিল?",
+    "original_answer": "কাজী শারমিন নাহিদ নূপুর",
+    "noakhali_answer": "কাজী শারমিন নাহিদ নূপুর"
+  },
+  {
+    "image_id": "personality_099",
+    "original_question": "জয়া আহসান এর অভিনীত প্রথম চলচ্চিত্রের নাম কী?",
+    "noakhali_question": "জয়া আহসান এর অভিনীত প্রথম চলচ্চিত্রের নাম কী?",
+    "original_answer": "ব্যাচেলর",
+    "noakhali_answer": "ব্যাচেলর"
+  },
+  {
+    "image_id": "personality_100",
+    "original_question": "চঞ্চল চৌধুরীর চলচ্চিত্র ক্যারিয়ারের প্রধান বৈশিষ্ট্য কী?",
+    "noakhali_question": "চঞ্চল চৌধুরীর চলচ্চিত্র ক্যারিয়ারের প্রধান বৈশিষ্ট্য কী?",
+    "original_answer": "প্রতিষ্ঠিত অভিনেতা",
+    "noakhali_answer": "প্রতিষ্ঠিত অভিনেতা"
+  },
+  {
+    "image_id": "personality_101",
+    "original_question": "শাকিব খান কোন দেশে চলচ্চিত্রে নায়ক হিসেবে খ্যাত?",
+    "noakhali_question": "শাকিব খান কোন দেশে ফিল্মে হিরো হিসাবে পরিচিত?",
+    "original_answer": "বাংলাদেশ",
+    "noakhali_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "personality_102",
+    "original_question": "রুনা লায়লা কতটি ভাষায় গান গেয়েছেন?",
+    "noakhali_question": "রুনা লায়লা কতডা ভাষায় গান গাইছে?",
+    "original_answer": "১৮টি",
+    "noakhali_answer": "আঠারো"
+  },
+  {
+    "image_id": "personality_103",
+    "original_question": "সাবিনা ইয়াসমিন কোন ক্ষেত্রে দেশের সঙ্গীত জগতে আইকন হিসেবে পরিচিত?",
+    "noakhali_question": "সাবিনা ইয়াসমিন কোন ক্ষেত্রে দেশের গান বাজনার জগতে আইকন হিসাবে পরিচিত?",
+    "original_answer": "চলচ্চিত্রের নেপথ্য শিল্পী",
+    "noakhali_answer": "চলচ্চিত্রর নেপথ্য শিল্পী"
+  },
+  {
+    "image_id": "personality_104",
+    "original_question": "আব্দুল জব্বার কোন বিশেষ গান মাধ্যমে মুক্তিযুদ্ধকে সমর্থন করেছেন?",
+    "noakhali_question": "আব্দুল জব্বার কোন বিশেষ গান মারফত মুক্তিযুদ্ধরে সমর্থন করিসি?",
+    "original_answer": "মুক্তিযুদ্ধের গান",
+    "noakhali_answer": "মুক্তিযুদ্ধের গান"
+  },
+  {
+    "image_id": "personality_105",
+    "original_question": "অ্যান্ড্রু কিশোর কোন ধরনের সঙ্গীতে বিশেষ খ্যাত?",
+    "noakhali_question": "অ্যান্ড্রু কিশোর কোন ধরনের গানে বেশি নাম কামাইছে?",
+    "original_answer": "প্লেব্যাক গান",
+    "noakhali_answer": "প্লেব্যাক গান"
+  },
+  {
+    "image_id": "personality_106",
+    "original_question": "আয়ুব বাচ্চু কোন ব্যান্ডের প্রতিষ্ঠাতা ছিলেন?",
+    "noakhali_question": "আয়ুব বাচ্চু কোন ব্যান্ডের প্রতিষ্ঠাতা আছিল?",
+    "original_answer": "'লাভ রানস ব্লাইন্ড'",
+    "noakhali_answer": "'লাভ রানস ব্লাইন্ড'"
+  },
+  {
+    "image_id": "personality_107",
+    "original_question": "জেমস কোন ব্যান্ডের নেতা ছিলেন?",
+    "noakhali_question": "জেমস কোন ব্যান্ডের নেতা আছিল?",
+    "original_answer": "নাগর বাউল",
+    "noakhali_answer": "নাগর বাউল"
+  },
+  {
+    "image_id": "personality_108",
+    "original_question": "ফকীর আলমগীর কোন ধরনের সঙ্গীত প্রসার করেছেন?",
+    "noakhali_question": "ফকির আলমগীর কোন ধরনের গান প্রচার করছইন?",
+    "original_answer": "গণসংগীত",
+    "noakhali_answer": "গণসংগীত"
+  },
+  {
+    "image_id": "personality_109",
+    "original_question": "ফেরদৌস ওয়াহিদ কোন ধরনের সংগীত শিল্পী?",
+    "noakhali_question": "ফেরদৌস ওয়াহিদ কোন ধরনের গান গায়?",
+    "original_answer": "পপ সঙ্গীত",
+    "noakhali_answer": "পপ সঙ্গীত"
+  },
+  {
+    "image_id": "personality_110",
+    "original_question": "কনক চাঁপা চাকমা কোন ক্ষেত্রে আন্তর্জাতিকভাবে স্বীকৃত?",
+    "noakhali_question": "কনক চাঁপা চাকমা কোন ক্ষেত্রে আন্তর্জাতিকভাবে স্বীকৃত?",
+    "original_answer": "চিত্রশিল্প",
+    "noakhali_answer": "চিত্রকলা"
+  },
+  {
+    "image_id": "personality_111",
+    "original_question": "শাহাবুদ্দিন আহমেদ কোন ধরনের শিল্পে খ্যাত?",
+    "noakhali_question": "শাহাবুদ্দিন আহমেদ কোন ধরনের শিল্পে খ্যাত?",
+    "original_answer": "চিত্রশিল্প",
+    "noakhali_answer": "চিত্রকলা"
+  },
+  {
+    "image_id": "personality_112",
+    "original_question": "জয়নুল আবেদিনকে বাংলাদেশের কোন শিল্পের পিতামহ বলা হয়?",
+    "noakhali_question": "জয়নুল আবেদীনরে বাংলাদেশের কোন শিল্পের বাপ বলা হয়?",
+    "original_answer": "সমকালীন চিত্রকলা",
+    "noakhali_answer": "সমকালীন চিত্রকলা"
+  },
+  {
+    "image_id": "personality_113",
+    "original_question": "ড. আব্দুস সাত্তার খান কোন সংস্থার বিজ্ঞানী ছিলেন?",
+    "noakhali_question": "ড. আব্দুস সাত্তার খান কোন সংস্থার বিজ্ঞানী আছিল?",
+    "original_answer": "নাসা",
+    "noakhali_answer": "নাসা"
+  },
+  {
+    "image_id": "personality_114",
+    "original_question": "ড. মকসুদুল আলম কোন উদ্ভিদের জিনোম আবিষ্কার করেছেন?",
+    "noakhali_question": "ড. মকসুদুল আলম কোন উদ্ভিদের জিনোম আবিষ্কার করছইন?",
+    "original_answer": "পাট ও পেঁপে",
+    "noakhali_answer": "পাট আর পেঁপে"
+  },
+  {
+    "image_id": "personality_115",
+    "original_question": "ড. মুবারক আহমাদ খান কোন আবিষ্কারের জন্য পরিচিত?",
+    "noakhali_question": "ড. মুবারক আহমাদ খান কোন আবিষ্কারের লাগি পরিচিত?",
+    "original_answer": "জুট পলিমার (সোনালি ব্যাগ)",
+    "noakhali_answer": "জুট পলিমার (সোনালি ব্যাগ)"
+  },
+  {
+    "image_id": "personality_116",
+    "original_question": "ড. ফিরদৌসি কাদরি কোন আন্তর্জাতিক পুরস্কার পেয়েছেন?",
+    "noakhali_question": "ড. ফিরদৌসি কাদরি কোন আন্তর্জাতিক পুরস্কার পাইছে?",
+    "original_answer": "লরিয়েল-ইউনেস্কো উইমেন ইন সায়েন্স অ্যাওয়ার্ড",
+    "noakhali_answer": "লরিয়েল-ইউনেস্কো উইমেন ইন সায়েন্স অ্যাওয়ার্ড"
+  },
+  {
+    "image_id": "personality_117",
+    "original_question": "ড. মকসুদ হেলাল কোন ধরণের বিজ্ঞানী?",
+    "noakhali_question": "ড. মকসুদ হেলাল কোন ধরণের বিজ্ঞানী?",
+    "original_answer": "মেটেরিয়াল বিজ্ঞানী",
+    "noakhali_answer": "মেটেরিয়াল বিজ্ঞানী"
+  },
+  {
+    "image_id": "personality_118",
+    "original_question": "ড. কামাল হোসেনকে কী নামে ডাকা হয়??",
+    "noakhali_question": "ড. কামাল হোসেনরে কী নামে ডাকতাছে?",
+    "original_answer": "বাংলাদেশী সংবিধানের জনক",
+    "noakhali_answer": "বাংলাদেশী সংবিধানের জনক"
+  },
+  {
+    "image_id": "personality_119",
+    "original_question": "এম এ ওয়াজেদ মিয়া কোন প্রতিষ্ঠানের সাবেক চেয়ারম্যান ছিলেন?",
+    "noakhali_question": "এম এ ওয়াজেদ মিয়া কোন প্রতিষ্ঠানের সাবেক চেয়ারম্যান আছিল?",
+    "original_answer": "বাংলাদেশ পরমাণু শক্তি কমিশন",
+    "noakhali_answer": "বাংলাদেশ পরমাণু শক্তি কমিশন"
+  },
+  {
+    "image_id": "personality_120",
+    "original_question": "ড. এস. এম. বকতিয়ার কোন সংস্থার প্রধান গবেষক ছিলেন?",
+    "noakhali_question": "ড. এস. এম. বকতিয়ার কোন সংস্থার প্রধান গবেষক আছিল?",
+    "original_answer": "বাংলাদেশ কৃষি গবেষণা কাউন্সিল",
+    "noakhali_answer": "বাংলাদেশ কৃষি গবেষণা কাউন্সিল"
+  },
+  {
+    "image_id": "personality_121",
+    "original_question": "ড. মো. শাহজাহান কবির কোন প্রতিষ্ঠানের মহাপরিচালক?",
+    "noakhali_question": "ড. মো. শাহজাহান কবির কোন প্রতিষ্ঠানের মহাপরিচালক?",
+    "original_answer": "বাংলাদেশ ধান গবেষণা ইনস্টিটিউট",
+    "noakhali_answer": "বাংলাদেশ ধান গবেষণা ইনস্টিটিউট"
+  },
+  {
+    "image_id": "personality_122",
+    "original_question": "ড. এম. এ. সাত্তার মন্ডল কোন বিষয়ে বিশেষজ্ঞ?",
+    "noakhali_question": "ড. এম. এ. সাত্তার মন্ডল কোন বিষয়ে বিশেষজ্ঞ?",
+    "original_answer": "কৃষি নীতি ও গ্রামীণ উন্নয়ন",
+    "noakhali_answer": "কৃষি নীতি আর গ্রামীণ উন্নয়ন"
+  },
+  {
+    "image_id": "personality_123",
+    "original_question": "ড. জাফরুল্লাহ চৌধুরী কোন প্রতিষ্ঠানের প্রতিষ্ঠাতা?",
+    "noakhali_question": "ড. জাফরুল্লাহ চৌধুরী কোন প্রতিষ্ঠানের প্রতিষ্ঠাতা?",
+    "original_answer": "গণস্বাস্থ্য কেন্দ্র",
+    "noakhali_answer": "গণস্বাস্থ্য কেন্দ্র"
+  },
+  {
+    "image_id": "personality_124",
+    "original_question": "ড. কনক কান্তি বড়ুয়া কোন বিশেষজ্ঞ চিকিৎসক?",
+    "noakhali_question": "ড. কনক কান্তি বড়ুয়া কোন বিশেষজ্ঞ ডাক্তার?",
+    "original_answer": "নিউরোসার্জন",
+    "noakhali_answer": "নিউরোসার্জন"
+  },
+  {
+    "image_id": "personality_125",
+    "original_question": "ড. নিলিমা ইব্রাহিম মুক্তিযুদ্ধের কোন দিক তার লেখায় তুলে ধরেছেন?",
+    "noakhali_question": "ড. নিলিমা ইব্রাহিম মুক্তিযুদ্ধার কোন দিক তার লেখায় তুলি ধরসইন?",
+    "original_answer": "বীরাঙ্গনাদের কাহিনী",
+    "noakhali_answer": "বীরাঙ্গনাগো কাহিনি"
+  },
+  {
+    "image_id": "personality_126",
+    "original_question": "ড. রুহুল আবিদ কোন সংস্থার প্রতিষ্ঠাতা?",
+    "noakhali_question": "ড. রুহুল আবিদ কোন সংস্থার প্রতিষ্ঠাতা?",
+    "original_answer": "হেলথ অ্যান্ড এডুকেশন ফর অল (হায়েফা)",
+    "noakhali_answer": "হেলথ অ্যান্ড এডুকেশন ফর অল (হায়েফা)"
+  },
+  {
+    "image_id": "personality_127",
+    "original_question": "ড. আনিসুজ্জামান কোন শিক্ষা কমিশনের সদস্য ছিলেন?",
+    "noakhali_question": "ড. আনিসুজ্জামান কোন শিক্ষা কমিশনের সদস্য আছিল?",
+    "original_answer": "কুদরাত-এ-খুদা শিক্ষা কমিশন",
+    "noakhali_answer": "কুদরত-এ-খুদা শিক্ষা কমিশন"
+  },
+  {
+    "image_id": "personality_128",
+    "original_question": "ড. মুহাম্মদ শহীদুল্লাহ কোন বিষয়ে খ্যাত?",
+    "noakhali_question": "ড. মুহাম্মদ শহীদুল্লাহ কোন বিষয়ে খ্যাত?",
+    "original_answer": "ভাষাবিজ্ঞান ও বাংলা সাহিত্য গবেষণা",
+    "noakhali_answer": "ভাষাবিজ্ঞান আর বাংলা সাহিত্য গবেষণা"
+  },
+  {
+    "image_id": "personality_129",
+    "original_question": "ড. মোহাম্মদ কায়কোবাদ কোন বিশ্ববিদ্যালয়ের অধ্যাপক?",
+    "noakhali_question": "ড. মোহাম্মদ কায়কোবাদ কোন বিশ্ববিদ্যালয়ের অধ্যাপক?",
+    "original_answer": "বাংলাদেশ প্রকৌশল বিশ্ববিদ্যালয়",
+    "noakhali_answer": "বাংলাদেশ প্রকৌশল বিশ্ববিদ্যালয়"
+  },
+  {
+    "image_id": "personality_130",
+    "original_question": "আবু সাঈদ কোন আন্দোলনের সময় নিহত হন?",
+    "noakhali_question": "আবু সাঈদ কোন আন্দোলনের সময় নিহত অইছিল?",
+    "original_answer": "কোটা সংস্কার আন্দোলন",
+    "noakhali_answer": "কোটা সংস্কার আন্দোলন"
+  },
+  {
+    "image_id": "personality_131",
+    "original_question": "মীর মুগ্ধ কোন আন্দোলনের শিক্ষার্থী ছিলেন?",
+    "noakhali_question": "মীর মুগ্ধ কোন আন্দোলনের শিক্ষার্থী আছিল?",
+    "original_answer": "কোটা সংস্কার আন্দোলন",
+    "noakhali_answer": "কোটা সংস্কার আন্দোলন"
+  },
+  {
+    "image_id": "personality_132",
+    "original_question": "মিজানুর রহমান আজহারী কোন ধরনের কাজের জন্য পরিচিত?",
+    "noakhali_question": "মিজানুর রহমান আজহারী কোন কামের লাইগ্যা পরিচিত?",
+    "original_answer": "ইসলামী বক্তৃতা ও দাওয়াতি কার্যক্রম",
+    "noakhali_answer": "ইসলামী বক্তৃতা আর দাওয়াতি কাম"
+  },
+  {
+    "image_id": "personality_133",
+    "original_question": "শায়খ আহমাদুল্লাহ কোন সংস্থার প্রতিষ্ঠাতা?",
+    "noakhali_question": "শায়খ আহমাদুল্লাহ কোন সংস্থার প্রতিষ্ঠাতা?",
+    "original_answer": "আস সুন্নাহ ফাউন্ডেশন",
+    "noakhali_answer": "আস সুন্নাহ ফাউন্ডেশন"
+  },
+  {
+    "image_id": "personality_134",
+    "original_question": "খন্দকার আবদুল্লাহ জাহাঙ্গীর কোন ক্ষেত্রে অবদান রেখেছেন?",
+    "noakhali_question": "খন্দকার আবদুল্লাহ জাহাঙ্গীর কোন ক্ষেত্রে অবদান রাখছে?",
+    "original_answer": "ইসলামী গবেষণা ও শিক্ষা",
+    "noakhali_answer": "ইসলামী গবেষণা আর শিক্ষা"
+  },
+  {
+    "image_id": "personality_135",
+    "original_question": "মোস্তাফা জব্বার কোন কিবোর্ড উদ্ভাবন করেছেন?",
+    "noakhali_question": "মোস্তাফা জব্বার কোন কিবোর্ড উদ্ভাবন করিসি?",
+    "original_answer": "বিজয় কিবোর্ড",
+    "noakhali_answer": "বিজয় কিবোর্ড"
+  },
+  {
+    "image_id": "personality_136",
+    "original_question": "মেহদী হাসান খান কোন কিবোর্ড সফটওয়্যার তৈরি করেন?",
+    "noakhali_question": "মেহদী হাসান খান কোন কিবোর্ড সফটওয়্যার বানাইতাছে?",
+    "original_answer": "অভ্র কিবোর্ড",
+    "noakhali_answer": "অভ্র কিবোর্ড"
+  },
+  {
+    "image_id": "personality_137",
+    "original_question": "অজয় রায় কোন বিষয়ে অধ্যাপক ছিলেন?",
+    "noakhali_question": "অজয় রায় কোন বিষয়ে অধ্যাপক আছিল?",
+    "original_answer": "পদার্থবিজ্ঞান",
+    "noakhali_answer": "ফিজিক্স"
+  },
+  {
+    "image_id": "personality_138",
+    "original_question": "রফিকুল ইসলাম কোন ওষুধ আবিষ্কার করেছেন?",
+    "noakhali_question": "রফিকুল ইসলাম কোন ওষুধ আবিষ্কার করিসির?",
+    "original_answer": "ওআরএস (ORS) স্যালাইন",
+    "noakhali_answer": "ওআরএস (ORS) স্যালাইন"
+  },
+  {
+    "image_id": "personality_139",
+    "original_question": "ইকবাল আহমেদ কোন দেশের ব্যবসায়ী হিসেবে পরিচিত?",
+    "noakhali_question": "ইকবাল আহমেদ কোন দেশের ব্যবসায়ী হিসাবে পরিচিত?",
+    "original_answer": "ব্রিটিশ-বাংলাদেশি",
+    "noakhali_answer": "ব্রিটিশ-বাংলাদেশি"
+  },
+  {
+    "image_id": "personality_140",
+    "original_question": "হানিফ সংকেত কোন জনপ্রিয় টেলিভিশন অনুষ্ঠান উপস্থাপনা করেন?",
+    "noakhali_question": "হানিফ সংকেত কোন জনপ্রিয় টেলিভিশন অনুষ্ঠান উপস্থাপনা করতাছে?",
+    "original_answer": "ইত্যাদি",
+    "noakhali_answer": "ইত্যাদি"
+  },
+  {
+    "image_id": "personality_141",
+    "original_question": "আসিফ হোসাইন খান কোন খেলায় কমনওয়েলথ স্বর্ণপদক জিতেছেন?",
+    "noakhali_question": "আসিফ হোসাইন খান কোন খেলায় কমনওয়েলথ স্বর্ণপদক জিত্তেছে?",
+    "original_answer": "শুটিং",
+    "noakhali_answer": "শুটিং"
+  },
+  {
+    "image_id": "personality_142",
+    "original_question": "নাহিদ ইসলাম কোন আন্দোলনের অন্যতম সমন্বয়ক ছিলেন?",
+    "noakhali_question": "নাহিদ ইসলাম কোন আন্দোলনের অন্যতম সমন্বয়ক আছিল?",
+    "original_answer": "কোটা সংস্কার আন্দোলন",
+    "noakhali_answer": "কোটা সংস্কার আন্দোলন"
+  },
+  {
+    "image_id": "personality_143",
+    "original_question": "আসিফ মাহমুদ সজীব ভূঁইয়া বর্তমানে কোন পদে দায়িত্ব পালন করছেন?",
+    "noakhali_question": "আসিফ মাহমুদ সজীব ভূঁইয়া বর্তমানে কোন পদে দায়িত্বে আছেন?",
+    "original_answer": "অন্তর্বর্তীকালীন সরকারের উপদেষ্টা",
+    "noakhali_answer": "অন্তর্বর্তীকালীন সরকারের উপদেষ্টা"
+  },
+  {
+    "image_id": "personality_144",
+    "original_question": "সারজিস আলম বর্তমানে কোন রাজনৈতিক দলের কেন্দ্রীয় সংগঠক?",
+    "noakhali_question": "সারজিস আলম বর্তমানে কোন রাজনৈতিক দলের কেন্দ্রীয় সংগঠক?",
+    "original_answer": "জাতীয় নাগরিক পার্টি",
+    "noakhali_answer": "জাতীয় নাগরিক পার্টি"
+  },
+  {
+    "image_id": "personality_145",
+    "original_question": "হাসনাত আবদুল্লাহ ২০২৫ সাল থেকে কোন অঞ্চলের প্রধান সংগঠক?",
+    "noakhali_question": "হাসনাত আবদুল্লাহ ২০২৫ সাল থেইক্যে কোন এলাকার প্রধান সংগঠক?",
+    "original_answer": "জাতীয় নাগরিক পার্টির দক্ষিণ অঞ্চল",
+    "noakhali_answer": "জাতীয় নাগরিক পার্টির দক্ষিণ এলাকায়"
+  },
+  {
+    "image_id": "personality_146",
+    "original_question": "শফিকুর রহমান কোন রাজনৈতিক দলের বর্তমান আমীর?",
+    "noakhali_question": "শফিকুর রহমান কোন রাজনৈতিক দলের বর্তমান আমীর?",
+    "original_answer": "বাংলাদেশ জামায়াতে ইসলামী",
+    "noakhali_answer": "বাংলাদেশ জামায়াতে ইসলামী"
+  },
+  {
+    "image_id": "personality_147",
+    "original_question": "তারিক রহমান কোন রাজনৈতিক দলের ভারপ্রাপ্ত চেয়ারম্যান?",
+    "noakhali_question": "তারিক রহমান কোন দলর ভারপ্রাপ্ত চেয়ারম্যান?",
+    "original_answer": "বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি)",
+    "noakhali_answer": "বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি)"
+  },
+  {
+    "image_id": "personality_148",
+    "original_question": "ফজলুর রহমান খান ডিজাইন পদ্ধতির জনক হিসেবে পরিচিত?",
+    "noakhali_question": "ফজলুর রহমান খান ডিজাইন পদ্ধতির জনক হিসাবে পরিচিত?",
+    "original_answer": "টিউব স্ট্রাকচার",
+    "noakhali_answer": "টিউব স্ট্রাকচার"
+  },
+  {
+    "image_id": "personality_149",
+    "original_question": "কাজী নজরুল ইসলামের জাতীয় পরিচয় কী?",
+    "noakhali_question": "কাজী নজরুল ইসলামের জাতীয় পরিচয় কী?",
+    "original_answer": "বাংলাদেশের জাতীয় কবি",
+    "noakhali_answer": "বাংলাদেশের জাতীয় কবি"
+  },
+  {
+    "image_id": "personality_150",
+    "original_question": "ইয়াজউদ্দিন আহম্মেদ কোন পদে দায়িত্ব পালন করেছিলেন?",
+    "noakhali_question": "ইয়াজউদ্দিন আহম্মেদ কোন পদে কাম (কাজ) করসিল?",
+    "original_answer": "বাংলাদেশের রাষ্ট্রপতি",
+    "noakhali_answer": "বাংলাদেশর রাষ্ট্রপতি"
+  }
+]

@@ -1,0 +1,1066 @@
+[
+  {
+    "image_id": "politics_001",
+    "original_question": "ছবিতে জনতার সামনে ভাষণ দিচ্ছেন যিনি, তিনি বাংলাদেশের রাজনীতিতে কী নামে পরিচিত?",
+    "noakhali_question": "ছবিত জনতার সামনে ভাষণ দিতাছে যে, সে বাংলাদেশের রাজনীতিতে কী নামে পরিচিত?",
+    "original_answer": "জাতির পিতা",
+    "noakhali_answer": "জাতির বাপে"
+  },
+  {
+    "image_id": "politics_002",
+    "original_question": "ছবির ভাষণ কোন স্থানে দেওয়া হয়েছিল?",
+    "noakhali_question": "ছবির ভাষণ কোন জাগাত দেওয়া অইছিল?",
+    "original_answer": "সোহরাওয়ার্দী উদ্যান",
+    "noakhali_answer": "সোহরাওয়ার্দী উদ্যান"
+  },
+  {
+    "image_id": "politics_003",
+    "original_question": "ছবির লোকটি কোন পদে দায়িত্ব পালন করেছিলেন?",
+    "noakhali_question": "ছবির লোকডা কোন পদে দায়িত্ব পালন করসিল?",
+    "original_answer": "প্রধানমন্ত্রী",
+    "noakhali_answer": "প্রধানমন্ত্রী"
+  },
+  {
+    "image_id": "politics_004",
+    "original_question": "ছবির লোকটি কোন পদে ছিলেন?",
+    "noakhali_question": "ছবির লোকডা কোন পদে আছিল?",
+    "original_answer": "প্রেসিডেন্ট",
+    "noakhali_answer": "প্রেসিডেন্ট"
+  },
+  {
+    "image_id": "politics_005",
+    "original_question": "ছবির নেত্রী কোন দলের প্রধান?",
+    "noakhali_question": "ছবির নেত্রী কোন দলের প্রধান?",
+    "original_answer": "আওয়ামী লীগ",
+    "noakhali_answer": "আওয়ামী লীগ"
+  },
+  {
+    "image_id": "politics_006",
+    "original_question": "ছবির নেত্রী কোন দলের প্রধান?",
+    "noakhali_question": "ছবির নেত্রী কোন দলের প্রধান?",
+    "original_answer": "বিএনপি",
+    "noakhali_answer": "বিএনপি"
+  },
+  {
+    "image_id": "politics_007",
+    "original_question": "ছবির আন্দোলন কোন ভাষার জন্য হয়েছিল?",
+    "noakhali_question": "ছবির আন্দোলন কোন ভাষার লাগি অইছিল?",
+    "original_answer": "বাংলা",
+    "noakhali_answer": "বাংলা"
+  },
+  {
+    "image_id": "politics_008",
+    "original_question": "ছবির ঘটনাটি কোন দেশের মুক্তির পর ঘটেছিল?",
+    "noakhali_question": "ছবির ঘটনাডা কোন দেশের মুক্তির পর ঘটিছিল?",
+    "original_answer": "বাংলাদেশ",
+    "noakhali_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "politics_009",
+    "original_question": "ছবির গণঅভ্যুত্থান কোন শাসকের বিরুদ্ধে হয়েছিল?",
+    "noakhali_question": "ছবির গণঅভ্যুত্থান কোন শাসকের বিরুদ্ধে হইছিল?",
+    "original_answer": "আয়ুব খান",
+    "noakhali_answer": "আয়ুব খান"
+  },
+  {
+    "image_id": "politics_010",
+    "original_question": "ছবির লোকটি কোন বাহিনীর প্রধান ছিলেন?",
+    "noakhali_question": "ছবির লোকডা কোন বাহিনীর প্রধান আছিল?",
+    "original_answer": "মুক্তিবাহিনী",
+    "noakhali_answer": "মুক্তিবাহিনী"
+  },
+  {
+    "image_id": "politics_011",
+    "original_question": "ছবির লোকটি কোন বাহিনীর প্রধান ছিলেন?",
+    "noakhali_question": "ছবির লোকডা কোন বাহিনীর প্রধান আছিল?",
+    "original_answer": "সেনাবাহিনী",
+    "noakhali_answer": "ফौज"
+  },
+  {
+    "image_id": "politics_012",
+    "original_question": "ছবির লোকটি কোন বিশ্ববিদ্যালয়ের উপাচার্য ছিলেন?",
+    "noakhali_question": "ছবির লোকডা কোন বিশ্ববিদ্যালয়র উপাচার্য আছিল?",
+    "original_answer": "আলীগড় বিশ্ববিদ্যালয়",
+    "noakhali_answer": "আলীগড় বিশ্ববিদ্যালয়"
+  },
+  {
+    "image_id": "politics_013",
+    "original_question": "তিনি কোন সংগঠনের প্রতিষ্ঠাতা?",
+    "noakhali_question": "উই কোন সংগঠনের প্রতিষ্ঠাতা?",
+    "original_answer": "তমদ্দুন মজলিশ",
+    "noakhali_answer": "তমদ্দুন মজলিশ"
+  },
+  {
+    "image_id": "politics_014",
+    "original_question": "ছবির লোকটি কোন ভাষাকে রাষ্ট্রভাষা করার দাবি তুলেছিলেন?",
+    "noakhali_question": "ছবির মানুষডা কোন ভাষাডা রাষ্ট্রভাষা করার দাবি তুলসিল?",
+    "original_answer": "বাংলা",
+    "noakhali_answer": "বাংলা"
+  },
+  {
+    "image_id": "politics_015",
+    "original_question": "ছবির লোকটি কোন সালে ঢাকা সফরে এসেছিলেন?",
+    "noakhali_question": "ছবির লোকডা কোন সালে ঢাকা সফরে আইছিল?",
+    "original_answer": "১৯৪৮",
+    "noakhali_answer": "উন轶"
+  },
+  {
+    "image_id": "politics_016",
+    "original_question": "ছবির ব্যক্তি কোন ভাষাকে রাষ্ট্রভাষা করার পক্ষে ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন ভাষডা রাষ্ট্রভাষা করার পক্ষে আছিল?",
+    "original_answer": "উর্দু",
+    "noakhali_answer": "উর্দু"
+  },
+  {
+    "image_id": "politics_017",
+    "original_question": "ছবির ব্যক্তি রাষ্ট্রভাষা আন্দোলনে সহযোগিতার কারণে কত মাস কারানির্যাতনের শিকার হন?",
+    "noakhali_question": "ছবির ব্যক্তি রাষ্ট্রভাষা আন্দোলনে সহযোগিতার কারণে কত মাস জেল খাটা খাটা হইসে?",
+    "original_answer": "১৬ মাস",
+    "noakhali_answer": "১৬ মাস"
+  },
+  {
+    "image_id": "politics_018",
+    "original_question": "ছবির ব্যক্তি কোন দলের নেতা ছিলেন?",
+    "noakhali_question": "ছবির মানুষডা কোন দলের নেতা আছিল?",
+    "original_answer": "কৃষক শ্রমিক পার্টি",
+    "noakhali_answer": "কৃষক শ্রমিক পার্টি"
+  },
+  {
+    "image_id": "politics_019",
+    "original_question": "কৃষক শ্রমিক পার্টি কোন বছরে প্রতিষ্ঠিত হয়েছিল?",
+    "noakhali_question": "কৃষক শ্রমিক পার্টি কোন বছরে গড়া অইছিল?",
+    "original_answer": "১৯২৯",
+    "noakhali_answer": "উনসাতাইশ"
+  },
+  {
+    "image_id": "politics_020",
+    "original_question": "ছবির ব্যক্তি কোন প্রদেশের মুখ্যমন্ত্রী ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন প্রদেশের মুখ্যমন্ত্রী আছিল?",
+    "original_answer": "পূর্ব বাংলা",
+    "noakhali_answer": "পূর্ব বাংলা"
+  },
+  {
+    "image_id": "politics_020",
+    "original_question": "ছবির ব্যক্তি কোন আন্দোলনের বিরোধিতা করেছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন আন্দোলনের বিরোধিতা করছিলো?",
+    "original_answer": "ভাষা আন্দোলন",
+    "noakhali_answer": "ভাষা আন্দোলন"
+  },
+  {
+    "image_id": "politics_021",
+    "original_question": "ছবির মন্ত্রিসভা কোন জোট গঠন করেছিল?",
+    "noakhali_question": "ছবির মন্ত্রিসভা কোন জোট গঠন করছিলো?",
+    "original_answer": "যুক্তফ্রন্ট",
+    "noakhali_answer": "যুক্তফ্রন্ট"
+  },
+  {
+    "image_id": "politics_021",
+    "original_question": "ছবির প্রধানমন্ত্রী কে ছিলেন?",
+    "noakhali_question": "ছবির প্রধানমন্ত্রী কে আছিল?",
+    "original_answer": "এ. কে. ফজলুল হক",
+    "noakhali_answer": "এ. কে. ফজলুল হক"
+  },
+  {
+    "image_id": "politics_022",
+    "original_question": "ছবির দলটির কার্যক্রম কোন সালে শুরু হয়?",
+    "noakhali_question": "ছবির দলডার কামকাজ কোন সালে শুরু অইছে?",
+    "original_answer": "১৯৫২",
+    "noakhali_answer": "উনিশশো বায়ান্ন"
+  },
+  {
+    "image_id": "politics_023",
+    "original_question": "ছবির ব্যক্তিটি কোন নামে পরিচিত?",
+    "noakhali_question": "ছবির ব্যক্তিডা কোন নামে পরিচিত?",
+    "original_answer": "দেশবন্ধু",
+    "noakhali_answer": "দেশবন্ধু"
+  },
+  {
+    "image_id": "politics_024",
+    "original_question": "ছবির নেতা কোন দলের সঙ্গে যুক্ত ছিলেন ১৯২৩ সালে?",
+    "noakhali_question": "ছবির নেতা কোন দলের লগে যুক্ত আছিল ১৯২৩ সালে?",
+    "original_answer": "স্বরাজ পার্টি",
+    "noakhali_answer": "স্বরাজ পার্টি"
+  },
+  {
+    "image_id": "politics_025",
+    "original_question": "ছবির নেতা ১৯৪৬ সালে কোন পদে ছিলেন?",
+    "noakhali_question": "ছবির নেতা ১৯৪৬ সালে কোন পদে আছিল?",
+    "original_answer": "বাংলার মুখ্যমন্ত্রী",
+    "noakhali_answer": "বাংলার মুখ্যমন্ত্রী"
+  },
+  {
+    "image_id": "politics_026",
+    "original_question": "ছবির নেতা কোন আন্দোলনের সঙ্গে সবচেয়ে বেশি যুক্ত ছিলেন?",
+    "noakhali_question": "ছবির নেতা কোন আন্দোলনের লগে সবচেয়ে বেশি যুক্ত আছিল?",
+    "original_answer": "তেভাগা আন্দোলন",
+    "noakhali_answer": "তেভাগা আন্দোলন"
+  },
+  {
+    "image_id": "politics_027",
+    "original_question": "ছবির নেতা ১৯৫২ সালে কোন আন্দোলনের সঙ্গে যুক্ত ছিলেন?",
+    "noakhali_question": "ছবির নেতা ১৯৫২ সালে কোন আন্দোলনের লগে যুক্ত আছিল?",
+    "original_answer": "ভাষা আন্দোলন",
+    "noakhali_answer": "ভাষা আন্দোলন"
+  },
+  {
+    "image_id": "politics_028",
+    "original_question": "ছবির নেতা কোন দিনকে শহীদ দিবস হিসেবে স্বীকৃতি দিয়েছিলেন?",
+    "noakhali_question": "ছবির নেতা কোন দিনডা শহীদ দিবস হিসাবে চিনাই দিছিল?",
+    "original_answer": "২১ ফেব্রুয়ারি",
+    "noakhali_answer": "একুশে ফাল্গুন"
+  },
+  {
+    "image_id": "politics_029",
+    "original_question": "ছবির নেতা ১৯৫৪ সালের নির্বাচনে কোন পরিষদের সদস্য নির্বাচিত হয়েছিলেন?",
+    "noakhali_question": "ছবির নেতা ১৯৫৪ সালের নির্বাচনে কোন পরিষদের সদস্য নির্বাচিত অইছিল?",
+    "original_answer": "পূর্ব বাংলা আইন পরিষদ",
+    "noakhali_answer": "পূর্ব বাংলা আইন পরিষদ"
+  },
+  {
+    "image_id": "politics_030",
+    "original_question": "ছবির নেতা কোন সাল থেকে কোন সাল পর্যন্ত আওয়ামী মুসলিম লীগের সহ-সভাপতি ছিলেন?",
+    "noakhali_question": "ছবির নেতা কোন সাল থেইক্যে কোন সাল পর্যন্ত আওয়ামী মুসলিম লীগের সহ-সভাপতি আছাইল?",
+    "original_answer": "১৯৫৩ থেকে ১৯৫৮ সাল পর্যন্ত",
+    "noakhali_answer": "১৯৫৩ থেইক্কা ১৯৫৮ সাল ফোর্যন্ত"
+  },
+  {
+    "image_id": "politics_031",
+    "original_question": "ছবির নেতা কোন সালে আবার রাজনীতিতে যোগ দেন?",
+    "noakhali_question": "ছবির নেতা কোন সালে আবার রাজনীতিত যোগ দিইসে?",
+    "original_answer": "১৯৮৬ সালে",
+    "noakhali_answer": "১৯৮৬ সালে"
+  },
+  {
+    "image_id": "politics_032",
+    "original_question": "ছবির নেতা কোন সালে আওয়ামী লীগের কাউন্সিল সভার উদ্বোধন করেন?",
+    "noakhali_question": "ছবির নেতা কোন সালে আওয়ামী লীগের কাউন্সিল সভার উদ্বোধন করিসিল?",
+    "original_answer": "১৯৬৬ সালে",
+    "noakhali_answer": "১৯৬৬ সালে"
+  },
+  {
+    "image_id": "politics_033",
+    "original_question": "ছবির নেতা কোন আসন থেকে সংসদ সদস্য নির্বাচিত হয়েছিলেন?",
+    "noakhali_question": "ছবির নেতা কোন আসন থেইক্যে সাংসদ নির্বাচিত অইছিল?",
+    "original_answer": "সিরাজগঞ্জ-৫",
+    "noakhali_answer": "সিরাজগঞ্জ-৫"
+  },
+  {
+    "image_id": "politics_034",
+    "original_question": "ছবির এই নেতা কোন আসন থেকে সংসদ সদস্য নির্বাচিত হয়েছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কোন আসন থেইক্যে সাংসদ নির্বাচিত অইছিল?",
+    "original_answer": "রংপুর-৬",
+    "noakhali_answer": "রংপুর-৬"
+  },
+  {
+    "image_id": "politics_035",
+    "original_question": "ইউসুফ আলী চৌধুরী কোন সালে আওয়ামী লীগের প্রার্থীর কাছে নির্বাচনে পরাজিত হন?",
+    "noakhali_question": "ইউসুফ আলী চৌধুরী কোন সালে আওয়ামী লীগের প্রার্থীর কাছে নির্বাচনে হারিতো?",
+    "original_answer": "১৯৭০",
+    "noakhali_answer": "উনিশ সত্তর"
+  },
+  {
+    "image_id": "politics_036",
+    "original_question": "ছবির এই ব্যক্তিটি কোন সালে রাজনীতি থেকে অবসর নেন?",
+    "noakhali_question": "ছবির এই ব্যক্তিডা কোন সালে রাজনীতি থেইক্যে অবসর নেয়?",
+    "original_answer": "১৯৬৯ সালে",
+    "noakhali_answer": "উনাত্তর সালে"
+  },
+  {
+    "image_id": "politics_037",
+    "original_question": "ছবির লোকটিকে পূর্ব বাংলার গভর্নর হিসেবে কে নিয়োগ দিয়েছিলেন?",
+    "noakhali_question": "ছবির লোকডা পূর্ব বাংলার গভর্নর হিসাবে কে নিয়োগ দিছিল?",
+    "original_answer": "গভর্নর-জেনারেল মালিক গুলাম",
+    "noakhali_answer": "গভর্নর-জেনারেল মালিক গুলাম"
+  },
+  {
+    "image_id": "politics_038",
+    "original_question": "ছবির ব্যক্তিটি কোন সালে মুসলিম লীগে যোগ দেন?",
+    "noakhali_question": "ছবির ব্যক্তিডা কোন সালে মুসলিম লীগে যোগ দেয়?",
+    "original_answer": "১৯৩৬ সালে",
+    "noakhali_answer": "১৯৩৬ সালে"
+  },
+  {
+    "image_id": "politics_039",
+    "original_question": "ছবির ব্যক্তিটি আগরতলা ষড়যন্ত্র মামলায় কত নম্বর অভিযুক্ত ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তিডা আগরতলা ষড়যন্ত্র মামলায় কত নম্বর অভিযুক্ত আছিল?",
+    "original_answer": "দ্বিতীয়",
+    "noakhali_answer": "দইতরা"
+  },
+  {
+    "image_id": "politics_040",
+    "original_question": "ছবির ব্যক্তিটি কোন সালে অবিভক্ত বাংলার আইন পরিষদের সদস্য নির্বাচিত হয়েছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তিডা কোন সালে অবিভক্ত বাংলার আইন পরিষদের সদস্য নির্বাচিত অইছিল?",
+    "original_answer": "১৯৪৩ সালে",
+    "noakhali_answer": "তেচল্লিশ সালে"
+  },
+  {
+    "image_id": "politics_041",
+    "original_question": "ছবির এই ব্যক্তি কোন মামলার অন্যতম আসামি ছিলেন?",
+    "noakhali_question": "ছবির এই ব্যক্তি কোন মামলার অন্যতম আসামী আছিল?",
+    "original_answer": "আগরতলা ষড়যন্ত্র মামলা",
+    "noakhali_answer": "আগরতলা ষড়যন্ত্র মামলা"
+  },
+  {
+    "image_id": "politics_042",
+    "original_question": "ছবির ব্যক্তিটি কোন মামলার ১২ নম্বর আসামি ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তিডা কোন মামলার ১২ নম্বর আসামী আছিল?",
+    "original_answer": "আগরতলা ষড়যন্ত্র মামলা",
+    "noakhali_answer": "আগরতলা ষড়যন্ত্র মামলা"
+  },
+  {
+    "image_id": "politics_043",
+    "original_question": "ছবির ব্যক্তিটি কোন বিশ্ববিদ্যালয়ের ছাত্র ইউনিয়ন থেকে রাজনৈতিক জীবন শুরু করেছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তিডা কোন বিশ্ববিদ্যালয়র ছাত্র ইউনিয়ন থেইক্যে রাজনীতি শুরু করসিল?",
+    "original_answer": "ঢাকা বিশ্ববিদ্যালয়",
+    "noakhali_answer": "ঢাকা বিশ্ববিদ্যালয়"
+  },
+  {
+    "image_id": "politics_044",
+    "original_question": "ছবির ব্যক্তিটি কোন সালে কৃষি মন্ত্রণালয়ের মন্ত্রী হিসেবে শপথ গ্রহণ করেন?",
+    "noakhali_question": "ছবির ব্যক্তিডা কোন সালে কৃষি মন্ত্রণালয়ের মন্ত্রী হিসাবে শপৎ নিছিল?",
+    "original_answer": "২০১৯ সালের ৭ জানুয়ারি",
+    "noakhali_answer": "২০১৯ সালর ৭ জানুয়ারি"
+  },
+  {
+    "image_id": "politics_045",
+    "original_question": "ছবির ব্যক্তিটি আগরতলা মামলার কোন নম্বর আসামি ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তিডা আগরতলা মামলার কোন নম্বর আসামী আছিল?",
+    "original_answer": "২২ নম্বর",
+    "noakhali_answer": "বাইশ নম্বর"
+  },
+  {
+    "image_id": "politics_046",
+    "original_question": "ছবির ব্যক্তিটি কোন বিশ্ববিদ্যালয়ের সিন্ডিকেট সদস্য ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তিডা কোন বিশ্ববিদ্যালয়র সিন্ডিকেট সদস্য আছিল?",
+    "original_answer": "সিলেট কৃষি বিশ্ববিদ্যালয়",
+    "noakhali_answer": "সিলেট কৃষি বিশ্ববিদ্যালয়"
+  },
+  {
+    "image_id": "politics_047",
+    "original_question": "ছবির ব্যক্তিটি কোন দলের কেন্দ্রীয় কার্যনির্বাহী কমিটির সদস্য ছিলেন?",
+    "noakhali_question": "ছবির বেক্তিডা কোন দলের কেন্দ্রীয় কার্যনির্বাহী কমিটির সদস্য আছিল?",
+    "original_answer": "বাংলাদেশ আওয়ামী লীগ",
+    "noakhali_answer": "বাংলাদেশ আওয়ামী লীগ"
+  },
+  {
+    "image_id": "politics_048",
+    "original_question": "খন্দকার নাজমুল হুদা কোন মামলার ২৭ নম্বর আসামি ছিলেন?",
+    "noakhali_question": "খন্দকার নাজমুল হুদা কোন মামলার ২৭ নম্বর আসামী আছিল?",
+    "original_answer": "আগরতলা ষড়যন্ত্র মামলা",
+    "noakhali_answer": "আগরতলা ষড়যন্ত্র মামলা"
+  },
+  {
+    "image_id": "politics_049",
+    "original_question": "এ.এন.এম নূরুজ্জামান আগরতলা ষড়যন্ত্র মামলায় কত নম্বর আসামি ছিলেন?",
+    "noakhali_question": "এ.এন.এম নূরুজ্জামান আগরতলা ষড়যন্ত্র মামলায় কত নম্বর আসামি আছিল?",
+    "original_answer": "২৮ নম্বর",
+    "noakhali_answer": "২৮ নম্বর"
+  },
+  {
+    "image_id": "politics_050",
+    "original_question": "ছবির লোকটি কোথা থেকে নির্বাচিত হয়েছিলেন ১৯৭০ সালে?",
+    "noakhali_question": "ছবির মানুষডা কোনখান থেইক্যে নির্বাচিত অইছিল ১৯৭০ সালে?",
+    "original_answer": "দিনাজপুর-৮",
+    "noakhali_answer": "দিনাজপুর-৮"
+  },
+  {
+    "image_id": "politics_051",
+    "original_question": "ছবির এই নেতা কোন সাল আর কত তারিখে নিহত হয়েছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কোন সাল আর কত তারিখে খুন হইছিল?",
+    "original_answer": "৩ নভেম্বর ১৯৭৫",
+    "noakhali_answer": "৩ নভেম্বর ১৯৭৫"
+  },
+  {
+    "image_id": "politics_052",
+    "original_question": "ছবির এই নেতা কোন সালে পাকিস্তানি বাহিনীর হাতে গ্রেপ্তার হয়েছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কোন সালে পাকিস্তানি বাহিনীর হাতে গ্রেপ্তার অইছিল?",
+    "original_answer": "১৯৬৬",
+    "noakhali_answer": "১৯৬৬"
+  },
+  {
+    "image_id": "politics_053",
+    "original_question": "ছবির এই নেতা কোন সালে রাজনীতিতে যোগ দেন?",
+    "noakhali_question": "ছবির এই নেতা কোন সালে রাজনীতিতে যোগ দিলা?",
+    "original_answer": "১৯৪২",
+    "noakhali_answer": "৪২"
+  },
+  {
+    "image_id": "politics_054",
+    "original_question": "ছবির এই নেতা কোন সালে আওয়ামী মুসলিম লীগে যোগ দেন?",
+    "noakhali_question": "ছবির এই নেতা কোন সালে আওয়ামী মুসলিম লীগে যোগ দিইছে?",
+    "original_answer": "১৯৫১",
+    "noakhali_answer": "উনিশশো একান্ন"
+  },
+  {
+    "image_id": "politics_055",
+    "original_question": "ছবির এই নেতা কোন সালে নিহত হয়েছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কোন সালে মারাই গেসিলেন?",
+    "original_answer": "১৯৭৫",
+    "noakhali_answer": "১৯৭৫"
+  },
+  {
+    "image_id": "politics_056",
+    "original_question": "ছবির এই নেতা কোন সালে আওয়ামী লীগে যোগ দেন?",
+    "noakhali_question": "ছবির এই নেতা কোন সালে আওয়ামী লীগে যোগ দিলা?",
+    "original_answer": "১৯৯৬",
+    "noakhali_answer": "৯৬"
+  },
+  {
+    "image_id": "politics_057",
+    "original_question": "ছবির এই নেতা কোন সালে আওয়ামী লীগে যোগ দেন?",
+    "noakhali_question": "ছবির এই নেতা কোন সালে আওয়ামী লীগে যোগ দিইসে?",
+    "original_answer": "১৯৯৫",
+    "noakhali_answer": "১৯৯৫"
+  },
+  {
+    "image_id": "politics_058",
+    "original_question": "তিনি কত সাল পর্যন্ত বিএনপির স্থায়ী কমিটির সদস্য ছিলেন?",
+    "noakhali_question": "উই কত সাল তক্ বিএনপির স্থায়ী কমিটির সদস্য আছিল?",
+    "original_answer": "২০০৮",
+    "noakhali_answer": "২০০৮"
+  },
+  {
+    "image_id": "politics_059",
+    "original_question": "ছবির এই নেতা কতবার সিরাজগঞ্জ-১ আসন থেকে বিজয়ী হন?",
+    "noakhali_question": "ছবির এই নেতা কতবার সিরাজগঞ্জ-১ আসন থেইক্যে জয়ী অইছে?",
+    "original_answer": "পাঁচবার",
+    "noakhali_answer": "পাঁচবার"
+  },
+  {
+    "image_id": "politics_060",
+    "original_question": "ছবির এই নেতা কোন সংসদীয় কমিটির সভাপতি ছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কোন সংসদীয় কমিটির সভাপতি আছিল?",
+    "original_answer": "পররাষ্ট্র মন্ত্রণালয়",
+    "noakhali_answer": "পররাষ্ট্র মন্ত্রণালয়"
+  },
+  {
+    "image_id": "politics_061",
+    "original_question": "ছবির এই নেতা কোন দলের স্থায়ী কমিটির সদস্য ছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কোন দলের স্থায়ী কমিটির সদস্য আছিল?",
+    "original_answer": "বিএনপি",
+    "noakhali_answer": "বিএনপি"
+  },
+  {
+    "image_id": "politics_062",
+    "original_question": "ছবির এই নেতা কোন জেলার বিএনপি সভাপতির পদে ছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কোন জেলার বিএনপি সভাপতি পদে আছিলেন?",
+    "original_answer": "সিরাজগঞ্জ",
+    "noakhali_answer": "সিরাজগঞ্জ"
+  },
+  {
+    "image_id": "politics_063",
+    "original_question": "ছবির এই নেতা কোন দলের সিরাজগঞ্জ জেলা কমিটির সভাপতি ছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কোন দলের সিরাজগঞ্জ এলাকার সভাপতি আছিল?",
+    "original_answer": "বাংলাদেশ জাতীয়তাবাদী দল",
+    "noakhali_answer": "বাংলাদেশ জাতীয়তাবাদী দল"
+  },
+  {
+    "image_id": "politics_064",
+    "original_question": "ছবির এই নেতা কোন জেলার বিএনপি সভাপতি ছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কোন জেলার বিএনপি সভাপতি আছিল?",
+    "original_answer": "পটুয়াখালী",
+    "noakhali_answer": "পটুয়াখালী"
+  },
+  {
+    "image_id": "politics_065",
+    "original_question": "ছবির এই নেতা কোন জেলার আওয়ামী লীগের সভাপতি ছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কোন জেলার আওয়ামী লীগের সভাপতি আছিল?",
+    "original_answer": "পটুয়াখালী",
+    "noakhali_answer": "পটুয়াখালী"
+  },
+  {
+    "image_id": "politics_066",
+    "original_question": "ছবির এই ব্যক্তি কবে অন্তর্বর্তী সরকারের উপদেষ্টা নিযুক্ত হন?",
+    "noakhali_question": "ছবির এই ব্যক্তি কুন সময় অন্তর্বর্তী সরকারের উপদেষ্টা নিযুক্ত অইছিল?",
+    "original_answer": "৮ আগস্ট ২০২৪",
+    "noakhali_answer": "৮ আগোস্ট ২০২৪"
+  },
+  {
+    "image_id": "politics_067",
+    "original_question": "ছবির এই ব্যক্তি কবে অন্তর্বর্তী সরকারের উপদেষ্টা নিযুক্ত হন?",
+    "noakhali_question": "ছবির এই বেটা কুনদিন অন্তর্বর্তী সরকারের উপদেষ্টা নিযুক্ত অইছে?",
+    "original_answer": "১৬ আগস্ট ২০২৪",
+    "noakhali_answer": "১৬ আগোস্ট ২০২৪"
+  },
+  {
+    "image_id": "politics_068",
+    "original_question": "ছবির এই নেতা কখন খাদ্য মন্ত্রণালয়ের মন্ত্রী ছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কুন সময় খাদ্য মন্ত্রণালয়ের মন্ত্রী আছিল?",
+    "original_answer": "৭ জানুয়ারি ২০১৯ থেকে ৫ আগস্ট ২০২৪",
+    "noakhali_answer": "৭ জানুয়ারি ২০১৯ থাইক্যা ৫ আগস্ট ২০২৪"
+  },
+  {
+    "image_id": "politics_069",
+    "original_question": "ছবির এই নেতা কোন বছরের নবম জাতীয় সংসদ নির্বাচনে কিশোরগঞ্জ-৬ আসন থেকে সংসদ সদস্য নির্বাচিত হন?",
+    "noakhali_question": "ছবির এই নেতা কোন বছরের নবম জাতীয় সংসদ নির্বাচনে কিশোরগঞ্জ-৬ আসন থেইক্যে সংসদ সদস্য নির্বাচিত অইতাছে?",
+    "original_answer": "২৯ ডিসেম্বর ২০০৮",
+    "noakhali_answer": "২৯ ডিসেম্বর ২০০৮"
+  },
+  {
+    "image_id": "politics_070",
+    "original_question": "ছবির এই নেতা কোন দলের মহাসচিব ছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কোন দলের মহাসচিব আছিল?",
+    "original_answer": "বিএনপি",
+    "noakhali_answer": "বিএনপি"
+  },
+  {
+    "image_id": "politics_071",
+    "original_question": "ছবির এই নেতা কত বছরের জন্য কারান্তরীণ ছিলেন?",
+    "noakhali_question": "ছবির এই নেতা কত বছরের লাগি জেলোত আছিল?",
+    "original_answer": "দশ বছরের অধিককাল",
+    "noakhali_answer": "দশ বছরর বেশি"
+  },
+  {
+    "image_id": "politics_072",
+    "original_question": "ছবির এই নেতাকে কোন রাষ্ট্রপতি প্রথমে মন্ত্রিত্ব দেন?",
+    "noakhali_question": "ছবির এই নেতাডা কোন রাষ্ট্রপতি পহেলা মন্ত্রিত্ব দিলা?",
+    "original_answer": "রাষ্ট্রপতি জিয়াউর রহমান",
+    "noakhali_answer": "জিয়াউর রহমান"
+  },
+  {
+    "image_id": "politics_073",
+    "original_question": "জরুরি অবস্থার সময় সংস্কার প্রস্তাব দেওয়ার কারণে ছবির এই নেতাকে কে দল থেকে বহিষ্কার করেন?",
+    "noakhali_question": "জরুরি অবস্থার সময় সংস্কার প্রস্তাব দেওনের কারণে ছবির এই নেতাডা কে দল থেইক্যে বাইর কইর্যা দিছে?",
+    "original_answer": "খালেদা জিয়া",
+    "noakhali_answer": "খালেদা জিয়া"
+  },
+  {
+    "image_id": "politics_074",
+    "original_question": "কে রাষ্ট্রপতি নির্বাচিত হওয়ায় কিশোরগঞ্জ-৬ আসন শূন্য হয়েছিল, যেখানে ছবির এই নেতা নির্বাচিত হন?",
+    "noakhali_question": "কে রাষ্ট্রপতি অইতাছে নিয়া কিশোরগঞ্জ-৬ আসন খালি অইছিলো, যেডাই ছবির এই নেতা নির্বাচিত অইছিলো?",
+    "original_answer": "জিল্লুর রহমান",
+    "noakhali_answer": "জিল্লুর রহমান"
+  },
+  {
+    "image_id": "politics_075",
+    "original_question": "২০০২ সালে রাষ্ট্রপতির পদ শূন্য হলে ছবির তিনি অস্থায়ীভাবে কোন দায়িত্ব নেন?",
+    "noakhali_question": "২০০২ সালে রাষ্ট্রপতির পদ খালি অইলে ছবির তিনি অস্থায়ীভাবে কোন কামডা নিতা?",
+    "original_answer": "রাষ্ট্রপতির দায়িত্ব",
+    "noakhali_answer": "রাষ্ট্রপতির দায়িত্ব"
+  },
+  {
+    "image_id": "politics_076",
+    "original_question": "ছবির ব্যক্তি কোন মন্ত্রণালয়ের উপদেষ্টা?",
+    "noakhali_question": "ছবির ব্যক্তি কোন মন্ত্রণালয়ের উপদেষ্টা?",
+    "original_answer": "যুব ও ক্রীড়া",
+    "noakhali_answer": "যুব আর ক্রীড়া"
+  },
+  {
+    "image_id": "politics_077",
+    "original_question": "ছবির ব্যক্তি কোন আসন থেকে সংসদ সদস্য নির্বাচিত হয়েছেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন আসন থেইক্যে সংসদ সদস্য নির্বাচিত অইছে?",
+    "original_answer": "খুলনা-৩",
+    "noakhali_answer": "খুলনা-৩"
+  },
+  {
+    "image_id": "politics_078",
+    "original_question": "ছবির ব্যক্তি কোন আসন থেকে সংসদ সদস্য নির্বাচিত হয়েছেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন আসন থেইক্যে সংসদ সদস্য নির্বাচিত অইছে?",
+    "original_answer": "কিশোরগঞ্জ-৪",
+    "noakhali_answer": "কিশোরগঞ্জ-৪"
+  },
+  {
+    "image_id": "politics_079",
+    "original_question": "ছবির ব্যক্তি কোন আসন থেকে সংসদ সদস্য নির্বাচিত হয়েছেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন আসন থেইক্যে সংসদ সদস্য নির্বাচিত অইছে?",
+    "original_answer": "কিশোরগঞ্জ-১",
+    "noakhali_answer": "কিশোরগঞ্জ-১"
+  },
+  {
+    "image_id": "politics_080",
+    "original_question": "ছবির ব্যক্তি কোন বিশ্ববিদ্যালয়ের ছাত্র সংসদে জিএস ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন বিশ্ববিদ্যালয়র ছাত্র সংসদে জিএস আছিল?",
+    "original_answer": "ঢাকা বিশ্ববিদ্যালয়",
+    "noakhali_answer": "ঢাকা বিশ্ববিদ্যালয়"
+  },
+  {
+    "image_id": "politics_081",
+    "original_question": "ছবির ব্যক্তি কোন সামরিক পদ থেকে অবসর নিয়েছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সামরিক পদ থেইক্যে অবসর নিছিল?",
+    "original_answer": "লেফটেন্যান্ট কর্নেল",
+    "noakhali_answer": "লেফটেন্যান্ট কর্নেল"
+  },
+  {
+    "image_id": "politics_082",
+    "original_question": "ছবির ব্যক্তি কোন মন্ত্রণালয়ের মন্ত্রী ছিলেন?",
+    "noakhali_question": "ছবির মানুষডা কোন মন্ত্রণালয়ের মন্ত্রী আছিল?",
+    "original_answer": "শিক্ষা",
+    "noakhali_answer": "শিক্ষা"
+  },
+  {
+    "image_id": "politics_083",
+    "original_question": "ছবির ব্যক্তি কোন মন্ত্রণালয়ের মন্ত্রী ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন মন্ত্রণালয়ের মন্ত্রী আছিল?",
+    "original_answer": "শিক্ষা",
+    "noakhali_answer": "শিক্ষা"
+  },
+  {
+    "image_id": "politics_084",
+    "original_question": "ছবির ব্যক্তি কোন সাংস্কৃতিক সংগঠনের মহাসচিব ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সাংস্কৃতিক সংগঠনের মহাসচিব আছিল?",
+    "original_answer": "উত্তরসূরী",
+    "noakhali_answer": "উত্তরাধিকার"
+  },
+  {
+    "image_id": "politics_085",
+    "original_question": "ছবির ব্যক্তি কোন দলের সভাপতিমণ্ডলীর সদস্য ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন দলের সভাপতিমণ্ডলীর সদস্য আছিল?",
+    "original_answer": "আওয়ামী লীগ",
+    "noakhali_answer": "আওয়ামী লীগ"
+  },
+  {
+    "image_id": "politics_086",
+    "original_question": "ছবির ব্যক্তি কোন আসন থেকে সংসদ সদস্য নির্বাচিত হয়েছেন?",
+    "noakhali_question": "ছবির বেক্তি কোন আসন থেইক্যে সংসদ সদস্য নির্বাচিত অইছে?",
+    "original_answer": "লালমনিরহাট-২",
+    "noakhali_answer": "লালমনিরহাট-২"
+  },
+  {
+    "image_id": "politics_087",
+    "original_question": "ছবির ব্যক্তি কোন ছাত্র সংগঠনের নেতা ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন ছাত্র সংগঠনের নেতা আছিল?",
+    "original_answer": "বাংলাদেশ ছাত্র ইউনিয়ন",
+    "noakhali_answer": "বাংলাদেশ ছাত্র ইউনিয়ন"
+  },
+  {
+    "image_id": "politics_088",
+    "original_question": "ছবির ব্যক্তি কোন ছাত্রদলের নেতা ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন ছাত্রদলের নেতা আছিল?",
+    "original_answer": "জাতীয়তাবাদী ছাত্রদল",
+    "noakhali_answer": "জাতীয়তাবাদী ছাত্রদল"
+  },
+  {
+    "image_id": "politics_089",
+    "original_question": "ছবির ব্যক্তি কোন ছাত্র সংগঠনের সভাপতি ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন ছাত্র সংগঠনের সভাপতি আছিল?",
+    "original_answer": "ছাত্র ইউনিয়ন",
+    "noakhali_answer": "ছাত্র ইউনিয়ন"
+  },
+  {
+    "image_id": "politics_090",
+    "original_question": "ছবির ব্যক্তি কোন আসন থেকে সংসদ সদস্য নির্বাচিত হন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন আসন থেইক্যে সংসদ সদস্য নির্বাচিত অইতাছে?",
+    "original_answer": "দিনাজপুর-৪",
+    "noakhali_answer": "দিনাজপুর-৪"
+  },
+  {
+    "image_id": "politics_091",
+    "original_question": "ছবির ব্যক্তি কোন কেন্দ্রীয় ব্যাংকের গভর্নর ছিলেন?",
+    "noakhali_question": "ছবির বেক্তি কোন কেন্দ্রীয় ব্যাংকের গভর্নর আছিল?",
+    "original_answer": "বাংলাদেশ ব্যাংক",
+    "noakhali_answer": "বাংলাদেশ ব্যাংক"
+  },
+  {
+    "image_id": "politics_092",
+    "original_question": "ছবির ব্যক্তি কোন আসনে সংসদ সদস্য নির্বাচিত হয়েছেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন আসনে সংসদ সদস্য নির্বাচিত অইছে?",
+    "original_answer": "সিলেট-১",
+    "noakhali_answer": "সিলেট-১"
+  },
+  {
+    "image_id": "politics_093",
+    "original_question": "ছবির ব্যক্তি কোন আসন থেকে সংসদ সদস্য নির্বাচিত হন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন আসন থেইক্যে সংসদ সদস্য নির্বাচিত অইতাছে?",
+    "original_answer": "সিলেট-১",
+    "noakhali_answer": "সিলেট-১"
+  },
+  {
+    "image_id": "politics_094",
+    "original_question": "ছবির ব্যক্তি কোন বিশ্ববিদ্যালয়ের শিক্ষক?",
+    "noakhali_question": "ছবির ব্যক্তি কোন বিশ্ববিদ্যালয়ের শিক্ষক?",
+    "original_answer": "ঢাকা বিশ্ববিদ্যালয়",
+    "noakhali_answer": "ঢাকা বিশ্ববিদ্যালয়"
+  },
+  {
+    "image_id": "politics_095",
+    "original_question": "ছবির ব্যক্তি কোন আসন থেকে সংসদ সদস্য নির্বাচিত হন?",
+    "noakhali_question": "ছবির মানুষডা কোন আসন থেইক্যে সংসদ সদস্য নির্বাচিত অইছে?",
+    "original_answer": "ব্রাহ্মণবাড়িয়া-৪",
+    "noakhali_answer": "ব্রাহ্মণবাড়িয়া-৪"
+  },
+  {
+    "image_id": "politics_096",
+    "original_question": "ছবির ব্যক্তি কোন দলের আইনজীবী সংগঠনের সদস্য ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন দলের আইনজীবী সংগঠনের সদস্য আছিল?",
+    "original_answer": "জাতীয়তাবাদী দল",
+    "noakhali_answer": "জাতীয়তাবাদী দল"
+  },
+  {
+    "image_id": "politics_097",
+    "original_question": "ছবির ব্যক্তি কোন আসন থেকে সংসদ সদস্য নির্বাচিত হন?",
+    "noakhali_question": "ছবির মানুষডা কোন আসন থেইক্যে সংসদ সদস্য নির্বাচিত অইছে?",
+    "original_answer": "নরসিংদী-৪",
+    "noakhali_answer": "নরসিংদী-৪"
+  },
+  {
+    "image_id": "politics_098",
+    "original_question": "ছবির ব্যক্তি কোন জেলা থেকে ১৯৭০ সালের প্রাদেশিক পরিষদ নির্বাচনে জয়লাভ করেন?",
+    "noakhali_question": "ছবির মানুষডা কোন জেলা থেইক্যে ১৯৭০ সালের প্রাদেশিক পরিষদ নির্বাচনে জয়লাভ করের?",
+    "original_answer": "বরিশাল সদর",
+    "noakhali_answer": "বরিশাল সদর"
+  },
+  {
+    "image_id": "politics_099",
+    "original_question": "ছবির ব্যক্তি কোন দেশে বাংলাদেশের হাইকমিশনার হিসেবে নিযুক্ত ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন দেশে বাংলাদেশের হাইকমিশনার হিসাবে নিযুক্ত আছিল?",
+    "original_answer": "দক্ষিণ আফ্রিকা",
+    "noakhali_answer": "দক্ষিণ আফ্রিকা"
+  },
+  {
+    "image_id": "politics_100",
+    "original_question": "সৈয়দা রিজওয়ানা হাসান কোন মন্ত্রণালয়ের উপদেষ্টা হিসেবে ২০২৪ সালের আগস্ট মাসে দায়িত্ব পান?",
+    "noakhali_question": "সৈয়দা রিজওয়ানা হাসান কোন মন্ত্রণালয়ের উপদেষ্টা হিসাবে ২০২৪ সালের আগষ্ট মাসে দায়িত্ব পাইছে?",
+    "original_answer": "পরিবেশ, বন ও জলবায়ু পরিবর্তন মন্ত্রণালয়",
+    "noakhali_answer": "পরিবেশ, বন আর জলবায়ু পরিবর্তন মন্ত্রণালয়"
+  },
+  {
+    "image_id": "politics_101",
+    "original_question": "জাহিদ ফারুক কোন জাতীয় সংসদ নির্বাচনে প্রথমবারের মতো সংসদ সদস্য নির্বাচিত হন?",
+    "noakhali_question": "জাহিদ ফারুক কোন জাতীয় সংসদ নির্বাচনে প্রথমবার সংসদ সদস্য নির্বাচিত অইছে?",
+    "original_answer": "একাদশ জাতীয় সংসদ নির্বাচন",
+    "noakhali_answer": "একাদশ জাতীয় সংসদ নির্বাচন"
+  },
+  {
+    "image_id": "politics_102",
+    "original_question": "এই ছবির মানুষটি প্রথম কোন আসন থেকে সংসদ সদস্য হন?",
+    "noakhali_question": "এই ছবিত মানুষডা প্রথম কোন আসন থেইক্যে সংসদ সদস্য অইছে?",
+    "original_answer": "চট্টগ্রাম-৫",
+    "noakhali_answer": "চট্টগ্রাম-৫"
+  },
+  {
+    "image_id": "politics_103",
+    "original_question": "এই ছবির মানুষটি প্রথম কোন আসন থেকে সংসদ সদস্য হন?",
+    "noakhali_question": "এই ছবিত মানুষডা প্রথম কোন আসন থেইক্যে সংসদ সদস্য অইছে?",
+    "original_answer": "ঢাকা-৬",
+    "noakhali_answer": "ঢাকা-৬"
+  },
+  {
+    "image_id": "politics_104",
+    "original_question": "এই ছবির মানুষটি প্রথম কোন আসন থেকে সংসদ সদস্য হন?",
+    "noakhali_question": "এই ছবিত মানুষডা প্রথম কোন আসন থেইক্যে সংসদ সদস্য অইছে?",
+    "original_answer": "ঢাকা-৬",
+    "noakhali_answer": "ঢাকা-৬"
+  },
+  {
+    "image_id": "politics_105",
+    "original_question": "এই ছবির মানুষটি প্রথম কোন আসন থেকে সংসদ সদস্য নির্বাচিত হন?",
+    "noakhali_question": "এই ছবিত মানুষডা প্রথম কোন আসন থেইক্যে সংসদ সদস্য নির্বাচিত অইছে?",
+    "original_answer": "ঢাকা-৬",
+    "noakhali_answer": "ঢাকা-৬"
+  },
+  {
+    "image_id": "politics_106",
+    "original_question": "এই ছবির মানুষটি কোন দলের সঙ্গে যুক্ত ছিলেন?",
+    "noakhali_question": "এই ছবিত মানুষডা কোন দলের লগে আছিল?",
+    "original_answer": "বিএনপি",
+    "noakhali_answer": "বিএনপি"
+  },
+  {
+    "image_id": "politics_107",
+    "original_question": "এই ছবির মানুষটি কোন দলের সঙ্গে দীর্ঘকাল যুক্ত ছিলেন?",
+    "noakhali_question": "এই ছবিত মানুষডা কোন দলের লগে দীর্ঘকাল যুক্ত আছিল?",
+    "original_answer": "আওয়ামী লীগ",
+    "noakhali_answer": "আওয়ামী লীগ"
+  },
+  {
+    "image_id": "politics_108",
+    "original_question": "এই ছবির মানুষটি কোন আসন থেকে প্রথমবার সংসদ সদস্য হন?",
+    "noakhali_question": "এই ছবিত মানুষডা কোন আসন থেইক্যে প্রথমবার সংসদ সদস্য অইছে?",
+    "original_answer": "মৌলভীবাজার-১",
+    "noakhali_answer": "মৌলভীবাজার-১"
+  },
+  {
+    "image_id": "politics_109",
+    "original_question": "এই ছবির মানুষটি কোন সংরক্ষিত আসন থেকে সংসদ সদস্য নির্বাচিত হন?",
+    "noakhali_question": "এই ছবিত মানুষডা কোন সংরক্ষিত আসন থেইক্যে সাংসদ নির্বাচিত অইছে?",
+    "original_answer": "নারী আসন-৫০",
+    "noakhali_answer": "নারী আসন-৫০"
+  },
+  {
+    "image_id": "politics_110",
+    "original_question": "এই ছবির মানুষটি প্রথম কোন আসন থেকে সংসদ সদস্য হন?",
+    "noakhali_question": "এই ছবিত মানুষডা প্রথম কোন আসন থেইক্যে সংসদ সদস্য অইছে?",
+    "original_answer": "নেত্রকোণা-৪",
+    "noakhali_answer": "নেত্রকোণা-৪"
+  },
+  {
+    "image_id": "politics_111",
+    "original_question": "এই ছবির মানুষটি জাতীয় নাগরিক পার্টিতে কোন অঞ্চলের মুখ্য সংগঠক?",
+    "noakhali_question": "এই ছবিত মানুষডা জাতীয় নাগরিক পার্টিতে কোন এলাকার মুখ্য সংগঠক?",
+    "original_answer": "দক্ষিণাঞ্চল",
+    "noakhali_answer": "দক্ষিণ এলাকা"
+  },
+  {
+    "image_id": "politics_112",
+    "original_question": "এই ছবির মানুষটি কোন রাজনৈতিক দলের সঙ্গে যোগ দিতে পদত্যাগ করেন?",
+    "noakhali_question": "এই ছবিত মানুষডা কোন রাজনৈতিক দলের লগে যোগ দিতে পদত্যাগ করের?",
+    "original_answer": "জাতীয় নাগরিক পার্টি",
+    "noakhali_answer": "জাতীয় নাগরিক পার্টি"
+  },
+  {
+    "image_id": "politics_113",
+    "original_question": "এই ছবির মানুষটি জাতীয় নাগরিক কমিটিতে কোন পদে ছিলেন?",
+    "noakhali_question": "এই ছবিত মানুষডা জাতীয় নাগরিক কমিটিতে কোন পদে আছিল?",
+    "original_answer": "সদস্য সচিব",
+    "noakhali_answer": "সদস্য সচীব"
+  },
+  {
+    "image_id": "politics_114",
+    "original_question": "এই ছবির মানুষটি জাতীয় নাগরিক পার্টিতে কোন শীর্ষ পদে ছিলেন?",
+    "noakhali_question": "এই ছবিত মানুষডা জাতীয় নাগরিক পার্টিতে কোন বড় পদে আছিল?",
+    "original_answer": "যুগ্ম সদস্য সচিব",
+    "noakhali_answer": "যুগ্ম সদস্য সচি"
+  },
+  {
+    "image_id": "politics_115",
+    "original_question": "এই ছবির মানুষটি জাতীয় নাগরিক পার্টিতে কোন অঞ্চলের মুখ্য সংগঠক ছিলেন?",
+    "noakhali_question": "এই ছবিত মানুষডা জাতীয় নাগরিক পার্টিতে কোন এলাকার মুখ্য সংগঠক আছিল?",
+    "original_answer": "উত্তরাঞ্চল",
+    "noakhali_answer": "উত্তরাঞ্চল"
+  },
+  {
+    "image_id": "politics_116",
+    "original_question": "এই ছবির মানুষটি কোন দলের কৃষি বিষয়ক সম্পাদক ছিলেন?",
+    "noakhali_question": "এই ছবিত মানুষডা কোন দলের কৃষি বিষয়ক সম্পাদক আছিল?",
+    "original_answer": "বিএনপি",
+    "noakhali_answer": "বিএনপি"
+  },
+  {
+    "image_id": "politics_117",
+    "original_question": "এই ছবির মানুষটি বিএনপিতে কোন পদে?",
+    "noakhali_question": "এই ছবিত মানুষডা বিএনপিতে কোন পদে?",
+    "original_answer": "মহাসচিব",
+    "noakhali_answer": "মহাসচিব"
+  },
+  {
+    "image_id": "politics_118",
+    "original_question": "এই ছবির মানুষটি কোন মন্ত্রণালয়ের উপদেষ্টা হিসেবে দায়িত্ব পালন করেছেন?",
+    "noakhali_question": "এই ছবিত মানুষডা কোন মন্ত্রণালয়ের উপদেষ্টা হিসাবে কাম করসিল?",
+    "original_answer": "মুক্তিযুদ্ধ বিষয়ক মন্ত্রণালয়",
+    "noakhali_answer": "মুক্তিযুদ্ধ বিষয়ক মন্ত্রণালয়"
+  },
+  {
+    "image_id": "politics_119",
+    "original_question": "এই ছবির মানুষটি কোন মন্ত্রণালয়ের মন্ত্রী হিসেবে দায়িত্ব পালন করেছেন?",
+    "noakhali_question": "এই ছবিত মানুষডা কোন মন্ত্রণালয়ের মন্ত্রী হিসাবে কাম করছে?",
+    "original_answer": "মুক্তিযুদ্ধ বিষয়ক মন্ত্রণালয়",
+    "noakhali_answer": "মুক্তিযুদ্ধ বিষয়ক মন্ত্রণালয়"
+  },
+  {
+    "image_id": "politics_120",
+    "original_question": "এই ছবির মানুষটি কোন বোর্ডের চেয়ারম্যান হিসেবে নিযুক্ত ছিলেন?",
+    "noakhali_question": "এই ছবিত মানুষডা কোন বোর্ডের চেয়ারম্যান হিসাবে নিযুক্ত আছিল?",
+    "original_answer": "পার্বত্য চট্টগ্রাম উন্নয়ন বোর্ড",
+    "noakhali_answer": "পারত্যো চিট্টাগং উন্নয়েন বুর্ড"
+  },
+  {
+    "image_id": "politics_121",
+    "original_question": "ছবির মানুষটি কোন মন্ত্রণালয়ের উপদেষ্টা ছিলেন?",
+    "noakhali_question": "ছবির মানুষডা কোন মন্ত্রণালয়ের উপদেষ্টা আছিল?",
+    "original_answer": "প্রাথমিক ও গণশিক্ষা মন্ত্রণালয়",
+    "noakhali_answer": "প্রাথমিক আর গণশিক্ষা মন্ত্রণালয়"
+  },
+  {
+    "image_id": "politics_122",
+    "original_question": "ছবিতে থাকা মানুষটি কোন মন্ত্রণালয়ের উপদেষ্টা হিসেবে নিযুক্ত ছিলেন?",
+    "noakhali_question": "ছবিত থাকা মানুষডা কোন মন্ত্রণালয়ের উপদেষ্টা হিসাবে নিযুক্ত আছিল?",
+    "original_answer": "ধর্ম বিষয়ক মন্ত্রণালয়",
+    "noakhali_answer": "ধর্ম বিষয়ক মন্ত্রণালয়"
+  },
+  {
+    "image_id": "politics_123",
+    "original_question": "ছবির মানুষটি কোন মন্ত্রণালয়ের উপদেষ্টা হিসেবে দায়িত্ব পালন করেছেন?",
+    "noakhali_question": "ছবির মানুষডা কোন মন্ত্রণালয়ের উপদেষ্টা হিসাবে কাম করছেন?",
+    "original_answer": "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয়",
+    "noakhali_answer": "মইষ্য আর প্রানিসম্পদ মন্তরনালা"
+  },
+  {
+    "image_id": "politics_124",
+    "original_question": "ছবির মানুষটি কোন মন্ত্রণালয়ের উপদেষ্টা হিসেবে নিযুক্ত ছিলেন?",
+    "noakhali_question": "ছবির মানুষডা কোন মন্ত্রণালয়ের উপদেষ্টা হিসাবে নিযুক্ত আছিল?",
+    "original_answer": "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়",
+    "noakhali_answer": "স্বাস্থ্য আর পরিবার কল্যাণ মন্ত্রণালয়"
+  },
+  {
+    "image_id": "politics_125",
+    "original_question": "ছবিতে থাকা এই ব্যক্তি কোন সরকারের অন্তর্বর্তীকালীন সরকারের প্রধান উপদেষ্টা হিসেবে নিযুক্ত হয়েছেন?",
+    "noakhali_question": "ছবিত থাকা এই বেক্তি কোন সরকারের অন্তর্বর্তীকালীন সরকারের প্রধান উপদেষ্টা হিসাবে নিযুক্ত অইছে?",
+    "original_answer": "বাংলাদেশ সরকার",
+    "noakhali_answer": "বাংলাদেশ সরকার"
+  },
+  {
+    "image_id": "politics_126",
+    "original_question": "ছবিতে থাকা এই ব্যক্তি কত বছর ধরে বাংলাদেশের অর্থমন্ত্রীর পদে দায়িত্ব পালন করেছেন?",
+    "noakhali_question": "ছবিত থাকা এই মানুষডা কত বছর ধইরা বাংলাদেশের অর্থমন্ত্রীর পদে কাম করছে?",
+    "original_answer": "১০ বছর",
+    "noakhali_answer": "১০ বছর"
+  },
+  {
+    "image_id": "politics_127",
+    "original_question": "ছবিতে থাকা এই ব্যক্তি কোন দুটি মন্ত্রণালয়ের প্রতিমন্ত্রী হিসেবে দায়িত্ব পালন করেছেন?",
+    "noakhali_question": "ছবিত থাকা এই বেক্তি কোন দুই মন্ত্রণালয়ের প্রতিমন্ত্রী হিসাবে কাম করছেন?",
+    "original_answer": "পরিবেশ, বন ও জলবায়ু পরিবর্তন মন্ত্রণালয় এবং পররাষ্ট্র মন্ত্রণালয়",
+    "noakhali_answer": "পরিবেশ, বন আর জলবায়ু পরিবর্তন মন্ত্রণালয় আর পররাষ্ট্র মন্ত্রণালয়"
+  },
+  {
+    "image_id": "politics_128",
+    "original_question": "ছবিতে থাকা ব্যক্তি বাংলাদেশের কোন দুটি মন্ত্রণালয়ের উপদেষ্টা হিসেবে দায়িত্ব পালন করেছেন?",
+    "noakhali_question": "ছবিত থাকা মানষডা বাংলাদেশের কোন দুই মন্ত্রণালয়ের উপদেষ্টা হিসাবে কাম করছিলো?",
+    "original_answer": "পরিকল্পনা মন্ত্রণালয় এবং শিক্ষা মন্ত্রণালয়",
+    "noakhali_answer": "পরিকল্পনা মন্ত্রণালয় আর শিক্ষা মন্ত্রণালয়"
+  },
+  {
+    "image_id": "politics_129",
+    "original_question": "ছবির ব্যক্তি কোন দলের সাবেক যুগ্ম মহাসচিব ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন দলের সাবেক যুগ্ম মহাসচিব আছিল?",
+    "original_answer": "বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি)",
+    "noakhali_answer": "বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি)"
+  },
+  {
+    "image_id": "politics_130",
+    "original_question": "ছবির ব্যক্তি কোন কোন খাতে বাংলাদেশের উপদেষ্টা হিসেবে দায়িত্ব পালন করেছেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন কোন খাতে বাংলাদেশের উপদেষ্টা হিসাবে দায়িত্ব পালন করছইন?",
+    "original_answer": "শ্রম ও কর্মসংস্থান, বস্ত্র ও পাট, নৌপরিবহন, স্বরাষ্ট্র মন্ত্রণালয়",
+    "noakhali_answer": "শ্রম আর কর্মসংস্থান, বস্ত্র আর পাট, নৌপরিবহন, স্বরাষ্ট্র মন্ত্রণালয়"
+  },
+  {
+    "image_id": "politics_131",
+    "original_question": "ছবির ব্যক্তি কোন গুরুত্বপূর্ণ রাজনৈতিক পদে দায়িত্ব পালন করেছেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন গুরুত্বপূর্ণ রাজনৈতিক পদে দায়িত্ব পালন করছইন?",
+    "original_answer": "জাতীয় সংসদের স্পিকার ও ডেপুটি স্পিকার, বিরোধীদলীয় উপনেতা",
+    "noakhali_answer": "জাতীয় সংসদের স্পিকার আর ডেপুটি স্পিকার, বিরোধীদলীয় উপনেতা"
+  },
+  {
+    "image_id": "politics_132",
+    "original_question": "ছবির ব্যক্তি কোন নির্বাচনী অঞ্চলে সর্বাধিকবার নির্বাচিত হয়েছেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন নির্বাচনী এলাকাত বেশিবার নির্বাচিত অইছে?",
+    "original_answer": "রাঙ্গুনিয়া",
+    "noakhali_answer": "রাঙ্গুনিয়া"
+  },
+  {
+    "image_id": "politics_133",
+    "original_question": "ছবির ব্যক্তি কোন সংসদীয় স্থায়ী কমিটির সভাপতি ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সংসদীয় স্থায়ী কমিটির সভাপতি আছিল?",
+    "original_answer": "আইন, বিচার ও সংসদ",
+    "noakhali_answer": "আইন, বিচার আর সংসদ"
+  },
+  {
+    "image_id": "politics_134",
+    "original_question": "ছবির ব্যক্তি কোন নতুন রাজনৈতিক দল গঠন করেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন নতুন রাজনৈতিক দল গঠন করিস?",
+    "original_answer": "বিকল্প ধারা",
+    "noakhali_answer": "বিকল্প ধারা"
+  },
+  {
+    "image_id": "politics_135",
+    "original_question": "ছবির ব্যক্তি কোন বিশ্ববিদ্যালয়ের আইন বিভাগের অধ্যাপক ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন বিশ্ববিদ্যালয়ের আইন বিভাগের অধ্যাপক আছিল?",
+    "original_answer": "ঢাকা বিশ্ববিদ্যালয়",
+    "noakhali_answer": "ঢাকা বিশ্ববিদ্যালয়"
+  },
+  {
+    "image_id": "politics_136",
+    "original_question": "ছবির ব্যক্তি কোন রাজনৈতিক দলের উপদেষ্টা ছিলেন?",
+    "noakhali_question": "ছবির মানুষডা কোন রাজনৈতিক দলের উপদেষ্টা আছিল?",
+    "original_answer": "আওয়ামী লীগ",
+    "noakhali_answer": "আওয়ামী লীগ"
+  },
+  {
+    "image_id": "politics_137",
+    "original_question": "ছবির ব্যক্তি কোন জেলার আওয়ামী লীগের সাধারণ সম্পাদক?",
+    "noakhali_question": "ছবির মানুষডা কোন জেলার আওয়ামী লীগের সাধারণ সম্পাদক?",
+    "original_answer": "কুমিল্লা (দঃ)",
+    "noakhali_answer": "কুমিল্লা (দঃ)"
+  },
+  {
+    "image_id": "politics_138",
+    "original_question": "ছবির ব্যক্তি কোন মন্ত্রণালয়ের প্রতিমন্ত্রী ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন মন্ত্রণালয়ের প্রতিমন্ত্রী আছিল?",
+    "original_answer": "বস্ত্র ও পাট",
+    "noakhali_answer": "বস্ত্র আর পাট"
+  },
+  {
+    "image_id": "politics_139",
+    "original_question": "ছবির ব্যক্তি কোন পরিষদের সাবেক সভাপতি ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন পরিষদের সাবেক সভাপতি আছিল?",
+    "original_answer": "স্বাধীনতা চিকিৎসক",
+    "noakhali_answer": "আজাদী ডাক্তার"
+  },
+  {
+    "image_id": "politics_140",
+    "original_question": "ছবির ব্যক্তি কোন আন্তর্জাতিক ইনডেক্সে বাংলাদেশের অবস্থান উন্নত করতে পদক্ষেপ নিয়েছেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন আন্তর্জাতিক ইনডেক্সে বাংলাদেশের অবস্থান উন্নত করনের লাইগ্যা কি করসে?",
+    "original_answer": "ওয়ার্ল্ড ব্যাংক",
+    "noakhali_answer": "ওয়ার্ল্ড ব্যাংক"
+  },
+  {
+    "image_id": "politics_141",
+    "original_question": "ছবির ব্যক্তি কোন কোম্পানির চেয়ারম্যান ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন কোম্পানির চেয়ারম্যান আছিল?",
+    "original_answer": "সানলাইফ ইন্স্যুরেন্স",
+    "noakhali_answer": "সানলাইফ ইন্স্যুরেন্স"
+  },
+  {
+    "image_id": "politics_142",
+    "original_question": "ছবির ব্যক্তি কোন সালে স্বরাষ্ট্রমন্ত্রী হন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সালে স্বরাষ্ট্রমন্ত্রী অইছে?",
+    "original_answer": "২০১৫",
+    "noakhali_answer": "দুই হাজার পনের"
+  },
+  {
+    "image_id": "politics_143",
+    "original_question": "ছবির ব্যক্তি কোন সালে পাট ও বস্ত্র মন্ত্রণালয়ের মন্ত্রী হন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সালে পাট আর বস্ত্র মন্ত্রণালয়ের মন্ত্রী অইছিল?",
+    "original_answer": "২০০৯",
+    "noakhali_answer": "২০০৯"
+  },
+  {
+    "image_id": "politics_144",
+    "original_question": "ছবির ব্যক্তি কোন সালে জামায়াতে ইসলামীতে যোগদান করেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সালে জামায়াতে ইসলামীত যোগ দিলা?",
+    "original_answer": "১৯৮৪",
+    "noakhali_answer": "উনিশশো চুরাশি"
+  },
+  {
+    "image_id": "politics_145",
+    "original_question": "ছবির ব্যক্তি কোন সালে জামায়াতে ইসলামীতে সেক্রেটারী জেনারেল হন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সালে জামায়াতে ইসলামীতে সেক্রেটারী জেনারেল অইতাছে?",
+    "original_answer": "১৯৮৮",
+    "noakhali_answer": "আঠাশে"
+  },
+  {
+    "image_id": "politics_146",
+    "original_question": "ছবির ব্যক্তি কোন সালে নারায়ণগঞ্জে ফিরে আসেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সালে নারায়ণগঞ্জো ফিরিয়া আইয়েন?",
+    "original_answer": "২০০৯",
+    "noakhali_answer": "২০০৯"
+  },
+  {
+    "image_id": "politics_147",
+    "original_question": "ছবির ব্যক্তি কোন সাল পর্যন্ত জামায়াতে ইসলামী-এর আমির ছিলেন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সাল পর্যন্ত জামায়াতে ইসলামী-এর আমির আছইল?",
+    "original_answer": "২০০০",
+    "noakhali_answer": "দুই হাজার"
+  },
+  {
+    "image_id": "politics_148",
+    "original_question": "ছবির ব্যক্তি কোন সালে লালবাগ থেকে সংসদ সদস্য নির্বাচিত হন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সালে লালবাগ থেইক্যে সংসদ সদস্য নির্বাচিত অইছে?",
+    "original_answer": "১৯৯১",
+    "noakhali_answer": "১৯৯১"
+  },
+  {
+    "image_id": "politics_149",
+    "original_question": "ছবির ব্যক্তি কোন সালে সংরক্ষিত নারী আসনে সংসদ সদস্য হন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সালে সংরক্ষিত নারী আসনে সংসদ সদস্য অইছিল?",
+    "original_answer": "২০১৯",
+    "noakhali_answer": "উনিশ কুড়ি"
+  },
+  {
+    "image_id": "politics_150",
+    "original_question": "ছবির ব্যক্তি কোন সালে প্রথমবার স্পিকার নির্বাচিত হন?",
+    "noakhali_question": "ছবির ব্যক্তি কোন সালে প্রথম স্পিকার নির্বাচিত অইছিল?",
+    "original_answer": "২০১৩",
+    "noakhali_answer": "১৩"
+  }
+]

@@ -1,0 +1,1696 @@
+[
+  {
+    "image_id": "politics_001",
+    "question": "Which political party did the leader shown in the picture belong to?",
+    "options": [
+      "Bangladesh Awami League",
+      "Bangladesh Nationalist Party",
+      "Jatiya Party",
+      "Workers Party"
+    ],
+    "answer": "Bangladesh Awami League"
+  },
+  {
+    "image_id": "politics_002",
+    "question": "In which year was Bangabandhu's historic speech in the picture given?",
+    "options": [
+      "1966 (Six-Point Movement)",
+      "1969 (Mass Uprising)",
+      "1971 (March 7th Speech)",
+      "1972 (Constitution of Independent Bangladesh)"
+    ],
+    "answer": "1971 (March 7th Speech)"
+  },
+  {
+    "image_id": "politics_003",
+    "question": "In which year did the man in the picture become Prime Minister?",
+    "options": [
+      "1970",
+      "1971",
+      "1972",
+      "1973"
+    ],
+    "answer": "1971"
+  },
+  {
+    "image_id": "politics_004",
+    "question": "In what year was the man in the picture elected President?",
+    "options": [
+      "1976",
+      "1977",
+      "1978",
+      "1979"
+    ],
+    "answer": "1977"
+  },
+  {
+    "image_id": "politics_005",
+    "question": "In what year did the leader of the picture first become Prime Minister?",
+    "options": [
+      "1994",
+      "1995",
+      "1996",
+      "1997"
+    ],
+    "answer": "1996"
+  },
+  {
+    "image_id": "politics_006",
+    "question": "In what year did the leader in the picture first become Prime Minister?",
+    "options": [
+      "1990",
+      "1991",
+      "1992",
+      "1993"
+    ],
+    "answer": "1991"
+  },
+  {
+    "image_id": "politics_007",
+    "question": "In which year did the Language Movement of the Picture take place?",
+    "options": [
+      "1948",
+      "1950",
+      "1952",
+      "1954"
+    ],
+    "answer": "1952"
+  },
+  {
+    "image_id": "politics_008",
+    "question": "In which year did the event in the picture occur?",
+    "options": [
+      "1971",
+      "1972",
+      "1973",
+      "1974"
+    ],
+    "answer": "1972"
+  },
+  {
+    "image_id": "politics_009",
+    "question": "In which year did the mass uprising of the picture take place?",
+    "options": [
+      "1968",
+      "1969",
+      "1970",
+      "1971"
+    ],
+    "answer": "1969"
+  },
+  {
+    "image_id": "politics_010",
+    "question": "In which constituency was the man in the picture elected as a Member of Parliament in 1973?",
+    "options": [
+      "Habiganj-2",
+      "Sunamganj-5",
+      "Moulvibazar-1",
+      "Sylhet-6"
+    ],
+    "answer": "Sylhet-6"
+  },
+  {
+    "image_id": "politics_011",
+    "question": "In what year did the man in the picture become president?",
+    "options": [
+      "1981",
+      "1982",
+      "1983",
+      "1984"
+    ],
+    "answer": "1982"
+  },
+  {
+    "image_id": "politics_012",
+    "question": "In which year did the man in the picture propose making Urdu the state language of Bengal?",
+    "options": [
+      "1946",
+      "1947",
+      "1948",
+      "1949"
+    ],
+    "answer": "1947"
+  },
+  {
+    "image_id": "politics_013",
+    "question": "On what date in what year was the person in the picture established as Tamaddun Majlish?",
+    "options": [
+      "September 2, 1947",
+      "September 5, 1947",
+      "September 10, 1947",
+      "September 15, 1947"
+    ],
+    "answer": "September 2, 1947"
+  },
+  {
+    "image_id": "politics_014",
+    "question": "In which year was the picture's speech given?",
+    "options": [
+      "1947",
+      "1948",
+      "1949",
+      "1950"
+    ],
+    "answer": "1948"
+  },
+  {
+    "image_id": "politics_015",
+    "question": "What was the subject of the students' demand that the man in the picture avoided on the Dhaka University grounds?",
+    "options": [
+      "Opportunities and amenities",
+      "Making Bengali the State Language",
+      "Sports",
+      "Education Budget"
+    ],
+    "answer": "Making Bengali the state language"
+  },
+  {
+    "image_id": "politics_016",
+    "question": "On what date, in which year, did the person in the picture give a speech in favor of making Urdu the sole state language?",
+    "options": [
+      "January 25, 1948",
+      "January 26, 1950",
+      "January 27, 1952",
+      "January 28, 1954"
+    ],
+    "answer": "January 27, 1952"
+  },
+  {
+    "image_id": "politics_017",
+    "question": "On what date, and in what year, did the person in the picture hold a meeting of the All-Party State Language Committee?",
+    "options": [
+      "January 25, 1948",
+      "January 26, 1950",
+      "January 31, 1952",
+      "January 28, 1954"
+    ],
+    "answer": "January 31, 1952"
+  },
+  {
+    "image_id": "politics_018",
+    "question": "In which year was the person in the picture elected leader of the Krishak Sramik Party?",
+    "options": [
+      "1929",
+      "1931",
+      "1935",
+      "1940"
+    ],
+    "answer": "1935"
+  },
+  {
+    "image_id": "politics_019",
+    "question": "What was the original name of the Krishak Sramik Party?",
+    "options": [
+      "Subject League",
+      "All Bengal Tenants' Association",
+      "Muslim League",
+      "Congress"
+    ],
+    "answer": "All Bengal Tenants Association"
+  },
+  {
+    "image_id": "politics_020",
+    "question": "In what year did the person in the picture become the Chief Minister of East Pakistan?",
+    "options": [
+      "1947",
+      "1948",
+      "1950",
+      "1952"
+    ],
+    "answer": "1948"
+  },
+  {
+    "image_id": "politics_020",
+    "question": "In which year's election was the person in the picture defeated by a Jukto Front candidate?",
+    "options": [
+      "1952",
+      "1954",
+      "1956",
+      "1958"
+    ],
+    "answer": "1954"
+  },
+  {
+    "image_id": "politics_021",
+    "question": "In which year was the A. K. Fazlul Huq United Front cabinet formed?",
+    "options": [
+      "1952",
+      "1953",
+      "1954",
+      "1955"
+    ],
+    "answer": "1954"
+  },
+  {
+    "image_id": "politics_021",
+    "question": "How many parties were included in the \"Picture Cabinet\"?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "image_id": "politics_022",
+    "question": "Who was the first president of the Photo League?",
+    "options": [
+      "Maulana Athar Ali",
+      "Maulana Ashraf Ali",
+      "Ghulam Azam",
+      "Maulana Bhashani"
+    ],
+    "answer": "Maulana Athar Ali"
+  },
+  {
+    "image_id": "politics_023",
+    "question": "Which party was Deshbandhu Das the founder of?",
+    "options": [
+      "Swaraj Party",
+      "Indian National Congress",
+      "Forward Block",
+      "Peasant Workers' Party"
+    ],
+    "answer": "Swaraj Party"
+  },
+  {
+    "image_id": "politics_024",
+    "question": "In what year did the leader of the picture play a role in the Bengal Pact?",
+    "options": [
+      "1921",
+      "1923",
+      "1925",
+      "1927"
+    ],
+    "answer": "1923"
+  },
+  {
+    "image_id": "politics_025",
+    "question": "The leader of the picture supported which movement in 1946?",
+    "options": [
+      "Self-rule movement",
+      "The Pakistan Movement",
+      "Nehru Report Movement",
+      "Quit India Movement"
+    ],
+    "answer": "The Pakistan Movement"
+  },
+  {
+    "image_id": "politics_026",
+    "question": "After the establishment of Pakistan, in which region's politics did the leader in the picture play a significant role?",
+    "options": [
+      "West Pakistan",
+      "East Pakistan",
+      "Bangladesh",
+      "India"
+    ],
+    "answer": "East Pakistan"
+  },
+  {
+    "image_id": "politics_027",
+    "question": "When was the leader of the picture a member of the All-Party State Language Action Committee?",
+    "options": [
+      "1948",
+      "1950",
+      "1952",
+      "1954"
+    ],
+    "answer": "1952"
+  },
+  {
+    "image_id": "politics_028",
+    "question": "Which institution's foundation stone did the pictured leader lay?",
+    "options": [
+      "National Museum",
+      "Central Shaheed Minar",
+      "University of Dhaka Library",
+      "National Parliament"
+    ],
+    "answer": "Central Shaheed Minar"
+  },
+  {
+    "image_id": "politics_029",
+    "question": "When was the leader of the picture imprisoned during the Ayyubid rule?",
+    "options": [
+      "1954",
+      "1956",
+      "1958",
+      "1960"
+    ],
+    "answer": "1958"
+  },
+  {
+    "image_id": "politics_030",
+    "question": "Which election program was the leader in the picture a key architect of?",
+    "options": [
+      "Six-Point Programme",
+      "21-Point Programme",
+      "11-Point Program",
+      "8-point program"
+    ],
+    "answer": "21-Point Program"
+  },
+  {
+    "image_id": "politics_031",
+    "question": "In what year was the leader of the picture elected as a Member of Parliament from the Barisal-2 constituency as a candidate for the Jatiya Party?",
+    "options": [
+      "1984",
+      "1985",
+      "1986",
+      "1988"
+    ],
+    "answer": "1986"
+  },
+  {
+    "image_id": "politics_032",
+    "question": "In which case did the leader in the picture serve as the chief prosecutor?",
+    "options": [
+      "Lahore Resolution Case",
+      "Agartala Conspiracy Case",
+      "Cabinet Mission Case",
+      "Language Movement Case"
+    ],
+    "answer": "The Agartala Conspiracy Case"
+  },
+  {
+    "image_id": "politics_033",
+    "question": "Which ministry's minister was the leader in the picture?",
+    "options": [
+      "Ministry of Education",
+      "Ministry of Fisheries and Livestock",
+      "Ministry of Health",
+      "Ministry of Information"
+    ],
+    "answer": "Ministry of Fisheries and Livestock"
+  },
+  {
+    "image_id": "politics_034",
+    "question": "Which party was the leader of the picture in before joining BNP?",
+    "options": [
+      "Awami League",
+      "Jatiya Party",
+      "Communist Party",
+      "Independent"
+    ],
+    "answer": "Jatiya Party"
+  },
+  {
+    "image_id": "politics_035",
+    "question": "Which committee did the leader in the picture join, causing controversy?",
+    "options": [
+      "Language Movement Committee",
+      "Peace Committee",
+      "Democratic Action Committee",
+      "Student Union"
+    ],
+    "answer": "Peace Committee"
+  },
+  {
+    "image_id": "politics_036",
+    "question": "When did the man in the picture declare himself Field Marshal?",
+    "options": [
+      "1964",
+      "1965",
+      "1966",
+      "1969"
+    ],
+    "answer": "1965"
+  },
+  {
+    "image_id": "politics_037",
+    "question": "In which year did the man in the picture become the Governor of East Bengal?",
+    "options": [
+      "1952",
+      "1953",
+      "1954",
+      "1955"
+    ],
+    "answer": "1954"
+  },
+  {
+    "image_id": "politics_038",
+    "question": "In which year was the person in the picture elected a member of the Bengal Legislative Council?",
+    "options": [
+      "1935",
+      "1936",
+      "1937",
+      "1938"
+    ],
+    "answer": "1937"
+  },
+  {
+    "image_id": "politics_039",
+    "question": "In what year was the person in the picture arrested by the military intelligence department?",
+    "options": [
+      "1966",
+      "1967",
+      "1968",
+      "1969"
+    ],
+    "answer": "1967"
+  },
+  {
+    "image_id": "politics_040",
+    "question": "When did the person in the picture take the oath as Governor of East Pakistan?",
+    "options": [
+      "April 15, 1957",
+      "May 3, 1958",
+      "June 12, 1959",
+      "January 8, 1960"
+    ],
+    "answer": "May 3, 1958"
+  },
+  {
+    "image_id": "politics_041",
+    "question": "What happened to Flight Sergeant Zahurul Hoque, the colleague of the person in the picture?",
+    "options": [
+      "He died from a gunshot wound.",
+      "He has been injured",
+      "He has left the country",
+      "He has become a political leader"
+    ],
+    "answer": "He died from a gunshot."
+  },
+  {
+    "image_id": "politics_042",
+    "question": "In what year did the person in the picture go to Kolkata to become active in the Liberation War?",
+    "options": [
+      "1970",
+      "1971",
+      "1972",
+      "1973"
+    ],
+    "answer": "1971"
+  },
+  {
+    "image_id": "politics_043",
+    "question": "In what year was the person in the picture first elected as a Member of Parliament of independent Bangladesh?",
+    "options": [
+      "1970",
+      "1973",
+      "1975",
+      "1978"
+    ],
+    "answer": "1973"
+  },
+  {
+    "image_id": "politics_044",
+    "question": "From which constituency was the person in the picture elected as a Member of Parliament in the Eleventh Parliament?",
+    "options": [
+      "Tangail-1",
+      "Dhaka-3",
+      "Sylhet-2",
+      "Chittagong-5"
+    ],
+    "answer": "Tangail-1"
+  },
+  {
+    "image_id": "politics_045",
+    "question": "Which organization's central leadership was Mahfuzul Bari a part of after independence?",
+    "options": [
+      "Volunteer League",
+      "Bangladesh Nationalist Party",
+      "Bangladesh Chhatra League",
+      "Awami League Youth Wing"
+    ],
+    "answer": "Volunteer League"
+  },
+  {
+    "image_id": "politics_046",
+    "question": "When did the person in the picture take the oath as a State Minister of the Bangladesh Government?",
+    "options": [
+      "July 18, 2021",
+      "January 1, 2020",
+      "May 24, 2022",
+      "August 15, 2021"
+    ],
+    "answer": "July 18, 2021"
+  },
+  {
+    "image_id": "politics_047",
+    "question": "In what year was the person in the picture elected as a Member of Parliament from the Faridpur-15 constituency?",
+    "options": [
+      "1977",
+      "1979",
+      "1981",
+      "1983"
+    ],
+    "answer": "1979"
+  },
+  {
+    "image_id": "politics_048",
+    "question": "In which year did Khandaker Nazmul Huda join the Liberation War?",
+    "options": [
+      "1969",
+      "1971",
+      "1973",
+      "1975"
+    ],
+    "answer": "1971"
+  },
+  {
+    "image_id": "politics_049",
+    "question": "Which sector was A.N.M. Nuruzzaman the commander of during the Liberation War?",
+    "options": [
+      "Sector 3",
+      "Sector 2",
+      "Sector 7",
+      "Sector 10"
+    ],
+    "answer": "Sector 3"
+  },
+  {
+    "image_id": "politics_050",
+    "question": "In what year did the man in the picture join the Awami League?",
+    "options": [
+      "1960",
+      "1962",
+      "1965",
+      "1970"
+    ],
+    "answer": "1960"
+  },
+  {
+    "image_id": "politics_051",
+    "question": "In which year was the person in the picture elected as a Member of Parliament from Mymensingh-28?",
+    "options": [
+      "1970",
+      "1972",
+      "1973",
+      "1975"
+    ],
+    "answer": "1973"
+  },
+  {
+    "image_id": "politics_052",
+    "question": "In which year was the leader in the picture elected as the General Secretary of the Awami League?",
+    "options": [
+      "1965",
+      "1966",
+      "1968",
+      "1970"
+    ],
+    "answer": "1966"
+  },
+  {
+    "image_id": "politics_053",
+    "question": "In which year's election was the leader in this picture elected as a member of the Pakistan National Assembly?",
+    "options": [
+      "1954",
+      "1958",
+      "1969",
+      "1970"
+    ],
+    "answer": "1970"
+  },
+  {
+    "image_id": "politics_054",
+    "question": "In which year was the leader in this picture elected as a member of the East Pakistan Provincial Assembly?",
+    "options": [
+      "1954",
+      "1956",
+      "1958",
+      "1970"
+    ],
+    "answer": "1954"
+  },
+  {
+    "image_id": "politics_054",
+    "question": "From which constituency did this leader in the picture win the 1970 election?",
+    "options": [
+      "Dinajpur-8",
+      "Mymensingh-28",
+      "Pabna-1",
+      "Jashore-2"
+    ],
+    "answer": "Pabna-1"
+  },
+  {
+    "image_id": "politics_055",
+    "question": "In which year's election was the leader in this picture elected as a member of the National Assembly from Rajshahi?",
+    "options": [
+      "1965",
+      "1967",
+      "1970",
+      "1973"
+    ],
+    "answer": "1970"
+  },
+  {
+    "image_id": "politics_056",
+    "question": "From which constituency was this leader in the picture elected as a Member of Parliament?",
+    "options": [
+      "Dhaka-10",
+      "Chandpur-5",
+      "Mymensingh-28",
+      "Dinajpur-8"
+    ],
+    "answer": "Chandpur-5"
+  },
+  {
+    "image_id": "politics_057",
+    "question": "From which constituency was this leader in the picture elected as a Member of Parliament?",
+    "options": [
+      "Dhaka-10",
+      "Narayanganj-1",
+      "Chandpur-5",
+      "Rajshahi-2"
+    ],
+    "answer": "Narayanganj-1"
+  },
+  {
+    "image_id": "politics_058",
+    "question": "From which constituency was Abdul Matin Chowdhury elected as a Member of Parliament multiple times?",
+    "options": [
+      "Dhaka-10",
+      "Narayanganj-1",
+      "Rajshahi-2",
+      "Chandpur-5"
+    ],
+    "answer": "Narayanganj-1"
+  },
+  {
+    "image_id": "politics_059",
+    "question": "In 1996, Mohammad Nasim was appointed minister of which ministry?",
+    "options": [
+      "Home Affairs",
+      "Education",
+      "Plan",
+      "Culture"
+    ],
+    "answer": "Home Affairs"
+  },
+  {
+    "image_id": "politics_060",
+    "question": "In which year's by-election was Dr. Mohammad Selim elected from the Sirajganj-1 constituency?",
+    "options": [
+      "1994",
+      "1996",
+      "1998",
+      "2001"
+    ],
+    "answer": "1996"
+  },
+  {
+    "image_id": "politics_061",
+    "question": "From which constituency was Iqbal Hasan Mahmud Tuku elected Member of Parliament in the 2001 elections?",
+    "options": [
+      "Sirajganj-1",
+      "Sirajganj-2",
+      "Sirajganj-3",
+      "Sirajganj-4"
+    ],
+    "answer": "Sirajganj-2"
+  },
+  {
+    "image_id": "politics_062",
+    "question": "In which year's election was Rumana Mahmud elected Member of Parliament from the Sirajganj-2 constituency?",
+    "options": [
+      "2001",
+      "2008",
+      "2014",
+      "2018"
+    ],
+    "answer": "2008"
+  },
+  {
+    "image_id": "politics_063",
+    "question": "In which year's election was Mirza Muraduzzaman elected Member of Parliament from the Sirajganj-2 constituency?",
+    "options": [
+      "1975",
+      "1991",
+      "1996",
+      "2001"
+    ],
+    "answer": "1991"
+  },
+  {
+    "image_id": "politics_064",
+    "question": "Who defeated Altaf Hossain Chowdhury in the 2008 election?",
+    "options": [
+      "Bangladesh Nationalist Party",
+      "Awami League",
+      "Jatiya Party",
+      "JSD"
+    ],
+    "answer": "Awami League"
+  },
+  {
+    "image_id": "politics_065",
+    "question": "As a candidate of which party was Shahjahan Mia elected Member of Parliament in the 2008 election?",
+    "options": [
+      "Bangladesh Nationalist Party",
+      "Awami League",
+      "Jatiya Party",
+      "JSD"
+    ],
+    "answer": "Awami League"
+  },
+  {
+    "image_id": "politics_066",
+    "question": "From October 2001 to April 2005, in what position did A. F. Hasan Arif serve?",
+    "options": [
+      "President",
+      "Attorney General",
+      "Home Minister",
+      "Advisor"
+    ],
+    "answer": "Attorney General"
+  },
+  {
+    "image_id": "politics_067",
+    "question": "As an advisor to which ministry did Ali Imam Majumder take charge in 2025?",
+    "options": [
+      "Ministry of Food",
+      "Ministry of Land",
+      "Ministry of Education",
+      "Ministry of Planning"
+    ],
+    "answer": "Ministry of Land"
+  },
+  {
+    "image_id": "politics_068",
+    "question": "In which year was Sadhan Chandra Majumder elected as a Member of Parliament from the Naogaon-1 seat in the 9th National Parliamentary Election?",
+    "options": [
+      "2001",
+      "2008",
+      "2014",
+      "2018"
+    ],
+    "answer": "2008"
+  },
+  {
+    "image_id": "politics_069",
+    "question": "From which constituency was this leader in the picture elected as a Member of Parliament in the 7th Jatiya Sangsad election of 1996?",
+    "options": [
+      "Kishoreganj-6",
+      "Kishoreganj-7",
+      "Mymensingh-32",
+      "Dhaka-10"
+    ],
+    "answer": "Kishoreganj-7"
+  },
+  {
+    "image_id": "politics_070",
+    "question": "From which constituency was this leader in the picture elected as a Member of Parliament in the 5th National Parliamentary Election of 1991?",
+    "options": [
+      "Jamalpur-3",
+      "Jamalpur-4",
+      "Dhaka-10",
+      "Mymensingh-32"
+    ],
+    "answer": "Jamalpur-4"
+  },
+  {
+    "image_id": "politics_071",
+    "question": "From which constituency was this leader in the picture elected as a Member of Parliament in the 1996 election?",
+    "options": [
+      "Faridpur-1",
+      "Faridpur-2",
+      "Faridpur-7",
+      "Dhaka-10"
+    ],
+    "answer": "Faridpur-2"
+  },
+  {
+    "image_id": "politics_072",
+    "question": "From which constituency was the leader in this picture elected as a Member of Parliament in the 1979 elections?",
+    "options": [
+      "Bagerhat-1",
+      "Bagerhat-2",
+      "Khulna-3",
+      "Dhaka-7"
+    ],
+    "answer": "Bagerhat-2"
+  },
+  {
+    "image_id": "politics_073",
+    "question": "For how many consecutive years was this leader in the picture the General Secretary of the BNP?",
+    "options": [
+      "8 years",
+      "9 years",
+      "11 years",
+      "13 years"
+    ],
+    "answer": "11 years"
+  },
+  {
+    "image_id": "politics_074",
+    "question": "Which sports organization has this leader in the picture been involved with for a long time?",
+    "options": [
+      "Mohammedan Sporting Club",
+      "Abahani Limited",
+      "Brothers Union",
+      "Bangladesh Army Team"
+    ],
+    "answer": "Abahani Limited"
+  },
+  {
+    "image_id": "politics_075",
+    "question": "In which term did he serve as the Speaker of the National Parliament?",
+    "options": [
+      "Seventh National Parliament",
+      "Eighth National Parliament",
+      "Ninth National Parliament",
+      "Fifth National Parliament"
+    ],
+    "answer": "Eighth National Parliament"
+  },
+  {
+    "image_id": "politics_076",
+    "question": "Who is the advisor to the government of the person in the picture?",
+    "options": [
+      "Interim Government",
+      "Prime Minister's government",
+      "City Corporation Government",
+      "Student Rights Council"
+    ],
+    "answer": "Caretaker government"
+  },
+  {
+    "image_id": "politics_076",
+    "question": "Which movement did the person in the picture lead?",
+    "options": [
+      "Quota Reform Movement",
+      "Environmental movement",
+      "Farmers' movement",
+      "Labor movement"
+    ],
+    "answer": "Quota Reform Movement"
+  },
+  {
+    "image_id": "politics_077",
+    "question": "Which party's central committee member is the person in the picture?",
+    "options": [
+      "Awami League",
+      "Jatiya Party",
+      "Bangladesh Interior Party",
+      "Student Rights Council"
+    ],
+    "answer": "Awami League"
+  },
+  {
+    "image_id": "politics_078",
+    "question": "When was the person in the picture the Minister of Youth and Sports?",
+    "options": [
+      "2013-2014",
+      "2008-2013",
+      "2014-2018",
+      "2018-2023"
+    ],
+    "answer": "2013-2014"
+  },
+  {
+    "image_id": "politics_079",
+    "question": "Which party's general secretary was the person in the picture?",
+    "options": [
+      "Awami League",
+      "Jatiya Party",
+      "Bangladesh Nationalist Party",
+      "Student Rights Council"
+    ],
+    "answer": "Awami League"
+  },
+  {
+    "image_id": "politics_080",
+    "question": "Which party's Member of Parliament was the person in the picture?",
+    "options": [
+      "Jatiya Party",
+      "Awami League",
+      "Bangladesh Nationalist Party",
+      "Student Rights Council"
+    ],
+    "answer": "Jatiya Party"
+  },
+  {
+    "image_id": "politics_081",
+    "question": "From which constituency was the person in the picture elected as a Member of Parliament?",
+    "options": [
+      "Khulna-5",
+      "Khulna-3",
+      "Chittagong-6",
+      "Dhaka-1"
+    ],
+    "answer": "Khulna-5"
+  },
+  {
+    "image_id": "politics_082",
+    "question": "From which constituency was the person in the picture elected as a Member of Parliament?",
+    "options": [
+      "Chittagong-9",
+      "Khulna-5",
+      "Dhaka-1",
+      "Sylhet-3"
+    ],
+    "answer": "Chittagong-9"
+  },
+  {
+    "image_id": "politics_083",
+    "question": "From which constituency was the person in the picture elected as a Member of Parliament?",
+    "options": [
+      "Chandpur-3",
+      "Chittagong-9",
+      "Dhaka-1",
+      "Khulna-5"
+    ],
+    "answer": "Chandpur-3"
+  },
+  {
+    "image_id": "politics_084",
+    "question": "Which organization did the person in the picture head for election observation?",
+    "options": [
+      "Initiate",
+      "Successor",
+      "Liberation Fighters Artists' Association",
+      "Bangladesh Election Commission"
+    ],
+    "answer": "Initiated"
+  },
+  {
+    "image_id": "politics_085",
+    "question": "In what year was the person in the picture first elected to Parliament?",
+    "options": [
+      "2012",
+      "2014",
+      "2022",
+      "2008"
+    ],
+    "answer": "2012"
+  },
+  {
+    "image_id": "politics_086",
+    "question": "In what year was the person in the picture first elected to Parliament?",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2019"
+    ],
+    "answer": "2014"
+  },
+  {
+    "image_id": "politics_087",
+    "question": "Which movement did the person in the picture lead in 1962?",
+    "options": [
+      "Educational Movement",
+      "Liberation War",
+      "Mass Uprising 1969",
+      "Anti-military rule"
+    ],
+    "answer": "Education Movement"
+  },
+  {
+    "image_id": "politics_088",
+    "question": "In which year's election was the person in the picture elected as a Member of Parliament?",
+    "options": [
+      "2001",
+      "2009",
+      "1996",
+      "2014"
+    ],
+    "answer": "2001"
+  },
+  {
+    "image_id": "politics_089",
+    "question": "In which constituency did the person in the picture contest the election in 1991?",
+    "options": [
+      "Sylhet-6",
+      "Dhaka-1",
+      "Chittagong-9",
+      "Ghazipur-4"
+    ],
+    "answer": "Sylhet-6"
+  },
+  {
+    "image_id": "politics_090",
+    "question": "In which ministry was the person in the picture given responsibility in 2012?",
+    "options": [
+      "Disaster Management and Relief",
+      "Foreign Affairs",
+      "Meaning",
+      "Education"
+    ],
+    "answer": "Disaster Management and Relief"
+  },
+  {
+    "image_id": "politics_091",
+    "question": "In 2014, which university was the person in the picture a professor at?",
+    "options": [
+      "BRAC University",
+      "North South University",
+      "University of Dhaka",
+      "University of Chittagong"
+    ],
+    "answer": "BRAC University"
+  },
+  {
+    "image_id": "politics_092",
+    "question": "In which year's election was the person in the picture victorious?",
+    "options": [
+      "2018",
+      "2014",
+      "2022",
+      "2008"
+    ],
+    "answer": "2018"
+  },
+  {
+    "image_id": "politics_093",
+    "question": "In what year did the person in the picture become Finance Minister for the first time?",
+    "options": [
+      "2009",
+      "2010",
+      "2014",
+      "2018"
+    ],
+    "answer": "2009"
+  },
+  {
+    "image_id": "politics_094",
+    "question": "In which magazine did the person in the picture work in 1991?",
+    "options": [
+      "Variety",
+      "First Light",
+      "Contemporary",
+      "Janakantha"
+    ],
+    "answer": "Vichitra"
+  },
+  {
+    "image_id": "politics_095",
+    "question": "In which year's election did the person in the picture first become a Member of Parliament?",
+    "options": [
+      "2014",
+      "2018",
+      "2009",
+      "2012"
+    ],
+    "answer": "2014"
+  },
+  {
+    "image_id": "politics_096",
+    "question": "In which country's court was the person in the picture sentenced to two years imprisonment?",
+    "options": [
+      "Bangladesh",
+      "France",
+      "Germany",
+      "India"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "image_id": "politics_097",
+    "question": "Who was the chairman of the committee of the person in the picture during the Tenth National Parliament?",
+    "options": [
+      "Ministry of Expatriates' Welfare and Overseas Employment",
+      "Ministry of Finance",
+      "Ministry of Education",
+      "Ministry of Foreign Affairs"
+    ],
+    "answer": "Ministry of Expatriates' Welfare and Overseas Employment"
+  },
+  {
+    "image_id": "politics_098",
+    "question": "In which year was the person in the picture first elected as a Member of Parliament in the national elections?",
+    "options": [
+      "1973",
+      "1970",
+      "1978",
+      "1981"
+    ],
+    "answer": "1973"
+  },
+  {
+    "image_id": "politics_099",
+    "question": "Who was the chief guest of the event in the picture in 2019?",
+    "options": [
+      "Bangladesh University of Professionals",
+      "University of Dhaka",
+      "Bangladesh Institute of Law and International Affairs",
+      "United States Agency for International Development"
+    ],
+    "answer": "Bangladesh University of Professionals"
+  },
+  {
+    "image_id": "politics_100",
+    "question": "Who is the Chief Executive of the organization in the picture?",
+    "options": [
+      "BELA (Bangladesh Environmental Lawyers Association)",
+      "ENDRS",
+      "Federation of NGOs in Bangladesh",
+      "Bangladesh Bar Council"
+    ],
+    "answer": "BELA (Bangladesh Environmental Lawyers Association)"
+  },
+  {
+    "image_id": "politics_101",
+    "question": "In which of Sheikh Hasina's cabinets was the person in the picture the State Minister for Water Resources?",
+    "options": [
+      "Third Cabinet",
+      "Fourth Cabinet",
+      "Second Cabinet",
+      "Interim Government"
+    ],
+    "answer": "Fourth Cabinet"
+  },
+  {
+    "image_id": "politics_102",
+    "question": "In which year was the person in this picture first elected as a Member of Parliament?",
+    "options": [
+      "1979",
+      "1981",
+      "1986",
+      "1996"
+    ],
+    "answer": "1979"
+  },
+  {
+    "image_id": "politics_103",
+    "question": "In which year was the person in this picture first elected to Parliament?",
+    "options": [
+      "1991",
+      "1996",
+      "2001",
+      "2008"
+    ],
+    "answer": "1996"
+  },
+  {
+    "image_id": "politics_104",
+    "question": "In which year was the person in this picture first elected as a Member of Parliament?",
+    "options": [
+      "1986",
+      "1991",
+      "1996",
+      "2001"
+    ],
+    "answer": "1991"
+  },
+  {
+    "image_id": "politics_105",
+    "question": "In what year was the person in this picture first elected as a Member of Parliament?",
+    "options": [
+      "1986",
+      "1991",
+      "1996",
+      "2001"
+    ],
+    "answer": "1991"
+  },
+  {
+    "image_id": "politics_106",
+    "question": "Which city's mayor did the person in this picture serve as?",
+    "options": [
+      "Chittagong",
+      "Dhaka",
+      "Khulna",
+      "Rajshahi"
+    ],
+    "answer": "Dhaka"
+  },
+  {
+    "image_id": "politics_107",
+    "question": "For how many years was Mohammad Hanif the president of the Dhaka Metropolitan Awami League?",
+    "options": [
+      "20 years",
+      "25 years",
+      "30 years",
+      "35 years"
+    ],
+    "answer": "30 years"
+  },
+  {
+    "image_id": "politics_108",
+    "question": "In what year was the person in this picture first elected to parliament?",
+    "options": [
+      "1996",
+      "2001",
+      "2008",
+      "2014"
+    ],
+    "answer": "1996"
+  },
+  {
+    "image_id": "politics_109",
+    "question": "In which year was the person in this picture first elected as a Member of Parliament?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2022"
+    ],
+    "answer": "2019"
+  },
+  {
+    "image_id": "politics_110",
+    "question": "In which year was the person in this picture first elected as a Member of Parliament?",
+    "options": [
+      "1991",
+      "1996",
+      "2001",
+      "2008"
+    ],
+    "answer": "1991"
+  },
+  {
+    "image_id": "politics_111",
+    "question": "Which movement did this person in the picture lead?",
+    "options": [
+      "Quota Reform Movement",
+      "Bangladesh Chhatra League",
+      "Jatiyo Party Movement",
+      "Women's Empowerment Movement"
+    ],
+    "answer": "Quota Reform Movement"
+  },
+  {
+    "image_id": "politics_112",
+    "question": "In which year's August did the person in this picture become an advisor to the Ministry of Posts, Telecommunications and Information Technology?",
+    "options": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "answer": "2024"
+  },
+  {
+    "image_id": "politics_113",
+    "question": "Which movement did this person in the picture lead?",
+    "options": [
+      "Quota reform movement",
+      "Student League Movement",
+      "Women's Empowerment Movement",
+      "Environmental Movement"
+    ],
+    "answer": "Quota Reform Movement"
+  },
+  {
+    "image_id": "politics_114",
+    "question": "Which top policy-making body was this person in the picture a member of?",
+    "options": [
+      "Political Council",
+      "Central Executive Committee",
+      "Citizens' Movement Committee",
+      "Education Board"
+    ],
+    "answer": "Political Council"
+  },
+  {
+    "image_id": "politics_115",
+    "question": "Who was the coordinator of this movement in the picture?",
+    "options": [
+      "Quota reform movement",
+      "Student League Movement",
+      "Women's Empowerment Movement",
+      "Environmental Movement"
+    ],
+    "answer": "Quota Reform Movement"
+  },
+  {
+    "image_id": "politics_116",
+    "question": "From which constituency was the person in the picture first elected as a Member of Parliament?",
+    "options": [
+      "Chuadanga-1",
+      "Dhaka-6",
+      "Netrokona-4",
+      "Moulvibazar-1"
+    ],
+    "answer": "Chuadanga-1"
+  },
+  {
+    "image_id": "politics_117",
+    "question": "From which district's constituency is the person in the picture elected?",
+    "options": [
+      "Thakurgaon-1",
+      "Bogra-6",
+      "Dhaka-6",
+      "Chuadanga-1"
+    ],
+    "answer": "Thakurgaon-1"
+  },
+  {
+    "image_id": "politics_118",
+    "question": "In which year's August was this person in the picture appointed as an advisor to the interim government?",
+    "options": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "answer": "2024"
+  },
+  {
+    "image_id": "politics_119",
+    "question": "From which constituency did the person in the picture win the parliamentary election?",
+    "options": [
+      "Gazipur-1",
+      "Dhaka-6",
+      "Thakurgaon-1",
+      "Bogra-6"
+    ],
+    "answer": "Ghazipur-1"
+  },
+  {
+    "image_id": "politics_120",
+    "question": "In which year's August did the person in the picture become an advisor to the interim government?",
+    "options": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "answer": "2024"
+  },
+  {
+    "image_id": "politics_121",
+    "question": "In which year's August was the person in the picture appointed as an advisor to the interim government?",
+    "options": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "answer": "2024"
+  },
+  {
+    "image_id": "politics_122",
+    "question": "In which month was the person in the picture appointed as an advisor to the interim government?",
+    "options": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "answer": "July"
+  },
+  {
+    "image_id": "politics_123",
+    "question": "In which year's August did this person in the picture become an advisor to the interim government?",
+    "options": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "answer": "2024"
+  },
+  {
+    "image_id": "politics_124",
+    "question": "In which year's August did this person in the picture become an advisor to the interim government?",
+    "options": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "answer": "2024"
+  },
+  {
+    "image_id": "politics_125",
+    "question": "On what date did the person in the picture take the oath as Chief Advisor of the Interim Government?",
+    "options": [
+      "August 5, 2024",
+      "August 8, 2024",
+      "August 10, 2024",
+      "August 12, 2024"
+    ],
+    "answer": "August 8, 2024"
+  },
+  {
+    "image_id": "politics_126",
+    "question": "In what year did the person in the picture take the oath as the Finance Minister of Bangladesh?",
+    "options": [
+      "2008",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    "answer": "2009"
+  },
+  {
+    "image_id": "politics_127",
+    "question": "From which constituency was the person in the picture elected to the Ninth National Parliament?",
+    "options": [
+      "Chittagong-6",
+      "Chittagong-7",
+      "Dhaka-6",
+      "Sylhet-1"
+    ],
+    "answer": "Chittagong-6"
+  },
+  {
+    "image_id": "politics_128",
+    "question": "As which organization's chairman has the person in the picture also served?",
+    "options": [
+      "Rural Employment Service Foundation",
+      "Bangladesh Bank",
+      "Dhaka University",
+      "International Monetary Fund"
+    ],
+    "answer": "Palli Karma-Sahayak Foundation"
+  },
+  {
+    "image_id": "politics_129",
+    "question": "Which institution's president did the person in the picture serve as?",
+    "options": [
+      "Khulna Jute Workers Institute",
+      "University of Dhaka",
+      "Bangladesh Bank",
+      "National Human Rights Commission"
+    ],
+    "answer": "Khulna Jute Workers Institute"
+  },
+  {
+    "image_id": "politics_130",
+    "question": "Which army did the person in the picture join?",
+    "options": [
+      "Bangladesh Army",
+      "Pakistan Army",
+      "Indian Army",
+      "Navy"
+    ],
+    "answer": "Pakistani Army"
+  },
+  {
+    "image_id": "politics_131",
+    "question": "Which political party does the person in the picture belong to?",
+    "options": [
+      "Awami League",
+      "BNP",
+      "Jatiya Party",
+      "National Citizen Party"
+    ],
+    "answer": "Awami League"
+  },
+  {
+    "image_id": "politics_132",
+    "question": "How many times was the person in the picture elected as a Member of Parliament?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "7"
+    ],
+    "answer": "6"
+  },
+  {
+    "image_id": "politics_133",
+    "question": "How many times was the person in the picture elected as a Member of Parliament?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "image_id": "politics_134",
+    "question": "When did the person in the picture resign from the presidency?",
+    "options": [
+      "May 30, 2002",
+      "June 21, 2002",
+      "July 15, 2002",
+      "January 1, 2003"
+    ],
+    "answer": "June 21, 2002"
+  },
+  {
+    "image_id": "politics_135",
+    "question": "In what year did the person in the picture first become Additional Solicitor General?",
+    "options": [
+      "1968",
+      "1972",
+      "1976",
+      "1977"
+    ],
+    "answer": "1972"
+  },
+  {
+    "image_id": "politics_136",
+    "question": "When was the person in the picture elected President?",
+    "options": [
+      "February 12, 2023",
+      "February 13, 2023",
+      "April 24, 2023",
+      "August 15, 2023"
+    ],
+    "answer": "February 13, 2023"
+  },
+  {
+    "image_id": "politics_137",
+    "question": "When did the person in the picture cease to hold the office of Minister of Railways?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "answer": "2019"
+  },
+  {
+    "image_id": "politics_138",
+    "question": "From which constituency was the person in the picture last elected as a Member of Parliament?",
+    "options": [
+      "Bakerganj-6",
+      "Bakerganj-11",
+      "Patuakhali-1",
+      "Comilla-12"
+    ],
+    "answer": "Patukhali-1"
+  },
+  {
+    "image_id": "politics_139",
+    "question": "From which constituency was the person in the picture elected as a Member of Parliament?",
+    "options": [
+      "Satkhira-3",
+      "Comilla-11",
+      "Patuakhali-1",
+      "Dhaka-9"
+    ],
+    "answer": "Satkhira-3"
+  },
+  {
+    "image_id": "politics_140",
+    "question": "From which constituency was the person in the picture elected as a Member of Parliament?",
+    "options": [
+      "Dhaka-1",
+      "Dhaka-9",
+      "Satkhira-3",
+      "Comilla-11"
+    ],
+    "answer": "Dhaka-1"
+  },
+  {
+    "image_id": "politics_141",
+    "question": "From which constituency was the person in the picture elected as a Member of Parliament?",
+    "options": [
+      "Manikganj-3",
+      "Dhaka-1",
+      "Comilla-11",
+      "Patuakhali-1"
+    ],
+    "answer": "Manikganj-3"
+  },
+  {
+    "image_id": "politics_142",
+    "question": "From the government of which country did the person in the picture receive the Great Wall Commemorative Medal?",
+    "options": [
+      "Japan",
+      "China",
+      "United States",
+      "India"
+    ],
+    "answer": "China"
+  },
+  {
+    "image_id": "politics_143",
+    "question": "How many times has the person in the picture been elected Member of Parliament from the Tangail-4 constituency?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6"
+  },
+  {
+    "image_id": "politics_144",
+    "question": "When was the person in the picture elected as an Amir?",
+    "options": [
+      "2016",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "answer": "2019"
+  },
+  {
+    "image_id": "politics_145",
+    "question": "From which constituency was the person in the picture elected as a Member of Parliament?",
+    "options": [
+      "Pabna-1",
+      "Dhaka-15",
+      "Tangail-4",
+      "Manikganj-3"
+    ],
+    "answer": "Pabna-1"
+  },
+  {
+    "image_id": "politics_146",
+    "question": "How many times has the person in the picture been elected as a Member of Parliament from the Narayanganj-4 constituency?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "image_id": "politics_147",
+    "question": "When was the person in the picture born?",
+    "options": [
+      "1920",
+      "1922",
+      "1924",
+      "1926"
+    ],
+    "answer": "1922"
+  },
+  {
+    "image_id": "politics_148",
+    "question": "In which ministry did the person in the picture serve?",
+    "options": [
+      "Labor and Food",
+      "Garments",
+      "Health",
+      "Education"
+    ],
+    "answer": "Labour and Food"
+  },
+  {
+    "image_id": "politics_149",
+    "question": "From which constituency was the person in the picture elected as a Member of Parliament for the second time?",
+    "options": [
+      "Dhaka-1",
+      "Dhaka-13",
+      "Tangail-4",
+      "Manikganj-3"
+    ],
+    "answer": "Dhaka-1"
+  },
+  {
+    "image_id": "politics_150",
+    "question": "In which year did the person in the picture resume their role as Speaker?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "answer": "2019"
+  }
+]

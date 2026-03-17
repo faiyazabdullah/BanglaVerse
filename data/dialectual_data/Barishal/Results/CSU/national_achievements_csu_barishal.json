@@ -1,0 +1,520 @@
+[
+  {
+    "image_id": "achievement_001",
+    "original_question": "ছবিতে নারী ফুটবল দল ট্রফি হাতে উদযাপন করছে। তারা কোন টুর্নামেন্ট জিতেছে?",
+    "barishal_question": "ছবিতে নারী ফুটবল দল ট্রফি হাতে উতসব করতাছে। তারা কোন টুর্নামেন্ট জিতছে?",
+    "original_answer": "সাফ নারী চ্যাম্পিয়নশিপ",
+    "barishal_answer": "সাফ নারী চ্যাম্পিয়নশিপ"
+  },
+  {
+    "image_id": "achievement_002",
+    "original_question": "এই ছবির মানুষটি কিসের জন্য বিখ্যাত?",
+    "barishal_question": "এই ছবির মানুষখান কিসের লাইগ্যা বিখ্যাত?",
+    "original_answer": "দক্ষিণ এশিয়ার প্রথম দাবা গ্র্যান্ডমাস্টার।",
+    "barishal_answer": "দক্ষিণ এশিয়ার প্রথম দাবা গ্র্যান্ডমাস্টার।"
+  },
+  {
+    "image_id": "achievement_003",
+    "original_question": "ইউনিভার্সিটি রোভার চ্যালেঞ্জে তারা এশিয়ায় কোন স্থান অর্জন করেছে?",
+    "barishal_question": "ইউনিভার্সিটি রোভার চ্যালেঞ্জে তারা এশিয়ায় কোন খান অর্জন করছিলো?",
+    "original_answer": "পুরো এশিয়ায় প্রথম স্থান।",
+    "barishal_answer": "পুরো এশিয়াতে প্রথম স্থান।"
+  },
+  {
+    "image_id": "achievement_004",
+    "original_question": "এই ব্যক্তি কোন বছরে নোবেল পুরস্কার পেয়েছিলেন?",
+    "barishal_question": "এই বেক্তি কোন বচ্ছর নোবেল পুরস্কার পাইয়াছিল?",
+    "original_answer": "২০০৬ সালে।",
+    "barishal_answer": "২০০৬ সালে।"
+  },
+  {
+    "image_id": "achievement_005",
+    "original_question": "এই ছবিতে খেলোয়াড়রা কোন ধরণের প্রতিযোগিতায় জিতেছেন?",
+    "barishal_question": "এই ছবিতে খেলোয়াড়রা কোন ধরণের প্রতিযোগিতায় জিতছে?",
+    "original_answer": "তীরন্দাজি",
+    "barishal_answer": "তীরন্দাজি"
+  },
+  {
+    "image_id": "achievement_006",
+    "original_question": "এই ছবিতে খেলোয়াড়রা কোন খেলায় জয় পেয়েছেন?",
+    "barishal_question": "এই ছবিতে খেলোয়াড়রা কোন খেলাখান জিত্যাছে?",
+    "original_answer": "ক্রিকেট",
+    "barishal_answer": "ক্রিকেট"
+  },
+  {
+    "image_id": "achievement_007",
+    "original_question": "এই ছবিতে মেয়েটি কোন বিষয়ে প্রতিযোগিতায় জিতেছে?",
+    "barishal_question": "এই ছবিতে মাইয়াখান কোন বিষয়ে প্রতিযোগিতায় জিতছে?",
+    "original_answer": "রোবটিক্স",
+    "barishal_answer": "রোবটিক্স"
+  },
+  {
+    "image_id": "achievement_008",
+    "original_question": "এই ছবিতে যে সেতু দেখা যাচ্ছে তার নাম কী?",
+    "barishal_question": "এই ছবিতে যে সেতু দেখা যাইতাছে তার নাম কী?",
+    "original_answer": "পদ্মা সেতু",
+    "barishal_answer": "পদ্মা সেতু"
+  },
+  {
+    "image_id": "achievement_009",
+    "original_question": "এই ছবিতে দলটি কোন খেলায় জয়লাভ করেছে?",
+    "barishal_question": "এই ছবিতে দলখান কোন খেলায় জিতছে?",
+    "original_answer": "ক্রিকেট",
+    "barishal_answer": "ক্রিকেট"
+  },
+  {
+    "image_id": "achievement_010",
+    "original_question": "এই ছবিতে যে স্যাটেলাইট উৎক্ষেপণ করা হয়েছে তার নাম কী?",
+    "barishal_question": "এই ছবিতে যে স্যাটেলাইট উৎক্ষেপণ কর‍্যাছে তার নাম কী?",
+    "original_answer": "বঙ্গবন্ধু-১",
+    "barishal_answer": "বঙ্গবন্ধু-১"
+  },
+  {
+    "image_id": "achievement_011",
+    "original_question": "এই ছবিতে শান্তিরক্ষী বাহিনী কোন দেশের প্রতিনিধিত্ব করছে?",
+    "barishal_question": "এই ছবিতে শান্তিরক্ষী বাহিনী কোন দেশের প্রতিনিধিত্ব করতাছে?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_012",
+    "original_question": "এই ছবিতে পুরস্কার কোন ক্ষেত্রে প্রদান করা হচ্ছে?",
+    "barishal_question": "এই ছবিতে পুরস্কার কোন ক্ষেত্রে দেওয়া হইতাছে?",
+    "original_answer": "ডিজিটাল উদ্ভাবন",
+    "barishal_answer": "ডিজিটাল উদ্ভাবন"
+  },
+  {
+    "image_id": "achievement_013",
+    "original_question": "এই ছবিতে শ্রমিকরা কোন ধরনের কাজ করছে?",
+    "barishal_question": "এই ছবিতে কামলা কোন কাম করতাছে?",
+    "original_answer": "পোশাক তৈরি",
+    "barishal_answer": "পোশাক বানানি"
+  },
+  {
+    "image_id": "achievement_014",
+    "original_question": "এই ছবিতে কোন বাহিনীকে দেখা যাচ্ছে?",
+    "barishal_question": "এই ছবিতে কোন বাহিনিখান দেখা যাইতাছে?",
+    "original_answer": "নৌবাহিনী",
+    "barishal_answer": "নৌবাহিনী"
+  },
+  {
+    "image_id": "achievement_015",
+    "original_question": "এই ছবিতে কোন প্রযুক্তি ব্যবহার করা হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন টেকনোলজি ব্যবহার করা হইছে?",
+    "original_answer": "স্যাটেলাইট",
+    "barishal_answer": "স্যাটেলাইট"
+  },
+  {
+    "image_id": "achievement_016",
+    "original_question": "এই ছবিতে কোন বাহিনীকে দেখা যাচ্ছে?",
+    "barishal_question": "এই ছবিতে কোন বাহিনী দেখা যাইতাছে?",
+    "original_answer": "বিমান বাহিনী",
+    "barishal_answer": "বিমান বাহিনী"
+  },
+  {
+    "image_id": "achievement_017",
+    "original_question": "এই ছবিতে শিক্ষার্থীরা কোন ধরনের পদক জিতেছে?",
+    "barishal_question": "এই ছবিতে ছাত্রছাত্রীরা কোন খানার মেডেল জিতছে?",
+    "original_answer": "রৌপ্য ও ব্রোঞ্জ",
+    "barishal_answer": "রৌপ্য আর ব্রোঞ্জ"
+  },
+  {
+    "image_id": "achievement_018",
+    "original_question": "এই ছবিতে কোন দেশের সেনারা শান্তিরক্ষা মিশনে কাজ করছে?",
+    "barishal_question": "এই ছবিতে কোন দেশের সেনারা শান্তি রক্ষা মিশনে কাম করতাছে?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_019",
+    "original_question": "এই ছবিতে প্রদর্শিত চলচ্চিত্রটি কোন উৎসবে পুরস্কার পেয়েছিল?",
+    "barishal_question": "এই ছবিতে দেহাইতাছে যে ছবিখান, এইডা কোন উতসবে পুরস্কার পাইছিল?",
+    "original_answer": "কান চলচ্চিত্র উৎসব",
+    "barishal_answer": "কান চলচ্চিত্র উৎসব"
+  },
+  {
+    "image_id": "achievement_020",
+    "original_question": "এই ছবিতে প্রদর্শিত অরণ্য কোন দেশের বিশ্ব ঐতিহ্যের অংশ?",
+    "barishal_question": "এই ছবিতে দেখানো অরণ্য কোন দেশের বিশ্ব ঐতিহ্যের অংশ?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_021",
+    "original_question": "এই ছবিতে ক্রীড়াবিদ কোন প্রতিযোগিতায় স্বর্ণপদক জিতেছেন?",
+    "barishal_question": "এই ছবিতে খেলোয়াড় কোন প্রতিযোগিতায় সোনা জিত্তেছে?",
+    "original_answer": "সাউথ এশিয়ান গেমস",
+    "barishal_answer": "সাউথ এশিয়ান গেমস"
+  },
+  {
+    "image_id": "achievement_022",
+    "original_question": "এই ছবিতে যে অগ্রগতি দেখা যাচ্ছে তা কোন বছরে সম্পন্ন হয়েছে?",
+    "barishal_question": "এই ছবিতে যে আগাইতাছে তা কোন বছরে অইছে?",
+    "original_answer": "২০২২",
+    "barishal_answer": "দুই হাজার বাইশ"
+  },
+  {
+    "image_id": "achievement_023",
+    "original_question": "এই ছবিতে প্রদর্শিত পরিবহন ব্যবস্থা কোন শহরে চালু হয়েছে?",
+    "barishal_question": "এই ছবিতে দেখানো পরিবহন ব্যবস্থা কোন শহরে চালু অইছে?",
+    "original_answer": "ঢাকা",
+    "barishal_answer": "ঢাকা"
+  },
+  {
+    "image_id": "achievement_024",
+    "original_question": "এই ছবিতে প্রদর্শিত বিদ্যুৎকেন্দ্র কোন ধরনের শক্তি উৎপাদন করবে?",
+    "barishal_question": "এই ছবিতে দেখানো বিদ্যুৎকেন্দ্র কোন ধরনের শক্তি উতপাদন কোরবে?",
+    "original_answer": "পারমাণবিক",
+    "barishal_answer": "পারমাণবিক"
+  },
+  {
+    "image_id": "achievement_025",
+    "original_question": "এই ছবিতে প্রদর্শিত সুড়ঙ্গপথ কোন নদীর নিচ দিয়ে নির্মিত?",
+    "barishal_question": "এই ছবিতে দেখা যাইতাছে সুড়ঙ্গখান কোন নদীর নিচ দিয়া বানাইছে?",
+    "original_answer": "কর্ণফুলি",
+    "barishal_answer": "কর্ণফুলি"
+  },
+  {
+    "image_id": "achievement_026",
+    "original_question": "এই ছবিতে প্রদর্শিত সমুদ্রবন্দর কোন দেশে অবস্থিত?",
+    "barishal_question": "এই ছবিতে দেখানো সমুন্দরবন্দর কোন দেশে অবস্থিত?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_027",
+    "original_question": "এই ছবিতে প্রদর্শিত রেলপথ কোন সেতুর উপর নির্মিত?",
+    "barishal_question": "এই ছবিতে দেখাইতাছে এই রেললাইন কোন সেতুর উপর বানাইছে?",
+    "original_answer": "পদ্মা সেতু",
+    "barishal_answer": "পদ্মা সেতু"
+  },
+  {
+    "image_id": "achievement_028",
+    "original_question": "এই ছবিতে প্রদর্শিত ডেটা সেন্টারটি বিশ্বের কততম বৃহৎ?",
+    "barishal_question": "এই ছবিতে দেখানো ডেটা সেন্টারখান দুনিয়ার কততম বড়?",
+    "original_answer": "৭ম",
+    "barishal_answer": "সাততম"
+  },
+  {
+    "image_id": "achievement_029",
+    "original_question": "এই ছবিতে প্রদর্শিত প্রযুক্তি কোন ধরনের শক্তি উৎপাদন করে?",
+    "barishal_question": "এই ছবিতে দেহাইতাছে এই প্রযুক্তি কোন ধরনের শক্তি উতপন্ন করে?",
+    "original_answer": "সৌর শক্তি",
+    "barishal_answer": "সৌর শক্তি"
+  },
+  {
+    "image_id": "achievement_030",
+    "original_question": "এই ছবিতে প্রদর্শিত অবকাঠামো কোন শহরে চালু হয়েছে?",
+    "barishal_question": "এই ছবিতে দেখানো অবকাঠামো কোন শহরে চালু অইছে?",
+    "original_answer": "ঢাকা",
+    "barishal_answer": "ঢাকা"
+  },
+  {
+    "image_id": "achievement_031",
+    "original_question": "এই ছবিতে প্রদর্শিত প্রতিষ্ঠানটি কোন দেশের উদ্যোগ?",
+    "barishal_question": "এই ছবিতে দেখানো প্রতিষ্ঠানখান কোন দেশের উদ্যোগ?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_032",
+    "original_question": "এই ছবিতে শিক্ষার্থীরা কোন দেশের প্রতিনিধিত্ব করছে?",
+    "barishal_question": "এই ছবিতে ছাত্রছাত্রীরা কোন দেশের প্রতিনিধিত্ব করতাছে?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_033",
+    "original_question": "এই ছবিতে প্রদর্শিত বিজ্ঞানী কোন বিষয়ে নোবেল পুরস্কার জিতেছেন?",
+    "barishal_question": "এই ছবিতে দেখানো বিজ্ঞানী কোন বিষয়ে নোবেল পুরস্কার জিত্যাছে?",
+    "original_answer": "পদার্থবিজ্ঞান",
+    "barishal_answer": "পদার্থবিজ্ঞান"
+  },
+  {
+    "image_id": "achievement_034",
+    "original_question": "এই ছবিতে নারী শান্তিরক্ষীরা কোন দেশের প্রতিনিধিত্ব করছে?",
+    "barishal_question": "এই ছবিতে নারী শান্তিরক্ষীরা কোন দেশের প্রতিনিধিত্ব করতাছে?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_035",
+    "original_question": "এই ছবিতে প্রদর্শিত প্রতিষ্ঠানটি কোন খাতের সঙ্গে যুক্ত?",
+    "barishal_question": "এই ছবিতে দেখানো প্রতিষ্ঠানখান কোন খাতের লগে যুক্ত?",
+    "original_answer": "প্রযুক্তি",
+    "barishal_answer": "প্রযুক্তি"
+  },
+  {
+    "image_id": "achievement_036",
+    "original_question": "এই ছবিতে প্রদর্শিত প্রযুক্তি কোন প্রজন্মের নেটওয়ার্ক?",
+    "barishal_question": "এই ছবিতে দেখা যাইতাছে এই প্রযুক্তি কোন জেনারেশনের নেটওয়ার্ক?",
+    "original_answer": "৫জি",
+    "barishal_answer": "৫জি"
+  },
+  {
+    "image_id": "achievement_037",
+    "original_question": "এই ছবিতে প্রদর্শিত চলচ্চিত্রটি কোন আন্তর্জাতিক উৎসবে নির্বাচিত হয়েছিল?",
+    "barishal_question": "এই ছবিতে দেখানো ফিল্মখান কোন আন্তর্জাতিক উতসবে বাছইনছিলো?",
+    "original_answer": "কান",
+    "barishal_answer": "কান"
+  },
+  {
+    "image_id": "achievement_038",
+    "original_question": "এই ছবিতে প্রদর্শিত স্থপতি কোন দেশের নাগরিক?",
+    "barishal_question": "এই ছবিতে দেহাইতাছে স্থপতি কোন দেশের নাগরিক?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_039",
+    "original_question": "এই ছবিতে প্রদর্শিত পর্বতারোহী কোন দেশের নাগরিক?",
+    "barishal_question": "এই ছবিতে দেখা যাইতাছে পর্বতারোহী কোন দেশের নাগরিক?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_040",
+    "original_question": "এই ছবিতে প্রদর্শিত পুরস্কার কোন খাতের সাথে যুক্ত?",
+    "barishal_question": "এই ছবিতে দেখানো পুরস্কার কোন খাতের লগে যুক্ত?",
+    "original_answer": "উদ্যোক্তা",
+    "barishal_answer": "উদ্যোক্তা"
+  },
+  {
+    "image_id": "achievement_041",
+    "original_question": "এই ছবিতে প্রদর্শিত বিজ্ঞানী কোন পুরস্কার পেয়েছেন?",
+    "barishal_question": "এই ছবিতে দেখানো বিজ্ঞানী কোন পুরস্কার পাইছে?",
+    "original_answer": "র‌্যামন ম্যাগসাইসাই",
+    "barishal_answer": "র‍্যামন ম্যাগসাইসাই"
+  },
+  {
+    "image_id": "achievement_042",
+    "original_question": "এই ছবিতে প্রদর্শিত পুরস্কার কোন খাতের সাথে যুক্ত?",
+    "barishal_question": "এই ছবিতে দেখানো পুরস্কার কোন খাতের লগে যুক্ত?",
+    "original_answer": "শিক্ষা",
+    "barishal_answer": "শিক্ষা"
+  },
+  {
+    "image_id": "achievement_043",
+    "original_question": "এই ছবিতে প্রদর্শিত সম্মান কোন দেশের রাজপরিবার থেকে প্রদান করা হয়েছে?",
+    "barishal_question": "এই ছবিতে দেহানো সম্মান কোন দেশের রাজপরিবার থেইক্যা দেওয়া অইছে?",
+    "original_answer": "ব্রিটেন",
+    "barishal_answer": "ব্রিটেন"
+  },
+  {
+    "image_id": "achievement_044",
+    "original_question": "এই ছবিতে প্রদর্শিত পুরস্কার কোন খাতের জন্য দেওয়া হয়?",
+    "barishal_question": "এই ছবিতে দেখানো পুরস্কার কোন খাতের তরে দেওয়া হয়?",
+    "original_answer": "শিক্ষা",
+    "barishal_answer": "শিক্ষা"
+  },
+  {
+    "image_id": "achievement_045",
+    "original_question": "এই ছবিতে প্রদর্শিত পুরস্কার কোন খাতের সাথে সম্পর্কিত?",
+    "barishal_question": "এই ছবিতে দেখানো পুরস্কার কোন খাতের লগে সম্পর্কিত?",
+    "original_answer": "খাদ্য",
+    "barishal_answer": "খাবার"
+  },
+  {
+    "image_id": "achievement_046",
+    "original_question": "এই ছবিতে প্রদর্শিত পুরস্কার কোন দেশের বিখ্যাত লেখকের নামে?",
+    "barishal_question": "এই ছবিতে দেখানো পুরস্কার কোন দেশের বিখ্যাত লেখকের নামে?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_047",
+    "original_question": "এই ছবিতে প্রদর্শিত সম্মান কোন দেশের ব্যক্তিকে দেওয়া হয়েছে?",
+    "barishal_question": "এই ছবিতে দেখানো সম্মান কোন দেশের মানষেরে দেওয়া অইছে?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_048",
+    "original_question": "এই ছবিতে প্রদর্শিত সম্মান কোন দেশের ব্যক্তিকে প্রদান করা হয়েছে?",
+    "barishal_question": "এই ছবিতে দেখানো সম্মান কোন দেশের মানুষরে দেওয়া অইছে?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_049",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন দেশের?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন দেশের?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_050",
+    "original_question": "এই ছবিতে প্রদর্শিত খেলোয়াড় কোন দেশের?",
+    "barishal_question": "এই ছবিতে দেখানো খেলোয়াড় কোন দেশের?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_051",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন প্রতিযোগিতার চ্যাম্পিয়ন হয়?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন প্রতিযোগিতার চ্যাম্পিয়ন অইছে?",
+    "original_answer": "এশিয়া কাপ",
+    "barishal_answer": "এশিয়া কাপ"
+  },
+  {
+    "image_id": "achievement_052",
+    "original_question": "এই ছবিতে প্রদর্শিত ফুটবল দল কোন দেশের?",
+    "barishal_question": "এই ছবিতে দেখানো ফুটবল দল কোন দেশের?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_053",
+    "original_question": "এই ছবিতে প্রদর্শিত খেলোয়াড় কোন খেলার সাথে যুক্ত?",
+    "barishal_question": "এই ছবিতে দেখান খেলোয়াড় কোন খেলার লগে যুক্ত?",
+    "original_answer": "তীরন্দাজি",
+    "barishal_answer": "তীরন্দাজি"
+  },
+  {
+    "image_id": "achievement_055",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন দেশের?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন দেশের?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_056",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন খেলার সাথে যুক্ত?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন খেলার লগে যুক্ত?",
+    "original_answer": "ক্রিকেট",
+    "barishal_answer": "ক্রিকেট"
+  },
+  {
+    "image_id": "achievement_057",
+    "original_question": "এই ছবিতে প্রদর্শিত খেলোয়াড় কোন দেশের?",
+    "barishal_question": "এই ছবিতে দেখানো খেলোয়াড় কোন দেশের?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_058",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন খেলার সাথে যুক্ত?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন খেলার লগে যুক্ত?",
+    "original_answer": "কাবাডি",
+    "barishal_answer": "কাবাডি"
+  },
+  {
+    "image_id": "achievement_059",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন টুর্নামেন্টে কোয়ার্টার-ফাইনালে উঠেছিল?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন টুর্নামেন্টে কোয়ার্টার-ফাইনালে উডছিল?",
+    "original_answer": "ওয়ার্ল্ড কাপ",
+    "barishal_answer": "ওয়ার্ল্ড কাপ"
+  },
+  {
+    "image_id": "achievement_060",
+    "original_question": "এই ছবিতে প্রদর্শিত বিশ্বকাপের সহ-আয়োজক কোন দেশ?",
+    "barishal_question": "এই ছবিতে দেখানো বিশ্বকাপের সহ-আয়োজক কোন দেশ?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_061",
+    "original_question": "এই ছবিতে প্রদর্শিত ক্রীড়াবিদ কোন খেলার সাথে যুক্ত?",
+    "barishal_question": "এই ছবিতে দেহাইতাছে খেলোয়াড় কোন খেলার লগে যুক্ত?",
+    "original_answer": "শুটিং",
+    "barishal_answer": "শুটিং"
+  },
+  {
+    "image_id": "achievement_062",
+    "original_question": "এই ছবিতে প্রদর্শিত ক্রীড়াবিদ কোন খেলার সাথে যুক্ত?",
+    "barishal_question": "এই ছবিতে দেখা যাইতাছে খেলোয়াড় কোন খেলার লগে যুক্ত?",
+    "original_answer": "সাঁতার",
+    "barishal_answer": "সাঁতার"
+  },
+  {
+    "image_id": "achievement_063",
+    "original_question": "এই ছবিতে প্রদর্শিত খেলোয়াড়রা কোন দেশের?",
+    "barishal_question": "এই ছবিতে দেখাইতাছে খেলোয়াড়রা কোন দেশের?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_064",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন বিশ্বকাপ ম্যাচে জয়লাভ করেছিল?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন বিশ্বকাপ ম্যাচে জিত্যাছিল?",
+    "original_answer": "২০০৭",
+    "barishal_answer": "২০০৭"
+  },
+  {
+    "image_id": "achievement_065",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন দেশের?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন দেশের?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_066",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন টুর্নামেন্টের ফাইনালে উঠেছিল?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন টুর্নামেন্টের ফাইনালে উঠছিল?",
+    "original_answer": "এশিয়া কাপ",
+    "barishal_answer": "এশিয়া কাপ"
+  },
+  {
+    "image_id": "achievement_067",
+    "original_question": "এই ছবিতে প্রদর্শিত জয় কোন দলের বিপক্ষে?",
+    "barishal_question": "এই ছবিতে দেখাইতাছে জয় কোন দলের লগে?",
+    "original_answer": "নিউজিল্যান্ড",
+    "barishal_answer": "নিউজিল্যান্ড"
+  },
+  {
+    "image_id": "achievement_068",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন দেশের নারী দল?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন দেশের নারী দল?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_069",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন দেশের?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন দেশের?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_070",
+    "original_question": "এই ছবিতে প্রদর্শিত খেলোয়াড় কোন খেলার সাথে যুক্ত?",
+    "barishal_question": "এই ছবিতে দেখা যাইতাছে খেলোয়াড় কোন খেলার লগে যুক্ত?",
+    "original_answer": "তীরন্দাজি",
+    "barishal_answer": "তীরন্দাজি"
+  },
+  {
+    "image_id": "achievement_071",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন খেলার সাথে যুক্ত?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন খেলার লগে যুক্ত?",
+    "original_answer": "ক্রিকেট",
+    "barishal_answer": "ক্রিকেট"
+  },
+  {
+    "image_id": "achievement_072",
+    "original_question": "এই ছবিতে প্রদর্শিত আসর কোন দেশে অনুষ্ঠিত হয়েছিল?",
+    "barishal_question": "এই ছবিতে দেখানো আসর কোন দেশে অইছিল?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_072",
+    "original_question": "এই ছবিতে প্রদর্শিত আসর কোন দেশে অনুষ্ঠিত হয়েছিল?",
+    "barishal_question": "এই ছবিতে দেখানো আসর কোন দেশে অইছিল?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_074",
+    "original_question": "এই ছবিতে প্রদর্শিত খেলোয়াড় কোন দেশের?",
+    "barishal_question": "এই ছবিতে দেখানো খেলোয়াড় কোন দেশের?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "achievement_075",
+    "original_question": "এই ছবিতে প্রদর্শিত দল কোন দেশের বিশ্ববিদ্যালয়ের?",
+    "barishal_question": "এই ছবিতে দেখানো দল কোন দেশের ভার্সিটির?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  }
+]

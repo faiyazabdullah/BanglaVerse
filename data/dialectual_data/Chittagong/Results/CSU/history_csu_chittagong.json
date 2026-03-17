@@ -1,0 +1,1052 @@
+[
+  {
+    "image_id": "history_001",
+    "original_question": "ছবিতে শহীদ মিনারে ফুল দেয়া হচ্ছে। মানুষ কোন ঐতিহাসিক দিবস পালন করছে?",
+    "chittagong_question": "ছবিত শহীদ মিনারে ফুল দেয়া যাইতেছে। মানষে কোন ঐতিহাসিক দিবস পালন কররই?",
+    "original_answer": "মহান শহীদ দিবস",
+    "chittagong_answer": "মহাং শ‍হীদ দিবস"
+  },
+  {
+    "image_id": "history_002",
+    "original_question": "ছবিতে কী হচ্ছে?",
+    "chittagong_question": "ছবিত কী অইতাছে?",
+    "original_answer": "বাংলাদেশের কাছে পাকিস্তান আত্মসমর্পণ করছে",
+    "chittagong_answer": "বাংলাদেশর কাছে পাকিস্তান আত্মসমর্পণ করিসি"
+  },
+  {
+    "image_id": "history_003",
+    "original_question": "ছবিতে যে কোম্পানি দেখা যাচ্ছে, জন ওয়াট-এর সাথে আরেকজন প্রতিষ্ঠাতা কে ওই কোম্পানির?",
+    "chittagong_question": "ছবিত যে কোম্পানি দেখা যাইতেছে, জন ওয়াট-র লগে আর কোন জন প্রতিষ্ঠাতা ওই কোম্পানিগো?",
+    "original_answer": "এলিজাবেথ প্রথম",
+    "chittagong_answer": "এলিজাবেথ প্রথম"
+  },
+  {
+    "image_id": "history_004",
+    "original_question": "ছবির লোকটি বাংলা ভাষাকে কতটি শাখায় ভাগ করেছিলেন?",
+    "chittagong_question": "ছবির লোকগো বাংলা ভাষারে কত্তোটা ভাগ করছিলো?",
+    "original_answer": "২ শাখায়",
+    "chittagong_answer": "২ শাখাত"
+  },
+  {
+    "image_id": "history_005",
+    "original_question": "ছবিতে প্রদর্শিত প্রস্তাবের অধিবেশনে কোন কিংবদন্তি নেতা উপস্থিত ছিলেন?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে প্রস্তাবর অধিবেশনে কোন কিংবদন্তি নেতা উপস্থিত আছিল?",
+    "original_answer": "আবুল কাশেম ফজলুল হক",
+    "chittagong_answer": "আবুল কাশেম ফজলুল হক"
+  },
+  {
+    "image_id": "history_006",
+    "original_question": "কোন উদ্দেশ্যে বাংলা ভাগ করা হলে বাঙালির মধ্যে ঐক্যবদ্ধ প্রতিরোধ আন্দোলনের জন্ম হয়?",
+    "chittagong_question": "কোন উদ্দেশ্যে বাংলা ভাগ অইলে বাঙালির মইধ্যে ঐক্যবদ্ধ প্রতিরোধ আন্দোলনর জন্ম অইছিল?",
+    "original_answer": "রাজনৈতিক",
+    "chittagong_answer": "রাজনৈতিক"
+  },
+  {
+    "image_id": "history_007",
+    "original_question": "ছবির এই বক্তব্যটি কত সালের কত তারিখে দেওয়া হয়েছিল?",
+    "chittagong_question": "ছবির এই বক্তব্যগো কত সালর কত তারিখত দেয়া অইছিল?",
+    "original_answer": "২৬ মার্চ, ১৯৭১",
+    "chittagong_answer": "২৬ মার্চ, ১৯৭১"
+  },
+  {
+    "image_id": "history_008",
+    "original_question": "ছবির তাম্রলিপি কেন প্রাচীন শাসকদের শাসনের প্রমাণ বহন করে?",
+    "chittagong_question": "ছবির তাম্রলিপি কেন পুরানা শাসকরর শাসনের প্রমাণ বহর করর?",
+    "original_answer": "তাম্রলিপিতে রাজাদের আদেশ ও দানপত্র লেখা হতো যা প্রশাসনিক তথ্য দেয়।",
+    "chittagong_answer": "তাম্রলিপিত রাজাগো হুকুম আর দানপত্র লেখা অইতো যে প্রশাসনিক তথ্য দেয়।"
+  },
+  {
+    "image_id": "history_009",
+    "original_question": "ছবির পাল রাজারা কেন বৌদ্ধ ধর্মের পৃষ্ঠপোষক ছিলেন?",
+    "chittagong_question": "ছবির পাল রাজারা কেন বৌদ্ধ ধর্মর পৃষ্ঠপোষক আছিল?",
+    "original_answer": "তারা মহাযান বৌদ্ধধর্মে বিশ্বাস করতেন ও বিহার নির্মাণে আগ্রহী ছিলেন।",
+    "chittagong_answer": "তারা মহাযান বৌদ্ধধর্মে বিশ্বাস করতা আর বিহার বানাত খুব।"
+  },
+  {
+    "image_id": "history_010",
+    "original_question": "ছবির প্রাচীন মুদ্রাগুলি কোন বিষয়ে তথ্য দেয়?",
+    "chittagong_question": "ছবির পুরানা মুদ্রাগুলো কোন বিষয়র উপর তথ্য দেয়?",
+    "original_answer": "তাতে শাসকের নাম, ধর্মীয় চিহ্ন ও অর্থনীতির ধরন বোঝা যায়।",
+    "chittagong_answer": "তাত্‍ शासকের নাম, ধর্মীয় চিহ্ন আর অর্থনীতির ধরণ বুঝা যায়।"
+  },
+  {
+    "image_id": "history_011",
+    "original_question": "বাংলার তেরকোটা শিল্প কেন প্রসিদ্ধ ছিল?",
+    "chittagong_question": "বাংলার তেরকোটা শিল্প কেন প্রসিদ্ধ আছিল?",
+    "original_answer": "সহজলভ্য কাদামাটি",
+    "chittagong_answer": "সহজলভ্য কাদামাটি"
+  },
+  {
+    "image_id": "history_012",
+    "original_question": "ছবির শিলালিপি কী কাজে ব্যবহৃত হতো?",
+    "chittagong_question": "ছবির শিলালিপি কী কামর তরে ব্যবহার অইতো?",
+    "original_answer": "আইনি নথি",
+    "chittagong_answer": "আইনি নথি"
+  },
+  {
+    "image_id": "history_013",
+    "original_question": "প্রাচীন বাংলায় বৌদ্ধ ধর্মের বিস্তার কেন ছিল?",
+    "chittagong_question": "পুরানা বাংলায় বৌদ্ধ ধর্মের বিস্তার কেন আছিল?",
+    "original_answer": "রাজকীয় পৃষ্ঠপোষকতা",
+    "chittagong_answer": "রাজকীয় পৃষ্ঠপোষকতা"
+  },
+  {
+    "image_id": "history_014",
+    "original_question": "ছবিতে জনগণের দ্বারা রাজা নির্বাচন করা হলো কেন?",
+    "chittagong_question": "ছবিত জনতা রাজা বানাইল ক্যান?",
+    "original_answer": "অরাজকতা দূর করতে",
+    "chittagong_answer": "অরাজকতা দূর করনের"
+  },
+  {
+    "image_id": "history_015",
+    "original_question": "ছবিতে যাত্রাপথ চিহ্নিত কারণ কী?",
+    "chittagong_question": "ছবিত যাত্রাপথ চিহ্নিত কারণ কী?",
+    "original_answer": "ধর্ম প্রচার",
+    "chittagong_answer": "ধর্ম প্রচার"
+  },
+  {
+    "image_id": "history_016",
+    "original_question": "ছবির পাণ্ডুলিপি কোন বিষয়ে লেখা হতে পারে?",
+    "chittagong_question": "ছবির পাণ্ডুলিপি কোন বিষয়র উপর লেখা অইত্তে পারে?",
+    "original_answer": "ধর্ম বা জ্ঞান",
+    "chittagong_answer": "ধর্ম বা জ্ঞান"
+  },
+  {
+    "image_id": "history_017",
+    "original_question": "ছবিতে চিত্রিত চন্দ্রগুপ্ত মৌর্যের দ্বন্দ্ব ছিল কোন শক্তির সঙ্গে?",
+    "chittagong_question": "ছবিত চিত্রিত চন্দ্রগুপ্ত মৌর্যর দ্বন্দ্ব আছিল কোন শক্তির লগে?",
+    "original_answer": "গ্রিক ও নন্দ রাজা",
+    "chittagong_answer": "গ্রিক আর নন্দ রাজা"
+  },
+  {
+    "image_id": "history_018",
+    "original_question": "ছবির এই সাম্রাজ্যটি কত বছর টিকে ছিল?",
+    "chittagong_question": "ছবির এই সাম্রাজ্যগো কত বছর টিকি আছিল?",
+    "original_answer": "২২ বছর",
+    "chittagong_answer": "বাইশ বছর"
+  },
+  {
+    "image_id": "history_019",
+    "original_question": "ছবির এই ব্যক্তির মৃত্যুর পর সাম্রাজ্যের দায়িত্ব কে গ্রহণ করেন?",
+    "chittagong_question": "ছবির এই বেয়াক্তির মরার পর রাজ্যর দায়িত্ব কে নিছে?",
+    "original_answer": "তাঁর স্ত্রী তিস্সরক্ষিতা",
+    "chittagong_answer": "তার বাইত্তে তিস্সরক্ষিতা"
+  },
+  {
+    "image_id": "history_020",
+    "original_question": "রাজমোহর ব্যবহারের উদ্দেশ্য কী?",
+    "chittagong_question": "রাজমোহর ব্যবহারর উদ্দেশ্য কী?",
+    "original_answer": "নথি যাচাই",
+    "chittagong_answer": "নথি যাচাই"
+  },
+  {
+    "image_id": "history_021",
+    "original_question": "শশাঙ্কের শাসন বাংলা কোথা থেকে বিস্তৃত ছিল?",
+    "chittagong_question": "শশাঙ্কের শাসন বাংলা কোন এলাকাত্থে বিস্তৃত আছিল?",
+    "original_answer": "গঙ্গা থেকে বিহার",
+    "chittagong_answer": "গঙ্গা থাকি বিহার"
+  },
+  {
+    "image_id": "history_022",
+    "original_question": "ধর্মপালের সাম্রাজ্য কেন এত বিস্তৃত হয়েছিল?",
+    "chittagong_question": "ধর্মপালের সাম্রাজ্য কেন এত বিস্তৃত অইছিল?",
+    "original_answer": "সামরিক জয়",
+    "chittagong_answer": "সামরিক জয়"
+  },
+  {
+    "image_id": "history_023",
+    "original_question": "সেন রাজারা কীভাবে ক্ষমতায় আসে?",
+    "chittagong_question": "সেন রাজারা কিতালা ক্ষমতাত আইয়্যারে?",
+    "original_answer": "পালদের দুর্বলতায়",
+    "chittagong_answer": "পালর দুর্বলতায়"
+  },
+  {
+    "image_id": "history_024",
+    "original_question": "বন্দর কেন গুরুত্বপূর্ণ ছিল?",
+    "chittagong_question": "বন্দর কেন গুরুত্বপূর্ণ আছিল?",
+    "original_answer": "বৈদেশিক বাণিজ্য",
+    "chittagong_answer": "বৈদেশী বাত্তিজ"
+  },
+  {
+    "image_id": "history_025",
+    "original_question": "ছবির অঞ্চলটি কী কারণে বিখ্যাত ছিল?",
+    "chittagong_question": "ছবির এলাকাত কী কারণে বিখ্যাত আছিল?",
+    "original_answer": "রাজধানী গৌড়",
+    "chittagong_answer": "রাজধানী গৌড়"
+  },
+  {
+    "image_id": "history_026",
+    "original_question": "ছবিতে বিশ্ববিদ্যালয় নেটওয়ার্ক দেখানোর কারণ কী?",
+    "chittagong_question": "ছবিত বিশ্ববিদ্যালয় নেটওয়ার্ক দেখানোর কারণ কী?",
+    "original_answer": "পাণ্ডিত্য বিস্তার",
+    "chittagong_answer": "পাণ্ডিত্য বিস্তার"
+  },
+  {
+    "image_id": "history_027",
+    "original_question": "ছবির অভিযানে কোন শাসন পতনের মুখে পড়ে?",
+    "chittagong_question": "ছবির অভিযানে কোন শাসন পতনের মুখে পড়ে?",
+    "original_answer": "সেন রাজবংশ",
+    "chittagong_answer": "সেন রাজবংশ"
+  },
+  {
+    "image_id": "history_028",
+    "original_question": "ছবির রাজসভা কী কারণে গুরুত্বপূর্ণ ছিল?",
+    "chittagong_question": "ছবির রাজসভা কী কারণে জরুরি আছিল?",
+    "original_answer": "শাসন চালনা",
+    "chittagong_answer": "শাসন চালনা"
+  },
+  {
+    "image_id": "history_029",
+    "original_question": "জনপদ মানে কী?",
+    "chittagong_question": "জনপদ মানে কী?",
+    "original_answer": "প্রাচীন রাজ্য",
+    "chittagong_answer": "পুরানা রাজ্য"
+  },
+  {
+    "image_id": "history_030",
+    "original_question": "ছবির দেবী কী প্রতীক?",
+    "chittagong_question": "ছবির দেবী কী প্রতীক?",
+    "original_answer": "দয়া ও রক্ষা",
+    "chittagong_answer": "দয়া আর রক্ষা"
+  },
+  {
+    "image_id": "history_031",
+    "original_question": "সামতট অঞ্চল কেন গুরুত্বপূর্ণ ছিল?",
+    "chittagong_question": "সামতট এলাকাত কেন গুরুত্বপূর্ণ আছিল?",
+    "original_answer": "বন্দর বাণিজ্য",
+    "chittagong_answer": "বন্দর বাণিজ্য"
+  },
+  {
+    "image_id": "history_032",
+    "original_question": "ছবির ফলক থেকে কি বোঝা যায়?",
+    "chittagong_question": "ছবির ফলকত্তে কি বুঝা যায়?",
+    "original_answer": "শিল্প উন্নত",
+    "chittagong_answer": "শিল্প উন্নত"
+  },
+  {
+    "image_id": "history_033",
+    "original_question": "চোলরা কেন বাংলায় আগ্রাসন চালায়?",
+    "chittagong_question": "চোলরা কেন বাংলায় আগ্রাসন চালাইসিল?",
+    "original_answer": "প্রভাব বিস্তার",
+    "chittagong_answer": "প্রভাব ফলাই"
+  },
+  {
+    "image_id": "history_034",
+    "original_question": "ছবির চরিত্রটি কোন ধর্মে গুরুত্বপূর্ণ?",
+    "chittagong_question": "ছবির চরিত্রগো কোন ধর্মত গুরুত্বপূর্ণ?",
+    "original_answer": "হিন্দুধর্ম",
+    "chittagong_answer": "হিন্দুধর্ম"
+  },
+  {
+    "image_id": "history_035",
+    "original_question": "ছবির চরিত্রটি কোন সাম্রাজ্য শুরু করেছিলেন?",
+    "chittagong_question": "ছবির চরিত্রগো কোন সাম্রাজ্য শুরু করিসিলি?",
+    "original_answer": "পাল",
+    "chittagong_answer": "পাল"
+  },
+  {
+    "image_id": "history_036",
+    "original_question": "যদি বংশতালিকার একজন শাসকের নিচে কোন উত্তরাধিকারী না থাকে, তবে সিংহাসন কার হাতে যেতে পারে?",
+    "chittagong_question": "যদি বংশতালিকার একখান শাসকর নিচে কোন উত্তরাধিকারী না থাকে, তবে সিংহাসন কার হাতে যাইতে পারে?",
+    "original_answer": "ভাই, চাচাতো ভাই অথবা অন্য ঘনিষ্ঠ আত্মীয়",
+    "chittagong_answer": "ভাই, চাচাতো ভাই বা অন্য কোনো ঘনিষ্ট আতেয়ি"
+  },
+  {
+    "image_id": "history_037",
+    "original_question": "যদি ছবির ব্যক্তিটি একজন ধর্মীয় গুরু হন, তবে তিনি কী ধরনের কাজ করতে পারেন?",
+    "chittagong_question": "যদি ছবির মানষগো একজন ধর্মীয় গুরু অইত্তে, তত্তে উয় কোন কাম করের পারে?",
+    "original_answer": "ধর্ম প্রচার ও শিক্ষা প্রদান",
+    "chittagong_answer": "ধর্ম প্রচার আর শিক্ষা দেওন"
+  },
+  {
+    "image_id": "history_038",
+    "original_question": "মানচিত্রে প্রদর্শিত বিক্রমপুর যদি প্রাচীন বাংলার সাংস্কৃতিক কেন্দ্র হয়, তবে সেখানে কী থাকার সম্ভাবনা বেশি?",
+    "chittagong_question": "মানছবিরত দেখা গেলে বিক্রমপুর যদি পুরানা বাংলার সংস্কৃতি কেন্দ্র অয়, তত্তে ওখানো কী থায়ার সম্ভাবনা বেশি?",
+    "original_answer": "মঠ, মন্দির ও শিক্ষা প্রতিষ্ঠান",
+    "chittagong_answer": "মঠ, মন্দির আর শিক্ষা প্রতিষ্ঠান"
+  },
+  {
+    "image_id": "history_039",
+    "original_question": "এই রাজা কী কারণে বিখ্যাত ছিলেন?",
+    "chittagong_question": "এই রাজা কী কারণে বিখ্যাত আছিল?",
+    "original_answer": "বিজয়ী শাসক",
+    "chittagong_answer": "বিজয়ী শাসক"
+  },
+  {
+    "image_id": "history_040",
+    "original_question": "বঙ্গের স্বাধীন রাজা কারা ছিলেন?",
+    "chittagong_question": "বঙ্গের স্বাধীন রাজা কারা আছিল?",
+    "original_answer": "গোপান্দ্র, ধর্মাদিত্য, সমাচারদেব",
+    "chittagong_answer": "গোপান্দ্র, ধর্মাদিত্য, সমাচারদেব"
+  },
+  {
+    "image_id": "history_041",
+    "original_question": "এই ছবির বড় মাছ ও ছোট মাছের ছবি কি বুঝায়?",
+    "chittagong_question": "এই ছবিত বড় মাছ আর ছোট মাছর ছবি কী বুঝায়?",
+    "original_answer": "শক্তিশালী দুর্বলকে দমন করে",
+    "chittagong_answer": "শক্তিশালী দুর্বলরে দমন করের"
+  },
+  {
+    "image_id": "history_042",
+    "original_question": "এই ছবির রাজা দেশকে অশান্তি থেকে কীভাবে উদ্ধার করেছিলেন?",
+    "chittagong_question": "এই ছবিত রাজা দেশক অশান্তি থিক্কি কেমনে উদ্ধার করিছিল?",
+    "original_answer": "শান্তি এনে",
+    "chittagong_answer": "শান্তি আনি"
+  },
+  {
+    "image_id": "history_043",
+    "original_question": "এই মূর্তির রাজা কী কারণে পরিচিত?",
+    "chittagong_question": "এই মূর্তির রাজা কী কারণে পরিচিত?",
+    "original_answer": "ক্ষমতাশালী শাসক",
+    "chittagong_answer": "ক্ষমতাশালী শাসক"
+  },
+  {
+    "image_id": "history_044",
+    "original_question": "ছবির মানচিত্রে ভার্মণ রাজবংশের প্রতিষ্ঠাতা কে?",
+    "chittagong_question": "ছবির মানচিত্রত ভার্মণ রাজবংশর প্রতিষ্ঠাতা কে?",
+    "original_answer": "পুষ্যবর্মণ",
+    "chittagong_answer": "পুষ্যবর্মণ"
+  },
+  {
+    "image_id": "history_045",
+    "original_question": "বল্লভ সেনের পর কে দায়িত্ব গ্রহণ করেছিলেন?",
+    "chittagong_question": "বল্লভ সেনর পর কে দায়িত্ব লইছিল?",
+    "original_answer": "লক্ষ্মণ সেন",
+    "chittagong_answer": "লখণ সেন"
+  },
+  {
+    "image_id": "history_046",
+    "original_question": "এই ছবির রাজা কোন রাজবংশের শেষ শাসক ছিলেন?",
+    "chittagong_question": "এই ছবিতর রাজা কোন রাজবংশর শেষ শাসক আছিল?",
+    "original_answer": "সেন রাজবংশ",
+    "chittagong_answer": "সেন রাজবংশ"
+  },
+  {
+    "image_id": "history_047",
+    "original_question": "ছবিতে দেখা যাচ্ছে ভগ্নপ্রায় মসজিদের ধ্বংসাবশেষ। এটি কোন যুগের নিদর্শন?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে ভগ্নপ্রায় মসজিদর ধ্বংসাবশেষ। এগোর কোন যুগর নিদর্শুন?",
+    "original_answer": "বঙ্গ সুলতানি যুগ",
+    "chittagong_answer": "বঙ্গ সুলতানি যুগ"
+  },
+  {
+    "image_id": "history_048",
+    "original_question": "ছবির মুদ্রাটি ধাতব মুদ্রা হিসেবে ব্যবহৃত হত। এগুলো প্রধানত কোন কাজে ব্যবহার করা হত?",
+    "chittagong_question": "ছবির মুদ্ৰাগো ধাতব মুদ্ৰা হিসেবে ব্যবহার অইতো। এগোর প্রধান কামে ব্যবহার অইতো?",
+    "original_answer": "বাণিজ্য ও কর প্রদানে",
+    "chittagong_answer": "বাণিজ্য আর কর প্রদানে"
+  },
+  {
+    "image_id": "history_049",
+    "original_question": "ছবির ফটকটি একসময় গৌড় নগরীর প্রবেশপথ ছিল। এটি কোন ঐতিহাসিক শহরের সাথে সম্পর্কিত?",
+    "chittagong_question": "ছবির ফটকগো এক্কুন গৌড় নগরীর দুয়ার আছিল। এগোর কোন ঐতিহাসিক শহরর লগে সম্পর্ক?",
+    "original_answer": "গৌড়",
+    "chittagong_answer": "গৌড়"
+  },
+  {
+    "image_id": "history_050",
+    "original_question": "ছবির দেয়াল অলঙ্করণ কোন ধরনের স্থাপত্যশৈলীর অংশ?",
+    "chittagong_question": "ছবির দেয়াল অলঙ্করণ কোন ধরনের স্থাপত্যশৈলীগো অংশ?",
+    "original_answer": "সুলতানি যুগের ইসলামি স্থাপত্য",
+    "chittagong_answer": "সুলতানি যুগের ইসলামি স্থাপত্য"
+  },
+  {
+    "image_id": "history_051",
+    "original_question": "ছবির পান্ডুলিপিটি সম্ভবত কোন উদ্দেশ্যে তৈরি হয়েছিল?",
+    "chittagong_question": "ছবির পান্ডুলিপিগো সম্ভবত কোন উদ্দেশ্যে তয়ারি অইছিল?",
+    "original_answer": "রাজকীয় ইতিহাস ও প্রশাসনিক নথি সংরক্ষণে",
+    "chittagong_answer": "রাজকীয় ইতিহাস আর প্রশাসনিক নথি সংরক্ষণে"
+  },
+  {
+    "image_id": "history_052",
+    "original_question": "আদিনা মসজিদ নির্মাণে কোন উপাদান প্রধানত ব্যবহৃত হয়েছে?",
+    "chittagong_question": "আদিনা মসজিদ বানাইতে কোন জিনিস প্রধানত ব্যবহার অইছে?",
+    "original_answer": "ইট ও পাথর",
+    "chittagong_answer": "ইট আর পাথর"
+  },
+  {
+    "image_id": "history_053",
+    "original_question": "প্রদর্শিত মুদ্রাটি কোন সুলতানের শাসনামলের?",
+    "chittagong_question": "দেখা যাওয়া টাকাগো কোন সুলতানির আমলের?",
+    "original_answer": "দিল্লি সুলতান",
+    "chittagong_answer": "দিল্লি সুলতান"
+  },
+  {
+    "image_id": "history_054",
+    "original_question": "এমন অলঙ্কৃত তলোয়ার মূলত কোন কাজে ব্যবহার হতো?",
+    "chittagong_question": "এমুন সাজানো তলোয়ার মূলত কোন কামে বাইর অইতো?",
+    "original_answer": "রাজকীয় আনুষ্ঠানিকতা ও যুদ্ধ",
+    "chittagong_answer": "রাজকীয় আনুষ্ঠানিকতা আর যুদ্ধ"
+  },
+  {
+    "image_id": "history_055",
+    "original_question": "ছবিতে দেখা নৌযুদ্ধটি মূলত কোন কারণে সংঘটিত হয়েছিল?",
+    "chittagong_question": "ছবিত দেখা নোর যুদ্ধগো মূলত কোন কারণর লাগি অইছিল?",
+    "original_answer": "উপকূলীয় অঞ্চল রক্ষা ও বাণিজ্যপথ নিয়ন্ত্রণ",
+    "chittagong_answer": "উপকুলীয় এলাকাত রক্ষা আর বাণিজ্যপথ নিয়ন্ত্রণ"
+  },
+  {
+    "image_id": "history_056",
+    "original_question": "এমন দরবারি কবিতা আসর মূলত কোন উদ্দেশ্যে অনুষ্ঠিত হতো?",
+    "chittagong_question": "এমুন দরবারি কবিতা আসর মূলত কোন উদ্দেশ্যে অনুষ্ঠিত হইত?",
+    "original_answer": "সাংস্কৃতিক মর্যাদা ও সাহিত্য বিকাশ",
+    "chittagong_answer": "সাংস্কৃতিক মর্যাদা আর সাহিত্য বিকাশ"
+  },
+  {
+    "image_id": "history_057",
+    "original_question": "তিনি কোন বংশের সন্তান ছিলেন?",
+    "chittagong_question": "ই কোন গুষ্ঠির পোয়া আছিল?",
+    "original_answer": "ইলিয়াস শাহী বংশ",
+    "chittagong_answer": "ইলিয়াস শাহী বংশ"
+  },
+  {
+    "image_id": "history_058",
+    "original_question": "ছবিতে যে সিংহাসন দেখা যাচ্ছে, সেটি কোন শহরের সুলতানের প্রতীক ছিল?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে যে সিংহাসনগো, এগোর কোন শহরর সুলতানির প্রতীক আছিল?",
+    "original_answer": "সোনারগাঁও",
+    "chittagong_answer": "সোনারগাঁও"
+  },
+  {
+    "image_id": "history_059",
+    "original_question": "ছবিতে সুলতান আলাউদ্দিন হোসেন শাহ। তাঁর শাসনকাল বাংলা ইতিহাসে কী নামে পরিচিত?",
+    "chittagong_question": "ছবিত সুলতান আলাউদ্দিন হোসেন শাহ। তাঁর শাসনকাল বাংলা ইতিহাসে কী নামে পরিচিত?",
+    "original_answer": "বাংলার সুবর্ণযুগ",
+    "chittagong_answer": "বাংলার সুবর্ণযুগ"
+  },
+  {
+    "image_id": "history_060",
+    "original_question": "ছবিতে রাজমহলের যুদ্ধের দৃশ্য দেখা যাচ্ছে। এই যুদ্ধের ফলে বাংলা কার অধীনে আসে?",
+    "chittagong_question": "ছবিত রাজমহলর যুদ্ধর দৃশ্য দেখা যাইতেছে। এই যুদ্ধর ফলে বাংলা কার অধীনে আইয়্য়ে?",
+    "original_answer": "মুঘল সাম্রাজ্য",
+    "chittagong_answer": "মুঘল সাম্রাজ্য"
+  },
+  {
+    "image_id": "history_061",
+    "original_question": "ছবিতে শায়েস্তা খাঁ কোন শহরের দাম কমিয়ে দিয়েছিলেন?",
+    "chittagong_question": "ছবিত শায়েস্তা খাঁ কোন শহরর দাম কমাই দিইছিল?",
+    "original_answer": "ঢাকা",
+    "chittagong_answer": "ঢাকা"
+  },
+  {
+    "image_id": "history_062",
+    "original_question": "ছবিতে জাহাঙ্গীর একটি গোলক হাতে ধরে আছেন। এটি তার কোন গুণের প্রতীক?",
+    "chittagong_question": "ছবিত জাহাঙ্গীর এক্কানা গোলক হাতে ধরি আছে। এগোর তার কোন গুণের প্রতীক?",
+    "original_answer": "বিশ্বশাসনের আকাঙ্ক্ষা",
+    "chittagong_answer": "বিশ্বশাসনের আকাঙ্ক্ষা"
+  },
+  {
+    "image_id": "history_063",
+    "original_question": "গিয়াসউদ্দিন আজম শাহ কবি কবীন্দ্র পরমেশ্বরের সাথে কোন ভাষায় কবিতা বিনিময় করেছিলেন?",
+    "chittagong_question": "গিয়াসউদ্দিন আজম শাহ কবি কবীন্দ্র পরমেশ্বরের লগে কোন ভাষায় কবিতা বিনিময় করিরাছিল?",
+    "original_answer": "বাংলা",
+    "chittagong_answer": "বাংলা"
+  },
+  {
+    "image_id": "history_064",
+    "original_question": "শামসুদ্দিন ইলিয়াস শাহ কোন প্রদেশের প্রথম মুসলিম সুলতান ছিলেন?",
+    "chittagong_question": "শামসুদ্দিন ইলিয়াস শাহ কোন প্রদেশের প্রথম মুসলিম সুলতান আছিল?",
+    "original_answer": "বঙ্গ",
+    "chittagong_answer": "বঙ্গ"
+  },
+  {
+    "image_id": "history_065",
+    "original_question": "ইলিয়াস শাহী বংশের সুলতানরা সাধারণত কোন ধাতুর মুদ্রা তৈরি করতেন?",
+    "chittagong_question": "ইলিয়াস শাহী বংশর সুলতানরা সাধারণত কোন ধাতুর টাকা বানাইতেন?",
+    "original_answer": "রূপা",
+    "chittagong_answer": "রুপা"
+  },
+  {
+    "image_id": "history_066",
+    "original_question": "আদিনা মসজিদ কোন সময়ে নির্মিত হয়েছিল?",
+    "chittagong_question": "আদিনা মসজিদ কোন সময়ত বানাইছিল?",
+    "original_answer": "মধ্যযুগীয় ইসলামিক বঙ্গকাল",
+    "chittagong_answer": "মধ্যযুগীয় ইসলামি বঙ্গকাল"
+  },
+  {
+    "image_id": "history_067",
+    "original_question": "গিয়াসউদ্দিন আজম শাহ কবি কবীন্দ্র পরমেশ্বরের সাথে কোন ভাষায় কবিতা বিনিময় করেছিলেন?",
+    "chittagong_question": "গিয়াসউদ্দিন আজম শাহ কবি কবীন্দ্র পরমেশ্বরের লগে কোন ভাষায় কবিতা বিনিময় করিলা?",
+    "original_answer": "বাংলা",
+    "chittagong_answer": "বাংলা"
+  },
+  {
+    "image_id": "history_068",
+    "original_question": "আলাউদ্দিন হুসাইন শাহ কোন বাংলার সময়কালের সুলতান ছিলেন?",
+    "chittagong_question": "আলাউদ্দিন হুসাইন শাহ কোন বাংলার সময়কালর সুলতান আছিল?",
+    "original_answer": "মধ্যযুগীয় বাংলা",
+    "chittagong_answer": "মধ্যযুগীয় বাংলা"
+  },
+  {
+    "image_id": "history_069",
+    "original_question": "এই মসজিদ কোন বংশের সময় নির্মিত হয়েছিল?",
+    "chittagong_question": "এই মসজিদ কোন বংশর সময় বানাইছিল?",
+    "original_answer": "হুসাইন শাহী বংশ",
+    "chittagong_answer": "হুসাইন শাহী বংশ"
+  },
+  {
+    "image_id": "history_070",
+    "original_question": "এই মুদ্রাগুলি প্রমাণ করে বাংলার সঙ্গে কোন অঞ্চলের আগের যোগাযোগ ছিল?",
+    "chittagong_question": "এই মুদ্রাগুলো প্রমাণ করে বাংলার লগে কোন এলাকাত আগর যোগাযোগ আছিল?",
+    "original_answer": "আরব, ফার্সি ও আফগানিস্তান",
+    "chittagong_answer": "আরব, ফারসি আর আফগানিস্তান"
+  },
+  {
+    "image_id": "history_071",
+    "original_question": "ইখতিয়ার আল-দীন বখ্তিয়ার খলজি কোন অঞ্চলে প্রথম ইসলামিক শাসন প্রতিষ্ঠা করেছিলেন?",
+    "chittagong_question": "ইখতিয়ার আল-দীন বখ্তিয়ার খলজি কোন এলাকাত প্রথম ইসলামি শাসন কায়েম করিছিলা?",
+    "original_answer": "গৌড়, পুন্দ্রা ও লখনৌয়াতি",
+    "chittagong_answer": "গৌড়, পুন্দ্রা আর লখনৌয়াতি"
+  },
+  {
+    "image_id": "history_072",
+    "original_question": "বখ্তিয়ার খলজি কোন অঞ্চলের তুর্কি গোত্রের সদস্য ছিলেন?",
+    "chittagong_question": "বখ্তিয়ার খলজি কোন এলাকাতর তুর্কি গুষ্ঠির সদস্য আছিল?",
+    "original_answer": "দক্ষিণ আফগানিস্তানের খলজি গোত্র",
+    "chittagong_answer": "দক্ষিণ আফগানিস্তানের খলজি গোত্র"
+  },
+  {
+    "image_id": "history_073",
+    "original_question": "বখ্তিয়ার খলজি কামরূপে আক্রমণ কেন করেছিলেন?",
+    "chittagong_question": "বখ্তিয়ার খলজি কামরূপে আক্রমণ কেন করিলা?",
+    "original_answer": "কৌশলগতভাবে পূর্ব ভারতের উপনিবেশ বিস্তার এবং সামরিক দখল সম্প্রসারণের জন্য",
+    "chittagong_answer": "কৌশলগতভাবে পূর্ব ভারতের উপনিবেশ বিস্তার আর সামরিক দখল সম্প্রসারণের লাই"
+  },
+  {
+    "image_id": "history_074",
+    "original_question": "ইখতিয়ার খলজি নালন্দা বিশ্ববিদ্যালয় ধ্বংস করার পরে কোন অঞ্চলে আক্রমণ চালান?",
+    "chittagong_question": "ইখতিয়ার খলজি নালন্দা বিশ্ববিদ্যালয় ধ্বংস করার পরে কোন এলাকাত আক্রমণ চালাইসস?",
+    "original_answer": "বিহার এবং পরে বাংলা",
+    "chittagong_answer": "বিহার আর পরে বাংলা"
+  },
+  {
+    "image_id": "history_075",
+    "original_question": "ইখতিয়ার খলজি তিব্বত থেকে ফিরে এত কম সৈন্য নিয়ে কেন ফিরেছিলেন?",
+    "chittagong_question": "ইখতিয়ার খলজি তিব্বত আইত্তে এত কম সৈন্য নিয়া কিয়েন ফিরি গেসিলি?",
+    "original_answer": "আসামে সেনাদের উপর হামলার কারণে",
+    "chittagong_answer": "আসামে সেনার উপর হামলা অইয়ারে"
+  },
+  {
+    "image_id": "history_076",
+    "original_question": "গিয়াসউদ্দিন খলজি কেন স্বাধীনতার ঘোষণা দেন?",
+    "chittagong_question": "গিয়াসউদ্দিন খলজি কেন আজাদির ऐलान দিলা?",
+    "original_answer": "দিল্লির শাসন থেকে মুক্ত হয়ে নিজেকে স্বতন্ত্র শাসক প্রতিষ্ঠা করতে",
+    "chittagong_answer": "দিল্লির শাসন থেইক্কা মুক্ত অইয়্যা নিজেক স্বাধীন শাসক আসান গরি"
+  },
+  {
+    "image_id": "history_077",
+    "original_question": "বাংলা সুলতানাত কেন বিভিন্ন ভাসাল রাজ্য নিয়ন্ত্রণ করত?",
+    "chittagong_question": "বাংলা সুলতানাত কেন বিভিন্ন ভাসাল রাজ্যর উপর নজর রাখতো?",
+    "original_answer": "রাজনৈতিক প্রভাব বাড়ানো, সামরিক সহযোগিতা নিশ্চিত করা এবং বাণিজ্য নেটওয়ার্ক সম্প্রসারণের জন্য",
+    "chittagong_answer": "রাজনৈতিক প্রভাব বাড়ানো, সামরিক সহযোগিতা নিশ্চিত করা আর বাণিজ্য নেটওয়ার্ক সম্প্রসারণের লাগি"
+  },
+  {
+    "image_id": "history_078",
+    "original_question": "বাংলা সুলতানাতের শাসনামলে কোন ভাষা প্রথমবার আদালতে সরকারি মর্যাদা পেয়েছিল?",
+    "chittagong_question": "বাংলা সুলতানাতর শাসনামলত কোন ভাষা প্রথমবার আদালতত সরকারি মর্যদা পাইসিলো?",
+    "original_answer": "বাংলা",
+    "chittagong_answer": "বাংলা"
+  },
+  {
+    "image_id": "history_079",
+    "original_question": "এই প্রাসাদটি কোন নগরে অবস্থিত?",
+    "chittagong_question": "এই প্রাসাদগো কোন শহরত আছে?",
+    "original_answer": "গৌর",
+    "chittagong_answer": "গৌর"
+  },
+  {
+    "image_id": "history_080",
+    "original_question": "পান্দুয়া কোন উদ্দেশ্যে প্রতিষ্ঠিত হয়েছিল?",
+    "chittagong_question": "পান্দুয়া কোন উদ্দেশ্যে গড়িছিল?",
+    "original_answer": "প্রাথমিক রাজধানী",
+    "chittagong_answer": "প্রাথমিক রাজধানী"
+  },
+  {
+    "image_id": "history_081",
+    "original_question": "বাগেরহাট নগরী কোন স্থাপত্যের জন্য বিখ্যাত?",
+    "chittagong_question": "বাগেরহাট শহর কোন স্থাপত্যর লাগি বিখ্যাত?",
+    "original_answer": "মসজিদ",
+    "chittagong_answer": "মাজিদ"
+  },
+  {
+    "image_id": "history_082",
+    "original_question": "সিকন্দর শাহকে কে হত্যা করেছিল?",
+    "chittagong_question": "সিকন্দর শাহরে কে মারসিলো?",
+    "original_answer": "তার ছেলে, গিয়াসউদ্দিন আজম শাহ",
+    "chittagong_answer": "তার পুয়া, গিয়াসউদ্দিন আজম শাহ"
+  },
+  {
+    "image_id": "history_083",
+    "original_question": "ফিরুজ শাহ তুঘলক কোন কাজের জন্য বিখ্যাত ছিলেন?",
+    "chittagong_question": "ফিরুজ শাহ তুঘলক কোন কামর লাগি বিখ্যাত আছিল?",
+    "original_answer": "নালা, হাসপাতাল, কূপ এবং জলাধার নির্মাণ ও সংস্কার",
+    "chittagong_answer": "নালা, হাসপাতাল, কুঁয়া আর জলাধার বানাইন আর ঠিকঠাক করা"
+  },
+  {
+    "image_id": "history_084",
+    "original_question": "মোগল সাম্রাজ্য কোন সুলতানের মাধ্যমে প্রতিষ্ঠিত হয়েছিল?",
+    "chittagong_question": "মোগল সাম্রাজ্য কোন সুলতানির মাধ্যমে গড়া অইছিল?",
+    "original_answer": "বাবর",
+    "chittagong_answer": "বাবর"
+  },
+  {
+    "image_id": "history_085",
+    "original_question": "বাবর কোন যুদ্ধে ইব্রাহিম লোধ্যিকে পরাজিত করেছিলেন?",
+    "chittagong_question": "বাবর কোন যুদ্ধত ইব্রাহিম লোধ্যিকেরে হারাইছিল?",
+    "original_answer": "পানিপত যুদ্ধ",
+    "chittagong_answer": "পানিপত যুদ্ধ"
+  },
+  {
+    "image_id": "history_086",
+    "original_question": "ছবির হুমায়ুন নির্বাসনে কোন দেশে গিয়েছিলেন?",
+    "chittagong_question": "ছবির হুমায়ুন নির্বাসনত কোন দেশত গেস্লন?",
+    "original_answer": "পারস্য",
+    "chittagong_answer": "পারস্য"
+  },
+  {
+    "image_id": "history_087",
+    "original_question": "ছবির শের শাহ সুরি কোন সাম্রাজ্য প্রতিষ্ঠা করেছিলেন?",
+    "chittagong_question": "ছবির শের শাহ সুরি কোন সাম্রাজ্য প্রতিষ্ঠা করিছির?",
+    "original_answer": "সুরি সাম্রাজ্য",
+    "chittagong_answer": "সুরি সাম্পাই"
+  },
+  {
+    "image_id": "history_088",
+    "original_question": "এই ছবির আকবরের মা এর নাম কী?",
+    "chittagong_question": "এই ছবিত আকবরর মা এর নাম কী?",
+    "original_answer": "হামিদা বানু বেগম",
+    "chittagong_answer": "হামিদা বানু বেগম"
+  },
+  {
+    "image_id": "history_089",
+    "original_question": "এই ছবির জাহাঙ্গীরের মা-এর নাম কী?",
+    "chittagong_question": "এই ছবিত জাহাঙ্গীরর মা-র নাম কী?",
+    "original_answer": "মারিয়ম-উন-জামানি",
+    "chittagong_answer": "মারিয়ম-উন-জামানি"
+  },
+  {
+    "image_id": "history_090",
+    "original_question": "এই ছবির শাহজাহানের মা-এর নাম কী?",
+    "chittagong_question": "এই ছবিত শাহজাহানর মা-র নাম কী?",
+    "original_answer": "জগৎ গোসাইনি",
+    "chittagong_answer": "জগৎ গোসাইনি"
+  },
+  {
+    "image_id": "history_091",
+    "original_question": "এই ছবির আওরঙ্গজেব কার পুত্র?",
+    "chittagong_question": "এই ছবিতর আওরঙ্গজেব কার পুত্তুর?",
+    "original_answer": "শাহজাহান",
+    "chittagong_answer": "শাহজাহান"
+  },
+  {
+    "image_id": "history_092",
+    "original_question": "এই ছবির দারা শিকোহ কার পুত্র?",
+    "chittagong_question": "এই ছবিত দারা শিকোহ কার পুত্তুর?",
+    "original_answer": "শাহজাহান",
+    "chittagong_answer": "শাহজাহান"
+  },
+  {
+    "image_id": "history_093",
+    "original_question": "এই ছবির মুহাম্মদ শাহ কোন নামে বেশি পরিচিত ছিলেন?",
+    "chittagong_question": "এই ছবিতর মুহাম্মদ শাহ কোন নামে বেশি পরিচিত আছিল?",
+    "original_answer": "রঙ্গিলা",
+    "chittagong_answer": "রঙ্গিলা"
+  },
+  {
+    "image_id": "history_094",
+    "original_question": "এই ছবির সম্রাট প্রথম বাহাদুর শাহ কার পুত্র ছিলেন?",
+    "chittagong_question": "এই ছবিতর সম্রাট প্রথম বাহাদুর শাহ কার পুত্তুর আছিল?",
+    "original_answer": "আওরঙ্গজেব",
+    "chittagong_answer": "আওরঙ্গজেব"
+  },
+  {
+    "image_id": "history_095",
+    "original_question": "ইসলাম খাঁ কার আমলে বাংলার সুবাদার নিযুক্ত হয়েছিলেন?",
+    "chittagong_question": "ইসলাম খাঁ কোনর আমলে বাংলার সুবাদার নিযুক্ত অইয়েসিল?",
+    "original_answer": "জাহাঙ্গীর",
+    "chittagong_answer": "জাহাঙ্গীর"
+  },
+  {
+    "image_id": "history_096",
+    "original_question": "বারো ভূঁইয়াদের নেতা ঈসা খাঁ কোন অঞ্চলের জমিদার ছিলেন?",
+    "chittagong_question": "বারো ভূঁইয়াগো নেতা ঈসা খাঁ কোন এলাকাতর জমিদার আছিল?",
+    "original_answer": "সোনারগাঁও",
+    "chittagong_answer": "সোনারগাঁও"
+  },
+  {
+    "image_id": "history_097",
+    "original_question": "এই ছবির মুসা খাঁ কার পুত্র ছিলেন?",
+    "chittagong_question": "এই ছবিত মুসা খাঁ কার পুত্তুর আছিল?",
+    "original_answer": "ঈসা খাঁ",
+    "chittagong_answer": "ঈসা খাঁ"
+  },
+  {
+    "image_id": "history_098",
+    "original_question": "এই ছবির ইসলাম খাঁ কোন নগরীকে রাজধানী হিসেবে প্রতিষ্ঠা করেছিলেন?",
+    "chittagong_question": "এই ছবিত ইসলাম খাঁ কোন শহরগো রাজধানী হিসাবে গড়ি তুলসিল?",
+    "original_answer": "ঢাকা",
+    "chittagong_answer": "ঢাকা"
+  },
+  {
+    "image_id": "history_099",
+    "original_question": "এই ছবির শাহ সুজা কার পুত্র ছিলেন?",
+    "chittagong_question": "এই ছবিতর শাহ সুজা কার পুত্তুর আছিল?",
+    "original_answer": "শাহজাহান",
+    "chittagong_answer": "শাহজাহান"
+  },
+  {
+    "image_id": "history_100",
+    "original_question": "এই ছবির মীর জুমলা কোন সম্রাটের আমলে বাংলার সুবাদার নিযুক্ত হন?",
+    "chittagong_question": "এই ছবিত মীর জুমলা কোন সম্রাটের আমলে বাংলার সুবাদার নিযুক্ত অইলা?",
+    "original_answer": "আওরঙ্গজেব",
+    "chittagong_answer": "আওরঙ্গজেব"
+  },
+  {
+    "image_id": "history_101",
+    "original_question": "এই ছবির শায়েস্তা খান কার মামা ছিলেন?",
+    "chittagong_question": "এই ছবিত শায়েস্তা খান কার মামা আছিল?",
+    "original_answer": "আওরঙ্গজেব",
+    "chittagong_answer": "আওরঙ্গজেব"
+  },
+  {
+    "image_id": "history_102",
+    "original_question": "মুর্শিদ কুলি খান বাংলার কোন পদে থেকে সুবাদার হন?",
+    "chittagong_question": "মুর্শিদ কুলি খান বাংলার কোন পদে থেইক্কা সুবাদার অইছিল?",
+    "original_answer": "দেওয়ান",
+    "chittagong_answer": "দেওয়ান"
+  },
+  {
+    "image_id": "history_103",
+    "original_question": "মুঘল সাম্রাজ্যে কার হাতে সর্বময় ক্ষমতা ছিল?",
+    "chittagong_question": "মুঘল সাম্রাজ্যে কার হাতে সব ক্ষমতা আছিল?",
+    "original_answer": "সম্রাটের হাতে",
+    "chittagong_answer": "সম্রাটের হাতে"
+  },
+  {
+    "image_id": "history_104",
+    "original_question": "মুঘল আমলে বাংলা সুবার প্রধান প্রশাসক কে ছিলেন?",
+    "chittagong_question": "মুঘল আমলে বাংলা সুবার প্রধান প্রশাসক কে আছিল?",
+    "original_answer": "সুবাদার",
+    "chittagong_answer": "সুবাদার"
+  },
+  {
+    "image_id": "history_105",
+    "original_question": "আলীবর্দী খাঁন বাংলার নবাব হন কীভাবে?",
+    "chittagong_question": "আলীবর্দী খাঁন বাংলার নওয়াব অইলো কেমনে?",
+    "original_answer": "সামরিক শক্তির মাধ্যমে",
+    "chittagong_answer": "সামরিক শক্তির লগে"
+  },
+  {
+    "image_id": "history_106",
+    "original_question": "ছবির কৃষকেরা কেন প্রতিবাদ করছে?",
+    "chittagong_question": "ছবিতর কৃষকরা কেন প্রতিবাদ করের?",
+    "original_answer": "জোর করে নীল চাষ করানো।",
+    "chittagong_answer": "জোর করি নীল চাষ দেওয়ান।"
+  },
+  {
+    "image_id": "history_107",
+    "original_question": "ছবির মানচিত্রে বিভাজনের উদ্দেশ্য কী ছিল?",
+    "chittagong_question": "ছবিত মানচিত্রর বিভাজনর উদ্দেশ্য কী আছিল?",
+    "original_answer": "হিন্দু-মুসলমানদের আলাদা করা।",
+    "chittagong_answer": "হিন্দু-মুসলমানর আলাদা করা।"
+  },
+  {
+    "image_id": "history_108",
+    "original_question": "রবীন্দ্রনাথ রাখি বন্ধনের মাধ্যমে কী বোঝাতে চেয়েছিলেন?",
+    "chittagong_question": "রবীন্দ্রনাথ রাখি বন্ধনর মাধ্যমে কী বুঝাইতে চাইসিল?",
+    "original_answer": "ভাইচারা ও ঐক্য।",
+    "chittagong_answer": "ভাইচারা আর ঐক্য।"
+  },
+  {
+    "image_id": "history_109",
+    "original_question": "এই যুদ্ধে কারা হেরেছিল?",
+    "chittagong_question": "এই যুদ্ধো কোনহান হারির গেছিল?",
+    "original_answer": "সিরাজউদ্দৌলা",
+    "chittagong_answer": "সিরাজউদ্দৌলা"
+  },
+  {
+    "image_id": "history_110",
+    "original_question": "কৃষকেরা কিসের বিরুদ্ধে ছিল?",
+    "chittagong_question": "কৃষকগো কিসের বিরুদ্দে আছিল?",
+    "original_answer": "নীল চাষ",
+    "chittagong_answer": "নীল চাষ"
+  },
+  {
+    "image_id": "history_111",
+    "original_question": "আন্দোলনের মূল দাবি কী ছিল?",
+    "chittagong_question": "আন্দোলনর মূল দাবি কী ছিল?",
+    "original_answer": "স্বাধীনতা",
+    "chittagong_answer": "আজাদী"
+  },
+  {
+    "image_id": "history_112",
+    "original_question": "দাঙ্গাটি কোন শহরে হয়েছিল?",
+    "chittagong_question": "দাঙ্গাটা কোন শহরত অইছিল?",
+    "original_answer": "কলকাতা",
+    "chittagong_answer": "কলকাতা"
+  },
+  {
+    "image_id": "history_113",
+    "original_question": "কৃষকেরা কী চাইছিল?",
+    "chittagong_question": "কৃষকগো কী চাইছিল?",
+    "original_answer": "তিন ভাগে দুই ভাগ",
+    "chittagong_answer": "তিন ভাগর দুই ভাগ"
+  },
+  {
+    "image_id": "history_114",
+    "original_question": "মানুষ কীসের জন্য কষ্ট পাচ্ছিল?",
+    "chittagong_question": "মানুষ কিসের লাগি কষ্ট পাইতেছিল?",
+    "original_answer": "খাদ্য",
+    "chittagong_answer": "খাবার"
+  },
+  {
+    "image_id": "history_115",
+    "original_question": "এই যুদ্ধে ব্রিটিশরা কাদের হারিয়েছিল?",
+    "chittagong_question": "এই যুদ্ধোত ব্রিটিশরা কাইন হারাইসিল?",
+    "original_answer": "মীর কাশিম",
+    "chittagong_answer": "মীর কাশিম"
+  },
+  {
+    "image_id": "history_116",
+    "original_question": "তিনি কোন পদে ছিলেন?",
+    "chittagong_question": "ইঁ কোন পদে আছিল?",
+    "original_answer": "গভর্নর জেনারেল",
+    "chittagong_answer": "গভর্নর জেনারেল"
+  },
+  {
+    "image_id": "history_117",
+    "original_question": "কলেজটি কোথায় ছিল?",
+    "chittagong_question": "কলেজগো কুথায় আছিল?",
+    "original_answer": "কলকাতা",
+    "chittagong_answer": "কলকাতা"
+  },
+  {
+    "image_id": "history_118",
+    "original_question": "তিনি কোন সমাজ গড়েন?",
+    "chittagong_question": "ও কোন সমাজ গড়ি?",
+    "original_answer": "ব্রাহ্ম সমাজ",
+    "chittagong_answer": "ব্রাহ্ম সমাজ"
+  },
+  {
+    "image_id": "history_119",
+    "original_question": "আইনটি কে সমর্থন করেছিলেন?",
+    "chittagong_question": "আইনগো কে সমর্থন করিসিলো?",
+    "original_answer": "বিদ্যাসাগর",
+    "chittagong_answer": "বিদ্যাসাগর"
+  },
+  {
+    "image_id": "history_120",
+    "original_question": "অভিযানের নেতা কে ছিলেন?",
+    "chittagong_question": "অভিযানর নেতা কে আছিল?",
+    "original_answer": "সুর্য সেন",
+    "chittagong_answer": "সুর্য সেন"
+  },
+  {
+    "image_id": "history_121",
+    "original_question": "এই আইনটি কাদের জন্য ছিল?",
+    "chittagong_question": "এই আইনগো কাগো লাই ছিল?",
+    "original_answer": "জমিদার",
+    "chittagong_answer": "জমিদার"
+  },
+  {
+    "image_id": "history_122",
+    "original_question": "সতীদাহ প্রথা কে বন্ধ করেছিলেন?",
+    "chittagong_question": "সতীদাহ প্রথা কে বন্ধ করিছির?",
+    "original_answer": "বেন্টিঙ্ক",
+    "chittagong_answer": "বেন্টিঙ্ক"
+  },
+  {
+    "image_id": "history_123",
+    "original_question": "তিনি কোন আন্দোলনের নেতা?",
+    "chittagong_question": "ই কোন আন্দোলনর নেতা?",
+    "original_answer": "আলিগড় আন্দোলন",
+    "chittagong_answer": "আলিগড় আন্দোলন"
+  },
+  {
+    "image_id": "history_124",
+    "original_question": "তিনি কোন প্রস্তাব উপস্থাপন করেছিলেন?",
+    "chittagong_question": "ইনে কোন প্রস্তাব তুলি দিলা?",
+    "original_answer": "লাহোর প্রস্তাব",
+    "chittagong_answer": "লাহোর প্রস্তাব"
+  },
+  {
+    "image_id": "history_125",
+    "original_question": "তিনি কোন বয়সে শহীদ হয়েছিলেন?",
+    "chittagong_question": "ইঁ কত বছরর বয়সত শহীদ অইছিলো?",
+    "original_answer": "১৮ বছর",
+    "chittagong_answer": "আঠারো বছর"
+  },
+  {
+    "image_id": "history_126",
+    "original_question": "ছবির আলীবর্দী খাঁ কাদের বিরুদ্ধে লড়াই করেছিলেন?",
+    "chittagong_question": "ছবির আলীবর্দী খাঁ কাইনর বিরবিরে লড়াই করিসি?",
+    "original_answer": "বর্গি",
+    "chittagong_answer": "বর্গি"
+  },
+  {
+    "image_id": "history_127",
+    "original_question": "সিরাজউদ্দৌলা কার উত্তরসূরি ছিলেন?",
+    "chittagong_question": "সিরাজউদ্দৌলা কার উত্তরসূরি আছিল?",
+    "original_answer": "আলীবর্দী খাঁ",
+    "chittagong_answer": "আলীবর্দী খাঁ"
+  },
+  {
+    "image_id": "history_128",
+    "original_question": "রবার্ট ক্লাইভ কোন প্রতিষ্ঠানের কমান্ডার ছিলেন?",
+    "chittagong_question": "রবার্ট ক্লাইভ কোন প্রতিষ্ঠানর কমান্ডার আছিল?",
+    "original_answer": "ইস্ট ইন্ডিয়া কোম্পানি",
+    "chittagong_answer": "ইস্ট ইন্ডিয়া কোম্পানি"
+  },
+  {
+    "image_id": "history_129",
+    "original_question": "মীরজাফর কোন নবাবের জন্য সেনাপতি ছিলেন?",
+    "chittagong_question": "মীরজাফর কোন নবাবর লাগি সেনাপতি আছিল?",
+    "original_answer": "সিরাজউদ্দৌলা",
+    "chittagong_answer": "সিরাজউদ্দৌলা"
+  },
+  {
+    "image_id": "history_130",
+    "original_question": "মীর মদন কোন নবাবের সৈন্য ছিলেন?",
+    "chittagong_question": "মীর মদন কোন নবাবর সৈন্য আছিল?",
+    "original_answer": "সিরাজউদ্দৌলা",
+    "chittagong_answer": "সিরাজউদ্দৌলা"
+  },
+  {
+    "image_id": "history_131",
+    "original_question": "মীরজাফর কী উপহার দিয়েছিলেন ব্রিটিশদের?",
+    "chittagong_question": "মীরজাফর কী উপহার দিলা ব্রিটিশগো?",
+    "original_answer": "ধন/রাজস্ব",
+    "chittagong_answer": "ধন/রাজস্ব"
+  },
+  {
+    "image_id": "history_132",
+    "original_question": "বক্সারের যুদ্ধে কোন শক্তি জিতেছিল?",
+    "chittagong_question": "বক্সারর যুদ্ধত কোন শক্তি জিতসিলো?",
+    "original_answer": "ব্রিটিশ",
+    "chittagong_answer": "ব্রিটিশ"
+  },
+  {
+    "image_id": "history_133",
+    "original_question": "আলাহাবাদের চুক্তি কবে হয়েছিল?",
+    "chittagong_question": "আলাহাবাদের চুক্তি কবে অইছিল?",
+    "original_answer": "১৭৬৫",
+    "chittagong_answer": "১৭৬৫"
+  },
+  {
+    "image_id": "history_134",
+    "original_question": "বেঙ্গলের প্রশাসন কে কার্যত নিয়ন্ত্রণ করেছিল?",
+    "chittagong_question": "বেঙ্গলের প্রশাসন কে কার্যত নিয়ন্ত্রণ করিছিল?",
+    "original_answer": "ইস্ট ইন্ডিয়া কোম্পানি",
+    "chittagong_answer": "ইস্ট ইন্ডিয়া কোম্পানি"
+  },
+  {
+    "image_id": "history_135",
+    "original_question": "এই সময় বেঙ্গলকে কে শাসন করছিল?",
+    "chittagong_question": "এই সময় বেঙ্গলকে কে শাসন করছিলো?",
+    "original_answer": "ইস্ট ইন্ডিয়া কোম্পানি",
+    "chittagong_answer": "ইস্ট ইন্ডিয়া কোম্পানি"
+  },
+  {
+    "image_id": "history_136",
+    "original_question": "স্থায়ী নিকাশীর প্রধান উদ্দেশ্য কী ছিল?",
+    "chittagong_question": "স্থায়ী নিকাশীর প্রধান উদ্দেশ্য কী আছিল?",
+    "original_answer": "জমির কর স্থির করা",
+    "chittagong_answer": "জমির কর ফিক্স করা"
+  },
+  {
+    "image_id": "history_137",
+    "original_question": "জমিদারের ভূমি অধিকার কতকাল ধরে থাকে?",
+    "chittagong_question": "জমিদারর ভূমি অধিকার কতকাল ধরে থাকে?",
+    "original_answer": "কর দেওয়া পর্যন্ত",
+    "chittagong_answer": "কর দেওন ফুরন পর্যন্ত"
+  },
+  {
+    "image_id": "history_138",
+    "original_question": "কর্নওয়ালিস কোন প্রতিষ্ঠান বাতিল করেছিলেন?",
+    "chittagong_question": "কর্নওয়ালিস কোন প্রতিষ্ঠান বাতিল করিদ্দে?",
+    "original_answer": "নিযামত",
+    "chittagong_answer": "নিযামত"
+  },
+  {
+    "image_id": "history_139",
+    "original_question": "এই নিয়মগুলি কোন প্রক্রিয়ার কাঠামো ব্যাখ্যা করেছিল?",
+    "chittagong_question": "এই নিয়মগো কোন প্রক্রিয়ার কাঠামো ব্যাখ্যা করিসি?",
+    "original_answer": "প্রশাসনিক প্রতিষ্ঠান ও নিয়ম",
+    "chittagong_answer": "প্রশাসনিক প্রতিষ্ঠান আর নিয়ম"
+  },
+  {
+    "image_id": "history_140",
+    "original_question": "কর্নওয়ালিস বিচার ব্যবস্থায় কারা সমান ছিলেন?",
+    "chittagong_question": "কর্নওয়ালিস বিচার ব্যবস্থাঅত কারা সমান আছিল?",
+    "original_answer": "শাসক ও জনগণ",
+    "chittagong_answer": "শাসক আর জনগণ"
+  },
+  {
+    "image_id": "history_141",
+    "original_question": "ছবিতে প্রদর্শিত বিদ্রোহের নেতৃত্ব কে করেছিলেন?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে বিদ্রোহর নেতৃত্ব কে করেছিল?",
+    "original_answer": "পণ্ডিত ভবানি চরণ পাঠক",
+    "chittagong_answer": "পণ্ডিত ভবানি চরণ পাঠক"
+  },
+  {
+    "image_id": "history_142",
+    "original_question": "ছবিতে প্রদর্শিত সন্ন্যাসী ও ফকিরদের সমস্যার প্রধান কারণ কী?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে সন্ন্যাসী আর ফকিরর সমস্যাত প্রধান কারণ কী?",
+    "original_answer": "জমিদারদের উপর ব্রিটিশ কর",
+    "chittagong_answer": "জমিদারর উপর ব্রিটিশ কর"
+  },
+  {
+    "image_id": "history_143",
+    "original_question": "ছবিতে প্রদর্শিত সাঁওতাল বিদ্রোহের নেতৃত্ব কে করেছিলেন?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে সাঁওতাল বিদ্রোহর নেতৃত্ব কে করিছিল?",
+    "original_answer": "সিধু ও কনহু মুরমু",
+    "chittagong_answer": "সিধু আর কনহু মুরমু"
+  },
+  {
+    "image_id": "history_144",
+    "original_question": "ছবিতে প্রদর্শিত আন্দোলনের প্রধান কারণ কী ছিল?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে আন্দোলনর প্রধান কারণ কী ছিল?",
+    "original_answer": "কৃষকের শোষণ ও অবিচার",
+    "chittagong_answer": "কৃষকের শোষন আর অবিচার"
+  },
+  {
+    "image_id": "history_145",
+    "original_question": "ছবিতে প্রদর্শিত তিতু মির কোন আন্দোলনের সঙ্গে যুক্ত ছিলেন?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে তিতু মির কোন আন্দোলনর লগে যুক্ত আছিল?",
+    "original_answer": "ওহাবি আন্দোলন",
+    "chittagong_answer": "ওহাবি আন্দোলন"
+  },
+  {
+    "image_id": "history_146",
+    "original_question": "ছবিতে প্রদর্শিত তিতু মিরের বিদ্রোহে কারা তার সাথে যোগ দিয়েছিলেন?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে তিতু মীরর বিদ্রোহত কারা তার লগে যোগ দিলা?",
+    "original_answer": "দরিদ্র জনগণ এবং সাধারণ মানুষ",
+    "chittagong_answer": "গরিব জনতা আর সাধারণ মানুষ"
+  },
+  {
+    "image_id": "history_147",
+    "original_question": "ছবিতে প্রদর্শিত ফারাইজি আন্দোলনের নেতা কে ছিলেন?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে ফরাইজি আন্দোলনর নেতা কে আছিল?",
+    "original_answer": "হাজী শরিয়তুল্লাহ",
+    "chittagong_answer": "হাজী শরিয়তুল্লাহ"
+  },
+  {
+    "image_id": "history_148",
+    "original_question": "ছবিতে প্রদর্শিত ১৮৫৭ সালের বিদ্রোহের প্রধান সমস্যা কী ছিল?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে ১৮৫৭ সালর বিদ্রোহর প্রধান সমস্যা কী আছিল?",
+    "original_answer": "একক নেতা এবং সুসংগঠিত পরিকল্পনার অভাব",
+    "chittagong_answer": "এক্কো নেতা আর ঠিকঠাক প্ল্যানিং-এর অভাব"
+  },
+  {
+    "image_id": "history_149",
+    "original_question": "ছবিতে প্রদর্শিত বঙ্গীয় পুনর্জাগরণের প্রধান নেতা কে ছিলেন?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে বঙ্গীয় জাগরণর প্রধান নেতা কে আছিল?",
+    "original_answer": "রাজা রামমোহন রায়",
+    "chittagong_answer": "রাজা রামমোহন রায়"
+  },
+  {
+    "image_id": "history_150",
+    "original_question": "ছবিতে প্রদর্শিত রাজা রামমোহন রায় কোন আন্দোলনের নেতৃত্ব দিয়েছিলেন?",
+    "chittagong_question": "ছবিত দেখা যাইতেছে রাজা রামমোহন রায় কোন আন্দোলনর নেতৃত্ব দিলা?",
+    "original_answer": "বঙ্গীয় পুনর্জাগরণ",
+    "chittagong_answer": "বাঙালির নবজাগরণ"
+  }
+]

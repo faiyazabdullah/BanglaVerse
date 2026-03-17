@@ -1,0 +1,816 @@
+[
+  {
+    "image_id": "achievement_001",
+    "question": "In this picture, which international sports victory is Bangladesh celebrating?",
+    "options": [
+      "Cricket World Cup Victory",
+      "SAFF Women's Championship",
+      "Commonwealth Games victory",
+      "Hockey Asia Cup"
+    ],
+    "answer": "SAFF Women's Championship"
+  },
+  {
+    "image_id": "achievement_002",
+    "question": "What is this person's nationality?",
+    "options": [
+      "Bangladeshi",
+      "Russian",
+      "Norwegian",
+      "Indian"
+    ],
+    "answer": "Bangladeshi"
+  },
+  {
+    "image_id": "achievement_003",
+    "question": "Which country is this team from?",
+    "options": [
+      "Bangladesh",
+      "China",
+      "India",
+      "Pakistan"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "image_id": "achievement_004",
+    "question": "Which Nobel Prize did he receive?",
+    "options": [
+      "Nobel Prize in Physics",
+      "Nobel Peace Prize",
+      "Nobel Prize in Chemistry",
+      "Nobel Prize in Literature"
+    ],
+    "answer": "Nobel Peace Prize"
+  },
+  {
+    "image_id": "achievement_005",
+    "question": "What position did the Bangladesh team achieve in this picture/match?",
+    "options": [
+      "1st Place",
+      "2nd place",
+      "3rd place",
+      "No place"
+    ],
+    "answer": "1st place"
+  },
+  {
+    "image_id": "achievement_006",
+    "question": "Which title did the team win in this picture?",
+    "options": [
+      "Asian Games Cricket",
+      "T20 World Cup",
+      "ODI series",
+      "Asia Cup Football"
+    ],
+    "answer": "Asian Games Cricket"
+  },
+  {
+    "image_id": "achievement_007",
+    "question": "What kind of medal did the girl win in this picture?",
+    "options": [
+      "Bronze medal",
+      "Silver medal",
+      "Gold medal",
+      "No medal"
+    ],
+    "answer": "Gold Medal"
+  },
+  {
+    "image_id": "achievement_008",
+    "question": "On which river is the bridge inaugurated in this picture?",
+    "options": [
+      "Yamuna River",
+      "Meghna River",
+      "Padma River",
+      "The Karatoya River"
+    ],
+    "answer": "Padma River"
+  },
+  {
+    "image_id": "achievement_009",
+    "question": "What year is depicted in this image of victory?",
+    "options": [
+      "1996",
+      "1997",
+      "1999",
+      "2000"
+    ],
+    "answer": "1997"
+  },
+  {
+    "image_id": "achievement_010",
+    "question": "In what year was the satellite launched in this picture?",
+    "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "answer": "2018"
+  },
+  {
+    "image_id": "achievement_011",
+    "question": "Which organization's peacekeeping force is seen in this picture?",
+    "options": [
+      "NATO",
+      "ASEAN",
+      "United Nations",
+      "European Union"
+    ],
+    "answer": "United Nations"
+  },
+  {
+    "image_id": "achievement_012",
+    "question": "For what kind of development is the award in this picture?",
+    "options": [
+      "Agricultural Development",
+      "Digital Development",
+      "Economic development",
+      "Environmental Development"
+    ],
+    "answer": "Digital Development"
+  },
+  {
+    "image_id": "achievement_013",
+    "question": "In what field does the art shown in this picture primarily contribute?",
+    "options": [
+      "Economy",
+      "Sports",
+      "Politics",
+      "Tourism"
+    ],
+    "answer": "Economy"
+  },
+  {
+    "image_id": "achievement_014",
+    "question": "What kind of naval power is being displayed in this picture?",
+    "options": [
+      "Airplane",
+      "Submarine",
+      "Tank",
+      "Missile"
+    ],
+    "answer": "Submarine"
+  },
+  {
+    "image_id": "achievement_015",
+    "question": "What is the establishment shown in this picture?",
+    "options": [
+      "Powerhouse",
+      "Satellite hub",
+      "Factory",
+      "Educational institution"
+    ],
+    "answer": "Satellite hub"
+  },
+  {
+    "image_id": "achievement_016",
+    "question": "What is the vehicle flying in this picture?",
+    "options": [
+      "Fighter jet",
+      "Helicopter",
+      "Rocket",
+      "Drone"
+    ],
+    "answer": "Fighter jet"
+  },
+  {
+    "image_id": "achievement_017",
+    "question": "In this picture, what competition have the students participated in?",
+    "options": [
+      "Robotics Olympiad",
+      "Science Fair",
+      "Math Olympiad",
+      "Sports competition"
+    ],
+    "answer": "Math Olympiad"
+  },
+  {
+    "image_id": "achievement_018",
+    "question": "In which organization's peacekeeping mission did the Bangladeshi soldiers participate in this picture?",
+    "options": [
+      "Play",
+      "United Nations",
+      "European Union",
+      "Circus"
+    ],
+    "answer": "United Nations"
+  },
+  {
+    "image_id": "achievement_019",
+    "question": "In which year did the film shown in this picture win an award at the Cannes Film Festival?",
+    "options": [
+      "2000",
+      "2001",
+      "2002",
+      "2003"
+    ],
+    "answer": "2002"
+  },
+  {
+    "image_id": "achievement_020",
+    "question": "Which organization's World Heritage List features the place shown in this picture?",
+    "options": [
+      "UNESCO",
+      "United Nations",
+      "UNICEF",
+      "Circus"
+    ],
+    "answer": "UNESCO"
+  },
+  {
+    "image_id": "achievement_021",
+    "question": "In what year did the athlete in this picture win a gold medal at the South Asian Games?",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "answer": "2016"
+  },
+  {
+    "image_id": "achievement_022",
+    "question": "What national achievement does the spread of electric light in this picture symbolize?",
+    "options": [
+      "100% Electrification",
+      "Digital Bangladesh",
+      "Padma Bridge Inauguration",
+      "Rooppur Nuclear Power Plant"
+    ],
+    "answer": "100% electrification"
+  },
+  {
+    "image_id": "achievement_023",
+    "question": "In which year was the metro rail shown in this picture inaugurated?",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answer": "2022"
+  },
+  {
+    "image_id": "achievement_024",
+    "question": "In which district is the Rooppur Nuclear Power Plant shown in this picture located?",
+    "options": [
+      "Dhaka",
+      "Pabna",
+      "Chittagong",
+      "Khulna"
+    ],
+    "answer": "Pabna"
+  },
+  {
+    "image_id": "achievement_025",
+    "question": "In what year was the Bangabandhu Tunnel, shown in this picture, inaugurated?",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answer": "2023"
+  },
+  {
+    "image_id": "achievement_026",
+    "question": "What is the name of the seaport shown in this picture?",
+    "options": [
+      "Chittagong Port",
+      "Pigeon Port",
+      "Mongla Port",
+      "Kolkata Port"
+    ],
+    "answer": "Mongla Port"
+  },
+  {
+    "image_id": "achievement_027",
+    "question": "In which year was the rail link over the Padma Bridge experimentally launched in this picture?",
+    "options": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "answer": "2023"
+  },
+  {
+    "image_id": "achievement_028",
+    "question": "Which country's national data center is shown in this picture, and what is its rank as the largest in the world?",
+    "options": [
+      "India, 5th",
+      "Bangladesh, 7th",
+      "China, 3rd",
+      "United States, 1st"
+    ],
+    "answer": "Bangladesh, 7th"
+  },
+  {
+    "image_id": "achievement_029",
+    "question": "In which district is the solar power plant shown in this picture located?",
+    "options": [
+      "Dhaka",
+      "Mymensingh",
+      "Rajshahi",
+      "Khulna"
+    ],
+    "answer": "Mymensingh"
+  },
+  {
+    "image_id": "achievement_030",
+    "question": "In which year was the Dhaka Elevated Expressway shown in this picture inaugurated?",
+    "options": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "answer": "2023"
+  },
+  {
+    "image_id": "achievement_031",
+    "question": "In which sector was the institution shown in this picture recognized as the world's best NGO in 2019?",
+    "options": [
+      "Education and Development",
+      "Agriculture",
+      "Sports",
+      "Tourism"
+    ],
+    "answer": "Education and Development"
+  },
+  {
+    "image_id": "achievement_032",
+    "question": "In this picture, which international competition did the students participate in?",
+    "options": [
+      "Mathematics Olympiad",
+      "Science Olympiad",
+      "Chemistry Olympiad",
+      "Robotics Olympiad"
+    ],
+    "answer": "Science Olympiad"
+  },
+  {
+    "image_id": "achievement_033",
+    "question": "In which year did the scientist shown in this picture receive the Nobel Prize?",
+    "options": [
+      "1977",
+      "1978",
+      "1979",
+      "1980"
+    ],
+    "answer": "1979"
+  },
+  {
+    "image_id": "achievement_034",
+    "question": "Under which international organization do the female peacekeepers shown in this picture work?",
+    "options": [
+      "Nato",
+      "United Nations",
+      "European Union",
+      "Circus"
+    ],
+    "answer": "United Nations"
+  },
+  {
+    "image_id": "achievement_035",
+    "question": "In what year did Pathao, shown in this picture, start its international expansion?",
+    "options": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "answer": "2018"
+  },
+  {
+    "image_id": "achievement_036",
+    "question": "In what year was the 5G network first launched in this picture?",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answer": "2021"
+  },
+  {
+    "image_id": "achievement_037",
+    "question": "In what year was Rehana Maryam Noor selected for the Cannes Film Festival in this film?",
+    "options": [
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "answer": "2021"
+  },
+  {
+    "image_id": "achievement_038",
+    "question": "What award has the architect shown in this picture received?",
+    "options": [
+      "Nobel",
+      "Aga Khan Award",
+      "Oscar",
+      "Booker"
+    ],
+    "answer": "Aga Khan Award"
+  },
+  {
+    "image_id": "achievement_039",
+    "question": "Which organization's explorer was Wasfia Nazreen, shown in this picture, selected as?",
+    "options": [
+      "United Nations",
+      "National Geographic",
+      "Google",
+      "World Health Organization"
+    ],
+    "answer": "National Geographic"
+  },
+  {
+    "image_id": "achievement_040",
+    "question": "Which international award is the person shown in this picture receiving?",
+    "options": [
+      "Nobel Prize",
+      "Entrepreneur for the World",
+      "Aga Khan Award",
+      "Ramon Magsaysay Award"
+    ],
+    "answer": "Entrepreneur for the World"
+  },
+  {
+    "image_id": "achievement_041",
+    "question": "In which year did the scientist shown in this picture receive the Ramon Magsaysay Award?",
+    "options": [
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "answer": "2021"
+  },
+  {
+    "image_id": "achievement_042",
+    "question": "What international award has the person shown in this picture received?",
+    "options": [
+      "Nobel Prize",
+      "Wise Award",
+      "Ramon Magsaysay Award",
+      "Entrepreneur for the World"
+    ],
+    "answer": "Wise Award"
+  },
+  {
+    "image_id": "achievement_043",
+    "question": "For what honor has the person depicted in this picture been awarded?",
+    "options": [
+      "Knighthood",
+      "Nobel Prize",
+      "Wise Award",
+      "Ramon Magsaysay"
+    ],
+    "answer": "Knighthood"
+  },
+  {
+    "image_id": "achievement_044",
+    "question": "Which international award is the family shown in this picture receiving?",
+    "options": [
+      "Nobel Prize",
+      "WISE Prize",
+      "Idan Prize",
+      "Ramon Magsaysay"
+    ],
+    "answer": "Idan Prize"
+  },
+  {
+    "image_id": "achievement_045",
+    "question": "Which international award has the person shown in this picture received?",
+    "options": [
+      "Nobel Prize",
+      "World Food Prize",
+      "WISE Prize",
+      "Idan Prize"
+    ],
+    "answer": "World Food Prize"
+  },
+  {
+    "image_id": "achievement_046",
+    "question": "What international gold medal has the person shown in this picture received?",
+    "options": [
+      "Nobel Prize",
+      "Leo Tolstoy Gold Medal",
+      "World Food Prize",
+      "WISE Prize"
+    ],
+    "answer": "Leo Tolstoy Gold Medal"
+  },
+  {
+    "image_id": "achievement_047",
+    "question": "Which international award did the person shown in this picture receive in 2025?",
+    "options": [
+      "Nobel Prize",
+      "King Charles Harmony Award",
+      "Ramon Magsaysay Award",
+      "World Food Prize"
+    ],
+    "answer": "King Charles Harmony Award"
+  },
+  {
+    "image_id": "achievement_048",
+    "question": "What international honor has the person depicted in this picture received?",
+    "options": [
+      "Olympic Laurel",
+      "Nobel Prize",
+      "Ramon Magsaysay",
+      "World Food Prize"
+    ],
+    "answer": "Olympic Laurel"
+  },
+  {
+    "image_id": "achievement_049",
+    "question": "In which year did the team shown in this picture win the Under-19 World Cup?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "answer": "2020"
+  },
+  {
+    "image_id": "achievement_050",
+    "question": "In which format did cricketer Shakib Al Hasan, shown in this picture, become the number one all-rounder?",
+    "options": [
+      "Test",
+      "ODI",
+      "T20",
+      "In all formats"
+    ],
+    "answer": "In all formats"
+  },
+  {
+    "image_id": "achievement_051",
+    "question": "In which year did the Bangladesh women's cricket team, as shown in this picture, win their first Asia Cup?",
+    "options": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "answer": "2018"
+  },
+  {
+    "image_id": "achievement_052",
+    "question": "In which year did the team shown in this picture first win the SAFF Championship?",
+    "options": [
+      "2001",
+      "2002",
+      "2003",
+      "2004"
+    ],
+    "answer": "2003"
+  },
+  {
+    "image_id": "achievement_053",
+    "question": "In which year did the Roman Sarná, shown in this picture, win a bronze at the World Archery Championships?",
+    "options": [
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "answer": "2019"
+  },
+  {
+    "image_id": "achievement_055",
+    "question": "In what year did the football team shown in this picture win a gold medal at the South Asian Games?",
+    "options": [
+      "1997",
+      "1998",
+      "1999",
+      "Two thousand"
+    ],
+    "answer": "1999"
+  },
+  {
+    "image_id": "achievement_056",
+    "question": "In what year did the Bangladesh team, as shown in this picture, reach the semi-finals of the ICC Champions Trophy?",
+    "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "answer": "2017"
+  },
+  {
+    "image_id": "achievement_057",
+    "question": "In what year did Dipu Chakma, shown in this picture, first win a gold medal at the South Asian Games?",
+    "options": [
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "answer": "2019"
+  },
+  {
+    "image_id": "achievement_058",
+    "question": "In what year did the Bangladesh Kabaddi team, shown in this picture, win a bronze medal at the Asian Games?",
+    "options": [
+      "2004",
+      "2005",
+      "2006",
+      "2007"
+    ],
+    "answer": "2006"
+  },
+  {
+    "image_id": "achievement_059",
+    "question": "In which year did the Bangladesh team, shown in this picture, first reach the Cricket World Cup quarter-finals?",
+    "options": [
+      "2011",
+      "2013",
+      "2015",
+      "2017"
+    ],
+    "answer": "2015"
+  },
+  {
+    "image_id": "achievement_060",
+    "question": "In what year did the country shown in this picture first host the ICC Cricket World Cup?",
+    "options": [
+      "2007",
+      "2009",
+      "2011",
+      "2015"
+    ],
+    "answer": "2011"
+  },
+  {
+    "image_id": "achievement_061",
+    "question": "In which year did Asif Hossain Khan, shown in this picture, win a gold medal at the Commonwealth Games?",
+    "options": [
+      "2000",
+      "2001",
+      "2002",
+      "2003"
+    ],
+    "answer": "2002"
+  },
+  {
+    "image_id": "achievement_062",
+    "question": "In which year did Mahfuza Khatun Shila, shown in this picture, win a gold medal at the South Asian Games?",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "answer": "2016"
+  },
+  {
+    "image_id": "achievement_063",
+    "question": "In which year did Roman Sana and Diya Siddiqui, shown in this picture, win a silver medal at the Archery World Cup?",
+    "options": [
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "answer": "2021"
+  },
+  {
+    "image_id": "achievement_064",
+    "question": "In what year did the Bangladesh team shown in this picture achieve their historic World Cup victory against India?",
+    "options": [
+      "2003",
+      "2005",
+      "2007",
+      "2011"
+    ],
+    "answer": "2007"
+  },
+  {
+    "image_id": "achievement_065",
+    "question": "In what year did the Bangladesh team shown in this picture first win a tri-nation series?",
+    "options": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "answer": "2018"
+  },
+  {
+    "image_id": "achievement_066",
+    "question": "In which year did the Bangladesh team shown in this picture first reach the Asia Cup final?",
+    "options": [
+      "2010",
+      "2011",
+      "2012",
+      "2013"
+    ],
+    "answer": "2012"
+  },
+  {
+    "image_id": "achievement_067",
+    "question": "In which year did the Bangladesh team shown in this picture whitewash New Zealand 4-0?",
+    "options": [
+      "2008",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    "answer": "2010"
+  },
+  {
+    "image_id": "achievement_068",
+    "question": "In what year did the Bangladesh women's team, shown in this picture, first qualify for the T20 World Cup?",
+    "options": [
+      "2012",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "answer": "2014"
+  },
+  {
+    "image_id": "achievement_069",
+    "question": "In what year did the Bangladesh team shown in this picture win an ODI series against Afghanistan?",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "answer": "2016"
+  },
+  {
+    "image_id": "achievement_070",
+    "question": "For which Olympics did the Roman Sana shown in this picture qualify?",
+    "options": [
+      "2008 Beijing",
+      "2012 London",
+      "2016 Rio",
+      "2020 Tokyo"
+    ],
+    "answer": "2020 Tokyo"
+  },
+  {
+    "image_id": "achievement_071",
+    "question": "In which year did the Bangladesh team, shown in this picture, win a gold medal in cricket at the South Asian Games?",
+    "options": [
+      "2015",
+      "2016",
+      "2018",
+      "2019"
+    ],
+    "answer": "2019"
+  },
+  {
+    "image_id": "achievement_072",
+    "question": "In which year did the country depicted in this picture host the 11th South Asian Games?",
+    "options": [
+      "2006",
+      "2008",
+      "2010",
+      "2012"
+    ],
+    "answer": "2010"
+  },
+  {
+    "image_id": "achievement_073",
+    "question": "In which year did the Bangladesh women's cricket team, shown in this picture, win the gold medal at the South Asian Games?",
+    "options": [
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "answer": "2019"
+  },
+  {
+    "image_id": "achievement_074",
+    "question": "In what year did Siddiqur Rahman, shown in this picture, win the Asian Tour trophy?",
+    "options": [
+      "2008",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    "answer": "2010"
+  },
+  {
+    "image_id": "achievement_075",
+    "question": "In which competition did the Bangladeshi university team shown in this picture win a gold medal?",
+    "options": [
+      "International Blockchain Olympiad",
+      "Robotics Olympiad",
+      "Math Olympiad",
+      "Asian Programming Contest"
+    ],
+    "answer": "International Blockchain Olympiad"
+  }
+]

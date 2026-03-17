@@ -1,0 +1,1059 @@
+[
+  {
+    "image_id": "food_001",
+    "original_question": "ভুনা খিচুড়ি সাধারণত কোন খাবারের সাথে পরিবেশন করা হয়?",
+    "barishal_question": "ভুনা খিচুড়ি সাধারণত কোন খাবারের লগে দেওয়া হয়?",
+    "original_answer": "ভাজা বেগুন, ডিম বা ভর্তার সঙ্গে",
+    "barishal_answer": "ভাজা বেগুন, ডিম বা ভর্তার লগে"
+  },
+  {
+    "image_id": "food_002",
+    "original_question": "এই খাবারটি সাধারণত কোন উৎসবে খাওয়া হয়?",
+    "barishal_question": "এই খাবারখান সাধারণত কোন উতসবে খাওয়া হয়?",
+    "original_answer": "পহেলা বৈশাখ",
+    "barishal_answer": "পহেলা বৈশাখ"
+  },
+  {
+    "image_id": "food_003",
+    "original_question": "সরষে ইলিশ সাধারণত কোন মরসুমে খাওয়া হয়?",
+    "barishal_question": "সরষে ইলিশ সাধারণত কোন মরসুমে খাওয়া হয়?",
+    "original_answer": "বর্ষাকাল",
+    "barishal_answer": "বর্ষাকাল"
+  },
+  {
+    "image_id": "food_004",
+    "original_question": "রসগোল্লা কোন উপকরণ দিয়ে তৈরি?",
+    "barishal_question": "রসগোল্লা কোন জিনিস দিয়া বানায়?",
+    "original_answer": "দুধ বা ছানা",
+    "barishal_answer": "দুধ বা ছানা"
+  },
+  {
+    "image_id": "food_005",
+    "original_question": "মোরগ পোলাও কোন অনুষ্ঠানে খাওয়া হয়?",
+    "barishal_question": "মোরগ পোলাও কোন অনুষ্ঠানে খাওয়া হয়?",
+    "original_answer": "বিয়ের বা উৎসবের খাবার",
+    "barishal_answer": "বিয়ার বা উৎসবের খাবার"
+  },
+  {
+    "image_id": "food_006",
+    "original_question": "গরুর কালা ভুনা কেমন স্বাদের খাবার?",
+    "barishal_question": "গরুর কালা ভুনা কেমন স্বাদের খান?",
+    "original_answer": "মশলাদার ও ঘন ঝোলযুক্ত",
+    "barishal_answer": "মশলাদার আর ঘন ঝোলযুক্ত"
+  },
+  {
+    "image_id": "food_007",
+    "original_question": "শুঁটকি ভুনা সাধারণত কোন খাবারের সঙ্গে খাওয়া হয়?",
+    "barishal_question": "শুঁটকি ভুনা সাধারণত কোন খাবারের লগে খাওয়া হয়?",
+    "original_answer": "ভাতের সঙ্গে",
+    "barishal_answer": "ভাতের লগে"
+  },
+  {
+    "image_id": "food_008",
+    "original_question": "শিঙ্গারা সাধারণত কোন ধরনের খাবার?",
+    "barishal_question": "শিঙ্গারা সাধারণত কোন ধরনের খাবারখান?",
+    "original_answer": "নাস্তা",
+    "barishal_answer": "নাস্তা"
+  },
+  {
+    "image_id": "food_008",
+    "original_question": "শিঙ্গারার ভেতরে সাধারণত কী থাকে?",
+    "barishal_question": "শিঙ্গারার ভিতরে সাধারণত কী থাকে?",
+    "original_answer": "সবজি বা মাংস",
+    "barishal_answer": "সবজি আর মাংস"
+  },
+  {
+    "image_id": "food_009",
+    "original_question": "পুড়ি সাধারণত কোন উপাদান দিয়ে তৈরি?",
+    "barishal_question": "পুড়ি সাধারণত কোন জিনিস দিয়া বানায়?",
+    "original_answer": "ময়দা",
+    "barishal_answer": "ময়দা"
+  },
+  {
+    "image_id": "food_010",
+    "original_question": "ফুচকা সাধারণত কোন ধরনের খাবার?",
+    "barishal_question": "ফুচকা সাধারণত কোন খানার জাত?",
+    "original_answer": "স্ট্রিট ফুড",
+    "barishal_answer": "স্ট্রিট ফুড"
+  },
+  {
+    "image_id": "food_011",
+    "original_question": "এই ছবির খাবারটি উপরের অংশে কোনটি দিয়ে সাজানো থাকে?",
+    "barishal_question": "এই ছবির খাবারখান উপরের অংশে কোনখান দিয়া সাজানো থাকে?",
+    "original_answer": "দই",
+    "barishal_answer": "দই"
+  },
+  {
+    "image_id": "food_012",
+    "original_question": "এই ছবির খাবারটি কোন প্রজন্মের মধ্যে বেশি জনপ্রিয়?",
+    "barishal_question": "এই ছবির খাবারখান কোন প্রজন্মের মইধ্যে বেশি জনপ্রিয়?",
+    "original_answer": "তরুণ প্রজন্ম",
+    "barishal_answer": "তরুণ প্রজন্ম"
+  },
+  {
+    "image_id": "food_013",
+    "original_question": "এই ছবির খাবারটি কোন সবজি দিয়ে তৈরি হয়?",
+    "barishal_question": "এই ছবির খাবারখান কোন সবজি দিয়া হয়?",
+    "original_answer": "বেগুন",
+    "barishal_answer": "বেগুন"
+  },
+  {
+    "image_id": "food_014",
+    "original_question": "এই ছবির খাবারটি সাধারণত কোন পাত্রে পরিবেশন করা হয়?",
+    "barishal_question": "এই ছবির খাবারখান সাধারণত কোন পাত্রে দেওয়া হয়?",
+    "original_answer": "মাটির পাত্র",
+    "barishal_answer": "মাটির পাত্র"
+  },
+  {
+    "image_id": "food_015",
+    "original_question": "এই ছবির খাবারটি কোন উপাদান দিয়ে তৈরি করা হয়?",
+    "barishal_question": "এই ছবির খাবারখান কোন জিনিস দিয়া বানাইছে?",
+    "original_answer": "দুধ",
+    "barishal_answer": "দুধ"
+  },
+  {
+    "image_id": "food_016",
+    "original_question": "এই ছবির খাবারটি কোন দেশের ঐতিহ্যবাহী মিষ্টি?",
+    "barishal_question": "এই ছবির খাবারখান কোন দেশের পুরান মিষ্টি?",
+    "original_answer": "বাংলাদেশ",
+    "barishal_answer": "বাংলাদেশ"
+  },
+  {
+    "image_id": "food_017",
+    "original_question": "এই ছবির খাবারটি কোন ধরনের উপাদান দিয়ে তৈরি করা হয়?",
+    "barishal_question": "এই ছবির খাবারখান কোন ধরনের জিনিস দিয়া বানাইছে?",
+    "original_answer": "ছানা",
+    "barishal_answer": "ছানা"
+  },
+  {
+    "image_id": "food_018",
+    "original_question": "এই ছবির খাবারটির পুর সাধারণত কি দিয়ে তৈরি হয়?",
+    "barishal_question": "এই ছবির খাবারখানের পুর সাধারণত কি দিয়া তৈরি হয়?",
+    "original_answer": "ক্ষীর বা নারকেল",
+    "barishal_answer": "ক্ষীর বা নারকেল"
+  },
+  {
+    "image_id": "food_019",
+    "original_question": "এই ছবির খাবারটি কোন ধরণের খাবার?",
+    "barishal_question": "এই ছবির খাবারখান কোন ধরণের খাবার?",
+    "original_answer": "পিঠা",
+    "barishal_answer": "পিঠা"
+  },
+  {
+    "image_id": "food_020",
+    "original_question": "এই ছবির খাবারটির মূল উপকরণ কি?",
+    "barishal_question": "এই ছবির খাবারটির মূল উপকরণ কি?",
+    "original_answer": "চালের গুঁড়ো",
+    "barishal_answer": "চালের গুঁড়ো"
+  },
+  {
+    "image_id": "food_021",
+    "original_question": "এই ছবির খাবারটি সাধারণত কোন ধরণের রান্না পদ্ধতিতে তৈরি হয়?",
+    "barishal_question": "এই ছবির খাবারটি সাধারণত কোন ধরণের রান্না পদ্ধতিতে তৈরি হয়?",
+    "original_answer": "ভাজার মাধ্যমে",
+    "barishal_answer": "ভাজার মাধ্যমে"
+  },
+  {
+    "image_id": "food_022",
+    "original_question": "এই ছবির খাবারটি সাধারণত কোন আকারে তৈরি করা হয়?",
+    "barishal_question": "এই ছবির খাবারখান সাধারণত কোন আকারে বানায়?",
+    "original_answer": "নকশি বা আকারে",
+    "barishal_answer": "নকশি আর আকারে"
+  },
+  {
+    "image_id": "food_023",
+    "original_question": "এই ছবির খাবারটি সাধারণত কোন উৎসবে খাওয়া হয়?",
+    "barishal_question": "এই ছবির খাবারখান সাধারণত কোন উতসবে খাওয়া হয়?",
+    "original_answer": "ঈদ",
+    "barishal_answer": "ঈদ"
+  },
+  {
+    "image_id": "food_024",
+    "original_question": "এই ছবির খাবারটি প্রধানত কোন মাছ দিয়ে তৈরি হয়?",
+    "barishal_question": "এই ছবির খাবারখান প্রধানত কোন মাছ দিয়া হয়?",
+    "original_answer": "পাবদা",
+    "barishal_answer": "পাবদা"
+  },
+  {
+    "image_id": "food_025",
+    "original_question": "এই ছবির খাবারটির প্রধান উপাদান কি?",
+    "barishal_question": "এই ছবির খাবারখানর প্রধান উপাদান কী?",
+    "original_answer": "আলু",
+    "barishal_answer": "আলু"
+  },
+  {
+    "image_id": "food_026",
+    "original_question": "এই ছবির খাবারটির প্রধান উপাদান কি?",
+    "barishal_question": "এই ছবির খাবারখানর প্রধান উপাদান কী?",
+    "original_answer": "বেগুন",
+    "barishal_answer": "বেগুন"
+  },
+  {
+    "image_id": "food_027",
+    "original_question": "এই ছবির খাবারটির মূল উপাদান কোন ধরনের শাক?",
+    "barishal_question": "এই ছবির খাবারখানের মূল উপাদান কোন ধরনের শাক?",
+    "original_answer": "লাল শাক",
+    "barishal_answer": "লাল শাক"
+  },
+  {
+    "image_id": "food_028",
+    "original_question": "এই ছবির খাবারটির প্রধান উপাদান কোন ধরনের শাক?",
+    "barishal_question": "এই ছবির খাবারখানর প্রধান উপাদান কোন ধরনের শাক?",
+    "original_answer": "সবুজ শাক",
+    "barishal_answer": "সবুজ শাক"
+  },
+  {
+    "image_id": "food_029",
+    "original_question": "এই ছবির খাবারটি সাধারণত কোন উপকরণ দিয়ে তৈরি হয়?",
+    "barishal_question": "এই ছবির খানখান সাধারণত কোন জিনিস দিয়া বানায়?",
+    "original_answer": "পেঁয়াজ",
+    "barishal_answer": "পেঁয়াজ"
+  },
+  {
+    "image_id": "food_030",
+    "original_question": "এই ছবির খাবারটি সাধারণত কোন মশলা দিয়ে রান্না করা হয়?",
+    "barishal_question": "এই ছবির খাবারখান সাধারণত কোন মশলা দিয়া রান্ধা হয়?",
+    "original_answer": "হলুদ ও লবণ",
+    "barishal_answer": "হলুদ আর লবণ"
+  },
+  {
+    "image_id": "food_031",
+    "original_question": "এই ছবির খাবারটি প্রধানত কোন উপকরণ দিয়ে তৈরি হয়?",
+    "barishal_question": "এই ছবির খাবারখান প্রধানত কোন জিনিস দিয়া বানায়?",
+    "original_answer": "তিল",
+    "barishal_answer": "তিল"
+  },
+  {
+    "image_id": "food_032",
+    "original_question": "এই ছবির খাবারটি সাধারণত কোন উপকরণ দিয়ে মিষ্টি হয়?",
+    "barishal_question": "এই ছবির খাবারখান সাধারণত কোন জিনিস দিয়া মিষ্টি হয়?",
+    "original_answer": "গুড়",
+    "barishal_answer": "গুড়"
+  },
+  {
+    "image_id": "food_033",
+    "original_question": "এই ছবির খাবারটি কোন উপকরণ দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির খাবারখান কোন জিনিস দিয়া বানাইছে?",
+    "original_answer": "মুড়ি",
+    "barishal_answer": "মুড়ি"
+  },
+  {
+    "image_id": "food_034",
+    "original_question": "এই ছবির মিষ্টি কোন উপকরণ দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির মিষ্টি কোন জিনিস দিয়া বানাইছে?",
+    "original_answer": "নারকেল",
+    "barishal_answer": "নারকেল"
+  },
+  {
+    "image_id": "food_035",
+    "original_question": "এই ছবির খাবারটি প্রধানত কোন উপাদান দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির খাবারখান প্রধান কোন জিনিস দিয়া বানাইছে?",
+    "original_answer": "বাঁশকোরোল",
+    "barishal_answer": "বাঁশকোরোল"
+  },
+  {
+    "image_id": "food_036",
+    "original_question": "ছবিতে দেখানো খাবারটি কোন সম্প্রদায়ের ঐতিহ্যবাহী পদ?",
+    "barishal_question": "ছবিতে দেখানো খাবারখান কোন পাড়ার পুরান পদ?",
+    "original_answer": "পাহাড়ি সম্প্রদায়ের।",
+    "barishal_answer": "পাহাড়ী সম্প্রদায়ের।"
+  },
+  {
+    "image_id": "food_037",
+    "original_question": "এই ছবির খাবারটি কোন ধরণের মিষ্টি?",
+    "barishal_question": "এই ছবির খাবারখান কোন ধরণের মিষ্টি?",
+    "original_answer": "চমচম",
+    "barishal_answer": "চমচম"
+  },
+  {
+    "image_id": "food_038",
+    "original_question": "এই ছবির খাবারটি প্রধানত কি দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির খাবারখান প্রধানত কী দিয়া বানাইছে?",
+    "original_answer": "চিনি",
+    "barishal_answer": "চিনি"
+  },
+  {
+    "image_id": "food_039",
+    "original_question": "এই ছবির মিষ্টি সাধারণত কোন উপাদান দিয়ে তৈরি হয়?",
+    "barishal_question": "এই ছবির মিষ্টি সাধারণত কোন জিনিস দিয়া বানায়?",
+    "original_answer": "ছানা",
+    "barishal_answer": "ছানা"
+  },
+  {
+    "image_id": "food_040",
+    "original_question": "এই ছবির খাবারটি কোন ধরনের পাউরুটি?",
+    "barishal_question": "এই ছবির খাবারখান কোন ধরনের পাউরুটি?",
+    "original_answer": "বাকরখানি",
+    "barishal_answer": "বাকরখানি"
+  },
+  {
+    "image_id": "food_041",
+    "original_question": "এই ছবির খাবারটি কোন উপকরণ দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির খাবারখান কোন মালমশলা দিয়া বানাইছে?",
+    "original_answer": "মুড়ি ও চানাচুর",
+    "barishal_answer": "মুড়ি আর চানাচুর"
+  },
+  {
+    "image_id": "food_042",
+    "original_question": "এই ছবির খাবারটি কোন ধরণের নাস্তা?",
+    "barishal_question": "এই ছবির খাবারখান কোন ধরণের নাস্তা?",
+    "original_answer": "ঝুড়ি",
+    "barishal_answer": "ঝুড়ি"
+  },
+  {
+    "image_id": "food_043",
+    "original_question": "এই ছবির খাবারটি সাধারণত কোন সময়ে খাওয়া হয়?",
+    "barishal_question": "এই ছবির খাবারখান সাধারণত কোন সময় খাওয়া হয়?",
+    "original_answer": "নাস্তা সময়ে",
+    "barishal_answer": "নাস্তা টাইমে"
+  },
+  {
+    "image_id": "food_044",
+    "original_question": "এই ছবির খাবারটি কোন ফল দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির খাবারখান কোন ফল দিয়া বানাইছে?",
+    "original_answer": "আম",
+    "barishal_answer": "আম"
+  },
+  {
+    "image_id": "food_045",
+    "original_question": "এই ছবির খাবারটি কোন প্রজাতির মাছ দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির খাবারখান কোন জাতের মাছ দিয়া বানাইছে?",
+    "original_answer": "ছোট চিংড়ি",
+    "barishal_answer": "ছোট চিংড়ি"
+  },
+  {
+    "image_id": "food_046",
+    "original_question": "এই ছবির খাবারটি কোন ধরনের পিঠা?",
+    "barishal_question": "এই ছবির খাবারখান কোন ধরনের পিঠা?",
+    "original_answer": "চিটই পিঠা",
+    "barishal_answer": "চিটই পিডা"
+  },
+  {
+    "image_id": "food_047",
+    "original_question": "এই ছবির খাবারটি কোন ধরনের মাছ দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির খাবারখান কোন ধরনের মাছ দিয়া বানাইছে?",
+    "original_answer": "কই মাছ",
+    "barishal_answer": "কই মাছ"
+  },
+  {
+    "image_id": "food_048",
+    "original_question": "এই ছবির খাবারটি কোন ফল দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির খাবারখান কোন ফল দিয়া বানাইছে?",
+    "original_answer": "বড়ই",
+    "barishal_answer": "বরই"
+  },
+  {
+    "image_id": "food_049",
+    "original_question": "এই ছবির খাবারটি কোন ফল দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির খাবারখান কোন ফল দিয়া বানাইছে?",
+    "original_answer": "আম",
+    "barishal_answer": "আম"
+  },
+  {
+    "image_id": "food_050",
+    "original_question": "এই ছবির খাবারটি কোন ধরণের পিঠা?",
+    "barishal_question": "এই ছবির খাবারখান কোন ধরণের পিঠা?",
+    "original_answer": "চিতা পিঠা",
+    "barishal_answer": "চিতা পিডা"
+  },
+  {
+    "image_id": "food_051",
+    "original_question": "এই ছবির খাবারটি সাধারণত কোন উপাদান দিয়ে তৈরি হয়?",
+    "barishal_question": "এই ছবির খাবারখান সাধারণত কোন জিনিস দিয়া বানায়?",
+    "original_answer": "ময়দা",
+    "barishal_answer": "ময়দা"
+  },
+  {
+    "image_id": "food_052",
+    "original_question": "এই ছবির খাবারটি কোন ধরণের পিঠা?",
+    "barishal_question": "এই ছবির খাবারখান কোন ধরণের পিঠা?",
+    "original_answer": "লবণ পিঠা",
+    "barishal_answer": "লবন পিডা"
+  },
+  {
+    "image_id": "food_053",
+    "original_question": "এই ছবির খাবারটি কোন ধরনের পিঠা?",
+    "barishal_question": "এই ছবির খাবারখান কোন ধরনের পিঠা?",
+    "original_answer": "দুধ পাকন পিঠা",
+    "barishal_answer": "দুধ পাকন পিডা"
+  },
+  {
+    "image_id": "food_054",
+    "original_question": "এই ছবিতে কিদেখাচ্ছে?",
+    "barishal_question": "এই ছবিখান কী দেখা যাইতাছে?",
+    "original_answer": "পরোটা",
+    "barishal_answer": "পরোটা"
+  },
+  {
+    "image_id": "food_055",
+    "original_question": "এই ছবিতে কি ধরনের ডালনা রয়েছে?",
+    "barishal_question": "এই ছবিতে কী ডালনা আছে?",
+    "original_answer": "ঢোকার ডালনা",
+    "barishal_answer": "ঢোকার ডালনা"
+  },
+  {
+    "image_id": "food_056",
+    "original_question": "এই ছবিতে কোন মাংস দিয়ে তৈরি রান্না দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন গোস্ত দিয়া রান্দা দেখানো হইছে?",
+    "original_answer": "মুরগির মাংস",
+    "barishal_answer": "মুরগির গোস্ত"
+  },
+  {
+    "image_id": "food_057",
+    "original_question": "এই ছবিতে কোন ধরনের ডালনা রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের ডালনাখান আছে?",
+    "original_answer": "ডিমের ডালনা",
+    "barishal_answer": "ডিমের ডালনা"
+  },
+  {
+    "image_id": "food_058",
+    "original_question": "এই ছবির রান্নাটি কোন ধরনের মশলা দিয়ে তৈরি হয়?",
+    "barishal_question": "এই ছবির রান্ধাখান কোন ধরনের মশলা দিয়া হয়?",
+    "original_answer": "পোস্ত",
+    "barishal_answer": "পোস্ত"
+  },
+  {
+    "image_id": "food_059",
+    "original_question": "এই ছবিতে কোন উপাদান দিয়ে কোরমা তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন জিনিস দিয়া কোরমা বানাইছে?",
+    "original_answer": "ডিম",
+    "barishal_answer": "ডিম"
+  },
+  {
+    "image_id": "food_060",
+    "original_question": "এই ছবিতে কোন ধরনের চপ দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের চপ দেখানো হইছে?",
+    "original_answer": "ডিম চপ",
+    "barishal_answer": "ডিম চপ"
+  },
+  {
+    "image_id": "food_061",
+    "original_question": "এই ছবিতে কোন মাংসের কষা রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাংসের কষা আছে?",
+    "original_answer": "গরুর মাংস",
+    "barishal_answer": "গরুর গোস্ত"
+  },
+  {
+    "image_id": "food_062",
+    "original_question": "এই ছবিতে দেখানো খাবারটি কোন উপাদান দিয়ে প্রধানত তৈরি হয়?",
+    "barishal_question": "এই ছবিতে দেখানো খাবারখান কোন জিনিস দিয়া প্রধানত তৈরি হয়?",
+    "original_answer": "চাল ও মাংস",
+    "barishal_answer": "চাল আর মাংস"
+  },
+  {
+    "image_id": "food_063",
+    "original_question": "এই ছবিতে কোন সবজি দিয়ে ভাজি তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন সবজি দিয়া ভাজি বানাইছে?",
+    "original_answer": "পটল",
+    "barishal_answer": "পটল"
+  },
+  {
+    "image_id": "food_064",
+    "original_question": "এই ছবিতে কোন সবজি দিয়ে পোস্ত তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন সবজি দিয়া পোস্ত বানাইছে?",
+    "original_answer": "পটল",
+    "barishal_answer": "পটল"
+  },
+  {
+    "image_id": "food_065",
+    "original_question": "এই ছবিতে কোন সবজি দিয়ে ভাজি তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন সবজি দিয়া ভাজি বানাইছে?",
+    "original_answer": "আলু",
+    "barishal_answer": "আলু"
+  },
+  {
+    "image_id": "food_066",
+    "original_question": "এই ছবিতে কোন সবজি দিয়ে তৈরি রান্না দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন সবজি দিয়া তরকারি দেখানো হইছে?",
+    "original_answer": "কুমড়ো",
+    "barishal_answer": "কুমড়া"
+  },
+  {
+    "image_id": "food_067",
+    "original_question": "এই ছবিতে কোন মাছ দিয়ে রান্না করা হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ দিয়া রান্ধা হইছে?",
+    "original_answer": "ছোট মাছ",
+    "barishal_answer": "ছোট মাছ"
+  },
+  {
+    "image_id": "food_068",
+    "original_question": "এই ছবিতে কোন ধরনের রুটি রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান রুটি আছে?",
+    "original_answer": "মোগলাই পরোটা",
+    "barishal_answer": "মোগলাই পরোটা"
+  },
+  {
+    "image_id": "food_069",
+    "original_question": "এই ছবিতে কোন ধরনের মিষ্টি দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান মিষ্টি দেখানো হইছে?",
+    "original_answer": "পায়েশ",
+    "barishal_answer": "পায়েশ"
+  },
+  {
+    "image_id": "food_070",
+    "original_question": "এই ছবিতে কোন ধরনের মিষ্টি রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান মিষ্টি আছে?",
+    "original_answer": "রাজভোগ",
+    "barishal_answer": "রাজভোগ"
+  },
+  {
+    "image_id": "food_071",
+    "original_question": "এই ছবিতে কোন ধরনের মিষ্টি রয়েছে?",
+    "barishal_question": "এই ছবিতে কোনখানকার মিষ্টি আছে?",
+    "original_answer": "পান্তুয়া",
+    "barishal_answer": "পান্তুয়া"
+  },
+  {
+    "image_id": "food_072",
+    "original_question": "এই ছবিতে কোন ধরনের মিষ্টি দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের মিষ্টি দেখানো হইছে?",
+    "original_answer": "কালোজাম",
+    "barishal_answer": "কালোজাম"
+  },
+  {
+    "image_id": "food_073",
+    "original_question": "এই ছবিতে কোন ধরনের খাবার রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খানার আইটেম আছে?",
+    "original_answer": "ভাত",
+    "barishal_answer": "ভাত"
+  },
+  {
+    "image_id": "food_074",
+    "original_question": "এই ছবিতে কোন মিষ্টি দেখা যাচ্ছে?",
+    "barishal_question": "এই ছবিতে কোন মিষ্টি দেখা যাইতাছে?",
+    "original_answer": "ছানার জিলাবি",
+    "barishal_answer": "ছানার জিলাপি"
+  },
+  {
+    "image_id": "food_075",
+    "original_question": "এই ছবিতে কোন ধরনের পিঠা রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান পিঠা আছে?",
+    "original_answer": "দুধ পুলি পিঠা",
+    "barishal_answer": "দুধ পুলি পিঠা"
+  },
+  {
+    "image_id": "food_076",
+    "original_question": "এই ছবিতে কোন ধরনের রস রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের রস আছে?",
+    "original_answer": "আখের রস",
+    "barishal_answer": "আখের রস"
+  },
+  {
+    "image_id": "food_077",
+    "original_question": "এই ছবিতে কোন মাছ দিয়ে রান্না হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ দিয়া রান্ধা অইছে?",
+    "original_answer": "চিংড়ি",
+    "barishal_answer": "চিংড়ি"
+  },
+  {
+    "image_id": "food_078",
+    "original_question": "এই ছবিতে কোন ধরনের তেলের আচার রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন তেলের আচার দেখা যাইতাছে?",
+    "original_answer": "জলপাই তেলের আচার",
+    "barishal_answer": "জলপাই তেলের আচার"
+  },
+  {
+    "image_id": "food_079",
+    "original_question": "এই ছবিতে কোন ধরনের মিষ্টি আচার রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান মিষ্টি আচার আছে?",
+    "original_answer": "জলপাই মিষ্টি আচার",
+    "barishal_answer": "জলপাই মিষ্টি আচার"
+  },
+  {
+    "image_id": "food_080",
+    "original_question": "এই ছবিতে কোন ধরনের তেলের আচার রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন তেলের আচার দেখা যাইতাছে?",
+    "original_answer": "আমের তেল",
+    "barishal_answer": "আমের তেল"
+  },
+  {
+    "image_id": "food_081",
+    "original_question": "এই ছবিতে কোন ফল দিয়ে আচার তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ফল দিয়া আচার বানাইছে?",
+    "original_answer": "লেবু",
+    "barishal_answer": "লেবু"
+  },
+  {
+    "image_id": "food_082",
+    "original_question": "এই ছবিতে কোন সবজি দিয়ে ভর্তা তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন সবজি দিয়া ভর্তা বানাইছে?",
+    "original_answer": "টমেটো",
+    "barishal_answer": "টমেটো"
+  },
+  {
+    "image_id": "food_083",
+    "original_question": "এই ছবিতে কোন ধরনের মিষ্টি রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের মিষ্টি আছে?",
+    "original_answer": "বুন্দিয়া",
+    "barishal_answer": "বুন্দিয়া"
+  },
+  {
+    "image_id": "food_084",
+    "original_question": "এই ছবিতে কোন ধরনের মিষ্টি দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান মিষ্টি দেখানো হইছে?",
+    "original_answer": "বেবি মিষ্টি",
+    "barishal_answer": "বেবি মিষ্টি"
+  },
+  {
+    "image_id": "food_085",
+    "original_question": "এই ছবিতে কোন ধরনের মিষ্টি রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান মিষ্টি রইছে?",
+    "original_answer": "মুরালি",
+    "barishal_answer": "মুরালি"
+  },
+  {
+    "image_id": "food_086",
+    "original_question": "এই ছবিতে কোন ধরনের নাস্তা রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খানার নাস্তা আছে?",
+    "original_answer": "নিমকি",
+    "barishal_answer": "নিমকি"
+  },
+  {
+    "image_id": "food_087",
+    "original_question": "এই ছবিতে কোন ধরনের মিষ্টি রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের মিষ্টি আছে?",
+    "original_answer": "মনাকা",
+    "barishal_answer": "মনাকা"
+  },
+  {
+    "image_id": "food_088",
+    "original_question": "এই ছবিতে কোন ধরনের নাস্তা রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের নাস্তা আছে?",
+    "original_answer": "তালের বড়া",
+    "barishal_answer": "তালের বড়া"
+  },
+  {
+    "image_id": "food_089",
+    "original_question": "এই ছবিতে কোন উপাদান দিয়ে তৈরি ভর্তা দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন জিনিস দিয়া ভর্তাখান বানাইছে?",
+    "original_answer": "ডিম",
+    "barishal_answer": "ডিম"
+  },
+  {
+    "image_id": "food_090",
+    "original_question": "এই ছবিতে কোন ধরনের ডাল দেখা যাচ্ছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের ডাল দেখা যাইতাছে?",
+    "original_answer": "মসুর ডাল",
+    "barishal_answer": "মশুদাল"
+  },
+  {
+    "image_id": "food_091",
+    "original_question": "এই ছবিতে কোন ধরনের ভর্তা দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ভর্তাখান দেখানো অইছে?",
+    "original_answer": "ঢেঁড়স",
+    "barishal_answer": "ঢেঁড়স"
+  },
+  {
+    "image_id": "food_092",
+    "original_question": "এই ছবিতে কোন মাছ দিয়ে ভর্তা তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ দিয়া ভর্তা বানাইছে?",
+    "original_answer": "চিংড়ি মাছ",
+    "barishal_answer": "চিংড়ি মাছ"
+  },
+  {
+    "image_id": "food_093",
+    "original_question": "এই ছবিতে কোন মাছ এবং সবজি দিয়ে রান্না হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ আর সবজি দিয়া রান্ধা অইছে?",
+    "original_answer": "ইলিশ ও বেগুন",
+    "barishal_answer": "ইলিশ আর বেগুন"
+  },
+  {
+    "image_id": "food_094",
+    "original_question": "এই ছবিতে কোন মাছ দিয়ে ঝোল তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ দিয়া ঝোল কোর‍্যাছে?",
+    "original_answer": "টেংরা মাছ",
+    "barishal_answer": "টেংরা মাছ"
+  },
+  {
+    "image_id": "food_095",
+    "original_question": "এই ছবিতে কোন মাছ দিয়ে রান্না দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ দিয়া রান্না দেখানো হইছে?",
+    "original_answer": "শোল মাছ",
+    "barishal_answer": "শোল মাছ"
+  },
+  {
+    "image_id": "food_096",
+    "original_question": "এই ছবিতে কোন মাছ ভুনা হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ ভুনা অইছে?",
+    "original_answer": "শোল মাছ",
+    "barishal_answer": "শোল মাছ"
+  },
+  {
+    "image_id": "food_097",
+    "original_question": "এই ছবিতে কোন মাছের কালিয়া দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছের কালিয়া দেখানো হইছে?",
+    "original_answer": "রুই মাছ",
+    "barishal_answer": "রুই মাছ"
+  },
+  {
+    "image_id": "food_098",
+    "original_question": "এই ছবিতে কোন ধরনের মাংসের পদ দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের গোস্তের পদ দেখানো হইছে?",
+    "original_answer": "মেজান গোস্ত",
+    "barishal_answer": "মেজান গোস্ত"
+  },
+  {
+    "image_id": "food_099",
+    "original_question": "ছবিতে দেখানো ডালটিকে কী নামে ডাকা হয়?",
+    "barishal_question": "ছবিতে দেখানো ডালখান কী নামে ডাকা হয়?",
+    "original_answer": "ছোলার ডাল বা ছোলা।",
+    "barishal_answer": "ছোলার ডাল বা ছোলা।"
+  },
+  {
+    "image_id": "food_100",
+    "original_question": "এই ছবিতে কোন মাছ ও সবজি দিয়ে পিঠুলি তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ ও সবজি দিয়া পিঠুলি কোর‍্যাছে?",
+    "original_answer": "চিংড়ি ও মুলার শাক",
+    "barishal_answer": "চিংড়ি আর মুলার শাক"
+  },
+  {
+    "image_id": "food_101",
+    "original_question": "এই ছবির মাছ কোন ধরনের পানিতে বাস করে?",
+    "barishal_question": "এই ছবির মাছ কোন ধরনের পানিতে বাস করে?",
+    "original_answer": "মিঠা পানিতে",
+    "barishal_answer": "মিডা পানিত"
+  },
+  {
+    "image_id": "food_102",
+    "original_question": "এই ছবিতে কোন ধরনের ভাজা সবজি দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের ভাজা সবজি দেখানো হইছে?",
+    "original_answer": "বেগুনী",
+    "barishal_answer": "বেগুনী"
+  },
+  {
+    "image_id": "food_103",
+    "original_question": "এই ছবিতে কোন উপাদান দিয়ে চপ তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন জিনিস দিয়া চপ বানাইছে?",
+    "original_answer": "আলু",
+    "barishal_answer": "আলু"
+  },
+  {
+    "image_id": "food_104",
+    "original_question": "এই ছবিতে কোন মিষ্টি দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মিষ্টখান দেখানো অইছে?",
+    "original_answer": "কাঁচাগোল্লা",
+    "barishal_answer": "কাঁচাগোল্লা"
+  },
+  {
+    "image_id": "food_105",
+    "original_question": "এই ছবিতে কোন মিষ্টি দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মিষ্টি খান দেখানো অইছে?",
+    "original_answer": "ছানামুখী",
+    "barishal_answer": "ছানামুখী"
+  },
+  {
+    "image_id": "food_106",
+    "original_question": "এই ছবিতে কোন ধরনের পানীয় দেখানো হয়েছে যা দই থেকে প্রস্তুত করা হয়?",
+    "barishal_question": "এই ছবিতে কোন ধরনের পানীয় দেখানো অইছে যা দই থেইক্যা বানাইছে?",
+    "original_answer": "ঘোল",
+    "barishal_answer": "ঘোল"
+  },
+  {
+    "image_id": "food_107",
+    "original_question": "এই ছবিতে কোন ধরনের পিঠা রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান পিঠা রইছে?",
+    "original_answer": "ফুলঝুরি পিঠা",
+    "barishal_answer": "ফুলঝুরি পিডা"
+  },
+  {
+    "image_id": "food_108",
+    "original_question": "এই ছবিতে কোন ধরনের পিঠা রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান পিঠা রইছে?",
+    "original_answer": "সেমাই পিঠা",
+    "barishal_answer": "সেমাই পিঠা"
+  },
+  {
+    "image_id": "food_109",
+    "original_question": "এই ছবিতে কোন ধরনের খাবার দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের খাবার দেখানো হইছে?",
+    "original_answer": "ফিরনি",
+    "barishal_answer": "ফিরনি"
+  },
+  {
+    "image_id": "food_110",
+    "original_question": "এই ছবিতে কোন মিষ্টি দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মিষ্টখান দেখানো অইছে?",
+    "original_answer": "গোলাপজাম",
+    "barishal_answer": "গোলাপজাম"
+  },
+  {
+    "image_id": "food_111",
+    "original_question": "এই ছবিতে কোন ধরনের ভাত দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের ভাত দেখানো হইছে?",
+    "original_answer": "লেটকা খিচুরি",
+    "barishal_answer": "লেটকা খিচুরি"
+  },
+  {
+    "image_id": "food_112",
+    "original_question": "এই ছবিতে কোন রান্না দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন রান্ধন দেখানো হইছে?",
+    "original_answer": "কলিজা ভুনা",
+    "barishal_answer": "কলিজা ভুনা"
+  },
+  {
+    "image_id": "food_113",
+    "original_question": "এই ছবিতে কোন ধরনের ডাল দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের ডালখান দেখানো হইছে?",
+    "original_answer": "পাতলা ডাল",
+    "barishal_answer": "পাতলা ডাল"
+  },
+  {
+    "image_id": "food_114",
+    "original_question": "এই ছবিতে কোন সবজি দিয়ে ভাজি তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন সবজি দিয়া ভাজি বানাইছে?",
+    "original_answer": "চালকুমড়ো",
+    "barishal_answer": "চালকুমড়া"
+  },
+  {
+    "image_id": "food_115",
+    "original_question": "এই ছবিতে কোন ধরনের রান্না রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের রান্ধা আছে?",
+    "original_answer": "ডিম মিষ্টি কুমড়ো ভাজি",
+    "barishal_answer": "ডিম মিষ্টিকুমড়া ভাজি"
+  },
+  {
+    "image_id": "food_116",
+    "original_question": "এই ছবিতে কোন মাছ ও সবজি দিয়ে রান্না হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ ও সবজি দিয়া রান্ধা অইছে?",
+    "original_answer": "ইলিশ ও পটল",
+    "barishal_answer": "ইলিশ আর পটল"
+  },
+  {
+    "image_id": "food_117",
+    "original_question": "এই ছবিতে কোন ধরনের ভর্তা দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের ভর্তা দেখানো হইছে?",
+    "original_answer": "নোনা ইলিশ শুঁটকি ভর্তা",
+    "barishal_answer": "নোনা ইলিশ শুঁটকি ভর্তা"
+  },
+  {
+    "image_id": "food_118",
+    "original_question": "এই ছবিতে কোন মাছ ও সবজি দিয়ে রান্না হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ ও সবজি দিয়া রান্ধা অইছে?",
+    "original_answer": "চিংড়ি ও কচুর শাক",
+    "barishal_answer": "চিংড়ি আর কচুর শাক"
+  },
+  {
+    "image_id": "food_119",
+    "original_question": "এই ছবিতে কোন ধরনের খাবারের পদ দেখা যাচ্ছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের খাবারের পদ দেখা যাইতাছে?",
+    "original_answer": "মগজ ভাজি",
+    "barishal_answer": "মগজ ভাজি"
+  },
+  {
+    "image_id": "food_120",
+    "original_question": "এই ছবিতে কোন উপাদান ভুনা হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন জিনিসখান ভুনা অইছে?",
+    "original_answer": "মাছের ডিম",
+    "barishal_answer": "মাছের ডিম"
+  },
+  {
+    "image_id": "food_121",
+    "original_question": "এই ছবিতে কোন মাছ দিয়ে ঝোল তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ দিয়া ঝোল বানাইছে?",
+    "original_answer": "চিতল মাছ",
+    "barishal_answer": "চিতল মাছ"
+  },
+  {
+    "image_id": "food_122",
+    "original_question": "এই ছবিতে কোন ধরনের ভাজি দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের ভাজি দেখানো হইছে?",
+    "original_answer": "ধুন্ধুল ভাজি",
+    "barishal_answer": "ধুন্ধুল ভাজি"
+  },
+  {
+    "image_id": "food_123",
+    "original_question": "এই ছবিতে কোন মাছ ও সবজি দিয়ে ঝোল তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছ আর সবজি দিয়া ঝোল বানাইছে?",
+    "original_answer": "চিংড়ি মাছ ও ধুন্ধুল",
+    "barishal_answer": "চিংড়ি মাছ আর ধুন্ধুল"
+  },
+  {
+    "image_id": "food_124",
+    "original_question": "এই ছবিতে কোন উপাদান দিয়ে ভর্তা তৈরি হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন জিনিস দিয়া ভর্তা বানাইছে?",
+    "original_answer": "পেঁপে",
+    "barishal_answer": "পেঁপে"
+  },
+  {
+    "image_id": "food_125",
+    "original_question": "এই ছবিতে কোন উপাদান ভাজা হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন জিনিসখান ভাজা অইছে?",
+    "original_answer": "ডিম",
+    "barishal_answer": "ডিম"
+  },
+  {
+    "image_id": "food_126",
+    "original_question": "এই ছবিতে কোন ধরনের রুটি দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান রুটি দেখানো হইছে?",
+    "original_answer": "চাপটি",
+    "barishal_answer": "চাপটি"
+  },
+  {
+    "image_id": "food_127",
+    "original_question": "এই ছবিতে কোন মাছের রান্না দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন মাছের রান্ধন দেখানো হইছে?",
+    "original_answer": "রূপচাঁদা ভাজি",
+    "barishal_answer": "রূপচাঁদা ভাজি"
+  },
+  {
+    "image_id": "food_128",
+    "original_question": "এই ছবিতে কোন ধরনের মাংসের রান্না রয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান মাংসের রান্দা আছে?",
+    "original_answer": "মুরগি",
+    "barishal_answer": "মোরগ"
+  },
+  {
+    "image_id": "food_129",
+    "original_question": "এই ছবিতে কোন ধরনের মিষ্টি দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন ধরনের মিষ্টি দেখাইতাছে?",
+    "original_answer": "অবাক সন্দেশ",
+    "barishal_answer": "অবাক সন্দেশ"
+  },
+  {
+    "image_id": "food_130",
+    "original_question": "এই ছবিতে কোন ধরনের সন্দেশ দেখানো হয়েছে?",
+    "barishal_question": "এই ছবিতে কোন খান সন্দেশ দেখানো হইছে?",
+    "original_answer": "ইলিশ পেটি সন্দেশ",
+    "barishal_answer": "ইলিশ পেটি সন্দেশ"
+  },
+  {
+    "image_id": "food_131",
+    "original_question": "এই ছবিতে দেখানো খাবারটির নামের উৎপত্তি কোন ভাষা থেকে হয়েছে?",
+    "barishal_question": "এই ছবিতে দেখানো খাবারখানের নামের উৎপত্তি কোন ভাষা থেইক্যা অইছে?",
+    "original_answer": " আরবি ভাষা।",
+    "barishal_answer": "আরবি ভাষা।"
+  },
+  {
+    "image_id": "food_132",
+    "original_question": "এই ছবিতে দেখানো ভাজি সাধারণত কোন সবজি দিয়ে তৈরি?",
+    "barishal_question": "এই ছবিতে দেখানো ভাজি সাধারণত কোন সবজি দিয়া বানায়?",
+    "original_answer": "করলা।",
+    "barishal_answer": "করলা।"
+  },
+  {
+    "image_id": "food_133",
+    "original_question": "এই ছবির বিশেষ ভাতের পদটি কোন ধরনের মাংস দিয়ে তৈরি হয়?",
+    "barishal_question": "এই ছবির বিশেষ ভাতের পদখান কোন ধরনের গোস্ত দিয়া হয়?",
+    "original_answer": "খাসির মাংস।",
+    "barishal_answer": "খাসির গোস্ত।"
+  },
+  {
+    "image_id": "food_134",
+    "original_question": "এই ছবির সবজি পদে প্রধান উপাদান হিসেবে কোন গাছের ডাঁটা ব্যবহৃত হয়?",
+    "barishal_question": "এই ছবির সবজি পদে প্রধান উপাদান হিসাবে কোন গাছের ডাঁটা ব্যবহার করা হয়?",
+    "original_answer": "সজনে গাছের ডাটা।",
+    "barishal_answer": "সজনে গাছের ডাটা।"
+  },
+  {
+    "image_id": "food_135",
+    "original_question": "এই ছবির সবজি ভাজিতে প্রধান সবজি কোনটি?",
+    "barishal_question": "এই ছবির সবজি ভাজিতে প্রধান সবজি কোনখান?",
+    "original_answer": "বাঁধাকপি।",
+    "barishal_answer": "বাঁধাকপি।"
+  },
+  {
+    "image_id": "food_136",
+    "original_question": "এই ছবির ভাজিটি প্রাণীর শরীরের কোন অংশ দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির ভাজিটা কোন জানোয়ারের কলিজা দিয়া বানাইছে?",
+    "original_answer": "গরুর ভুঁড়ি।",
+    "barishal_answer": "গরুর ভুঁড়ি।"
+  },
+  {
+    "image_id": "food_137",
+    "original_question": "এই ছবির ভর্তাটি কোন ধরনের বীজ দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির ভর্তাখান কোন ধরনের বীজ দিয়া বানাইছে?",
+    "original_answer": "কালোজিরা বীজ।",
+    "barishal_answer": "কালোজিরা বীজ।"
+  },
+  {
+    "image_id": "food_138",
+    "original_question": "এই ছবির মিষ্টি পদটি সাধারণত কোন উপলক্ষে বেশি খাওয়া হয়?",
+    "barishal_question": "এই ছবির মিষ্টি খান সাধারণত কোন উপলক্ষে বেশি খাওয়া হয়?",
+    "original_answer": "ঈদ।",
+    "barishal_answer": "ঈদ।"
+  },
+  {
+    "image_id": "food_139",
+    "original_question": "এই ছবির শেমাই কোন ধরনের শেমাই দিয়ে তৈরি হয়েছে?",
+    "barishal_question": "এই ছবির শেমাই কোন ধরনের শেমাই দিয়া বানাইছে?",
+    "original_answer": "লাচ্ছা শেমাই।",
+    "barishal_answer": "লাচ্ছা শেমাই।"
+  },
+  {
+    "image_id": "food_140",
+    "original_question": "এই ছবির মাছের ঝোলটি কোন প্রজাতির মাছ দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির মাছের ঝোলখান কোন জাতের মাছ দিয়া বানাইছে?",
+    "original_answer": "শিং মাছ।",
+    "barishal_answer": "শিং মাছ।"
+  },
+  {
+    "image_id": "food_141",
+    "original_question": "এই ছবিতে দেখানো ভাজিতে প্রধান সবজি কোনটি ব্যবহৃত হয়েছে?",
+    "barishal_question": "এই ছবিতে দেখানো ভাজিতে প্রধান সবজি কোনখান ব্যবহার অইছে?",
+    "original_answer": "ফুলকপি।",
+    "barishal_answer": "ফুলকপি।"
+  },
+  {
+    "image_id": "food_142",
+    "original_question": "এই ছবির খাবারটি মূলত কোন উপাদান দিয়ে তৈরি?",
+    "barishal_question": "এই ছবির খাবারখান মূলত কোন জিনিস দিয়া বানাইছে?",
+    "original_answer": "শুকনো চিংড়ি।",
+    "barishal_answer": "শুকনো চিংড়ি।"
+  },
+  {
+    "image_id": "food_143",
+    "original_question": "এই ছবির পদে কোন শাক মসুর ডালের সাথে মেশানো হয়েছে?",
+    "barishal_question": "এই ছবির পদে কোন শাক মসুর ডালের লগে মেশানো অইছে?",
+    "original_answer": "পুঁই শাক।",
+    "barishal_answer": "পুইঁ শাক।"
+  },
+  {
+    "image_id": "food_144",
+    "original_question": "এই ছবির পিঠাটি সাধারণত কোন মৌসুমে বেশি খাওয়া হয়?",
+    "barishal_question": "এই ছবির পিঠাখান সাধারণত কোন মৌসুমে বেশি খাওয়া হয়?",
+    "original_answer": "শীতকালে।",
+    "barishal_answer": "শীতকালে।"
+  },
+  {
+    "image_id": "food_145",
+    "original_question": "এই ছবির ভাজিতে প্রধান সবজি হিসেবে কোনটি ব্যবহৃত হয়েছে?",
+    "barishal_question": "এই ছবির ভাজিতে প্রধান সবজি হিসেবে কোনখান ব্যবহার অইছে?",
+    "original_answer": "কাকরোল।",
+    "barishal_answer": "কাকরোল।"
+  },
+  {
+    "image_id": "food_146",
+    "original_question": "এই ছবির আচারটি কোন ফল দিয়ে তৈরি হয়েছে?",
+    "barishal_question": "এই ছবির আচারখান কোন ফল দিয়া বানাইছে?",
+    "original_answer": "কাঁচা আম।",
+    "barishal_answer": "কাঁচা আম।"
+  },
+  {
+    "image_id": "food_147",
+    "original_question": "এই ছবির ভর্তাটি কোন সবজি সেদ্ধ করে তৈরি হয়েছে?",
+    "barishal_question": "এই ছবির ভর্তাখান কোন সবজি সেদ্ধ কইর্যা বানাইছে?",
+    "original_answer": "কাঁচা কলা।",
+    "barishal_answer": "কাঁচা কলা।"
+  },
+  {
+    "image_id": "food_148",
+    "original_question": "এই ছবির ভাজিতে কোন মাছ ব্যবহার করা হয়েছে?",
+    "barishal_question": "এই ছবির ভাজিতে কোন মাছ ব্যবহার করছিলো?",
+    "original_answer": "কৈ মাছ।",
+    "barishal_answer": "কই মাছ।"
+  },
+  {
+    "image_id": "food_149",
+    "original_question": "এই ছবির ভাজিটি মাছের কোন অংশ দিয়ে তৈরি হয়েছে?",
+    "barishal_question": "এই ছবির ভাজিখান মাছের কোন অংশ দিয়া বানাইছে?",
+    "original_answer": "মাছের ডিম।",
+    "barishal_answer": "মাছের ডিম।"
+  },
+  {
+    "image_id": "food_150",
+    "original_question": "এই ছবির খাবারটি তৈরিতে কোন অংশের মাছ ব্যবহার করা হয়?",
+    "barishal_question": "এই ছবির খাবারখান তৈরীতে কোন অংশের মাছ ব্যবহার করা হয়?",
+    "original_answer": "বড় মাছের মাথা।",
+    "barishal_answer": "বড় মাছের মাথা।"
+  }
+]
