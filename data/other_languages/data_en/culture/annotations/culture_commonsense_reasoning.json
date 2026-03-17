@@ -1,0 +1,1256 @@
+[
+  {
+    "image_id": "culture_001",
+    "question": "The picture shows the Santal community's spring flower festival—what is its name?",
+    "options": [
+      "Sohrai",
+      "Karam",
+      "Wangala",
+      "Baha festival"
+    ],
+    "answer": "Baha festival"
+  },
+  {
+    "image_id": "culture_002",
+    "question": "What is the name of this traditional bamboo musical instrument in the picture?",
+    "options": [
+      "Harmoniam",
+      "Sitar",
+      "Tabla",
+      "Flute"
+    ],
+    "answer": "Flute"
+  },
+  {
+    "image_id": "culture_003",
+    "question": "What is the name of the song being performed by these folk artists in the picture to the tune of the ektara?",
+    "options": [
+      "Bhatiali",
+      "Bhawaiya",
+      "Gombhira",
+      "Baul songs"
+    ],
+    "answer": "Baul songs"
+  },
+  {
+    "image_id": "culture_004",
+    "question": "What is the name of this festival where countless people have gathered to listen to artists sing?",
+    "options": [
+      "Lalon Mela",
+      "Poush Mela",
+      "Rash Mela",
+      "Baul Fair"
+    ],
+    "answer": "Baul Fair"
+  },
+  {
+    "image_id": "culture_005",
+    "question": "What is the name of this ancient entertainment device shown in the picture?",
+    "options": [
+      "Gramophone",
+      "Radio",
+      "Puppet show",
+      "Bioscope"
+    ],
+    "answer": "Bioscope"
+  },
+  {
+    "image_id": "culture_006",
+    "question": "On this day of the picture, the immersion ritual is performed—what is the name of that day?",
+    "options": [
+      "Maha Saptami",
+      "Maha Ashtami",
+      "Maha Navami",
+      "Bijoya Dashami"
+    ],
+    "answer": "Bijoya Dashami"
+  },
+  {
+    "image_id": "culture_007",
+    "question": "On this day in pictures, people remember the glory of the Liberation War with flags—what day is this?",
+    "options": [
+      "Independence Day",
+      "Martyred Intellectuals Day",
+      "Language Martyrs Day",
+      "Victory Day"
+    ],
+    "answer": "Victory Day"
+  },
+  {
+    "image_id": "culture_008",
+    "question": "What is the name of the traditional festival celebrated by the tribes in the picture?",
+    "options": [
+      "Sangrai",
+      "Vaisabi",
+      "HaluDunia",
+      "Biju Festival"
+    ],
+    "answer": "Biju Festival"
+  },
+  {
+    "image_id": "culture_009",
+    "question": "What is the name of this grand assembly of pictures where millions of Muslims are participating in religious discussions?",
+    "options": [
+      "Tablighi Jamat",
+      "Eidgah",
+      "Urs Sharif",
+      "World Ijtima"
+    ],
+    "answer": "World Ijtima"
+  },
+  {
+    "image_id": "culture_010",
+    "question": "This social ritual in the picture is an important phase of Bengali life—what is it?",
+    "options": [
+      "Annaprashan",
+      "Akika",
+      "Engagement",
+      "Wedding"
+    ],
+    "answer": "Wedding"
+  },
+  {
+    "image_id": "culture_011",
+    "question": "What is the name of this festival celebrated in the hilly regions during New Year?",
+    "options": [
+      "Biju",
+      "Sangrai",
+      "Baisuk",
+      "Boishabi"
+    ],
+    "answer": "Boishabi"
+  },
+  {
+    "image_id": "culture_012",
+    "question": "What is the name of the traditional strength sport seen in the picture?",
+    "options": [
+      "Kabaddi",
+      "Lathi Khela",
+      "Nouka Baich",
+      "Boli Khela"
+    ],
+    "answer": "Boli Khela"
+  },
+  {
+    "image_id": "culture_013",
+    "question": "What is the name of this day in the picture?",
+    "options": [
+      "Maghi Purnima",
+      "Ashari Purnima",
+      "Modhu Purnima",
+      "Buddha Purnima"
+    ],
+    "answer": "Buddha Purnima"
+  },
+  {
+    "image_id": "culture_014",
+    "question": "On this night of the picture, people prepare for the festival with joy—what is the name of that night?",
+    "options": [
+      "Chand Raat",
+      "Shab-e-Barat",
+      "Shab-e-Qadr",
+      "Moonlit night"
+    ],
+    "answer": "Moonlit night"
+  },
+  {
+    "image_id": "culture_015",
+    "question": "The picture shows traditional handicraft—what is the name of this art form?",
+    "options": [
+      "Nakshi Kantha",
+      "Pottery",
+      "Bamboo craft",
+      "Chakma handicrafts"
+    ],
+    "answer": "Chakma handicrafts"
+  },
+  {
+    "image_id": "culture_016",
+    "question": "What is the name of this traditional mountain region song being performed by this group in the picture?",
+    "options": [
+      "Marma Folk Songs",
+      "Tripura Folk Songs",
+      "Garo Folk Songs",
+      "Chakma Folk Songs"
+    ],
+    "answer": "Chakma Folk Songs"
+  },
+  {
+    "image_id": "culture_017",
+    "question": "The picture shows teenage girls dressed in traditional attire—what is the style of their clothing?",
+    "options": [
+      "Sari",
+      "Salwar Kameez",
+      "Lehenga",
+      "Chakma attire"
+    ],
+    "answer": "Chakma attire"
+  },
+  {
+    "image_id": "culture_018",
+    "question": "What is the name of this picture festival celebrated to mark the end of the monsoon?",
+    "options": [
+      "Pohela Boishakh",
+      "Basanta Utsav",
+      "Nabanna",
+      "Chaitra Sankranti"
+    ],
+    "answer": "Chaitra Sankranti"
+  },
+  {
+    "image_id": "culture_019",
+    "question": "What is the name of the picture game?",
+    "options": [
+      "Football",
+      "Cricket",
+      "Kabaddi",
+      "Tag of War"
+    ],
+    "answer": "Tag of War"
+  },
+  {
+    "image_id": "culture_020",
+    "question": "What is the name of this fair of pictures?",
+    "options": [
+      "Ekushey Boi Mela",
+      "Banijyo Mela",
+      "Shishu Mela",
+      "Dhamrai Rath Yatra Fair"
+    ],
+    "answer": "Dhamrai Rath Yatra Fair"
+  },
+  {
+    "image_id": "culture_021",
+    "question": "What is the name of this work in the picture?",
+    "options": [
+      "Fishing",
+      "Weaving",
+      "Pottery making",
+      "Paddy cultivation"
+    ],
+    "answer": "Paddy cultivation"
+  },
+  {
+    "image_id": "culture_022",
+    "question": "What is the name of this festival of pictures where there is joyful song and dance?",
+    "options": [
+      "Poush Parbon",
+      "Holi festival",
+      "Boshonto Utshob",
+      "In the Nabanna festival"
+    ],
+    "answer": "In the Nabanna festival"
+  },
+  {
+    "image_id": "culture_023",
+    "question": "The picture shows a group dance—what is the name of the dance?",
+    "options": [
+      "Jhumur dance",
+      "Manipuri dance",
+      "Santal dance",
+      "Dhol dance"
+    ],
+    "answer": "Dhol dance"
+  },
+  {
+    "image_id": "culture_024",
+    "question": "What is the name of this festival in the picture?",
+    "options": [
+      "Rash Purnima",
+      "Kojagari Lakshmi Puja",
+      "Kartik Purnima",
+      "Dol Purnima"
+    ],
+    "answer": "Dol Purnima"
+  },
+  {
+    "image_id": "culture_025",
+    "question": "The image shows a traditional dance—what is the name of this dance?",
+    "options": [
+      "Tribal dance",
+      "Folk dance",
+      "Mask dance",
+      "Drum Dance"
+    ],
+    "answer": "Drum Dance"
+  },
+  {
+    "image_id": "culture_026",
+    "question": "What is the name of this festival where the Goddess is worshipped in this depiction?",
+    "options": [
+      "Kali Puja",
+      "Saraswati Puja",
+      "Lakshmi Puja",
+      "Durga Puja"
+    ],
+    "answer": "Durga Puja"
+  },
+  {
+    "image_id": "culture_027",
+    "question": "What is the name of this religious festival in the picture?",
+    "options": [
+      "Eid-ul-Fitr",
+      "Muharram",
+      "Milad-un-Nabi",
+      "The Festival of Sacrifice"
+    ],
+    "answer": "The Festival of Sacrifice"
+  },
+  {
+    "image_id": "culture_028",
+    "question": "What is the name of this day, when Muslims offer prayers and celebrate?",
+    "options": [
+      "Eid-ul-Adha",
+      "Chand Raat",
+      "Friday prayer",
+      "Eid al-Fitr"
+    ],
+    "answer": "Eid al-Fitr"
+  },
+  {
+    "image_id": "culture_029",
+    "question": "What day is it when people in the picture are paying homage with flowers?",
+    "options": [
+      "December 16",
+      "March 26",
+      "April 14",
+      "February 21st"
+    ],
+    "answer": "February 21st"
+  },
+  {
+    "image_id": "culture_030",
+    "question": "This folk song in the picture is sung especially to the beat of the dhol—what is the genre of the song?",
+    "options": [
+      "Lalon Geeti",
+      "Hason Raja's songs",
+      "Murshidi songs",
+      "Gazi's Song"
+    ],
+    "answer": "Gazi's Song"
+  },
+  {
+    "image_id": "culture_031",
+    "question": "What is the name of this traditional Garo hut seen in the picture?",
+    "options": [
+      "Monpa house",
+      "Naga hut",
+      "Khasi dwelling",
+      "Garo house"
+    ],
+    "answer": "Garo house"
+  },
+  {
+    "image_id": "culture_032",
+    "question": "What is the name of this garment, which is part of the Garo community's tradition?",
+    "options": [
+      "Sari",
+      "Thami",
+      "Rignai",
+      "Garo attire"
+    ],
+    "answer": "Garo attire"
+  },
+  {
+    "image_id": "culture_033",
+    "question": "What is the name of this ritual, a main wedding tradition in the picture?",
+    "options": [
+      "Reception",
+      "Engagement",
+      "Mehendi",
+      "Haldi Ceremony"
+    ],
+    "answer": "Haldi Ceremony"
+  },
+  {
+    "image_id": "culture_034",
+    "question": "What is the name of this fair held in Gazipur?",
+    "options": [
+      "Baishakhi Mela",
+      "Poush Mela",
+      "Rash Mela",
+      "Chaitra Mela"
+    ],
+    "answer": "Chaitra Mela"
+  },
+  {
+    "image_id": "culture_035",
+    "question": "What is the name of this picture fair?",
+    "options": [
+      "Book Fair",
+      "Trade Fair",
+      "Cattle Fair",
+      "Groom's Fair"
+    ],
+    "answer": "Groom's Fair"
+  },
+  {
+    "image_id": "culture_036",
+    "question": "What is the name of the game the children are playing by running in the picture?",
+    "options": [
+      "Hide and seek",
+      "Marbles",
+      "Hopscotch",
+      "Tag-of-war"
+    ],
+    "answer": "Tag-of-war"
+  },
+  {
+    "image_id": "culture_037",
+    "question": "What is the name of the rural vehicle seen in the picture?",
+    "options": [
+      "Rickshaw",
+      "Van",
+      "Tractor",
+      "Ox-cart"
+    ],
+    "answer": "Ox-cart"
+  },
+  {
+    "image_id": "culture_038",
+    "question": "What is this exhibition of pictures that showcases a collection of rural sports and products?",
+    "options": [
+      "Art gallery",
+      "Industrial fair",
+      "Science fair",
+      "Rural fair"
+    ],
+    "answer": "Rural fair"
+  },
+  {
+    "image_id": "culture_039",
+    "question": "What is the name of the game where young people are seen chasing and playing in groups in the picture?",
+    "options": [
+      "Football",
+      "Cricket",
+      "Gilli-danda",
+      "Kabaddi"
+    ],
+    "answer": "Kabaddi"
+  },
+  {
+    "image_id": "culture_040",
+    "question": "What is the name of the traditional lighting device shown in the picture?",
+    "options": [
+      "Electric bulb",
+      "Candle",
+      "Torch",
+      "Hurricane"
+    ],
+    "answer": "Hurricane"
+  },
+  {
+    "image_id": "culture_041",
+    "question": "What is the name of this traditional handcrafted garment in the picture?",
+    "options": [
+      "Silk",
+      "Khadi",
+      "Katan",
+      "Jamdani"
+    ],
+    "answer": "Jamdani"
+  },
+  {
+    "image_id": "culture_042",
+    "question": "What is the name of this type of song in the picture that expresses sorrow and religious sentiment?",
+    "options": [
+      "Bhatiali",
+      "Bhawaiya",
+      "Kirtan",
+      "Jari Gaan"
+    ],
+    "answer": "Jari Gaan"
+  },
+  {
+    "image_id": "culture_043",
+    "question": "What is the name of the fair seen in the picture?",
+    "options": [
+      "Flower festival",
+      "Rice festival",
+      "Fruit festival",
+      "Honey festival"
+    ],
+    "answer": "Honey festival"
+  },
+  {
+    "image_id": "culture_044",
+    "question": "What is the name of this theatrical art form, performed on a rural stage?",
+    "options": [
+      "Drama",
+      "Opera",
+      "Puppet show",
+      "Jatra"
+    ],
+    "answer": "Jatra"
+  },
+  {
+    "image_id": "culture_045",
+    "question": "What is the name of this festival where the Chakmas observe traditional rituals?",
+    "options": [
+      "Sangrai",
+      "Bishu",
+      "Wangala",
+      "Splash Festival"
+    ],
+    "answer": "Splash Festival"
+  },
+  {
+    "image_id": "culture_046",
+    "question": "What is the name of the festival shown in the picture?",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Shivaratri",
+      "Janmashtami"
+    ],
+    "answer": "Janmashtami"
+  },
+  {
+    "image_id": "culture_047",
+    "question": "What is the name of this picture game, an internationally popular chase-and-tag game?",
+    "options": [
+      "Hadudu",
+      "Kho-Kho",
+      "Dariabandha",
+      "Kabaddi"
+    ],
+    "answer": "Kabaddi"
+  },
+  {
+    "image_id": "culture_048",
+    "question": "What puja is being performed in the picture?",
+    "options": [
+      "Durga Puja",
+      "Saraswati Puja",
+      "Lakshmi Puja",
+      "Kali Puja"
+    ],
+    "answer": "Kali Puja"
+  },
+  {
+    "image_id": "culture_049",
+    "question": "The picture shows a craftsman melting iron to make utensils—what is the name of this profession?",
+    "options": [
+      "Potter",
+      "Weaver",
+      "Carpenter",
+      "Blacksmith"
+    ],
+    "answer": "Blacksmith"
+  },
+  {
+    "image_id": "culture_050",
+    "question": "What is the name of the game the children are playing in the picture?",
+    "options": [
+      "Ludo",
+      "Chess",
+      "Carrom",
+      "Blind Man's Buff"
+    ],
+    "answer": "Blind Man's Buff"
+  },
+  {
+    "image_id": "culture_051",
+    "question": "What is the name of this traditional attire from a community shown in the picture?",
+    "options": [
+      "Mizo attire",
+      "Manipuri attire",
+      "Santal attire",
+      "Khasi attire"
+    ],
+    "answer": "Khasi attire"
+  },
+  {
+    "image_id": "culture_052",
+    "question": "What is the name of the agricultural method shown in the picture?",
+    "options": [
+      "Terrace farming",
+      "Hydroponics",
+      "Irrigation",
+      "Jhum cultivation"
+    ],
+    "answer": "Jhum cultivation"
+  },
+  {
+    "image_id": "culture_053",
+    "question": "What is this Khasi hill village settlement shown in the picture called?",
+    "options": [
+      "Khasi colony",
+      "Khasi town",
+      "Khasi district",
+      "Khasi settlement"
+    ],
+    "answer": "Khasi settlement"
+  },
+  {
+    "image_id": "culture_054",
+    "question": "What is the name of this type of cultivation shown in the picture?",
+    "options": [
+      "Tea cultivation",
+      "Coffee cultivation",
+      "Rubber cultivation",
+      "Betel cultivation"
+    ],
+    "answer": "Betel cultivation"
+  },
+  {
+    "image_id": "culture_055",
+    "question": "What is the name of this religious devotional song being sung in the picture?",
+    "options": [
+      "Hamd",
+      "Naat",
+      "Bhajan",
+      "Kirtan"
+    ],
+    "answer": "Kirtan"
+  },
+  {
+    "image_id": "culture_056",
+    "question": "What is the name of the artwork in the picture?",
+    "options": [
+      "Head art",
+      "Hand art",
+      "Leg art",
+      "Waist art"
+    ],
+    "answer": "Waist art"
+  },
+  {
+    "image_id": "culture_057",
+    "question": "What is the name of this festival where thousands of people are participating in a music festival in the picture?",
+    "options": [
+      "Hason Raja Festival",
+      "Shah Abdul Karim Festival",
+      "Baul Mela",
+      "Lalon Festival"
+    ],
+    "answer": "Lalon Festival"
+  },
+  {
+    "image_id": "culture_058",
+    "question": "What is the name of this picture game?",
+    "options": [
+      "Sword fighting",
+      "Wrestling",
+      "Archery",
+      "Stick fighting"
+    ],
+    "answer": "Stick fighting"
+  },
+  {
+    "image_id": "culture_059",
+    "question": "What is the name of this traditional men's attire in the picture?",
+    "options": [
+      "Dhoti",
+      "Pajama",
+      "Trousers",
+      "Lungi"
+    ],
+    "answer": "Lungi"
+  },
+  {
+    "image_id": "culture_060",
+    "question": "What are the people doing in this picture?",
+    "options": [
+      "Planting trees",
+      "Harvesting crops",
+      "Buying goods",
+      "Catching fish"
+    ],
+    "answer": "Catching fish"
+  },
+  {
+    "image_id": "culture_061",
+    "question": "The picture shows a traditional house of a community, whose house is this?",
+    "options": [
+      "The Chakma",
+      "The Garo",
+      "The Santal",
+      "The Marma"
+    ],
+    "answer": "The Marma"
+  },
+  {
+    "image_id": "culture_062",
+    "question": "What is the name of the traditional attire worn by women of the Chakma community in this picture?",
+    "options": [
+      "Sari-Dhoti",
+      "Lungi-Tops",
+      "Rignai-Risun",
+      "Pinon-Hadi"
+    ],
+    "answer": "Pinon-Hadi"
+  },
+  {
+    "image_id": "culture_063",
+    "question": "What is the name of the game shown in this picture?",
+    "options": [
+      "Ludo game",
+      "Card game",
+      "Chess game",
+      "Marvel game"
+    ],
+    "answer": "Marvel game"
+  },
+  {
+    "image_id": "culture_064",
+    "question": "What is shown in this picture?",
+    "options": [
+      "Industrial baking",
+      "Gas stove cooking",
+      "Solar cooking",
+      "Cooking on a mud stove"
+    ],
+    "answer": "Cooking on a mud stove"
+  },
+  {
+    "image_id": "culture_065",
+    "question": "What is the name of this natural element in the picture?",
+    "options": [
+      "Sugar syrup",
+      "Palm oil",
+      "Fruit juice",
+      "Honey"
+    ],
+    "answer": "Honey"
+  },
+  {
+    "image_id": "culture_066",
+    "question": "The picture shows black flags and a Taziya procession—what is the name of this mourning day for Shia Muslims?",
+    "options": [
+      "Eid-ul-Fitr",
+      "Shab-e-Barat",
+      "Ashura",
+      "Muharram"
+    ],
+    "answer": "Muharram"
+  },
+  {
+    "image_id": "culture_067",
+    "question": "What is the name of this rural Bengali game in the picture?",
+    "options": [
+      "Bullfighting",
+      "Snake charming",
+      "Lathi Khela",
+      "Cockfighting"
+    ],
+    "answer": "Cockfighting"
+  },
+  {
+    "image_id": "culture_068",
+    "question": "What is the name of this world-famous artwork of Dhaka in the picture?",
+    "options": [
+      "Silk",
+      "Khadi",
+      "Nakshi Kantha",
+      "Muslin"
+    ],
+    "answer": "Muslin"
+  },
+  {
+    "image_id": "culture_069",
+    "question": "What is the name of this artwork by the artisans made of clay in the picture?",
+    "options": [
+      "Weaving",
+      "Woodwork",
+      "Blacksmithing",
+      "Pottery"
+    ],
+    "answer": "Pottery"
+  },
+  {
+    "image_id": "culture_070",
+    "question": "What is the name of this festival of the Marma community in the picture?",
+    "options": [
+      "Baisuk",
+      "Biju",
+      "Sangrai",
+      "Changran"
+    ],
+    "answer": "Changran"
+  },
+  {
+    "image_id": "culture_071",
+    "question": "What is the name of this ceremony of the Mru community in the picture?",
+    "options": [
+      "Harvest festival",
+      "Wedding ceremony",
+      "Childbirth ritual",
+      "Happy New Year"
+    ],
+    "answer": "Happy New Year"
+  },
+  {
+    "image_id": "culture_072",
+    "question": "What is the name of this harvest festival where farmers are celebrating with joy by cutting new paddy in the picture?",
+    "options": [
+      "Paush Parbon",
+      "Baisakhi",
+      "Maghi Purnima",
+      "Nabanna"
+    ],
+    "answer": "Nabanna"
+  },
+  {
+    "image_id": "culture_073",
+    "question": "What is the name of this musical genre where Kabi gaan is being performed to the rhythm of the harmonium and tabla in the picture?",
+    "options": [
+      "Rabindra Sangeet",
+      "Lalon Geeti",
+      "Bhatiali",
+      "Nazrul Geeti"
+    ],
+    "answer": "Nazrul Geeti"
+  },
+  {
+    "image_id": "culture_074",
+    "question": "What is the name of this traditional artwork, seen in the picture as colorful thread designs on cloth, meticulously hand-stitched by rural women?",
+    "options": [
+      "Jamdani",
+      "Batik",
+      "Block print",
+      "Nakshi Kantha"
+    ],
+    "answer": "Nakshi Kantha"
+  },
+  {
+    "image_id": "culture_075",
+    "question": "What is the name of this traditional game in the picture?",
+    "options": [
+      "Swimming",
+      "Sailing",
+      "Fishing",
+      "Boat Race"
+    ],
+    "answer": "Boat Race"
+  },
+  {
+    "image_id": "culture_076",
+    "question": "What is the name of this festive rural monsoon competition, where boats are racing in rows to the beat of drums in the picture?",
+    "options": [
+      "Water polo",
+      "Regatta",
+      "Canoeing",
+      "Boat race"
+    ],
+    "answer": "Boat race"
+  },
+  {
+    "image_id": "culture_077",
+    "question": "What is the name of this special festival of the Garo community, where they are celebrating with songs, dances, and traditional attire in the picture?",
+    "options": [
+      "Baha festival",
+      "Karam festival",
+      "Sohrai",
+      "Wangala Festival"
+    ],
+    "answer": "Wangala Festival"
+  },
+  {
+    "image_id": "culture_078",
+    "question": "What is the name of this festival where a hill tribe celebrates New Year wearing colorful attire?",
+    "options": [
+      "Sangrai",
+      "Biju",
+      "Baisabi",
+      "The Vaishakh of the hill people"
+    ],
+    "answer": "The Vaishakh of the hill people"
+  },
+  {
+    "image_id": "culture_079",
+    "question": "What is the name of Bengal's largest folk festival pictured here?",
+    "options": [
+      "Poush Mela",
+      "Basanta Utsav",
+      "Bijoya Dashami",
+      "Pohela Boishakh"
+    ],
+    "answer": "Pohela Boishakh"
+  },
+  {
+    "image_id": "culture_080",
+    "question": "In which social ceremony of Bengal was this used in the picture?",
+    "options": [
+      "Funerals",
+      "Naming ceremonies",
+      "Religious parades",
+      "Wedding palanquin"
+    ],
+    "answer": "Wedding palanquin"
+  },
+  {
+    "image_id": "culture_081",
+    "question": "What is the name of this scene, a famous cash crop cultivation in Bengal, where farmers are tending to fields of green leaves in the picture?",
+    "options": [
+      "Tea cultivation",
+      "Cotton cultivation",
+      "Tobacco cultivation",
+      "Jute cultivation"
+    ],
+    "answer": "Jute cultivation"
+  },
+  {
+    "image_id": "culture_082",
+    "question": "What is the name of this artwork in the picture?",
+    "options": [
+      "Textile industry",
+      "Garment industry",
+      "Leather industry",
+      "Jute industry"
+    ],
+    "answer": "Jute industry"
+  },
+  {
+    "image_id": "culture_083",
+    "question": "What is the name of this winter festival in Bengal shown in the picture?",
+    "options": [
+      "Fruit festival",
+      "Flower festival",
+      "New Year festival",
+      "Pitha-Puli Festival"
+    ],
+    "answer": "Pitha-Puli Festival"
+  },
+  {
+    "image_id": "culture_084",
+    "question": "Singing about rural life with a dotara in hand in the picture—which musical genre of Bengal does this belong to?",
+    "options": [
+      "Classical music",
+      "Modern music",
+      "Pop music",
+      "Folk song"
+    ],
+    "answer": "Folk song"
+  },
+  {
+    "image_id": "culture_085",
+    "question": "Is this a scene from a fair held on the occasion of Makar Sankranti?",
+    "options": [
+      "Maghi Mela",
+      "Chaitra Sankranti Mela",
+      "Rash Mela",
+      "Push Sankranti Fair"
+    ],
+    "answer": "Push Sankranti Fair"
+  },
+  {
+    "image_id": "culture_086",
+    "question": "What is the name of this traditional teaching method in the village school shown in the picture?",
+    "options": [
+      "Digital learning",
+      "Board teaching",
+      "Library reading",
+      "Manuscript reading"
+    ],
+    "answer": "Manuscript reading"
+  },
+  {
+    "image_id": "culture_087",
+    "question": "Where did puppet shows first begin in Bangladesh?",
+    "options": [
+      "Dhaka",
+      "Sylhet",
+      "Rajshahi",
+      "In Nabinagar, Brahmanbaria"
+    ],
+    "answer": "In Nabinagar, Brahmanbaria"
+  },
+  {
+    "image_id": "culture_088",
+    "question": "What is the name of this religious festival in the picture?",
+    "options": [
+      "Janmashtami",
+      "Guru Purnima",
+      "Maghi Purnima",
+      "Rakhi Purnima"
+    ],
+    "answer": "Rakhi Purnima"
+  },
+  {
+    "image_id": "culture_089",
+    "question": "What is the name of this Bengali festival, depicted in the picture, where thousands of people are gathered on the beach and devotees are offering worship?",
+    "options": [
+      "Ganga Snan",
+      "Snan Yatra",
+      "Sagardwip Fair",
+      "Rath Mela"
+    ],
+    "answer": "Rath Mela"
+  },
+  {
+    "image_id": "culture_090",
+    "question": "What is the name of this traditional religious festival in the picture?",
+    "options": [
+      "Durga Puja",
+      "Holi",
+      "Diwali",
+      "Rath Yatra"
+    ],
+    "answer": "Rath Yatra"
+  },
+  {
+    "image_id": "culture_091",
+    "question": "What is the name of this traditional Bengali vehicle in the picture?",
+    "options": [
+      "Auto-rickshaw",
+      "Cycle",
+      "Horse carriage",
+      "Rickshaw"
+    ],
+    "answer": "Rickshaw"
+  },
+  {
+    "image_id": "culture_092",
+    "question": "What is the name of this festival where people are remembering Kabi Guru by singing songs and a fair is set up?",
+    "options": [
+      "Nazrul Mela",
+      "Lalon Mela",
+      "Baishakhi Mela",
+      "Rabindra Mela"
+    ],
+    "answer": "Rabindra Mela"
+  },
+  {
+    "image_id": "culture_093",
+    "question": "What is the name of the festival celebrated in Dhaka city on the last day of winter, as shown in the picture?",
+    "options": [
+      "Holi",
+      "Dewali",
+      "Pohela Phalgun",
+      "Sakrain"
+    ],
+    "answer": "Sakrain"
+  },
+  {
+    "image_id": "culture_094",
+    "question": "What is the name of this scene of Santali youths playing large drums—their traditional musical instruments?",
+    "options": [
+      "Santal Tabla",
+      "Santal Banshi",
+      "Santal Ektara",
+      "Santal Dhol"
+    ],
+    "answer": "Santal Dhol"
+  },
+  {
+    "image_id": "culture_095",
+    "question": "What is the name of this folk dance where young men and women are dancing in groups, holding hands?",
+    "options": [
+      "Jhumur dance",
+      "Bihu dance",
+      "Kathak",
+      "Dong dance"
+    ],
+    "answer": "Dong dance"
+  },
+  {
+    "image_id": "culture_096",
+    "question": "In the picture, a group is singing a Bengali folk song—what is the name of the song, especially the one sung by women in turns?",
+    "options": [
+      "Marriage song",
+      "Harvest song",
+      "Lullaby",
+      "Rowing song"
+    ],
+    "answer": "Rowing song"
+  },
+  {
+    "image_id": "culture_097",
+    "question": "In the picture, the Khasi community is seen performing special rituals on the last day of the year—what is this festival called?",
+    "options": [
+      "Baisuk",
+      "Wangala",
+      "Sangrai",
+      "Seng Kut Snem."
+    ],
+    "answer": "Seng Kut Snem."
+  },
+  {
+    "image_id": "culture_098",
+    "question": "What is the name of the Bangladeshi national day where people are shown remembering martyrs with a red and green flag in their hands?",
+    "options": [
+      "Victory Day",
+      "Language Day",
+      "National Mourning Day",
+      "Independence Day"
+    ],
+    "answer": "Independence Day"
+  },
+  {
+    "image_id": "culture_099",
+    "question": "What is the name of this New Year festival of the Marma community in the picture?",
+    "options": [
+      "Biju Festival",
+      "Baisabi",
+      "Pohela Boishakh",
+      "Sangrai Festival"
+    ],
+    "answer": "Sangrai Festival"
+  },
+  {
+    "image_id": "culture_100",
+    "question": "The Durga Puja celebrations are underway in autumn as depicted in the picture—what is this puja called?",
+    "options": [
+      "Spring Festival",
+      "Harvest Festival",
+      "Winter Festival",
+      "Autumn Festival"
+    ],
+    "answer": "Autumn Festival"
+  },
+  {
+    "image_id": "culture_101",
+    "question": "In the picture, students are worshipping with books and flowers in their hands—what is the name of the puja for the goddess of learning and knowledge?",
+    "options": [
+      "Kali Puja",
+      "Lakshmi Puja",
+      "Durga Puja",
+      "Saraswati Puja"
+    ],
+    "answer": "Saraswati Puja"
+  },
+  {
+    "image_id": "culture_102",
+    "question": "What is the name of this religious night when Muslims are praying and offering supplications at night, as shown in the picture?",
+    "options": [
+      "Shab-e-Qadr",
+      "Eid-ul-Fitr",
+      "Ashura",
+      "Laylat al-Bara'ah"
+    ],
+    "answer": "Laylat al-Bara'ah"
+  },
+  {
+    "image_id": "culture_103",
+    "question": "What is the name of the festival where cows are decorated and brought to the field by rural herders?",
+    "options": [
+      "Nabanna",
+      "Baha festival",
+      "Karam festival",
+      "Sohrai festival"
+    ],
+    "answer": "Sohrai festival"
+  },
+  {
+    "image_id": "culture_104",
+    "question": "What is the name of the traditional dance being performed by the Garo young women in the picture, as they dance together in a group?",
+    "options": [
+      "Jhumur dance",
+      "Bamboo dance",
+      "Rain dance",
+      "Sewing dance"
+    ],
+    "answer": "Sewing dance"
+  },
+  {
+    "image_id": "culture_105",
+    "question": "The exhibition of handicrafts and folk art in Sonargaon is visible in the picture—what is the name of the fair?",
+    "options": [
+      "Trade Fair",
+      "Book Fair",
+      "Agricultural Fair",
+      "Craft Fair"
+    ],
+    "answer": "Craft Fair"
+  },
+  {
+    "image_id": "culture_106",
+    "question": "What is the name of this art where cloth is made by weaving threads on a loom in the picture?",
+    "options": [
+      "Embroidery",
+      "Knitting",
+      "Sewing",
+      "Handloom weaving"
+    ],
+    "answer": "Handloom weaving"
+  },
+  {
+    "image_id": "culture_107",
+    "question": "The artwork and architecture made of clay seen in the picture—which art movement is this?",
+    "options": [
+      "Oil painting",
+      "Sculpture",
+      "Mosaic",
+      "Terracotta"
+    ],
+    "answer": "Terracotta"
+  },
+  {
+    "image_id": "culture_108",
+    "question": "In the picture, young women of the Tripura community are dancing in traditional attire—what is the name of this dance?",
+    "options": [
+      "Manipuri Dance",
+      "Marma Dance",
+      "Garo Dance",
+      "Tripura Dance"
+    ],
+    "answer": "Tripura Dance"
+  },
+  {
+    "image_id": "culture_109",
+    "question": "The picture shows people from North Bengal singing about the sorrows and hardships of rural life in a melodious Bhatiali tune—what is the genre of the song?",
+    "options": [
+      "Bhatiali",
+      "Gombhira",
+      "Jarigan",
+      "Bhawaiya"
+    ],
+    "answer": "Bhawaiya"
+  },
+  {
+    "image_id": "culture_110",
+    "question": "The name of this folk song, sung by the boatman while rowing his boat against the river current, is what?",
+    "options": [
+      "Bhawaiya",
+      "Sari Gaan",
+      "Murshidi",
+      "Bhatiali"
+    ],
+    "answer": "Bhatiali"
+  },
+  {
+    "image_id": "culture_111",
+    "question": "The picture shows a crowd gathered at a traditional fair in a rural area—what is this fair called?",
+    "options": [
+      "Rash Mela",
+      "Lalon Mela",
+      "Ekushey Mela",
+      "Poradaha Mela"
+    ],
+    "answer": "Poradaha Mela"
+  },
+  {
+    "image_id": "culture_112",
+    "question": "What is the name of this religious festival where devotees are bathing in the river and performing puja, with crowds of people at a fair around?",
+    "options": [
+      "Kumbh Mela",
+      "Ganga Snan",
+      "Poush Mela",
+      "Baruni fair"
+    ],
+    "answer": "Baruni fair"
+  },
+  {
+    "image_id": "culture_113",
+    "question": "What is the name of the equipment seen in the picture, which has been used for fishing for centuries?",
+    "options": [
+      "Fishing net",
+      "Spear",
+      "Trap",
+      "Fishing hook"
+    ],
+    "answer": "Fishing hook"
+  },
+  {
+    "image_id": "culture_114",
+    "question": "In what traditional method is the farmer cultivating the land in the picture?",
+    "options": [
+      "Tractor plowing",
+      "Hand hoeing",
+      "Spade digging",
+      "Oxen plowing"
+    ],
+    "answer": "Oxen plowing"
+  }
+]

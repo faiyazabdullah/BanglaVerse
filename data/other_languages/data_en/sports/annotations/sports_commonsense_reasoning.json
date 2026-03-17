@@ -1,0 +1,695 @@
+[
+  {
+    "image_id": "sports_001",
+    "question": "What is the person in the picture famous for?",
+    "options": [
+      "As a specialist bowler",
+      "As a wicketkeeper",
+      "As a field hockey player",
+      "As an all-rounder"
+    ],
+    "answer": "As an all-rounder"
+  },
+  {
+    "image_id": "sports_002",
+    "question": "What is the name of the game being played in the picture?",
+    "options": [
+      "Football",
+      "Kho Kho",
+      "Lathi Khela",
+      "Kabaddi (Hadudu)"
+    ],
+    "answer": "Kabaddi (Hadudu)"
+  },
+  {
+    "image_id": "sports_003",
+    "question": "Which sport does the team shown in the picture from Bangladesh play?",
+    "options": [
+      "Football",
+      "Hockey",
+      "Kabaddi",
+      "Cricket"
+    ],
+    "answer": "Cricket"
+  },
+  {
+    "image_id": "sports_004",
+    "question": "Which country's cricket team wears the red and green jersey shown in the picture?",
+    "options": [
+      "India",
+      "Pakistan",
+      "South Africa",
+      "Bangladesh"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "image_id": "sports_005",
+    "question": "What is the name of the player in the picture who has played for Bangladesh's men's cricket team?",
+    "options": [
+      "Tamim Iqbal",
+      "Mashrafe Mortaza",
+      "Mushfiqur Rahim",
+      "Shakib Al Hasan"
+    ],
+    "answer": "Shakib Al Hasan"
+  },
+  {
+    "image_id": "sports_006",
+    "question": "What position in the Bangladesh men's cricket team is the pictured player popular for?",
+    "options": [
+      "Coach",
+      "Team Manager",
+      "Opening Batsman",
+      "Captain"
+    ],
+    "answer": "Captain"
+  },
+  {
+    "image_id": "sports_007",
+    "question": "The logo features a picture of Bangladesh's national animal in the middle, what is the animal?",
+    "options": [
+      "Black Panther",
+      "Asian Elephant",
+      "Spotted Deer",
+      "Royal Bengal Tiger"
+    ],
+    "answer": "Royal Bengal Tiger"
+  },
+  {
+    "image_id": "sports_008",
+    "question": "Which country does the team in the white jersey in the picture play football for?",
+    "options": [
+      "India",
+      "Nepal",
+      "Maldives",
+      "Bangladesh"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "image_id": "sports_009",
+    "question": "What number jersey is the player in the picture wearing?",
+    "options": [
+      "10",
+      "07",
+      "11",
+      "06"
+    ],
+    "answer": "06"
+  },
+  {
+    "image_id": "sports_010",
+    "question": "What position does the footballer Hamza Choudhury play?",
+    "options": [
+      "Goalkeeper",
+      "Forward",
+      "Defender",
+      "Midfielder"
+    ],
+    "answer": "Midfielder"
+  },
+  {
+    "image_id": "sports_011",
+    "question": "What is the short name of the football federation of the country from which the logo originates?",
+    "options": [
+      "BCB",
+      "BOC",
+      "BASA",
+      "BAPUFE"
+    ],
+    "answer": "BAPUFE"
+  },
+  {
+    "image_id": "sports_012",
+    "question": "In what year did the events of this picture take place?",
+    "options": [
+      "1971",
+      "2011",
+      "2024",
+      "1997"
+    ],
+    "answer": "1997"
+  },
+  {
+    "image_id": "sports_013",
+    "question": "What sport is the woman in the picture skilled at?",
+    "options": [
+      "Tennis",
+      "Badminton",
+      "Table Tennis",
+      "Chess"
+    ],
+    "answer": "Chess"
+  },
+  {
+    "image_id": "sports_014",
+    "question": "What game is the player in the picture skilled at?",
+    "options": [
+      "Polo",
+      "Cricket",
+      "Archery",
+      "Golf"
+    ],
+    "answer": "Golf"
+  },
+  {
+    "image_id": "sports_015",
+    "question": "Who is the athlete in the picture, who won the gold medal in the South Asian Games weightlifting competition?",
+    "options": [
+      "Zunayied Siddique",
+      "Mofazzel Hossain",
+      "Jannatul Ferdous",
+      "Mabia Akhter Simanta"
+    ],
+    "answer": "Mabia Akhter Simanta"
+  },
+  {
+    "image_id": "sports_016",
+    "question": "In the picture, the Bangladesh Women's Cricket team won a tournament in 2018, which tournament was it?",
+    "options": [
+      "ICC World Cup",
+      "Champions Trophy",
+      "Commonwealth Games",
+      "Asia Cup"
+    ],
+    "answer": "Asia Cup"
+  },
+  {
+    "image_id": "sports_017",
+    "question": "Who is the player in the picture, the first-generation left-arm spinner of international standard from Bangladesh?",
+    "options": [
+      "Abdur Razzak",
+      "Enamul Haque Jr",
+      "Taijul Islam",
+      "Mohammad Rafiq"
+    ],
+    "answer": "Mohammad Rafiq"
+  },
+  {
+    "image_id": "sports_018",
+    "question": "Who is the football player in the picture, who was once the president of BAFUFE?",
+    "options": [
+      "Mamunul Islam",
+      "Sheikh Aslam",
+      "Zahid Hasan Ameli",
+      "Kazi Salahuddin"
+    ],
+    "answer": "Kazi Salahuddin"
+  },
+  {
+    "image_id": "sports_019",
+    "question": "The man in the picture was the coach of the Bangladesh women's football team in 1995 – who is he?",
+    "options": [
+      "Jamie Day",
+      "Oscar Bruzon",
+      "Lodewijk de Kruif",
+      "Golam Rabbani Chhoton"
+    ],
+    "answer": "Golam Rabbani Chhoton"
+  },
+  {
+    "image_id": "sports_020",
+    "question": "Who is the player in the picture, representing Bangladesh women's football?",
+    "options": [
+      "Maria Manda",
+      "Sanjida Akhter",
+      "Krishna Rani Sarkar",
+      "Sabina Khatun"
+    ],
+    "answer": "Sabina Khatun"
+  },
+  {
+    "image_id": "sports_021",
+    "question": "Which cricketer created a sensation worldwide by taking multiple five-wicket hauls on debut?",
+    "options": [
+      "Taskin Ahmed",
+      "Rubel Hossain",
+      "Shoriful Islam",
+      "Mustafizur Rahman"
+    ],
+    "answer": "Mustafizur Rahman"
+  },
+  {
+    "image_id": "sports_022",
+    "question": "What is the name of the competition that features wooden boats propelled by large teams?",
+    "options": [
+      "Sailing",
+      "Rafting",
+      "Kayaking",
+      "Boat race"
+    ],
+    "answer": "Boat race"
+  },
+  {
+    "image_id": "sports_023",
+    "question": "What is the name of the game where you have to recite a rhyme with a picture?",
+    "options": [
+      "Hide and seek",
+      "Tag",
+      "Hopscotch",
+      "Blind man's buff"
+    ],
+    "answer": "Blind man's buff"
+  },
+  {
+    "image_id": "sports_024",
+    "question": "What game is being played in the picture, standing on one leg with the other leg bent?",
+    "options": [
+      "Wrestling",
+      "Karate",
+      "Kabaddi",
+      "Cockfighting"
+    ],
+    "answer": "Cockfighting"
+  },
+  {
+    "image_id": "sports_025",
+    "question": "What is the name of the game being played with sticks in the picture?",
+    "options": [
+      "Fencing",
+      "Cricket",
+      "Billiards",
+      "Stick fighting"
+    ],
+    "answer": "Stick fighting"
+  },
+  {
+    "image_id": "sports_026",
+    "question": "The player in the picture is a right-handed batsman and wicketkeeper — who is he?",
+    "options": [
+      "Litton Das",
+      "Nurul Hasan",
+      "Anamul Haque",
+      "Mushfiqur Rahim"
+    ],
+    "answer": "Mushfiqur Rahim"
+  },
+  {
+    "image_id": "sports_027",
+    "question": "The man in the picture won a gold medal in shooting at the Commonwealth Games — what is his name?",
+    "options": [
+      "Abdullah Hel Baki",
+      "Siddikur Rahman",
+      "Roman Shana",
+      "Asif Hossain Khan"
+    ],
+    "answer": "Asif Hossain Khan"
+  },
+  {
+    "image_id": "sports_028",
+    "question": "The players in the picture are preparing to play which game with sticks in their hands?",
+    "options": [
+      "Golf",
+      "Lacrosse",
+      "Cricket",
+      "Hockey"
+    ],
+    "answer": "Hockey"
+  },
+  {
+    "image_id": "sports_029",
+    "question": "What is the name of the game being played in the picture with a ball and seven small plants, a game of seven plants?",
+    "options": [
+      "Gardening",
+      "Lawn bowls",
+      "Croquet",
+      "Seven seedlings"
+    ],
+    "answer": "Seven seedlings"
+  },
+  {
+    "image_id": "sports_030",
+    "question": "The swimmer in the picture has crossed the English Channel 4 times — who is he/she?",
+    "options": [
+      "Zuber Khan",
+      "Ariful Islam",
+      "Mahfuza Khatun",
+      "Brojen Das"
+    ],
+    "answer": "Brojen Das"
+  },
+  {
+    "image_id": "sports_031",
+    "question": "What kind of ceremony is depicted in the picture?",
+    "options": [
+      "ICC World Cup Launch",
+      "Asia Cup Opening",
+      "Olympic Parade",
+      "BPL Opening Ceremony"
+    ],
+    "answer": "BPL Opening Ceremony"
+  },
+  {
+    "image_id": "sports_032",
+    "question": "The team with the logo in the picture is a BPL team — what is its name?",
+    "options": [
+      "Comilla Victorians",
+      "Sylhet Strikers",
+      "Rangpur Riders",
+      "Dhaka Gladiators"
+    ],
+    "answer": "Dhaka Gladiators"
+  },
+  {
+    "image_id": "sports_033",
+    "question": "Which team, whose logo is pictured, became the champions of the BPL in 2017?",
+    "options": [
+      "Dhaka Dynamites",
+      "Comilla Victorians",
+      "Rangpur Riders",
+      "Chittagong Kings"
+    ],
+    "answer": "Chittagong Kings"
+  },
+  {
+    "image_id": "sports_034",
+    "question": "The team whose logo is in the picture represents the Khulna division in the BPL. What is the team's name?",
+    "options": [
+      "Khulna Titans",
+      "Khulna Royal Bengals",
+      "Khulna Kings",
+      "Khulna Tigers"
+    ],
+    "answer": "Khulna Tigers"
+  },
+  {
+    "image_id": "sports_035",
+    "question": "What is the name of the team with the picture logo that has won the BPL title the most times?",
+    "options": [
+      "Dhaka Dynamites",
+      "Rangpur Riders",
+      "Sylhet Strikers",
+      "Comilla Victorians"
+    ],
+    "answer": "Comilla Victorians"
+  },
+  {
+    "image_id": "sports_036",
+    "question": "Which team is seen in the picture wearing green jerseys?",
+    "options": [
+      "Bangladesh Men's Football Team",
+      "Bangladesh Hockey Team",
+      "Bangladesh Archery Team",
+      "Bangladesh women's national football team"
+    ],
+    "answer": "Bangladesh women's national football team"
+  },
+  {
+    "image_id": "sports_037",
+    "question": "In the picture, the Bangladesh Women's Football team is celebrating on the field for winning which trophy?",
+    "options": [
+      "AFC Women's Cup",
+      "South Asian Games Gold",
+      "Bangamata Cup",
+      "SAFF Championship Trophy"
+    ],
+    "answer": "SAFF Championship Trophy"
+  },
+  {
+    "image_id": "sports_038",
+    "question": "What is the current name of the club, which was previously known as Iqbal Sporting Club?",
+    "options": [
+      "Mohammedan SC",
+      "Sheikh Jamal Dhanmondi",
+      "Bashundhara Kings",
+      "Abahani Limited Dhaka"
+    ],
+    "answer": "Abahani Limited Dhaka"
+  },
+  {
+    "image_id": "sports_039",
+    "question": "The stadium in the picture is located in the Motijheel area of Dhaka, what is the name of the stadium?",
+    "options": [
+      "Sher-e-Bangla Stadium",
+      "MA Aziz Stadium",
+      "Zohur Ahmed Chowdhury Stadium",
+      "Bangabandhu National Stadium"
+    ],
+    "answer": "Bangabandhu National Stadium"
+  },
+  {
+    "image_id": "sports_040",
+    "question": "The man in the picture is the coach of the Bangladesh national cricket team, what is his name?",
+    "options": [
+      "Jamie Siddons",
+      "Dav Whatmore",
+      "Russell Domingo",
+      "Upul Chandika Hathurusingha"
+    ],
+    "answer": "Upul Chandika Hathurusingha"
+  },
+  {
+    "image_id": "sports_041",
+    "question": "The person in the picture is a former coach of the Bangladesh national cricket team and an English cricketer, what is his name?",
+    "options": [
+      "Gordon Greenidge",
+      "Shane Jurgensen",
+      "Richard Pybus",
+      "Steven John Rhodes"
+    ],
+    "answer": "Steven John Rhodes"
+  },
+  {
+    "image_id": "sports_042",
+    "question": "The player in the picture is the highest run-scorer in Bangladesh – what is the player's name?",
+    "options": [
+      "Shakib Al Hasan",
+      "Mushfiqur Rahim",
+      "Mahmudullah",
+      "Tamim Iqbal Khan"
+    ],
+    "answer": "Tamim Iqbal Khan"
+  },
+  {
+    "image_id": "sports_043",
+    "question": "The player in the picture is known as a T20 finisher – what is the player's name?",
+    "options": [
+      "Soumya Sarkar",
+      "Afif Hossain",
+      "Towhid Hridoy",
+      "Mohammad Mahmudullah Riyad"
+    ],
+    "answer": "Mohammad Mahmudullah Riyad"
+  },
+  {
+    "image_id": "sports_044",
+    "question": "The player in the picture holds the record for the youngest century in Test cricket – what is the player's name?",
+    "options": [
+      "Shahadat Hossain",
+      "Talha Jubair",
+      "Mominul Haque",
+      "Mohammad Ashraful"
+    ],
+    "answer": "Mohammad Ashraful"
+  },
+  {
+    "image_id": "sports_045",
+    "question": "Who is the player, the first Bangladeshi spinner to take five wickets in One Day International cricket?",
+    "options": [
+      "Mohammad Rafiq",
+      "Enamul Haque Jr",
+      "Taijul Islam",
+      "Abdur Razzaque"
+    ],
+    "answer": "Abdur Razzaque"
+  },
+  {
+    "image_id": "sports_046",
+    "question": "The cricketer in the picture is Bangladesh Cricket's first successful captain – what is the player's name?",
+    "options": [
+      "Akram Khan",
+      "Khaled Mashud Pilot",
+      "Aminul Islam Bulbul",
+      "Habibul Bashar"
+    ],
+    "answer": "Habibul Bashar"
+  },
+  {
+    "image_id": "sports_047",
+    "question": "The player in the picture is the first player to score a century in a Test cricket match for Bangladesh – what is the player's name?",
+    "options": [
+      "Javed Omar",
+      "Habibul Bashar",
+      "Alok Kapali",
+      "Aminul Islam Bulbul"
+    ],
+    "answer": "Aminul Islam Bulbul"
+  },
+  {
+    "image_id": "sports_048",
+    "question": "The player in the picture completed their first international century in only their second ODI career match – what is the player's name?",
+    "options": [
+      "Anamul Haque",
+      "Najmul Hossain Shanto",
+      "Litton Das",
+      "Enamul Haque Bijoy"
+    ],
+    "answer": "Enamul Haque Bijoy"
+  },
+  {
+    "image_id": "sports_049",
+    "question": "Who is the man in the picture, currently the President of the Bangladesh Cricket Board?",
+    "options": [
+      "Nazmul Hassan Papon",
+      "Faruque Ahmed",
+      "Saber Hossain Chowdhury",
+      "Aminul Islam Bulbul"
+    ],
+    "answer": "Aminul Islam Bulbul"
+  },
+  {
+    "image_id": "sports_050",
+    "question": "The player in the picture is the captain of the Bangladesh national men's hockey team – what is the player's name?",
+    "options": [
+      "Mamunur Rahman Chayan",
+      "Puskor Khisa Mimo",
+      "Ashraful Islam",
+      "Rasel Mahmud Jimmy"
+    ],
+    "answer": "Rasel Mahmud Jimmy"
+  },
+  {
+    "image_id": "sports_051",
+    "question": "What is the name of the woman in the picture who won two gold medals in the 50m and 100m breaststroke at the 2016 South Asian Games?",
+    "options": [
+      "Naima Akter",
+      "Sonia Akter Tumpa",
+      "Jhorna Akter",
+      "Mahfuza Khatun Sheela"
+    ],
+    "answer": "Mahfuza Khatun Sheela"
+  },
+  {
+    "image_id": "sports_052",
+    "question": "The cricketer in the picture is a left-arm pacer for the Bangladesh national cricket team – what is the cricketer's name?",
+    "options": [
+      "Shoriful Islam",
+      "Rubel Hossain",
+      "Taskin Ahmed",
+      "Mustafizur Rahman"
+    ],
+    "answer": "Mustafizur Rahman"
+  },
+  {
+    "image_id": "sports_053",
+    "question": "Which sport does the player in the picture represent Bangladesh in?",
+    "options": [
+      "Shooting",
+      "Fencing",
+      "Golf",
+      "Archery"
+    ],
+    "answer": "Archery"
+  },
+  {
+    "image_id": "sports_054",
+    "question": "What is the player in the picture's nickname?",
+    "options": [
+      "The Tiger",
+      "The Silent Killer",
+      "The Wall",
+      "The Falcon of Bengal"
+    ],
+    "answer": "The Falcon of Bengal"
+  },
+  {
+    "image_id": "sports_055",
+    "question": "What country is the person in the picture a citizen of?",
+    "options": [
+      "Portugal",
+      "Brazil",
+      "Argentina",
+      "Spain"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "image_id": "sports_056",
+    "question": "What is the main position of the player in the picture?",
+    "options": [
+      "Goalkeeper",
+      "Forward",
+      "Center-back",
+      "Midfielder"
+    ],
+    "answer": "Midfielder"
+  },
+  {
+    "image_id": "sports_057",
+    "question": "What position does the player in the picture play?",
+    "options": [
+      "Right-back",
+      "Center-mid",
+      "Striker",
+      "Left-back"
+    ],
+    "answer": "Left-back"
+  },
+  {
+    "image_id": "sports_058",
+    "question": "Which team does the cricketer in the picture play for?",
+    "options": [
+      "India National Team",
+      "Pakistan National Team",
+      "England National Team",
+      "Bangladesh National Team"
+    ],
+    "answer": "Bangladesh National Team"
+  },
+  {
+    "image_id": "sports_059",
+    "question": "What type of bowler is the player in the picture?",
+    "options": [
+      "Right-arm off-break",
+      "Left-arm fast",
+      "Leg-spinner",
+      "Right-arm fast-medium"
+    ],
+    "answer": "Right-arm fast-medium"
+  },
+  {
+    "image_id": "sports_060",
+    "question": "Which position does the cricketer in the picture play?",
+    "options": [
+      "Opening bowler",
+      "Spin specialist",
+      "All-rounder",
+      "Batsman and wicketkeeper"
+    ],
+    "answer": "Batsman and wicketkeeper"
+  },
+  {
+    "image_id": "sports_061",
+    "question": "In what position does the footballer in the picture play?",
+    "options": [
+      "Midfielder",
+      "Defender",
+      "Goalkeeper",
+      "Striker"
+    ],
+    "answer": "Striker"
+  },
+  {
+    "image_id": "sports_062",
+    "question": "What type of bowling does the cricketer in the picture do?",
+    "options": [
+      "Right-arm off-spin",
+      "Right-arm leg-spin",
+      "Fast-medium",
+      "Left-arm spin"
+    ],
+    "answer": "Left-arm spin"
+  },
+  {
+    "image_id": "sports_063",
+    "question": "In which format of international cricket has the cricketer in the picture shown top performance?",
+    "options": [
+      "Test Match only",
+      "First Class Cricket",
+      "Domestic T20",
+      "ODI and T20"
+    ],
+    "answer": "ODI and T20"
+  }
+]

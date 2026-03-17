@@ -1,0 +1,1652 @@
+[
+  {
+    "image_id": "history_001",
+    "question": "Flowers are being offered at the Shaheed Minar in the picture. Which historical day are people celebrating?",
+    "options": [
+      "Independence Day",
+      "Victory Day",
+      "Pohela Boishakh",
+      "Great Martyrs' Day"
+    ],
+    "answer": "Great Martyrs' Day"
+  },
+  {
+    "image_id": "history_002",
+    "question": "What is happening in the picture?",
+    "options": [
+      "Partition of India",
+      "British Crown takes over",
+      "Signing of the Magna Carta",
+      "Pakistan surrenders to Bangladesh"
+    ],
+    "answer": "Pakistan surrenders to Bangladesh"
+  },
+  {
+    "image_id": "history_003",
+    "question": "Who is the other co-founder of the company shown in the picture, along with John Watt?",
+    "options": [
+      "Queen Victoria",
+      "King George III",
+      "James I",
+      "Elizabeth I"
+    ],
+    "answer": "Elizabeth I"
+  },
+  {
+    "image_id": "history_004",
+    "question": "How many branches did the man in the picture divide the Bengali language into?",
+    "options": [
+      "In 3 branches",
+      "In 4 branches",
+      "In 5 branches",
+      "In 2 branches"
+    ],
+    "answer": "In 2 branches"
+  },
+  {
+    "image_id": "history_005",
+    "question": "Which legendary leader was present at the session of the proposal shown in the picture?",
+    "options": [
+      "Maulana Bhashani",
+      "Huseyn Shaheed Suhrawardy",
+      "Sheikh Mujibur Rahman",
+      "Abul Kashem Fazlul Huq"
+    ],
+    "answer": "Abul Kashem Fazlul Huq"
+  },
+  {
+    "image_id": "history_006",
+    "question": "For what purpose was Bengal partitioned, leading to the birth of a united resistance movement among Bengalis?",
+    "options": [
+      "Economic",
+      "Religious",
+      "Cultural",
+      "Political"
+    ],
+    "answer": "Political"
+  },
+  {
+    "image_id": "history_007",
+    "question": "On what date and in what year was this statement in the picture made?",
+    "options": [
+      "December 16, 1971",
+      "February 21, 1952",
+      "August 14, 1947",
+      "March 26, 1971"
+    ],
+    "answer": "March 26, 1971"
+  },
+  {
+    "image_id": "history_008",
+    "question": "Why do the copperplate inscriptions on pictures carry evidence of the rule of ancient rulers?",
+    "options": [
+      "They were used as decorative art pieces for the palace.",
+      "They recorded folk songs and local poetry of the era.",
+      "They served as currency for international trade.",
+      "In Tamralipti, royal decrees and land grants were inscribed, which provided administrative information."
+    ],
+    "answer": "In Tamralipti, royal decrees and land grants were inscribed, which provided administrative information."
+  },
+  {
+    "image_id": "history_009",
+    "question": "Why were the Pala rulers patrons of Buddhism?",
+    "options": [
+      "They converted to escape Jainism.",
+      "They wanted to standardize language.",
+      "They were forced by neighboring kings.",
+      "They believed in Mahayana Buddhism and were interested in building monasteries."
+    ],
+    "answer": "They believed in Mahayana Buddhism and were interested in building monasteries."
+  },
+  {
+    "image_id": "history_010",
+    "question": "What information do the ancient coins in the picture provide?",
+    "options": [
+      "The population of the city",
+      "The climate of the region",
+      "The musical preferences of the king",
+      "This reveals the ruler's name, religious symbols, and the type of economy."
+    ],
+    "answer": "This reveals the ruler's name, religious symbols, and the type of economy."
+  },
+  {
+    "image_id": "history_011",
+    "question": "Why was Bengal's terrakotta art so renowned?",
+    "options": [
+      "Abundance of gold",
+      "Lack of stone",
+      "Imported marble",
+      "Easily available clay"
+    ],
+    "answer": "Easily available clay"
+  },
+  {
+    "image_id": "history_012",
+    "question": "What was the use of inscriptions in paintings?",
+    "options": [
+      "Religious poetry",
+      "Financial accounting",
+      "Personal diaries",
+      "Legal document"
+    ],
+    "answer": "Legal document"
+  },
+  {
+    "image_id": "history_013",
+    "question": "Why was Buddhism prevalent in ancient Bengal?",
+    "options": [
+      "Arrival of European traders",
+      "Lack of other religions",
+      "Geographic isolation",
+      "Royal patronage"
+    ],
+    "answer": "Royal patronage"
+  },
+  {
+    "image_id": "history_014",
+    "question": "Why was the king elected by the people in the picture?",
+    "options": [
+      "To increase taxes",
+      "To start a war",
+      "To change the capital",
+      "To remove anarchy"
+    ],
+    "answer": "To remove anarchy"
+  },
+  {
+    "image_id": "history_015",
+    "question": "What is the reason for the journey route being marked in the picture?",
+    "options": [
+      "Military scouting",
+      "Tax collection",
+      "Leisure travel",
+      "Proselytization"
+    ],
+    "answer": "Proselytization"
+  },
+  {
+    "image_id": "history_016",
+    "question": "What subjects can a picture manuscript be written about?",
+    "options": [
+      "Cooking recipes",
+      "Travel logs",
+      "Drama scripts",
+      "Religion or Knowledge"
+    ],
+    "answer": "Religion or Knowledge"
+  },
+  {
+    "image_id": "history_017",
+    "question": "With which power was Chandragupta Maurya, depicted in the picture, in conflict?",
+    "options": [
+      "Roman Empire",
+      "British Empire",
+      "Mongol Hordes",
+      "Greek and Nanda Kings"
+    ],
+    "answer": "Greek and Nanda Kings"
+  },
+  {
+    "image_id": "history_018",
+    "question": "How many years did this empire of pictures last?",
+    "options": [
+      "100 years",
+      "50 years",
+      "10 years",
+      "22 years"
+    ],
+    "answer": "22 years"
+  },
+  {
+    "image_id": "history_019",
+    "question": "After the death of this person in the picture, who assumed the responsibility of the empire?",
+    "options": [
+      "His son, Bindusara",
+      "His general, Seleucus",
+      "His brother, Vitashoka",
+      "His wife, Tissarakkhita"
+    ],
+    "answer": "His wife, Tissarakkhita"
+  },
+  {
+    "image_id": "history_020",
+    "question": "What is the purpose of using a Rajmohan?",
+    "options": [
+      "Religious ritual",
+      "Agricultural marking",
+      "Artistic signature",
+      "Document Verification"
+    ],
+    "answer": "Document Verification"
+  },
+  {
+    "image_id": "history_021",
+    "question": "From where did Shashanka's rule in Bengal extend?",
+    "options": [
+      "From the Indus to Delhi",
+      "From Assam to Odisha",
+      "From Chittagong to Dhaka",
+      "From the Ganges to Bihar"
+    ],
+    "answer": "From the Ganges to Bihar"
+  },
+  {
+    "image_id": "history_022",
+    "question": "Why did Dharmapala's empire become so extensive?",
+    "options": [
+      "Marriage alliances",
+      "Economic boom",
+      "Spiritual influence",
+      "Military victory"
+    ],
+    "answer": "Military victory"
+  },
+  {
+    "image_id": "history_023",
+    "question": "How did the Sena kings come to power?",
+    "options": [
+      "Democratic election",
+      "Religious revolution",
+      "Foreign aid",
+      "The Palas' weakness"
+    ],
+    "answer": "The Palas' weakness"
+  },
+  {
+    "image_id": "history_024",
+    "question": "Why were ports important?",
+    "options": [
+      "Fisheries",
+      "Tourism",
+      "Defense",
+      "Foreign trade"
+    ],
+    "answer": "Foreign trade"
+  },
+  {
+    "image_id": "history_025",
+    "question": "What was the region in the picture famous for?",
+    "options": [
+      "Tea gardens",
+      "Mining",
+      "Silk production",
+      "The capital of Gaur"
+    ],
+    "answer": "The capital of Gaur"
+  },
+  {
+    "image_id": "history_026",
+    "question": "Why is the university network shown in the picture?",
+    "options": [
+      "Commercial gain",
+      "Political propaganda",
+      "Vocational training",
+      "Scholarly discourse"
+    ],
+    "answer": "Scholarly discourse"
+  },
+  {
+    "image_id": "history_027",
+    "question": "Which dynasty fell on the picture expedition?",
+    "options": [
+      "Gupta Dynasty",
+      "Maurya Dynasty",
+      "Khilji Dynasty",
+      "Sena Dynasty"
+    ],
+    "answer": "Sena Dynasty"
+  },
+  {
+    "image_id": "history_028",
+    "question": "Why was the royal court in paintings significant?",
+    "options": [
+      "Entertainment",
+      "Fashion",
+      "Sports",
+      "Governance"
+    ],
+    "answer": "Governance"
+  },
+  {
+    "image_id": "history_029",
+    "question": "What does janapad mean?",
+    "options": [
+      "Military camp",
+      "Religious center",
+      "Farming village",
+      "Ancient Kingdom"
+    ],
+    "answer": "Ancient Kingdom"
+  },
+  {
+    "image_id": "history_030",
+    "question": "What does the goddess in the picture symbolize?",
+    "options": [
+      "Strength and War",
+      "Wealth and Prosperity",
+      "Knowledge and Music",
+      "Compassion and protection"
+    ],
+    "answer": "Compassion and protection"
+  },
+  {
+    "image_id": "history_031",
+    "question": "Why was the Samatata region important?",
+    "options": [
+      "Dense forests",
+      "Gold mines",
+      "Hill tracts",
+      "Port Trade"
+    ],
+    "answer": "Port Trade"
+  },
+  {
+    "image_id": "history_032",
+    "question": "What can be understood from the image panel?",
+    "options": [
+      "Art declined",
+      "Technology failed",
+      "Society changed",
+      "Art advanced"
+    ],
+    "answer": "Art advanced"
+  },
+  {
+    "image_id": "history_033",
+    "question": "Why did the Cholas invade Bengal?",
+    "options": [
+      "Migration",
+      "Religion",
+      "Marriage",
+      "Influence"
+    ],
+    "answer": "Influence"
+  },
+  {
+    "image_id": "history_034",
+    "question": "In which religion is the character in the picture important?",
+    "options": [
+      "Buddhism",
+      "Islam",
+      "Christianity",
+      "Hinduism"
+    ],
+    "answer": "Hinduism"
+  },
+  {
+    "image_id": "history_035",
+    "question": "Which empire did the character in the picture start?",
+    "options": [
+      "Gupta",
+      "Pala",
+      "Sena",
+      "Sail"
+    ],
+    "answer": "Sail"
+  },
+  {
+    "image_id": "history_036",
+    "question": "If a ruler in a lineage has no heir, who can ascend to the throne?",
+    "options": [
+      "The chief military commander",
+      "The head priest",
+      "The richest merchant",
+      "Brother, cousin, or other close relative"
+    ],
+    "answer": "Brother, cousin, or other close relative"
+  },
+  {
+    "image_id": "history_037",
+    "question": "If the person in the picture is a religious leader, what kind of work might they do?",
+    "options": [
+      "Leading military expeditions",
+      "Designing royal palaces",
+      "Farming and trading goods",
+      "Preaching religion and imparting education"
+    ],
+    "answer": "Preaching religion and imparting education"
+  },
+  {
+    "image_id": "history_038",
+    "question": "If the Vikrampur shown on the map is the cultural center of ancient Bengal, what is most likely to be found there?",
+    "options": [
+      "A modern industrial park",
+      "Large shipyards and ports",
+      "Cavalry training grounds",
+      "Monastery, Temple, and Educational Institution"
+    ],
+    "answer": "Monastery, Temple, and Educational Institution"
+  },
+  {
+    "image_id": "history_039",
+    "question": "For what reason was this king famous?",
+    "options": [
+      "Being a traveler",
+      "A renowned poet",
+      "A master architect",
+      "Victorious ruler"
+    ],
+    "answer": "Victorious ruler"
+  },
+  {
+    "image_id": "history_040",
+    "question": "Who were the independent kings of Bengal?",
+    "options": [
+      "Ashoka, Chandragupta, Bindusara",
+      "Akbar, Jahangir, Shah Jahan",
+      "Laxman Sen, Ballav Sen, Bijoy Sen",
+      "Gopendra, Dharmaditya, Samacharadeva"
+    ],
+    "answer": "Gopendra, Dharmaditya, Samacharadeva"
+  },
+  {
+    "image_id": "history_041",
+    "question": "What does the picture of the big fish and small fish in this image represent?",
+    "options": [
+      "Abundance of seafood",
+      "A peaceful ecosystem",
+      "The cycle of nature",
+      "The strong oppress the weak."
+    ],
+    "answer": "The strong oppress the weak."
+  },
+  {
+    "image_id": "history_042",
+    "question": "How did the king in this picture save the country from unrest?",
+    "options": [
+      "Increasing taxes",
+      "Expanding borders",
+      "Building walls",
+      "Bringing peace"
+    ],
+    "answer": "Bringing peace"
+  },
+  {
+    "image_id": "history_043",
+    "question": "For what reason is this idol's king known?",
+    "options": [
+      "Generous giver",
+      "Kind scholar",
+      "Naval explorer",
+      "Powerful ruler"
+    ],
+    "answer": "Powerful ruler"
+  },
+  {
+    "image_id": "history_044",
+    "question": "Who is the founder of the Varma dynasty on the map of the picture?",
+    "options": [
+      "Bhaskaravarman",
+      "Mahendravarman",
+      "Vajradatta",
+      "Pushyavarman"
+    ],
+    "answer": "Pushyavarman"
+  },
+  {
+    "image_id": "history_045",
+    "question": "Who took charge after Ballav Sen?",
+    "options": [
+      "Hemanta Sen",
+      "Bijoy Sen",
+      "Keshav Sen",
+      "Lakshman Sen"
+    ],
+    "answer": "Lakshman Sen"
+  },
+  {
+    "image_id": "history_046",
+    "question": "Who was the last ruler of which dynasty of this picture's king?",
+    "options": [
+      "Pala Dynasty",
+      "Gupta Dynasty",
+      "Mughal Dynasty",
+      "Sena Dynasty"
+    ],
+    "answer": "Sena Dynasty"
+  },
+  {
+    "image_id": "history_047",
+    "question": "The picture shows the ruins of a dilapidated mosque. What era does it belong to?",
+    "options": [
+      "British Raj era",
+      "Pakistan era",
+      "Ancient Buddhist era",
+      "Bengal Sultanate era"
+    ],
+    "answer": "Bengal Sultanate era"
+  },
+  {
+    "image_id": "history_048",
+    "question": "The coin in the picture was used as a metal currency. What were they primarily used for?",
+    "options": [
+      "Jewelry making",
+      "Gifts for weddings",
+      "Religious offerings",
+      "Commerce and tax payment"
+    ],
+    "answer": "Commerce and tax payment"
+  },
+  {
+    "image_id": "history_049",
+    "question": "The gate of the picture was once the entrance to Gaur city. Which historical city is it related to?",
+    "options": [
+      "Pundranagar",
+      "Mahasthangarh",
+      "Mainamati",
+      "Gour"
+    ],
+    "answer": "Gour"
+  },
+  {
+    "image_id": "history_050",
+    "question": "What architectural style is wall decoration in pictures a part of?",
+    "options": [
+      "Gothic architecture",
+      "Dravidian architecture",
+      "Modernist architecture",
+      "Islamic architecture of the Sultanate period"
+    ],
+    "answer": "Islamic architecture of the Sultanate period"
+  },
+  {
+    "image_id": "history_051",
+    "question": "What was the likely purpose of creating the manuscript of the picture?",
+    "options": [
+      "Writing fictional stories",
+      "Creating an art portfolio",
+      "Recording personal diaries",
+      "In preserving royal history and administrative documents"
+    ],
+    "answer": "In preserving royal history and administrative documents"
+  },
+  {
+    "image_id": "history_052",
+    "question": "What material was primarily used in the construction of the Adina Mosque?",
+    "options": [
+      "Wood and clay",
+      "Marble and gold",
+      "Concrete and steel",
+      "Brick and stone"
+    ],
+    "answer": "Brick and stone"
+  },
+  {
+    "image_id": "history_053",
+    "question": "Under which Sultan's reign was the displayed coin minted?",
+    "options": [
+      "Ottoman Empire",
+      "Safavid Dynasty",
+      "Bengal Nawabs",
+      "Delhi Sultanate"
+    ],
+    "answer": "Delhi Sultanate"
+  },
+  {
+    "image_id": "history_054",
+    "question": "For what purpose was such an ornate sword primarily used?",
+    "options": [
+      "Cutting crops",
+      "Cooking in the palace",
+      "Hunting animals",
+      "Royal pomp and war"
+    ],
+    "answer": "Royal pomp and war"
+  },
+  {
+    "image_id": "history_055",
+    "question": "What was the primary reason for the naval battle shown in the picture?",
+    "options": [
+      "Fishing rights",
+      "Capturing sea monsters",
+      "Exploring new continents",
+      "Coastal protection and control of trade routes"
+    ],
+    "answer": "Coastal protection and control of trade routes"
+  },
+  {
+    "image_id": "history_056",
+    "question": "For what primary purpose were such court poetry gatherings held?",
+    "options": [
+      "Judging criminals",
+      "Planning military strikes",
+      "Tax evaluation",
+      "Cultural Prestige and Literary Development"
+    ],
+    "answer": "Cultural Prestige and Literary Development"
+  },
+  {
+    "image_id": "history_057",
+    "question": "What lineage did he belong to?",
+    "options": [
+      "The Hussain Shahi dynasty",
+      "The Lodhi dynasty",
+      "The Tughlaq dynasty",
+      "The Ilyas Shahi dynasty"
+    ],
+    "answer": "The Ilyas Shahi dynasty"
+  },
+  {
+    "image_id": "history_058",
+    "question": "Which city's Sultan was symbolized by the throne seen in the picture?",
+    "options": [
+      "Pandua",
+      "Gaur",
+      "Murshidabad",
+      "Sonargaon"
+    ],
+    "answer": "Sonargaon"
+  },
+  {
+    "image_id": "history_059",
+    "question": "In the picture is Sultan Alauddin Hossain Shah. What is his reign known as in Bengali history?",
+    "options": [
+      "The Dark Ages",
+      "The Era of Conflict",
+      "The Age of Exploration",
+      "The Golden Age of Bengal"
+    ],
+    "answer": "The Golden Age of Bengal"
+  },
+  {
+    "image_id": "history_060",
+    "question": "The image shows a scene from the Battle of Rajmahal. As a result of this battle, Bengal came under whose rule?",
+    "options": [
+      "The Marathas",
+      "The Portuguese",
+      "The French",
+      "Mughal Empire"
+    ],
+    "answer": "Mughal Empire"
+  },
+  {
+    "image_id": "history_061",
+    "question": "In the picture, in which city did Shaista Khan lower the prices?",
+    "options": [
+      "Chittagong",
+      "Rajshahi",
+      "Sylhet",
+      "Dhaka"
+    ],
+    "answer": "Dhaka"
+  },
+  {
+    "image_id": "history_062",
+    "question": "In the picture, Jahangir is holding a globe. What quality does this symbolize about him?",
+    "options": [
+      "A love for geography",
+      "Skill in navigation",
+      "Commitment to peace",
+      "The desire for world domination"
+    ],
+    "answer": "The desire for world domination"
+  },
+  {
+    "image_id": "history_063",
+    "question": "In what language did Ghiyasuddin Azam Shah exchange poetry with the poet Kabindra Parameshwar?",
+    "options": [
+      "Persian/Arabic",
+      "Hindi/Sanskrit",
+      "Urdu/Turkish",
+      "Bengali/English"
+    ],
+    "answer": "Bengali/English"
+  },
+  {
+    "image_id": "history_064",
+    "question": "Shamsuddin Ilyas Shah was the first Muslim Sultan of which province?",
+    "options": [
+      "Bihar",
+      "Odisha",
+      "Assam",
+      "Bengal"
+    ],
+    "answer": "Bengal"
+  },
+  {
+    "image_id": "history_065",
+    "question": "What metal coins did the Sultans of the Ilyas Shahi dynasty typically mint?",
+    "options": [
+      "Gold",
+      "Copper",
+      "Bronze",
+      "Silver"
+    ],
+    "answer": "Silver"
+  },
+  {
+    "image_id": "history_066",
+    "question": "At what time was the Adina Mosque built?",
+    "options": [
+      "Ancient Vedic Bengal",
+      "British Colonial Bengal",
+      "Modern Independent Bangladesh",
+      "Medieval Islamic Bengal"
+    ],
+    "answer": "Medieval Islamic Bengal"
+  },
+  {
+    "image_id": "history_067",
+    "question": "In what language did Ghiyasuddin Azam Shah exchange poems with Kabindra Parmeshwar?",
+    "options": [
+      "Farsi",
+      "Urdu",
+      "Pali",
+      "Bangla"
+    ],
+    "answer": "Bangla"
+  },
+  {
+    "image_id": "history_068",
+    "question": "Alauddin Hussain Shah was the Sultan of which Bengali period?",
+    "options": [
+      "Ancient Bengal",
+      "Modern Bengal",
+      "Colonial Bengal",
+      "Medieval Bengal"
+    ],
+    "answer": "Medieval Bengal"
+  },
+  {
+    "image_id": "history_069",
+    "question": "During which dynasty was this mosque built?",
+    "options": [
+      "Slave Dynasty",
+      "Sur Dynasty",
+      "Lodi Dynasty",
+      "Husain Shahi Dynasty"
+    ],
+    "answer": "Husain Shahi Dynasty"
+  },
+  {
+    "image_id": "history_070",
+    "question": "These coins prove that Bengal had prior contact with which region?",
+    "options": [
+      "China and Japan",
+      "Europe and Americas",
+      "Australia and Oceania",
+      "Arab, Persian, and Afghanistan"
+    ],
+    "answer": "Arab, Persian, and Afghanistan"
+  },
+  {
+    "image_id": "history_071",
+    "question": "In which region did Ikhtiyar al-Din Bakhtiyar Khalji first establish Islamic rule?",
+    "options": [
+      "Dhaka and Comilla",
+      "Chittagong and Sylhet",
+      "Murshidabad and Nadia",
+      "Gaur, Pundra, and Lakhnauti"
+    ],
+    "answer": "Gaur, Pundra, and Lakhnauti"
+  },
+  {
+    "image_id": "history_072",
+    "question": "To which region's Turkic tribe did Bakhtiyar Khalji belong?",
+    "options": [
+      "The Seljuk tribe of Anatolia",
+      "The Mamluk tribe of Egypt",
+      "The Mongol tribe of Central Asia",
+      "The Ghilji tribe of southern Afghanistan"
+    ],
+    "answer": "The Ghilji tribe of southern Afghanistan"
+  },
+  {
+    "image_id": "history_073",
+    "question": "Why did Bakhtiyar Khalji attack Kamrup?",
+    "options": [
+      "To spread religious teachings in the mountains.",
+      "To find a new route to China for silk trade.",
+      "To establish a naval base on the Brahmaputra.",
+      "Strategically for the expansion of colonial rule and military occupation in Eastern India."
+    ],
+    "answer": "Strategically for the expansion of colonial rule and military occupation in Eastern India."
+  },
+  {
+    "image_id": "history_074",
+    "question": "After destroying Nalanda University, Ikhtiyar Khilji attacked which region?",
+    "options": [
+      "Assam and Burma",
+      "Odisha and Andhra",
+      "Delhi and Agra",
+      "Bihar and later Bengal"
+    ],
+    "answer": "Bihar and later Bengal"
+  },
+  {
+    "image_id": "history_075",
+    "question": "Why did Ikhtiyar Khalji return from Tibet with so few soldiers?",
+    "options": [
+      "Due to extreme winter and lack of food",
+      "Due to a desertion by his generals",
+      "Due to a plague outbreak in the camp",
+      "Due to the attack on soldiers in Assam"
+    ],
+    "answer": "Due to the attack on soldiers in Assam"
+  },
+  {
+    "image_id": "history_076",
+    "question": "Why did Ghiyasuddin Khalji declare independence?",
+    "options": [
+      "To join the Mongol Empire.",
+      "To protest against high taxes.",
+      "To move the capital to the south.",
+      "To establish oneself as an independent ruler, freed from the dominion of Delhi."
+    ],
+    "answer": "To establish oneself as an independent ruler, freed from the dominion of Delhi."
+  },
+  {
+    "image_id": "history_077",
+    "question": "Why did the Bengal Sultanate control various vassal states?",
+    "options": [
+      "To eliminate the local population.",
+      "To enforce a single language across the region.",
+      "To prevent any form of local government.",
+      "To increase political influence, ensure military cooperation, and expand trade networks."
+    ],
+    "answer": "To increase political influence, ensure military cooperation, and expand trade networks."
+  },
+  {
+    "image_id": "history_078",
+    "question": "During the rule of the Bengal Sultanate, which language first received official status in the court?",
+    "options": [
+      "Persian",
+      "Arabic",
+      "Sanskrit",
+      "Bengali"
+    ],
+    "answer": "Bengali"
+  },
+  {
+    "image_id": "history_079",
+    "question": "In which city is this palace located?",
+    "options": [
+      "Dhaka",
+      "Sonargaon",
+      "Bagerhat",
+      "Gour"
+    ],
+    "answer": "Gour"
+  },
+  {
+    "image_id": "history_080",
+    "question": "For what purpose was Pandua established?",
+    "options": [
+      "Trade Hub",
+      "Religious Retreat",
+      "Military Outpost",
+      "Initial Capital"
+    ],
+    "answer": "Initial Capital"
+  },
+  {
+    "image_id": "history_081",
+    "question": "For what architecture is the city of Bagerhat famous?",
+    "options": [
+      "Palace",
+      "Fort",
+      "Temple",
+      "Mosque"
+    ],
+    "answer": "Mosque"
+  },
+  {
+    "image_id": "history_082",
+    "question": "Who killed Sikandar Shah?",
+    "options": [
+      "His brother, Hamza Shah",
+      "The King of Jaunpur",
+      "His chief general",
+      "His son, Ghiyasuddin Azam Shah"
+    ],
+    "answer": "His son, Ghiyasuddin Azam Shah"
+  },
+  {
+    "image_id": "history_083",
+    "question": "For which of his deeds was Firoz Shah Tughlaq famous?",
+    "options": [
+      "Conquering Southern India",
+      "Writing the Tughlaq Nama",
+      "Abolishing all taxes",
+      "Construction and renovation of drains, hospitals, wells, and reservoirs"
+    ],
+    "answer": "Construction and renovation of drains, hospitals, wells, and reservoirs"
+  },
+  {
+    "image_id": "history_084",
+    "question": "Through which Sultan was the Mughal Empire established?",
+    "options": [
+      "Humayun",
+      "Akbar",
+      "Sher Shah",
+      "Babur"
+    ],
+    "answer": "Babur"
+  },
+  {
+    "image_id": "history_085",
+    "question": "In which battle did Babur defeat Ibrahim Lodi?",
+    "options": [
+      "The Battle of Khanwa",
+      "The Battle of Ghaghra",
+      "The Battle of Chausa",
+      "The Battles of Panipat"
+    ],
+    "answer": "The Battles of Panipat"
+  },
+  {
+    "image_id": "history_086",
+    "question": "In which country did the pictured Humayun go into exile?",
+    "options": [
+      "Turkey",
+      "Egypt",
+      "Uzbekistan",
+      "Persia"
+    ],
+    "answer": "Persia"
+  },
+  {
+    "image_id": "history_087",
+    "question": "Which empire did Sher Shah Suri, shown in the picture, establish?",
+    "options": [
+      "Lodi Empire",
+      "Khilji Empire",
+      "Tughlaq Empire",
+      "Suri Empire"
+    ],
+    "answer": "Suri Empire"
+  },
+  {
+    "image_id": "history_088",
+    "question": "What is the name of Akbar's mother in this picture?",
+    "options": [
+      "Maham Anga",
+      "Gulbadan Begum",
+      "Jodha Bai",
+      "Hamida Banu Begum"
+    ],
+    "answer": "Hamida Banu Begum"
+  },
+  {
+    "image_id": "history_089",
+    "question": "What is the name of the mother of Jahangir in this picture?",
+    "options": [
+      "Nur Jahan",
+      "Mumtaz Mahal",
+      "Hamida Banu",
+      "Mariam-un-Zamani"
+    ],
+    "answer": "Mariam-un-Zamani"
+  },
+  {
+    "image_id": "history_090",
+    "question": "What is the name of the mother of Shah Jahan in this picture?",
+    "options": [
+      "Manmati",
+      "Bhanumati",
+      "Hira Kunwari",
+      "Jagat Gosaini"
+    ],
+    "answer": "Jagat Gosaini"
+  },
+  {
+    "image_id": "history_091",
+    "question": "Whose son is Aurangzeb in this picture?",
+    "options": [
+      "Jahangir",
+      "Akbar",
+      "Humayun",
+      "Shah Jahan"
+    ],
+    "answer": "Shah Jahan"
+  },
+  {
+    "image_id": "history_092",
+    "question": "Whose son is Dara Shikoh in this picture?",
+    "options": [
+      "Murad Baksh",
+      "Shah Shuja",
+      "Aurangzeb",
+      "Shah Jahan"
+    ],
+    "answer": "Shah Jahan"
+  },
+  {
+    "image_id": "history_093",
+    "question": "By what name was Muhammad Shah of this picture more commonly known?",
+    "options": [
+      "The Brave",
+      "The Just",
+      "The Saint",
+      "Colorful"
+    ],
+    "answer": "Colorful"
+  },
+  {
+    "image_id": "history_094",
+    "question": "Whose son was Emperor Bahadur Shah I of this picture?",
+    "options": [
+      "Shah Jahan",
+      "Jahangir",
+      "Farrukhsiyar",
+      "Aurangzeb"
+    ],
+    "answer": "Aurangzeb"
+  },
+  {
+    "image_id": "history_095",
+    "question": "During whose reign was Islam Khan appointed Subahdar of Bengal?",
+    "options": [
+      "Akbar",
+      "Shah Jahan",
+      "Aurangzeb",
+      "Jahangir"
+    ],
+    "answer": "Jahangir"
+  },
+  {
+    "image_id": "history_096",
+    "question": "To which region did Isa Khan, the leader of the Baro Bhuiyans, belong as a Zamindar?",
+    "options": [
+      "Jessore",
+      "Bhowal",
+      "Chandradwip",
+      "Sonargaon"
+    ],
+    "answer": "Sonargaon"
+  },
+  {
+    "image_id": "history_097",
+    "question": "Whose son was Musa Khan in this picture?",
+    "options": [
+      "Kedar Rai",
+      "Pratapaditya",
+      "Osman Khan",
+      "Isa Khan"
+    ],
+    "answer": "Isa Khan"
+  },
+  {
+    "image_id": "history_098",
+    "question": "Which city did Islam Khan establish as his capital in this picture?",
+    "options": [
+      "Murshidabad",
+      "Rajmahal",
+      "Chittagong",
+      "Dhaka"
+    ],
+    "answer": "Dhaka"
+  },
+  {
+    "image_id": "history_099",
+    "question": "Whose son was Shah Shuja in this picture?",
+    "options": [
+      "Aurangzeb",
+      "Dara Shikoh",
+      "Murad Baksh",
+      "Shah Jahan"
+    ],
+    "answer": "Shah Jahan"
+  },
+  {
+    "image_id": "history_100",
+    "question": "During which emperor's reign was Mir Jumla appointed the Subahdar of Bengal in this picture?",
+    "options": [
+      "Jahangir",
+      "Shah Jahan",
+      "Bahadur Shah",
+      "Aurangzeb"
+    ],
+    "answer": "Aurangzeb"
+  },
+  {
+    "image_id": "history_101",
+    "question": "Whose uncle was Shaistha Khan in this picture?",
+    "options": [
+      "Shah Jahan",
+      "Jahangir",
+      "Akbar",
+      "Aurangzeb"
+    ],
+    "answer": "Aurangzeb"
+  },
+  {
+    "image_id": "history_102",
+    "question": "What position did Murshid Quli Khan hold in Bengal before becoming the Subahdar?",
+    "options": [
+      "Kotwal",
+      "Mansabdar",
+      "Qazi",
+      "Diwan"
+    ],
+    "answer": "Diwan"
+  },
+  {
+    "image_id": "history_103",
+    "question": "Under whose control was absolute power in the Mughal Empire?",
+    "options": [
+      "The Vizier's hands",
+      "The Military General's hands",
+      "The British Resident's hands",
+      "In the Emperor's hands"
+    ],
+    "answer": "In the Emperor's hands"
+  },
+  {
+    "image_id": "history_104",
+    "question": "Who was the chief administrator of the Bengal Subah during the Mughal period?",
+    "options": [
+      "Nawab",
+      "Jagirdar",
+      "Zamindar",
+      "Subahdar"
+    ],
+    "answer": "Subahdar"
+  },
+  {
+    "image_id": "history_105",
+    "question": "How did Alivardi Khan become the Nawab of Bengal?",
+    "options": [
+      "Hereditary succession",
+      "Public election",
+      "British appointment",
+      "Through military might"
+    ],
+    "answer": "Through military might"
+  },
+  {
+    "image_id": "history_106",
+    "question": "Why are the farmers in the picture protesting?",
+    "options": [
+      "High salt tax",
+      "Land confiscation",
+      "Lack of irrigation",
+      "Forcing indigo cultivation."
+    ],
+    "answer": "Forcing indigo cultivation."
+  },
+  {
+    "image_id": "history_107",
+    "question": "What was the purpose of dividing the pictorial map?",
+    "options": [
+      "Administrative efficiency",
+      "Linguistic reorganization",
+      "Agricultural zoning",
+      "Separating Hindus and Muslims."
+    ],
+    "answer": "Separating Hindus and Muslims."
+  },
+  {
+    "image_id": "history_108",
+    "question": "What did Rabindranath Tagore want to convey through Rakhi Bandhan?",
+    "options": [
+      "Religious conversion",
+      "Economic boycott",
+      "Artistic expression",
+      "Brotherhood and unity."
+    ],
+    "answer": "Brotherhood and unity."
+  },
+  {
+    "image_id": "history_109",
+    "question": "Who lost this war?",
+    "options": [
+      "Robert Clive",
+      "Mir Jafar",
+      "Warren Hastings",
+      "Siraj-ud-Daulah"
+    ],
+    "answer": "Siraj-ud-Daulah"
+  },
+  {
+    "image_id": "history_110",
+    "question": "What were the farmers protesting against?",
+    "options": [
+      "Jute farming",
+      "Tea plantations",
+      "Opium trade",
+      "Indigo cultivation"
+    ],
+    "answer": "Indigo cultivation"
+  },
+  {
+    "image_id": "history_111",
+    "question": "What was the main demand of the movement?",
+    "options": [
+      "Lower taxes",
+      "Better seeds",
+      "Voting rights",
+      "Freedom"
+    ],
+    "answer": "Freedom"
+  },
+  {
+    "image_id": "history_112",
+    "question": "In which city did the riot occur?",
+    "options": [
+      "Dhaka",
+      "Delhi",
+      "Bombay",
+      "Kolkata"
+    ],
+    "answer": "Kolkata"
+  },
+  {
+    "image_id": "history_113",
+    "question": "What did the farmers want?",
+    "options": [
+      "Half share",
+      "Full ownership",
+      "One-fourth",
+      "Two-thirds"
+    ],
+    "answer": "Two-thirds"
+  },
+  {
+    "image_id": "history_114",
+    "question": "What was the person suffering for?",
+    "options": [
+      "Water",
+      "Medicine",
+      "Clothing",
+      "Food"
+    ],
+    "answer": "Food"
+  },
+  {
+    "image_id": "history_115",
+    "question": "Who did the British lose in this war?",
+    "options": [
+      "Tipu Sultan",
+      "Haidar Ali",
+      "Siraj-ud-Daulah",
+      "Mir Qasim"
+    ],
+    "answer": "Mir Qasim"
+  },
+  {
+    "image_id": "history_116",
+    "question": "What was his designation?",
+    "options": [
+      "Viceroy",
+      "Secretary of State",
+      "Commander-in-Chief",
+      "Governor-General"
+    ],
+    "answer": "Governor-General"
+  },
+  {
+    "image_id": "history_117",
+    "question": "Where was the college located?",
+    "options": [
+      "Madras",
+      "Oxford",
+      "London",
+      "Calcutta"
+    ],
+    "answer": "Calcutta"
+  },
+  {
+    "image_id": "history_118",
+    "question": "What kind of society does he build?",
+    "options": [
+      "Arya Samaj",
+      "Theosophical Society",
+      "Ramakrishna Mission",
+      "Brahmo Samaj"
+    ],
+    "answer": "Brahmo Samaj"
+  },
+  {
+    "image_id": "history_119",
+    "question": "Who supported the law?",
+    "options": [
+      "Raja Ram Mohan Roy",
+      "Swami Vivekananda",
+      "Bankim Chandra",
+      "Vidyasagar"
+    ],
+    "answer": "Vidyasagar"
+  },
+  {
+    "image_id": "history_120",
+    "question": "Who was the leader of the expedition?",
+    "options": [
+      "Subhash Chandra Bose",
+      "Bhagat Singh",
+      "Khudiram Bose",
+      "Surya Sen"
+    ],
+    "answer": "Surya Sen"
+  },
+  {
+    "image_id": "history_121",
+    "question": "Who was this law for?",
+    "options": [
+      "Peasants",
+      "Artisans",
+      "Sepoys",
+      "Zamindar"
+    ],
+    "answer": "Zamindar"
+  },
+  {
+    "image_id": "history_122",
+    "question": "Who abolished the Sati practice?",
+    "options": [
+      "Dalhousie",
+      "Curzon",
+      "Canning",
+      "Bentick"
+    ],
+    "answer": "Bentick"
+  },
+  {
+    "image_id": "history_123",
+    "question": "Who is the leader of which movement?",
+    "options": [
+      "Khilafat Movement",
+      "Swadeshi Movement",
+      "Quit India Movement",
+      "Aligarh Movement"
+    ],
+    "answer": "Aligarh Movement"
+  },
+  {
+    "image_id": "history_124",
+    "question": "What proposal did he present?",
+    "options": [
+      "Nehru Report",
+      "August Offer",
+      "Cripps Mission",
+      "Lahore Resolution"
+    ],
+    "answer": "Lahore Resolution"
+  },
+  {
+    "image_id": "history_125",
+    "question": "At what age was he martyred?",
+    "options": [
+      "25 years",
+      "30 years",
+      "21 years",
+      "18 years"
+    ],
+    "answer": "18 years"
+  },
+  {
+    "image_id": "history_126",
+    "question": "Against whom did Alivardi Khan in the picture fight?",
+    "options": [
+      "Portuguese",
+      "French",
+      "Dutch",
+      "Bargi"
+    ],
+    "answer": "Bargi"
+  },
+  {
+    "image_id": "history_127",
+    "question": "Who was Siraj-ud-Daulah the successor of?",
+    "options": [
+      "Murshid Quli Khan",
+      "Shuja-ud-Din",
+      "Sarfaraz Khan",
+      "Alivardi Khan"
+    ],
+    "answer": "Alivardi Khan"
+  },
+  {
+    "image_id": "history_128",
+    "question": "Robert Clive was the commander of which organization?",
+    "options": [
+      "French East India Company",
+      "Dutch East India Company",
+      "British Army",
+      "East India Company"
+    ],
+    "answer": "East India Company"
+  },
+  {
+    "image_id": "history_129",
+    "question": "Mir Jafar was the commander-in-chief for which Nawab?",
+    "options": [
+      "Mir Qasim",
+      "Alivardi Khan",
+      "Shuja-ud-Daulah",
+      "Siraj-ud-Daulah"
+    ],
+    "answer": "Siraj-ud-Daulah"
+  },
+  {
+    "image_id": "history_130",
+    "question": "Under which Nawab was Mir Madan a soldier?",
+    "options": [
+      "Mir Jafar",
+      "Najimuddin Ali Khan",
+      "Mubarak Ali Khan",
+      "Siraj-ud-Daulah"
+    ],
+    "answer": "Siraj-ud-Daulah"
+  },
+  {
+    "image_id": "history_131",
+    "question": "What gift did Mir Jafar give to the British?",
+    "options": [
+      "Military secrets",
+      "Arable land",
+      "Royal jewels",
+      "Wealth/Revenue"
+    ],
+    "answer": "Wealth/Revenue"
+  },
+  {
+    "image_id": "history_132",
+    "question": "Which power won the Battle of Buxar?",
+    "options": [
+      "Mughal Empire",
+      "Nawab of Awadh",
+      "Maratha Empire",
+      "British"
+    ],
+    "answer": "British"
+  },
+  {
+    "image_id": "history_133",
+    "question": "When was the Treaty of Allahabad?",
+    "options": [
+      "1757",
+      "1764",
+      "1772",
+      "1765"
+    ],
+    "answer": "1765"
+  },
+  {
+    "image_id": "history_134",
+    "question": "Who effectively controlled the administration of Bengal?",
+    "options": [
+      "French East India Company",
+      "Dutch East India Company",
+      "Portuguese Traders",
+      "East India Company"
+    ],
+    "answer": "East India Company"
+  },
+  {
+    "image_id": "history_135",
+    "question": "Who was ruling Bengal at this time?",
+    "options": [
+      "The Nawabs",
+      "The Mughals",
+      "The Marathas",
+      "East India Company"
+    ],
+    "answer": "East India Company"
+  },
+  {
+    "image_id": "history_136",
+    "question": "What was the main objective of permanent drainage?",
+    "options": [
+      "Irrigation systems",
+      "Flood control",
+      "Urban planning",
+      "Setting the land tax"
+    ],
+    "answer": "Setting the land tax"
+  },
+  {
+    "image_id": "history_137",
+    "question": "For how long did the zamindar's land rights endure?",
+    "options": [
+      "For 10 years",
+      "For a lifetime",
+      "Until the heir is born",
+      "Until the tax is paid"
+    ],
+    "answer": "Until the tax is paid"
+  },
+  {
+    "image_id": "history_138",
+    "question": "Which institution did Cornwallis abolish?",
+    "options": [
+      "Diwani",
+      "Jagirdari",
+      "Mansabdari",
+      "Nizamet"
+    ],
+    "answer": "Nizamet"
+  },
+  {
+    "image_id": "history_139",
+    "question": "What process did these rules structure the framework for?",
+    "options": [
+      "Trade agreements",
+      "Military tactics",
+      "Cultural exchanges",
+      "Administrative institutions and rules"
+    ],
+    "answer": "Administrative institutions and rules"
+  },
+  {
+    "image_id": "history_140",
+    "question": "Who were the equals in the Cornwallis judicial system?",
+    "options": [
+      "Zamindar and Peasant",
+      "Clergy and Laity",
+      "Soldier and Civilian",
+      "Ruler and the ruled"
+    ],
+    "answer": "Ruler and the ruled"
+  },
+  {
+    "image_id": "history_141",
+    "question": "Who led the rebellion shown in the picture?",
+    "options": [
+      "Majnu Shah",
+      "Titu Mir",
+      "Birsa Munda",
+      "Scholar Bhabani Charan Pathak"
+    ],
+    "answer": "Scholar Bhabani Charan Pathak"
+  },
+  {
+    "image_id": "history_142",
+    "question": "What is the main cause of the problems faced by the monks and ascetics shown in the picture?",
+    "options": [
+      "Religious persecution",
+      "Natural disasters",
+      "Internal conflicts",
+      "British Taxes on Zamindars"
+    ],
+    "answer": "British Taxes on Zamindars"
+  },
+  {
+    "image_id": "history_143",
+    "question": "Who led the Santal rebellion shown in the picture?",
+    "options": [
+      "Mangal Pandey",
+      "Nana Sahib",
+      "Rani Lakshmibai",
+      "Sidhu and Kanhu Murmu"
+    ],
+    "answer": "Sidhu and Kanhu Murmu"
+  },
+  {
+    "image_id": "history_144",
+    "question": "What was the main reason for the movement shown in the picture?",
+    "options": [
+      "Religious reform",
+      "Demand for education",
+      "Linguistic pride",
+      "Exploitation and injustice against farmers"
+    ],
+    "answer": "Exploitation and injustice against farmers"
+  },
+  {
+    "image_id": "history_145",
+    "question": "Which movement was Titu Mir, shown in the picture, associated with?",
+    "options": [
+      "Bhakti Movement",
+      "Sufi Movement",
+      "Khilafat Movement",
+      "Wahhabi Movement"
+    ],
+    "answer": "Wahhabi Movement"
+  },
+  {
+    "image_id": "history_146",
+    "question": "Who joined Titumir in his rebellion, as shown in the picture?",
+    "options": [
+      "The British elites",
+      "The wealthy Zamindars",
+      "Foreign mercenaries",
+      "The poor and common people"
+    ],
+    "answer": "The poor and common people"
+  },
+  {
+    "image_id": "history_147",
+    "question": "Who was the leader of the Faraizi movement shown in the picture?",
+    "options": [
+      "Dudu Miyan",
+      "Syed Ahmed Barelvi",
+      "Maulana Shaukat Ali",
+      "Haji Shariatullah"
+    ],
+    "answer": "Haji Shariatullah"
+  },
+  {
+    "image_id": "history_148",
+    "question": "What was the main problem of the 1857 rebellion shown in the picture?",
+    "options": [
+      "Lack of weapons",
+      "Intervention by the French",
+      "Excessive focus on navy",
+      "Lack of a single leader and organized planning"
+    ],
+    "answer": "Lack of a single leader and organized planning"
+  },
+  {
+    "image_id": "history_149",
+    "question": "Who was the main leader of the Bengal Renaissance shown in the picture?",
+    "options": [
+      "Ishwar Chandra Vidyasagar",
+      "Swami Vivekananda",
+      "Michael Madhusudan Dutt",
+      "Raja Ram Mohan Roy"
+    ],
+    "answer": "Raja Ram Mohan Roy"
+  },
+  {
+    "image_id": "history_150",
+    "question": "Which movement did Raja Ram Mohan Roy, shown in the picture, lead?",
+    "options": [
+      "Sepoy Mutiny",
+      "Non-Cooperation Movement",
+      "Salt Satyagraha",
+      "Bengali Renaissance"
+    ],
+    "answer": "Bengali Renaissance"
+  }
+]
