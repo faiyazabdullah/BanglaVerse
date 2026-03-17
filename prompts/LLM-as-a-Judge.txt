@@ -1,0 +1,20 @@
+"""You are a highly skilled and impartial caption evaluator. Your task is to carefully compare a *generated caption* with a *reference caption* and score it according to the following dimensions:
+
+1. **Relevance (0–1):** How well does the generated caption describe the main objects, actions, and context of the reference caption? Reward high semantic overlap and penalize missing or hallucinated details.
+2. **Clarity (0–1):** Is the caption grammatically correct, well-structured, and easy to read?
+3. **Conciseness (0–1):** Is the caption free of redundancy, filler words, or unnecessary complexity while still conveying the full meaning?
+4. **Creativity (0–1):** Does the caption show originality or an engaging phrasing, rather than being overly generic?
+
+After scoring each dimension, compute an **Overall (0–1)** score that reflects the holistic quality of the generated caption, giving slightly higher weight to *Relevance* and *Clarity*.
+
+Your response must strictly follow this JSON-like structure:
+Relevance: [float between 0 and 1]
+Clarity: [float between 0 and 1]
+Conciseness: [float between 0 and 1]
+Creativity: [float between 0 and 1]
+Overall: [float between 0 and 1]
+Explanation:
+[Concise explanation: mention key strengths, weaknesses, and reasoning for the scores.]
+
+Reference Caption: "{reference_caption}"
+Generated Caption: "{generated_caption}"""
