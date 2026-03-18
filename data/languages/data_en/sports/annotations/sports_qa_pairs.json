@@ -1,0 +1,454 @@
+[
+  {
+    "image_id": "sports_001",
+    "question": "Who is this cricketer?",
+    "options": [
+      "Mashrafe Bin Mortaza",
+      "Shakib Al Hasan",
+      "Mushfiqur Rahim",
+      "Tamim Iqbal"
+    ],
+    "answer": "Shakib Al Hasan"
+  },
+  {
+    "image_id": "sports_002",
+    "question": "What game is being played in the picture?",
+    "options": ["Cricket", "Football", "Kabaddi", "Chess"],
+    "answer": "Kabaddi"
+  },
+  {
+    "image_id": "sports_003",
+    "question": "What game does this group in the picture play for Bangladesh?",
+    "options": ["Football", "Cricket", "Kabaddi", "Boat race"],
+    "answer": "Cricket"
+  },
+  {
+    "image_id": "sports_004",
+    "question": "In which year was the cricket team jersey shown in the picture made?",
+    "options": ["2022", "2023", "2024", "2025"],
+    "answer": "2025"
+  },
+  {
+    "image_id": "sports_005",
+    "question": "The player in the picture has achieved world-class recognition in cricket, what is it?",
+    "options": ["Batsman", "Bowler", "All-rounder", "Coach"],
+    "answer": "All-rounder"
+  },
+  {
+    "image_id": "sports_006",
+    "question": "The player in the picture was the captain of the Bangladesh men's cricket team, who is he?",
+    "options": [
+      "Shakib Al Hasan",
+      "Mashrafe Bin Mortaza",
+      "Mushfiqur Rahim",
+      "Mehidi Hasan Miraz"
+    ],
+    "answer": "Mashrafe Bin Mortaza"
+  },
+  {
+    "image_id": "sports_007",
+    "question": "The logo in the middle of the picture with the tiger image, which country's cricket board is it the logo of?",
+    "options": ["India", "Bangladesh", "Pakistan", "Sri Lanka"],
+    "answer": "Bangladesh"
+  },
+  {
+    "image_id": "sports_008",
+    "question": "In the game of pictures, how many players are there per team?",
+    "options": ["7", "Nine", "11", "13"],
+    "answer": "11"
+  },
+  {
+    "image_id": "sports_009",
+    "question": "What position does the player in the picture play?",
+    "options": ["Striker", "Midfielder", "Defender", "Goalkeeper"],
+    "answer": "Midfielder"
+  },
+  {
+    "image_id": "sports_010",
+    "question": "Which club outside of Bangladesh does the pictured player play for?",
+    "options": ["Real Madrid", "Leicester City", "Manchester City", "Chelsea"],
+    "answer": "Leicester City"
+  },
+  {
+    "image_id": "sports_011",
+    "question": "In what year was the Federation of Film Societies established?",
+    "options": ["1971", "1972", "1994", "1995"],
+    "answer": "1972"
+  },
+  {
+    "image_id": "sports_012",
+    "question": "Where did the events of this picture take place?",
+    "options": ["Bangladesh", "India", "Malaysia", "Pakistan"],
+    "answer": "Malaysia"
+  },
+  {
+    "image_id": "sports_013",
+    "question": "In what year did the woman in the picture, Rani Hamid, win this championship?",
+    "options": ["1979", "1981", "1983", "1990"],
+    "answer": "1979"
+  },
+  {
+    "image_id": "sports_014",
+    "question": "What did the player in the picture win by playing golf?",
+    "options": ["World Cup", "Brunei Open", "Olympics", "Asia Cup"],
+    "answer": "Brunei Open"
+  },
+  {
+    "image_id": "sports_015",
+    "question": "What medal did the pictured athlete win in weightlifting at the South Asian Games?",
+    "options": ["Gold medal", "Silver medal", "Bronze medal", "Iron medal"],
+    "answer": "Gold medal"
+  },
+  {
+    "image_id": "sports_016",
+    "question": "Which country did the Bangladesh women's cricket team defeat to win the Asia Cup, as shown in the picture?",
+    "options": ["Sri Lanka", "India", "Afghanistan", "Nepal"],
+    "answer": "India"
+  },
+  {
+    "image_id": "sports_017",
+    "question": "What style of bowling did the player in the picture use?",
+    "options": ["Pace", "Spinner", "Swing", "Gugli"],
+    "answer": "Spinner"
+  },
+  {
+    "image_id": "sports_018",
+    "question": "What position did the player in the picture play?",
+    "options": ["Forward", "Midfielder", "Defender", "Goalkeeper"],
+    "answer": "Forward"
+  },
+  {
+    "image_id": "sports_019",
+    "question": "Which team in Bangladesh was the person in the picture a coach for?",
+    "options": [
+      "Men's cricket team",
+      "Women's cricket team",
+      "Men's football team",
+      "Women's football team"
+    ],
+    "answer": "Women's football team"
+  },
+  {
+    "image_id": "sports_020",
+    "question": "What position did the player in the picture play?",
+    "options": ["Forward", "Midfielder", "Defender", "Goalkeeper"],
+    "answer": "Forward"
+  },
+  {
+    "image_id": "sports_021",
+    "question": "What style of bowling does the player in the picture use?",
+    "options": ["Pace", "Spinner", "Fast-Medium", "Snail"],
+    "answer": "Fast-medium"
+  },
+  {
+    "image_id": "sports_022",
+    "question": "In a photo competition, what does the leader do as a source of team strength?",
+    "options": ["Encourage", "Sing", "Dances", "Hit"],
+    "answer": "sing"
+  },
+  {
+    "image_id": "sports_023",
+    "question": "Who plays the game of blind man's buff?",
+    "options": ["Elderly", "Adolescent", "Youth", "Child"],
+    "answer": "Youth"
+  },
+  {
+    "image_id": "sports_024",
+    "question": "Where is the cockfighting game usually seen to be played in the picture?",
+    "options": [
+      "Annual Sports Competition",
+      "Brunei Open",
+      "Olympics",
+      "Asia Cup"
+    ],
+    "answer": "Annual Sports Competition"
+  },
+  {
+    "image_id": "sports_025",
+    "question": "What are those playing stick games in the picture called?",
+    "options": ["Lathi vendor", "Lathi seller", "Player", "Lathial"],
+    "answer": "Lathi player"
+  },
+  {
+    "image_id": "sports_026",
+    "question": "Against which team did the player in the picture score the fastest century in a Test match?",
+    "options": ["Sri Lanka", "India", "Afghanistan", "Nepal"],
+    "answer": "India"
+  },
+  {
+    "image_id": "sports_027",
+    "question": "What medal did the man in the picture win in shooting at the Commonwealth Games?",
+    "options": ["Gold medal", "Silver medal", "Bronze medal", "Iron medal"],
+    "answer": "Gold medal"
+  },
+  {
+    "image_id": "sports_028",
+    "question": "What medals has the Bangladesh men's hockey team won in the South Asian Games?",
+    "options": ["Gold medal", "Silver medal", "Bronze medal", "Iron medal"],
+    "answer": "Bronze medal"
+  },
+  {
+    "image_id": "sports_030",
+    "question": "Which channel did the famous swimmer Brajen Das cross 4 times?",
+    "options": ["English", "Bengali", "India", "Pakistan"],
+    "answer": "English"
+  },
+  {
+    "image_id": "sports_031",
+    "question": "How many overs are in a BPL cricket match?",
+    "options": ["10", "20", "50", "Ninety"],
+    "answer": "20"
+  },
+  {
+    "image_id": "sports_032",
+    "question": "What is the next name for the team of the picture's logo, Dhaka Gladiators?",
+    "options": [
+      "Dhaka Dynamites",
+      "Dhaka Capitals",
+      "Dhaka Warriors",
+      "Dhaka Magicians"
+    ],
+    "answer": "Dhaka Dynamites"
+  },
+  {
+    "image_id": "sports_033",
+    "question": "What was the next name of the team with the picture logo, Chittagong Kings?",
+    "options": [
+      "Chattogram Challengers",
+      "Chittagong Warriors",
+      "Chittagong Dynamites",
+      "Chittagong Vikings"
+    ],
+    "answer": "Chittagong Vikings"
+  },
+  {
+    "image_id": "sports_034",
+    "question": "In what year did the team with the picture logo, Khulna Tigers, reach the BPL final?",
+    "options": ["2017", "2018", "2019", "2023"],
+    "answer": "2019"
+  },
+  {
+    "image_id": "sports_035",
+    "question": "In what year did the team with the picture logo, Comilla Victorians, cease to exist?",
+    "options": ["2021", "2022", "2023", "2024"],
+    "answer": "2024"
+  },
+  {
+    "image_id": "sports_036",
+    "question": "Who is working as the head coach of the Picture Team?",
+    "options": [
+      "Mahmuda Akter Ananya",
+      "Swinu Pru Marma",
+      "Saiful Bari Titu",
+      "Mahbubur Rahman Litu"
+    ],
+    "answer": "Saiful Bari Titu"
+  },
+  {
+    "image_id": "sports_037",
+    "question": "In what year did the jubilant Bangladeshi women's football team win the SAFF Championship trophy?",
+    "options": ["2021", "2022", "2023", "2024"],
+    "answer": "2022"
+  },
+  {
+    "image_id": "sports_038",
+    "question": "Who is the president of the Logos Abahani Limited Dhaka Club?",
+    "options": [
+      "Swinu Pru Marma",
+      "Saiful Bari Titu",
+      "Mahbubur Rahman Litu",
+      "Salman F Rahman"
+    ],
+    "answer": "Salman F Rahman"
+  },
+  {
+    "image_id": "sports_039",
+    "question": "Which sports are played at the stadium shown in the picture, which is the National Stadium?",
+    "options": ["Cricket", "Football", "Kabaddi", "Chess"],
+    "answer": "Football"
+  },
+  {
+    "image_id": "sports_040",
+    "question": "What country was the cricketer in the picture, Upul Chandika Hathurusinghe, from?",
+    "options": ["Sri Lanka", "India", "Afghanistan", "Nepal"],
+    "answer": "Sri Lanka"
+  },
+  {
+    "image_id": "sports_041",
+    "question": "What was the man in the picture, Steven John Rhodes, most known for in cricket?",
+    "options": ["Batsman", "Bowler", "Fielder", "Wicket-keeper"],
+    "answer": "Wicket-keeper"
+  },
+  {
+    "image_id": "sports_042",
+    "question": "What was the player in the picture most known for?",
+    "options": ["Batsman", "Bowler", "Fielder", "Wicketkeeper"],
+    "answer": "Batsman"
+  },
+  {
+    "image_id": "sports_043",
+    "question": "What role does the player in the picture play?",
+    "options": ["Batsman", "Bowler", "All-rounder", "Wicket-keeper"],
+    "answer": "All-rounder"
+  },
+  {
+    "image_id": "sports_044",
+    "question": "Which team did the player in the picture score their Test cricket century against at the youngest age?",
+    "options": ["Sri Lanka", "India", "Afghanistan", "Nepal"],
+    "answer": "Sri Lanka"
+  },
+  {
+    "image_id": "sports_045",
+    "question": "Against which team did the player in the picture take five wickets in a One Day International cricket match?",
+    "options": ["Sri Lanka", "India", "Afghanistan", "Nepal"],
+    "answer": "Sri Lanka"
+  },
+  {
+    "image_id": "sports_046",
+    "question": "What role does the player in the picture play?",
+    "options": ["Batsman", "Bowler", "All-rounder", "Wicketkeeper"],
+    "answer": "Batsman"
+  },
+  {
+    "image_id": "sports_047",
+    "question": "For which club has the player in the picture played the majority of their time?",
+    "options": [
+      "Mohun Bagan Sporting Club",
+      "Abahani Limited Dhaka",
+      "Sheikh Russel KC",
+      "Brothers Union"
+    ],
+    "answer": "Mohammedan Sporting Club"
+  },
+  {
+    "image_id": "sports_048",
+    "question": "Against which team did the player in the picture debut in ODI cricket?",
+    "options": ["Sri Lanka", "India", "West Indies", "Nepal"],
+    "answer": "West Indies"
+  },
+  {
+    "image_id": "sports_049",
+    "question": "In which cricket match did the player in the picture score the first century for Bangladesh?",
+    "options": ["One Day", "Test", "T20", "T10"],
+    "answer": "Test"
+  },
+  {
+    "image_id": "sports_050",
+    "question": "What game is the player in the picture showcasing?",
+    "options": ["Cricket", "Football", "Kabaddi", "Hockey"],
+    "answer": "Hockey"
+  },
+  {
+    "image_id": "sports_051",
+    "question": "What medal did the swimmer win in the 50m and 100m breaststroke at the 2016 South Asian Games?",
+    "options": ["Gold Medal", "Silver medal", "Bronze medal", "Iron medal"],
+    "answer": "Gold medal"
+  },
+  {
+    "image_id": "sports_052",
+    "question": "Which game does the player in the picture participate in?",
+    "options": ["Football", "Cricket", "Hockey", "Kabaddi"],
+    "answer": "Cricket"
+  },
+  {
+    "image_id": "sports_053",
+    "question": "In which event did the player in the picture win a silver medal?",
+    "options": [
+      "Recurve Mixed Team Event",
+      "Men's Singles Event",
+      "Women's Singles Event",
+      "Compound Team Event"
+    ],
+    "answer": "Recurve Mixed Team Event"
+  },
+  {
+    "image_id": "sports_054",
+    "question": "Which club does the player in the picture play for?",
+    "options": [
+      "Abahani Limited Dhaka",
+      "Bashundhara Kings",
+      "Mohamedan Sporting Club",
+      "Rahmatganj MFS"
+    ],
+    "answer": "Bashundhara Kings"
+  },
+  {
+    "image_id": "sports_055",
+    "question": "Who is the head coach of the Javier Cabrera team?",
+    "options": [
+      "Goa Youth Team",
+      "Rayo Mahadayonda",
+      "Bangladesh National Team",
+      "Deportivo Alavés Academy"
+    ],
+    "answer": "Bangladesh National Team"
+  },
+  {
+    "image_id": "sports_056",
+    "question": "Which club does the player in the picture play for?",
+    "options": [
+      "Mohammedan SC",
+      "Sheikh Jamal DC",
+      "Bashundhara Kings",
+      "Rahmatganj MFS"
+    ],
+    "answer": "Bashundhara Kings"
+  },
+  {
+    "image_id": "sports_057",
+    "question": "Which country's football team does the player in the picture represent?",
+    "options": ["Bangladesh", "India", "Bhutan", "Singapore"],
+    "answer": "Bangladesh"
+  },
+  {
+    "image_id": "sports_058",
+    "question": "What kind of cricketer is the player in the picture?",
+    "options": ["Batsman", "Bowler", "All-rounder", "Wicketkeeper"],
+    "answer": "Batsman"
+  },
+  {
+    "image_id": "sports_059",
+    "question": "Which country's cricket team does the player in the picture play for?",
+    "options": ["India", "Bangladesh", "Sri Lanka", "Pakistan"],
+    "answer": "Bangladesh"
+  },
+  {
+    "image_id": "sports_060",
+    "question": "Which country's cricket team does Zakir Ali Anik play for?",
+    "options": ["Bangladesh", "India", "Pakistan", "Sri Lanka"],
+    "answer": "Bangladesh"
+  },
+  {
+    "image_id": "sports_061",
+    "question": "Which team does Sabina Khatun play for in international matches?",
+    "options": [
+      "Bangladesh Women's National Team",
+      "Indian Women's Team",
+      "Nepal Women's Team",
+      "Sri Lanka Women's Team"
+    ],
+    "answer": "Bangladesh Women's National Team"
+  },
+  {
+    "image_id": "sports_062",
+    "question": "Which team does Nahida Akter play international cricket for?",
+    "options": [
+      "Bangladesh Women's National Team",
+      "Indian Women's Team",
+      "Pakistan Women's Team",
+      "Sri Lanka Women's Team"
+    ],
+    "answer": "Bangladesh Women's National Team"
+  },
+  {
+    "image_id": "sports_063",
+    "question": "Which international award has Marufa Akhter won?",
+    "options": [
+      "ESPNcricinfo Women's ODI Bowling Award",
+      "ICC Women's Player of the Year",
+      "Asian Games Bronze Medal",
+      "Best player of the BPL tournament"
+    ],
+    "answer": "ESPNcricinfo Women's ODI Bowling Award"
+  }
+]

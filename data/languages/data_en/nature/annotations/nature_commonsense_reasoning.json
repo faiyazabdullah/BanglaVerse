@@ -1,0 +1,1652 @@
+[
+  {
+    "image_id": "nature_001",
+    "question": "What is the process of new land formation due to silt accumulation at a river's estuary called?",
+    "options": [
+      "Desertification",
+      "Glaciation",
+      "Erosion process",
+      "Delta formation process"
+    ],
+    "answer": "Delta formation process"
+  },
+  {
+    "image_id": "nature_002",
+    "question": "Which world-famous tiger species, residing in the Sundarbans, is seen in the picture?",
+    "options": [
+      "Siberian Tiger",
+      "Sumatran Tiger",
+      "Indochinese Tiger",
+      "Royal Bengal Tiger"
+    ],
+    "answer": "Royal Bengal Tiger"
+  },
+  {
+    "image_id": "nature_003",
+    "question": "The picture shows a vast sandy beach and ocean waves. Which place in Bangladesh is this?",
+    "options": [
+      "Patenga Beach",
+      "Kuakata Beach",
+      "Inani Beach",
+      "Cox's Bazar"
+    ],
+    "answer": "Cox's Bazar"
+  },
+  {
+    "image_id": "nature_004",
+    "question": "Where is Ali's cave located?",
+    "options": [
+      "In Sylhet district.",
+      "In Khagrachari district.",
+      "In Rangamati district.",
+      "In Bandarban district."
+    ],
+    "answer": "In Bandarban district."
+  },
+  {
+    "image_id": "nature_005",
+    "question": "What type of natural beauty is Alutila Cave primarily known for?",
+    "options": [
+      "Coral reefs and blue water",
+      "Dense mangrove forests",
+      "Sandy dunes and sea views",
+      "Natural scenery of caves and mountains"
+    ],
+    "answer": "Natural scenery of caves and mountains"
+  },
+  {
+    "image_id": "nature_006",
+    "question": "In the hills of which district is Amiakhum waterfall located?",
+    "options": [
+      "Moulvibazar",
+      "Chittagong",
+      "Habiganj",
+      "Bandarban"
+    ],
+    "answer": "Bandarban"
+  },
+  {
+    "image_id": "nature_007",
+    "question": "What is the approximate length of Kuakata beach in kilometers?",
+    "options": [
+      "Approximately 50 kilometers",
+      "Approximately 5 kilometers",
+      "Approximately 120 kilometers",
+      "Approximately 18 kilometers"
+    ],
+    "answer": "Approximately 18 kilometers"
+  },
+  {
+    "image_id": "nature_008",
+    "question": "The Buriganga River is known as a branch of which major river?",
+    "options": [
+      "Padma River",
+      "Meghna River",
+      "Jamuna River",
+      "Dhaleshwari River"
+    ],
+    "answer": "Dhaleshwari River"
+  },
+  {
+    "image_id": "nature_009",
+    "question": "Byakka Beel is primarily known for which natural resource?",
+    "options": [
+      "Coal and mineral deposits",
+      "Natural gas reserves",
+      "Teak and sandalwood timber",
+      "Avian and aquatic biodiversity"
+    ],
+    "answer": "Avian and aquatic biodiversity"
+  },
+  {
+    "image_id": "nature_010",
+    "question": "Which two places are connected by the Marine Drive road in Bangladesh?",
+    "options": [
+      "Dhaka to Chittagong",
+      "Sylhet to Tamabil",
+      "Khulna to Mongla",
+      "Cox's Bazar to Teknaf"
+    ],
+    "answer": "Cox's Bazar to Teknaf"
+  },
+  {
+    "image_id": "nature_011",
+    "question": "In which district is Lawachara National Park located?",
+    "options": [
+      "Sunamganj",
+      "Netrokona",
+      "Sherpur",
+      "Moulvibazar"
+    ],
+    "answer": "Moulvibazar"
+  },
+  {
+    "image_id": "nature_012",
+    "question": "Near the mouth of which river is Patenga Sea Beach located?",
+    "options": [
+      "Sangu River",
+      "Feni River",
+      "Matamuhuri River",
+      "Karnaphuli River"
+    ],
+    "answer": "Karnaphuli River"
+  },
+  {
+    "image_id": "nature_013",
+    "question": "Which district is Bichanakandi located in?",
+    "options": [
+      "Mymensingh",
+      "Brahmanbaria",
+      "Kishoreganj",
+      "Sylhet"
+    ],
+    "answer": "Sylhet"
+  },
+  {
+    "image_id": "nature_014",
+    "question": "What is Chandpur Big Station primarily famous for?",
+    "options": [
+      "For Mango gardens",
+      "For Tea estates",
+      "For Rubber plantations",
+      "For Hilsa fish"
+    ],
+    "answer": "For Hilsa fish"
+  },
+  {
+    "image_id": "nature_015",
+    "question": "What beautiful sea view can be seen from Chandranath Hill?",
+    "options": [
+      "Arabian Sea",
+      "Andaman Sea",
+      "Laccadive Sea",
+      "Bay of Bengal"
+    ],
+    "answer": "Bay of Bengal"
+  },
+  {
+    "image_id": "nature_016",
+    "question": "Which district is China Dam located in?",
+    "options": [
+      "Rajshahi",
+      "Bogura",
+      "Natore",
+      "Sirajganj"
+    ],
+    "answer": "Sirajganj"
+  },
+  {
+    "image_id": "nature_017",
+    "question": "In which district is the Baldha Garden located?",
+    "options": [
+      "Gazipur",
+      "Narayanganj",
+      "Munshiganj",
+      "Dhaka"
+    ],
+    "answer": "Dhaka"
+  },
+  {
+    "image_id": "nature_018",
+    "question": "Which is the main canal of Banshkhali Upazila?",
+    "options": [
+      "Khalishpur Canal",
+      "Bakkhali Canal",
+      "Karna Canal",
+      "Jalkadar Canal"
+    ],
+    "answer": "Jalkadar Canal"
+  },
+  {
+    "image_id": "nature_019",
+    "question": "In which police station is Chittagong University located?",
+    "options": [
+      "Patiya",
+      "Raozan",
+      "Anwara",
+      "Hathazari"
+    ],
+    "answer": "Hathazari"
+  },
+  {
+    "image_id": "nature_020",
+    "question": "In which district is the Bagbuna gorge located?",
+    "options": [
+      "Feni",
+      "Noakhali",
+      "Lakshmipur",
+      "Cox's Bazar"
+    ],
+    "answer": "Cox's Bazar"
+  },
+  {
+    "image_id": "nature_021",
+    "question": "In which district is the Birisiri Lake located?",
+    "options": [
+      "Tangail",
+      "Jamalpur",
+      "Sherpur",
+      "Netrokona"
+    ],
+    "answer": "Netrokona"
+  },
+  {
+    "image_id": "nature_022",
+    "question": "Which sea is Chera Island located in?",
+    "options": [
+      "In the Red Sea",
+      "In the Caspian Sea",
+      "In the Mediterranean Sea",
+      "In the Bay of Bengal"
+    ],
+    "answer": "In the Bay of Bengal"
+  },
+  {
+    "image_id": "nature_023",
+    "question": "Through which country does the Brahmaputra River flow?",
+    "options": [
+      "Nepal and Bhutan",
+      "Myanmar and Thailand",
+      "Sri Lanka and Maldives",
+      "India and Bangladesh"
+    ],
+    "answer": "India and Bangladesh"
+  },
+  {
+    "image_id": "nature_024",
+    "question": "In which district is the river shown in the picture located?",
+    "options": [
+      "Dhaka",
+      "Sylhet",
+      "Rajshahi",
+      "Mymensingh"
+    ],
+    "answer": "Mymensingh"
+  },
+  {
+    "image_id": "nature_025",
+    "question": "What is the main attraction of Chimbuk hills?",
+    "options": [
+      "Industrial factories",
+      "Shopping malls",
+      "Ancient ruins",
+      "Mountain forests and panoramic views"
+    ],
+    "answer": "Mountain forests and panoramic views"
+  },
+  {
+    "image_id": "nature_026",
+    "question": "In which district is Devatakhum located?",
+    "options": [
+      "Khagrachari",
+      "Rangamati",
+      "Chittagong",
+      "Bandarban"
+    ],
+    "answer": "Bandarban"
+  },
+  {
+    "image_id": "nature_027",
+    "question": "What is the main attraction of the Chittagong Hill Tracts?",
+    "options": [
+      "Sea beach and ports",
+      "Industrial zones",
+      "Flat agricultural plains",
+      "Mountain, hill village"
+    ],
+    "answer": "Mountain, hill village"
+  },
+  {
+    "image_id": "nature_028",
+    "question": "In which district is this lake shown in the picture located?",
+    "options": [
+      "Rangamati",
+      "Khagrachari",
+      "Sylhet",
+      "Bandarban"
+    ],
+    "answer": "Bandarban"
+  },
+  {
+    "image_id": "nature_029",
+    "question": "In which district is the Chalan Beel shown in the picture located?",
+    "options": [
+      "Sirajganj",
+      "Natore",
+      "Bogura",
+      "Pabna"
+    ],
+    "answer": "Pabna"
+  },
+  {
+    "image_id": "nature_030",
+    "question": "In which city is this university shown in the picture located?",
+    "options": [
+      "Chittagong",
+      "Rajshahi",
+      "Khulna",
+      "Dhaka"
+    ],
+    "answer": "Dhaka"
+  },
+  {
+    "image_id": "nature_031",
+    "question": "What are the length and average width of the Jadukata River?",
+    "options": [
+      "Length 50 kilometers, average width 100 meters",
+      "Length 20 kilometers, average width 30 meters",
+      "Length 45 kilometers, average width 80 meters",
+      "Length 37 kilometers, average width 57 meters"
+    ],
+    "answer": "Length 37 kilometers, average width 57 meters"
+  },
+  {
+    "image_id": "nature_032",
+    "question": "How many acres does Jahangirnagar University cover?",
+    "options": [
+      "500.25 acres",
+      "1000 acres",
+      "820.40 acres",
+      "697.56 acres"
+    ],
+    "answer": "697.56 acres"
+  },
+  {
+    "image_id": "nature_033",
+    "question": "In which district of Bangladesh is the river shown in the picture located?",
+    "options": [
+      "Sylhet",
+      "Sunamganj",
+      "Habiganj",
+      "Moulvibazar"
+    ],
+    "answer": "Moulvibazar"
+  },
+  {
+    "image_id": "nature_034",
+    "question": "In which city are the wetlands and park shown in the picture located?",
+    "options": [
+      "Chittagong",
+      "Khulna",
+      "Rajshahi",
+      "Dhaka"
+    ],
+    "answer": "Dhaka"
+  },
+  {
+    "image_id": "nature_035",
+    "question": "Where is Inani Beach located?",
+    "options": [
+      "South of Teknaf",
+      "East of Chittagong",
+      "West of Patuakhali",
+      "North of Cox's Bazar District"
+    ],
+    "answer": "North of Cox's Bazar District"
+  },
+  {
+    "image_id": "nature_036",
+    "question": "Which river is Lalakhal known to be a part of?",
+    "options": [
+      "Surma River's",
+      "Kushiyara River's",
+      "Piyain River's",
+      "Sori River's"
+    ],
+    "answer": "Sori River's"
+  },
+  {
+    "image_id": "nature_037",
+    "question": "Which district is Guliakhali Beach located in?",
+    "options": [
+      "Anwara Upazila of Chittagong District",
+      "Banshkhali Upazila of Chittagong District",
+      "Mirsharai Upazila of Chittagong District",
+      "Sitakunda Upazila of Chittagong District"
+    ],
+    "answer": "Sitakunda Upazila of Chittagong District"
+  },
+  {
+    "image_id": "nature_038",
+    "question": "In which district is Himchhari waterfall located?",
+    "options": [
+      "Bandarban",
+      "Rangamati",
+      "Khagrachari",
+      "Cox's Bazar"
+    ],
+    "answer": "Cox's Bazar"
+  },
+  {
+    "image_id": "nature_039",
+    "question": "Where is Hiron Point located?",
+    "options": [
+      "The northern part of the Sundarbans",
+      "The eastern part of the Sundarbans",
+      "The western part of the Sundarbans",
+      "The southern part of the Sundarbans"
+    ],
+    "answer": "The southern part of the Sundarbans"
+  },
+  {
+    "image_id": "nature_040",
+    "question": "Where is Jaflong located?",
+    "options": [
+      "In Beanibazar Upazila of Sylhet district.",
+      "In Jaintiapur Upazila of Sylhet district.",
+      "In Fenchuganj Upazila of Sylhet district.",
+      "In Gowainghat Upazila of Sylhet district."
+    ],
+    "answer": "In Gowainghat Upazila of Sylhet district."
+  },
+  {
+    "image_id": "nature_041",
+    "question": "Where is Hakaluki Haor located, and what is it known for?",
+    "options": [
+      "It is located in the Sunamganj district and is known for salt production.",
+      "It is located in the Netrokona district and is known for its hills.",
+      "It is located in the Kishoreganj district and is known for its industry.",
+      "It is located in the Moulvibazar and Sylhet districts and is known as one of the largest freshwater wetlands in Bangladesh."
+    ],
+    "answer": "It is located in the Moulvibazar and Sylhet districts and is known as one of the largest freshwater wetlands in Bangladesh."
+  },
+  {
+    "image_id": "nature_042",
+    "question": "For whom is the Lakma Chhara more enjoyable—nature lovers or adventurers?",
+    "options": [
+      "Only for nature lovers",
+      "Only for adventurers",
+      "Only for photographers",
+      "For both"
+    ],
+    "answer": "For both"
+  },
+  {
+    "image_id": "nature_043",
+    "question": "What era of architecture does the Bagha Shahi Mosque belong to?",
+    "options": [
+      "Mughal",
+      "British",
+      "Modern",
+      "Sultani"
+    ],
+    "answer": "Sultani"
+  },
+  {
+    "image_id": "nature_044",
+    "question": "What is Bawachhara Lake famous for?",
+    "options": [
+      "Commercial fishing",
+      "Water sports",
+      "Boating competitions",
+      "Natural beauty"
+    ],
+    "answer": "Natural beauty"
+  },
+  {
+    "image_id": "nature_045",
+    "question": "Which story is associated with Behula's bridal chamber?",
+    "options": [
+      "The epic of Ramayana",
+      "The epic of Mahabharata",
+      "The legend of Laila Majnu",
+      "The epic of Manasa Mangal"
+    ],
+    "answer": "The epic of Manasa Mangal"
+  },
+  {
+    "image_id": "nature_046",
+    "question": "In which district is Bhawal National Park?",
+    "options": [
+      "Dhaka District",
+      "Narayanganj District",
+      "Munshiganj District",
+      "Ghazipur District"
+    ],
+    "answer": "Ghazipur District"
+  },
+  {
+    "image_id": "nature_047",
+    "question": "Where is the shrine shown in the picture located?",
+    "options": [
+      "Comilla, Sadar Police Station",
+      "Sylhet, Kotwali Police Station",
+      "Chittagong, Double Mooring Police Station",
+      "Brahmanbaria, Nabinagar Police Station"
+    ],
+    "answer": "Brahmanbaria, Nabinagar Police Station"
+  },
+  {
+    "image_id": "nature_048",
+    "question": "Where is the Bolihar Rajbari located?",
+    "options": [
+      "Natore",
+      "Rajshahi",
+      "Pabna",
+      "Naogaon"
+    ],
+    "answer": "Naogaon"
+  },
+  {
+    "image_id": "nature_049",
+    "question": "Where is Char Kukri Mukri located?",
+    "options": [
+      "Patuakhali, Kalapara",
+      "Barguna, Patharghata",
+      "Noakhali, Hatiya",
+      "Bhola, Charfashon"
+    ],
+    "answer": "Bhola, Charfashon"
+  },
+  {
+    "image_id": "nature_050",
+    "question": "Where do undertows occur in Bangladesh?",
+    "options": [
+      "Cox's Bazar",
+      "Kuakata",
+      "Patenga",
+      "Saint Martin's"
+    ],
+    "answer": "Saint Martin's"
+  },
+  {
+    "image_id": "nature_051",
+    "question": "What is the other name for Cumilla Buddhist Vihara?",
+    "options": [
+      "Somapura Mahavihara",
+      "Halud Vihara",
+      "Jagaddala Mahavihara",
+      "Shalban Vihara"
+    ],
+    "answer": "Shalban Vihara"
+  },
+  {
+    "image_id": "nature_052",
+    "question": "Maynamati is a historical place in which district?",
+    "options": [
+      "Of Bogra",
+      "Of Rajshahi",
+      "Of Dinajpur",
+      "Of Comilla"
+    ],
+    "answer": "Of Comilla"
+  },
+  {
+    "image_id": "nature_053",
+    "question": "What era of architecture does the Darasbari Mosque belong to?",
+    "options": [
+      "Mughal period",
+      "Ancient period",
+      "British period",
+      "Sultanate period"
+    ],
+    "answer": "Sultanate period"
+  },
+  {
+    "image_id": "nature_054",
+    "question": "What mode of transport is Uttara Diabari famous for?",
+    "options": [
+      "Steam train",
+      "Cable car",
+      "High-speed ferry",
+      "Metrorail"
+    ],
+    "answer": "Metrorail"
+  },
+  {
+    "image_id": "nature_055",
+    "question": "Which ethnic group has the largest population in Dighinala Upazila?",
+    "options": [
+      "Marma",
+      "Tripura",
+      "Garo",
+      "Chakma"
+    ],
+    "answer": "Chakma"
+  },
+  {
+    "image_id": "nature_056",
+    "question": "Dublar Char is famous for which festival?",
+    "options": [
+      "Pohela Boishakh",
+      "Eid-ul-Fitr",
+      "Durga Puja",
+      "Full Moon of Rasa"
+    ],
+    "answer": "Full Moon of Rasa"
+  },
+  {
+    "image_id": "nature_057",
+    "question": "What kind of lake is Foy's Lake?",
+    "options": [
+      "Natural oxbow lake",
+      "Volcanic lake",
+      "Glacial lake",
+      "Artificial lake"
+    ],
+    "answer": "Artificial lake"
+  },
+  {
+    "image_id": "nature_058",
+    "question": "Which animals are conserved at Gazipur Safari Park?",
+    "options": [
+      "Elephant",
+      "Lion",
+      "Giraffe",
+      "Tiger"
+    ],
+    "answer": "Tiger"
+  },
+  {
+    "image_id": "nature_059",
+    "question": "What is the Halda River famous for?",
+    "options": [
+      "Natural gas",
+      "Limestone",
+      "Sand mining",
+      "Mother fish roe"
+    ],
+    "answer": "Mother fish roe"
+  },
+  {
+    "image_id": "nature_060",
+    "question": "In which forest area is Hamham Falls located?",
+    "options": [
+      "Sunderbans",
+      "Bhawal",
+      "Madhupur",
+      "Rajkandi"
+    ],
+    "answer": "Rajkandi"
+  },
+  {
+    "image_id": "nature_061",
+    "question": "On the lap of which sea is Hatiya Island located?",
+    "options": [
+      "Arabian Sea",
+      "Andaman Sea",
+      "Laccadive Sea",
+      "Bay of Bengal"
+    ],
+    "answer": "Bay of Bengal"
+  },
+  {
+    "image_id": "nature_062",
+    "question": "Who built Idrakpur Fort?",
+    "options": [
+      "Shaista Khan",
+      "Islam Khan",
+      "Aurangzeb",
+      "Mir Jumla"
+    ],
+    "answer": "Mir Jumla"
+  },
+  {
+    "image_id": "nature_063",
+    "question": "Which ancient kingdom was Jaintapur the capital of?",
+    "options": [
+      "Of the Harikela Kingdom",
+      "Of the Samatata Kingdom",
+      "Of the Gaur Kingdom",
+      "Of the Jaintia Kingdom"
+    ],
+    "answer": "Of the Jaintia Kingdom"
+  },
+  {
+    "image_id": "nature_064",
+    "question": "What is the length of the Jamuna Bridge?",
+    "options": [
+      "6.1 km",
+      "3.5 km",
+      "5.8 km",
+      "4.8 km"
+    ],
+    "answer": "4.8 km"
+  },
+  {
+    "image_id": "nature_065",
+    "question": "Jobi Bill is known as a sanctuary for which bird?",
+    "options": [
+      "Kingfisher",
+      "Parrot",
+      "Eagle",
+      "Migratory bird"
+    ],
+    "answer": "Migratory bird"
+  },
+  {
+    "image_id": "nature_066",
+    "question": "In which district is Kaptai National Park located?",
+    "options": [
+      "Bandarban",
+      "Khagrachari",
+      "Chittagong",
+      "Rangamati"
+    ],
+    "answer": "Rangamati"
+  },
+  {
+    "image_id": "nature_067",
+    "question": "What is Garamjal famous for conserving?",
+    "options": [
+      "Tiger and Elephant",
+      "Monkey and Peacock",
+      "Snake and Turtle",
+      "Deer and Crocodile"
+    ],
+    "answer": "Deer and Crocodile"
+  },
+  {
+    "image_id": "nature_068",
+    "question": "Which power plant is located on the Karnaphuli River?",
+    "options": [
+      "Ghorashal Power Station",
+      "Ashuganj Power Station",
+      "Rampal Power Plant",
+      "Kaptai Hydroelectric Power Station"
+    ],
+    "answer": "Kaptai Hydroelectric Power Station"
+  },
+  {
+    "image_id": "nature_069",
+    "question": "Near which city is Kattali Sea Beach?",
+    "options": [
+      "Cox's Bazar",
+      "Kuakata",
+      "Feni",
+      "Chittagong"
+    ],
+    "answer": "Chittagong"
+  },
+  {
+    "image_id": "nature_070",
+    "question": "At what altitude is Keokradong peak located?",
+    "options": [
+      "1230 meters",
+      "850 meters",
+      "1054 meters",
+      "986 meters"
+    ],
+    "answer": "986 meters"
+  },
+  {
+    "image_id": "nature_071",
+    "question": "What is Khadimanagar National Park famous for?",
+    "options": [
+      "Mangrove Forest",
+      "Hill Tracts",
+      "Waterfall Heritage",
+      "Biodiversity and Tea Gardens"
+    ],
+    "answer": "Biodiversity and Tea Gardens"
+  },
+  {
+    "image_id": "nature_072",
+    "question": "How many tiers are there in the Khaiyachara waterfall in total?",
+    "options": [
+      "3 steps",
+      "5 steps",
+      "7 steps",
+      "9 steps"
+    ],
+    "answer": "9 steps"
+  },
+  {
+    "image_id": "nature_073",
+    "question": "Where is Katka Sea Beach located?",
+    "options": [
+      "Saint Martin",
+      "Sonadia",
+      "Nijhum Dwip",
+      "Sundarban"
+    ],
+    "answer": "Sundarban"
+  },
+  {
+    "image_id": "nature_074",
+    "question": "For which natural resource is Kutubdia Island famous?",
+    "options": [
+      "Coal",
+      "Natural Gas",
+      "Limestone",
+      "Salt"
+    ],
+    "answer": "Salt"
+  },
+  {
+    "image_id": "nature_075",
+    "question": "In which district is Langlok Waterfall located?",
+    "options": [
+      "Rangamati",
+      "Sylhet",
+      "Moulvibazar",
+      "Bandarban"
+    ],
+    "answer": "Bandarban"
+  },
+  {
+    "image_id": "nature_076",
+    "question": "In which district is Lawachara National Park located?",
+    "options": [
+      "Habiganj",
+      "Sunamganj",
+      "Sylhet",
+      "Moulvibazar"
+    ],
+    "answer": "Moulvibazar"
+  },
+  {
+    "image_id": "nature_077",
+    "question": "What type of tourist destination is Lexus Garden known as?",
+    "options": [
+      "Historical Museum",
+      "Wildlife Sanctuary",
+      "Botanical Garden",
+      "Modern Amusement Park"
+    ],
+    "answer": "Modern Amusement Park"
+  },
+  {
+    "image_id": "nature_078",
+    "question": "What is the height of Madhabkunda waterfall in meters?",
+    "options": [
+      "30 meters",
+      "60 meters",
+      "100 meters",
+      "Approximately 49 meters"
+    ],
+    "answer": "Approximately 49 meters"
+  },
+  {
+    "image_id": "nature_079",
+    "question": "On the banks of which river is Mahasthangarh located?",
+    "options": [
+      "Brahmaputra River",
+      "Shitalakshya River",
+      "Buriganga River",
+      "Karatoa River"
+    ],
+    "answer": "Karatoa River"
+  },
+  {
+    "image_id": "nature_080",
+    "question": "Which district's royal palace is this picture of?",
+    "options": [
+      "Dinajpur",
+      "Natore",
+      "Rajshahi",
+      "Mymensingh"
+    ],
+    "answer": "Mymensingh"
+  },
+  {
+    "image_id": "nature_081",
+    "question": "What is the Malnichhara Tea Garden famous for?",
+    "options": [
+      "Largest tea garden in Asia",
+      "Organic tea production",
+      "Highest altitude tea garden",
+      "The first tea garden of Bangladesh"
+    ],
+    "answer": "The first tea garden of Bangladesh"
+  },
+  {
+    "image_id": "nature_082",
+    "question": "Where is Manikchhari Mong located?",
+    "options": [
+      "Bandarban",
+      "Rangamati",
+      "Chittagong",
+      "Khagrachhari"
+    ],
+    "answer": "Khagrachhari"
+  },
+  {
+    "image_id": "nature_083",
+    "question": "How many meters is Marayong Tong Hill?",
+    "options": [
+      "300 to 310 meters",
+      "700 to 710 meters",
+      "1000 to 1010 meters",
+      "Approximately 503 to 506 meters"
+    ],
+    "answer": "Approximately 503 to 506 meters"
+  },
+  {
+    "image_id": "nature_084",
+    "question": "In which district does the Matamuhuri River flow?",
+    "options": [
+      "Cox's Bazar",
+      "Chittagong",
+      "Rangamati",
+      "Bandarban"
+    ],
+    "answer": "Bandarban"
+  },
+  {
+    "image_id": "nature_085",
+    "question": "In which border region is the enchanting Jaflong waterfall located?",
+    "options": [
+      "Myanmar-Bangladesh border",
+      "Nepal-Bangladesh border",
+      "Bhutan-Bangladesh border",
+      "India-Bangladesh border"
+    ],
+    "answer": "India-Bangladesh border"
+  },
+  {
+    "image_id": "nature_086",
+    "question": "Which large river is the Meghna River a tributary of?",
+    "options": [
+      "Ganges River",
+      "Hooghly River",
+      "Teesta River",
+      "Barak River of India"
+    ],
+    "answer": "Barak River of India"
+  },
+  {
+    "image_id": "nature_087",
+    "question": "Which river bank does Meghnar paar refer to?",
+    "options": [
+      "Padma River",
+      "Jamuna River",
+      "Kushiyara River",
+      "Meghna River"
+    ],
+    "answer": "Meghna River"
+  },
+  {
+    "image_id": "nature_088",
+    "question": "Which district is Mithamain Haor located in?",
+    "options": [
+      "Sunamganj",
+      "Netrokona",
+      "Habiganj",
+      "Kishoreganj"
+    ],
+    "answer": "Kishoreganj"
+  },
+  {
+    "image_id": "nature_089",
+    "question": "What is Madhupur National Park famous for preserving?",
+    "options": [
+      "Mangrove forest",
+      "Evergreen forest",
+      "Bamboo forest",
+      "Sal forest"
+    ],
+    "answer": "Sal forest"
+  },
+  {
+    "image_id": "nature_090",
+    "question": "For what purpose is Mahamaya Lake used?",
+    "options": [
+      "Commercial fishing center",
+      "Water taxi terminal",
+      "Tourism only",
+      "Irrigation project"
+    ],
+    "answer": "Irrigation project"
+  },
+  {
+    "image_id": "nature_091",
+    "question": "Which religious site is Maheshkhali Adinath Jetty associated with?",
+    "options": [
+      "Dhakeshwari Temple",
+      "Kantajew Temple",
+      "Bhabani Temple",
+      "Adinath Temple"
+    ],
+    "answer": "Adinath Temple"
+  },
+  {
+    "image_id": "nature_092",
+    "question": "Where is Monpura Island located?",
+    "options": [
+      "Off the coast of Chittagong",
+      "Near Saint Martin's Island",
+      "In the estuary of the Padma",
+      "Nestled in the Bay of Bengal, south of Bhola."
+    ],
+    "answer": "Nestled in the Bay of Bengal, south of Bhola."
+  },
+  {
+    "image_id": "nature_093",
+    "question": "In which district is Nabinagar located?",
+    "options": [
+      "Comilla",
+      "Chandpur",
+      "Narsingdi",
+      "Brahmanbaria"
+    ],
+    "answer": "Brahmanbaria"
+  },
+  {
+    "image_id": "nature_094",
+    "question": "Which two countries does the NAF River border?",
+    "options": [
+      "Bangladesh and India",
+      "India and Myanmar",
+      "Bangladesh and Nepal",
+      "Bangladesh and Myanmar"
+    ],
+    "answer": "Bangladesh and Myanmar"
+  },
+  {
+    "image_id": "nature_095",
+    "question": "Where is Nafakhum waterfall located?",
+    "options": [
+      "Rangamati, Kaptai area",
+      "Khagrachari, Sajek area",
+      "Sylhet, Jaflong area",
+      "Bandarban, Thanchi area"
+    ],
+    "answer": "Bandarban, Thanchi area"
+  },
+  {
+    "image_id": "nature_096",
+    "question": "To see the Napitachhara Waterfall, which place do you need to go to?",
+    "options": [
+      "Sitakunda, Chittagong",
+      "Bandarban Sadar",
+      "Sreemangal, Moulvibazar",
+      "Mirsharai, Chittagong"
+    ],
+    "answer": "Mirsharai, Chittagong"
+  },
+  {
+    "image_id": "nature_097",
+    "question": "What is a jhiri and where is it usually found?",
+    "options": [
+      "Large river deltas",
+      "Coastal sandy beaches",
+      "Deep ocean trenches",
+      "Tiny streams nestled in the lap of the mountains"
+    ],
+    "answer": "Tiny streams nestled in the lap of the mountains"
+  },
+  {
+    "image_id": "nature_098",
+    "question": "In which district is Nijhum Dwip located?",
+    "options": [
+      "Bhola",
+      "Patuakhali",
+      "Cox's Bazar",
+      "Noakhali"
+    ],
+    "answer": "Noakhali"
+  },
+  {
+    "image_id": "nature_099",
+    "question": "Where is Niladri Lake located?",
+    "options": [
+      "Teknaf, Cox's Bazar",
+      "Birisiri, Netrokona",
+      "Sajek, Rangamati",
+      "Tahirpur, Sunamganj"
+    ],
+    "answer": "Tahirpur, Sunamganj"
+  },
+  {
+    "image_id": "nature_100",
+    "question": "For what reason are the Nilgiri Hills popular with tourists?",
+    "options": [
+      "For its ancient architectural ruins",
+      "For its deep sea diving spots",
+      "For its historical museums",
+      "At an altitude of approximately 2,200 feet above sea level, and for experiencing the kingdom of clouds"
+    ],
+    "answer": "At an altitude of approximately 2,200 feet above sea level, and for experiencing the kingdom of clouds"
+  },
+  {
+    "image_id": "nature_101",
+    "question": "In which district is Naljuri located?",
+    "options": [
+      "In the Sreemangal Upazila of Moulvibazar",
+      "In the Chhatak Upazila of Sunamganj",
+      "In the Madhabpur Upazila of Habiganj",
+      "In the Gowainghat Upazila of Sylhet"
+    ],
+    "answer": "In the Gowainghat Upazila of Sylhet"
+  },
+  {
+    "image_id": "nature_102",
+    "question": "In which district is the Pabla Khali Wildlife Sanctuary located?",
+    "options": [
+      "Bandarban",
+      "Khagrachari",
+      "Chittagong",
+      "Rangamati"
+    ],
+    "answer": "Rangamati"
+  },
+  {
+    "image_id": "nature_103",
+    "question": "Which upazila of Netrokona district is Panchgaon located in?",
+    "options": [
+      "In Durgapur Upazila",
+      "In Kendua Upazila",
+      "In Mohanganj Upazila",
+      "In Kolmakanda Upazila"
+    ],
+    "answer": "In Kolmakanda Upazila"
+  },
+  {
+    "image_id": "nature_104",
+    "question": "How long is the Padma Bridge?",
+    "options": [
+      "4.8 kilometers",
+      "9.3 kilometers",
+      "5.5 kilometers",
+      "6.15 kilometers"
+    ],
+    "answer": "6.15 kilometers"
+  },
+  {
+    "image_id": "nature_105",
+    "question": "In which direction does the Padma River flow through Bangladesh?",
+    "options": [
+      "From the east towards the sea",
+      "From the north towards the capital",
+      "From the south towards the mountains",
+      "As the main branch of the Ganges from the west,"
+    ],
+    "answer": "As the main branch of the Ganges from the west,"
+  },
+  {
+    "image_id": "nature_106",
+    "question": "Where is Padmadham located?",
+    "options": [
+      "In the village of Bera, in Pabna.",
+      "In the village of Goalanda, in Rajbari.",
+      "In the village of Shibganj, in Bogra.",
+      "In the village of Dosorpara, in Sirajdikhan Upazila, Munshiganj."
+    ],
+    "answer": "In the village of Dosorpara, in Sirajdikhan Upazila, Munshiganj."
+  },
+  {
+    "image_id": "nature_107",
+    "question": "For what reason is the Somapura Mahavihara in Paharpur a World Heritage site?",
+    "options": [
+      "Medieval Islamic Fort",
+      "Modern Architectural Landmark",
+      "Natural Mangrove Sanctuary",
+      "Ancient Buddhist Monastery, UNESCO World Heritage Site"
+    ],
+    "answer": "Ancient Buddhist Monastery, UNESCO World Heritage Site"
+  },
+  {
+    "image_id": "nature_108",
+    "question": "Where is the Panthumai waterfall located?",
+    "options": [
+      "In the middle of the Sundarbans",
+      "In the hill tracts of Bandarban",
+      "Near the beaches of Cox's Bazar",
+      "On the Bangladesh-India border, in Gowainghat, Sylhet"
+    ],
+    "answer": "On the Bangladesh-India border, in Gowainghat, Sylhet"
+  },
+  {
+    "image_id": "nature_109",
+    "question": "Which district's main market is Peara Bazar?",
+    "options": [
+      "Khulna",
+      "Jessore",
+      "Bagerhat",
+      "Barisal"
+    ],
+    "answer": "Barisal"
+  },
+  {
+    "image_id": "nature_110",
+    "question": "In which district is Ramsagar National Park located?",
+    "options": [
+      "Rangpur",
+      "Panchagarh",
+      "Thakurgaon",
+      "Dinajpur"
+    ],
+    "answer": "Dinajpur"
+  },
+  {
+    "image_id": "nature_111",
+    "question": "On which lake is the Rangamati Hanging Bridge located?",
+    "options": [
+      "Bogakain",
+      "Ashwini",
+      "Dhanmondi",
+      "Kaptai"
+    ],
+    "answer": "Kaptai"
+  },
+  {
+    "image_id": "nature_112",
+    "question": "In which district is Rangpani located?",
+    "options": [
+      "Moulvibazar",
+      "Sunamganj",
+      "Habiganj",
+      "Sylhet"
+    ],
+    "answer": "Sylhet"
+  },
+  {
+    "image_id": "nature_113",
+    "question": "What is the main characteristic of the Ratargul forest?",
+    "options": [
+      "Evergreen forest",
+      "Sal forest",
+      "Coniferous forest",
+      "Mangrove forest"
+    ],
+    "answer": "Mangrove forest"
+  },
+  {
+    "image_id": "nature_114",
+    "question": "In which district is the Rema Kalenga forest located?",
+    "options": [
+      "In Sreemangal Upazila of Moulvibazar District",
+      "In Tahirpur Upazila of Sunamganj District",
+      "In Beanibazar Upazila of Sylhet District",
+      "In Chunarughat Upazila of Hobiganj District"
+    ],
+    "answer": "In Chunarughat Upazila of Hobiganj District"
+  },
+  {
+    "image_id": "nature_115",
+    "question": "Approximately how many meters high is the Rizok waterfall?",
+    "options": [
+      "Approximately 50.2 meters",
+      "Approximately 120.5 meters",
+      "Approximately 30.8 meters",
+      "Approximately 91.4 meters"
+    ],
+    "answer": "Approximately 91.4 meters"
+  },
+  {
+    "image_id": "nature_116",
+    "question": "Which sub-district is Risang Waterfall located in?",
+    "options": [
+      "Dighinala",
+      "Panchari",
+      "Ramgarh",
+      "Matiranga"
+    ],
+    "answer": "Matiranga"
+  },
+  {
+    "image_id": "nature_117",
+    "question": "In which district is the bank of the Shangu River located?",
+    "options": [
+      "Rangamati",
+      "Khagrachari",
+      "Chittagong",
+      "Bandarban"
+    ],
+    "answer": "Bandarban"
+  },
+  {
+    "image_id": "nature_118",
+    "question": "In which district is Rupasagar Park located?",
+    "options": [
+      "Chandpur",
+      "Brahmanbaria",
+      "Feni",
+      "Comilla"
+    ],
+    "answer": "Comilla"
+  },
+  {
+    "image_id": "nature_119",
+    "question": "In which sea is St. Martin's Island located?",
+    "options": [
+      "Arabian Sea",
+      "Red Sea",
+      "Andaman Sea",
+      "Bay of Bengal"
+    ],
+    "answer": "Bay of Bengal"
+  },
+  {
+    "image_id": "nature_120",
+    "question": "In which district's hills is Sajek Valley located?",
+    "options": [
+      "Bandarban Sadar Upazila",
+      "Sitakunda Upazila of Chittagong District",
+      "Sreemangal Upazila of Moulvibazar District",
+      "Baghaichhari Upazila of Rangamati District"
+    ],
+    "answer": "Baghaichhari Upazila of Rangamati District"
+  },
+  {
+    "image_id": "nature_121",
+    "question": "Near which city is Shalban Bihar located?",
+    "options": [
+      "Dhaka",
+      "Sylhet",
+      "Rajshahi",
+      "Comilla"
+    ],
+    "answer": "Comilla"
+  },
+  {
+    "image_id": "nature_122",
+    "question": "Which district is Sandwip Island part of?",
+    "options": [
+      "Bhola district",
+      "Noakhali district",
+      "Cox's Bazar district",
+      "Of the Chittagong district"
+    ],
+    "answer": "Of the Chittagong district"
+  },
+  {
+    "image_id": "nature_123",
+    "question": "Through which district does the Sangu River flow?",
+    "options": [
+      "Rangamati and Khagrachari",
+      "Sylhet and Moulvibazar",
+      "Dhaka and Narayanganj",
+      "Bandarban and Chittagong"
+    ],
+    "answer": "Bandarban and Chittagong"
+  },
+  {
+    "image_id": "nature_124",
+    "question": "On the bank of which river is Sariakandi located?",
+    "options": [
+      "Padma River",
+      "Meghna River",
+      "Teesta River",
+      "Yamuna River"
+    ],
+    "answer": "Yamuna River"
+  },
+  {
+    "image_id": "nature_125",
+    "question": "In which district is Satchari National Park located?",
+    "options": [
+      "Sylhet",
+      "Moulvibazar",
+      "Sunamganj",
+      "Habiganj"
+    ],
+    "answer": "Habiganj"
+  },
+  {
+    "image_id": "nature_126",
+    "question": "On the shore of which sea is Saint Martin's Island located?",
+    "options": [
+      "Arabian Sea",
+      "Andaman Sea",
+      "Red Sea",
+      "Bay of Bengal"
+    ],
+    "answer": "Bay of Bengal"
+  },
+  {
+    "image_id": "nature_127",
+    "question": "In which city is the Sixty Dome Mosque located?",
+    "options": [
+      "Gaur",
+      "Sonargaon",
+      "Dhaka",
+      "Bagerhat"
+    ],
+    "answer": "Bagerhat"
+  },
+  {
+    "image_id": "nature_128",
+    "question": "In which season is Shimul Bagan filled with tourists?",
+    "options": [
+      "Winter",
+      "Summer",
+      "Monsoon",
+      "Spring"
+    ],
+    "answer": "Spring"
+  },
+  {
+    "image_id": "nature_129",
+    "question": "What style of architecture is the Shashi Lodge building an example of?",
+    "options": [
+      "Mughal architecture",
+      "Modern architecture",
+      "Terracotta architecture",
+      "Colonial architecture"
+    ],
+    "answer": "Colonial architecture"
+  },
+  {
+    "image_id": "nature_130",
+    "question": "Near which lake is Shubholong Waterfall located?",
+    "options": [
+      "Bogakain Lake",
+      "Foy's Lake",
+      "Dhanmondi Lake",
+      "Kaptai Lake"
+    ],
+    "answer": "Kaptai Lake"
+  },
+  {
+    "image_id": "nature_131",
+    "question": "Which river enriches the Singra National Park?",
+    "options": [
+      "Surma River",
+      "Kushiyara River",
+      "Atrai River",
+      "Dance River"
+    ],
+    "answer": "Dance River"
+  },
+  {
+    "image_id": "nature_132",
+    "question": "Which region does the Someshwari River flow through?",
+    "options": [
+      "Sunderbans region",
+      "Barind Tract region",
+      "Coastal region",
+      "Central Garo Hills region"
+    ],
+    "answer": "Central Garo Hills region"
+  },
+  {
+    "image_id": "nature_133",
+    "question": "The banks of the Someshwari River are famous for what type of agriculture?",
+    "options": [
+      "Tea plantation",
+      "Jute cultivation",
+      "Wheat farming",
+      "Paddy cultivation"
+    ],
+    "answer": "Paddy cultivation"
+  },
+  {
+    "image_id": "nature_134",
+    "question": "What is Sonadia Island known for?",
+    "options": [
+      "Salt mining",
+      "Pearl diving",
+      "Turtle nesting",
+      "Dried fish production"
+    ],
+    "answer": "Dried fish production"
+  },
+  {
+    "image_id": "nature_135",
+    "question": "In which area of Moulvibazar is the scene of the picture located?",
+    "options": [
+      "Kulaura",
+      "Barlekha",
+      "Kamalganj",
+      "Sreemangal"
+    ],
+    "answer": "Sreemangal"
+  },
+  {
+    "image_id": "nature_136",
+    "question": "For which agricultural product is Sreemangal famous?",
+    "options": [
+      "Rice",
+      "Pineapple",
+      "Rubber",
+      "Tea"
+    ],
+    "answer": "Tea"
+  },
+  {
+    "image_id": "nature_137",
+    "question": "Where is Sukhiya Valley located?",
+    "options": [
+      "Rangamati",
+      "Khagrachari",
+      "Sylhet",
+      "Bandarban"
+    ],
+    "answer": "Bandarban"
+  },
+  {
+    "image_id": "nature_138",
+    "question": "Why is the Sundarbans world-famous?",
+    "options": [
+      "It is the highest mountain range.",
+      "It is the largest coral island.",
+      "It is the longest sandy beach.",
+      "This is the largest mangrove forest in the world."
+    ],
+    "answer": "This is the largest mangrove forest in the world."
+  },
+  {
+    "image_id": "nature_139",
+    "question": "In which hilly district is the Suptodhara waterfall located?",
+    "options": [
+      "Bandarban Sadar Upazila",
+      "Thanchi Upazila of Bandarban",
+      "Mirsharai Upazila of Chittagong",
+      "Sitakunda Upazila of Chittagong district"
+    ],
+    "answer": "Sitakunda Upazila of Chittagong district"
+  },
+  {
+    "image_id": "nature_140",
+    "question": "For what natural beauty is Sylhet famous?",
+    "options": [
+      "Sea waves and sand",
+      "Snow-capped peaks",
+      "Mangrove wildlife",
+      "Scene of green tea gardens"
+    ],
+    "answer": "Scene of green tea gardens"
+  },
+  {
+    "image_id": "nature_141",
+    "question": "In which district is Tanguar Haor located?",
+    "options": [
+      "Habiganj",
+      "Netrokona",
+      "Moulvibazar",
+      "Sunamganj"
+    ],
+    "answer": "Sunamganj"
+  },
+  {
+    "image_id": "nature_142",
+    "question": "What is Tenzing Norgay famous for?",
+    "options": [
+      "The largest waterfall in Bangladesh",
+      "The longest river in Bangladesh",
+      "The largest lake in Bangladesh",
+      "The highest peak of Bangladesh"
+    ],
+    "answer": "The highest peak of Bangladesh"
+  },
+  {
+    "image_id": "nature_143",
+    "question": "Through which region does the Teesta River primarily flow?",
+    "options": [
+      "South Bengal",
+      "East Bengal",
+      "Hill Tracts",
+      "North Bengal"
+    ],
+    "answer": "North Bengal"
+  },
+  {
+    "image_id": "nature_144",
+    "question": "For what geographical location is Teknaf famous?",
+    "options": [
+      "The northernmost tip of Bangladesh",
+      "The highest point of Bangladesh",
+      "The narrowest part of Bangladesh",
+      "The southernmost tip of Bangladesh"
+    ],
+    "answer": "The southernmost tip of Bangladesh"
+  },
+  {
+    "image_id": "nature_145",
+    "question": "Thanchi village belongs to which district?",
+    "options": [
+      "Rangamati",
+      "Khagrachari",
+      "Chittagong",
+      "Bandarban"
+    ],
+    "answer": "Bandarban"
+  },
+  {
+    "image_id": "nature_146",
+    "question": "Where does the Titas River meet the Meghna River?",
+    "options": [
+      "Comilla",
+      "Chandpur",
+      "Narsingdi",
+      "Brahmanbaria"
+    ],
+    "answer": "Brahmanbaria"
+  },
+  {
+    "image_id": "nature_147",
+    "question": "What kind of livelihoods are associated with the banks of the Titas River?",
+    "options": [
+      "Farmer",
+      "Weaver",
+      "Potter",
+      "Fisherman"
+    ],
+    "answer": "Fisherman"
+  },
+  {
+    "image_id": "nature_148",
+    "question": "Which metropolis is situated beside the Turag River?",
+    "options": [
+      "Chittagong",
+      "Sylhet",
+      "Rajshahi",
+      "Dhaka"
+    ],
+    "answer": "Dhaka"
+  },
+  {
+    "image_id": "nature_149",
+    "question": "What can be seen from the watchtower in Sunamganj?",
+    "options": [
+      "Urban skyscrapers",
+      "Industrial zones",
+      "Sea horizon",
+      "The natural beauty of the haor"
+    ],
+    "answer": "The natural beauty of the haor"
+  },
+  {
+    "image_id": "nature_150",
+    "question": "Which district does Zinda Park belong to?",
+    "options": [
+      "Gazipur",
+      "Dhaka",
+      "Munshiganj",
+      "Narayanganj"
+    ],
+    "answer": "Narayanganj"
+  }
+]

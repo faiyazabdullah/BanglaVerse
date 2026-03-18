@@ -1,0 +1,1663 @@
+[
+  {
+    "image_id": "food_001",
+    "question": "What dishes are typically served with Bhuna Khichuri?",
+    "options": [
+      "Fried rice and chicken",
+      "Bread and butter",
+      "Noodles and sauce",
+      "Fried eggplant, with egg or mashed potato"
+    ],
+    "answer": "Fried eggplant, with egg or mashed potato"
+  },
+  {
+    "image_id": "food_002",
+    "question": "What festival is this food usually eaten during?",
+    "options": [
+      "Victory Day",
+      "Independence Day",
+      "International Mother Language Day",
+      "Pohela Boishakh"
+    ],
+    "answer": "Pohela Boishakh"
+  },
+  {
+    "image_id": "food_003",
+    "question": "In which season is eilish marinated in mustard paste typically eaten?",
+    "options": [
+      "Spring",
+      "Summer",
+      "Winter",
+      "Monsoon"
+    ],
+    "answer": "Monsoon"
+  },
+  {
+    "image_id": "food_004",
+    "question": "What ingredients are used to make Rasgulla?",
+    "options": [
+      "Flour or egg",
+      "Butter or cream",
+      "Sugar or honey",
+      "Milk or curd"
+    ],
+    "answer": "Milk or curd"
+  },
+  {
+    "image_id": "food_005",
+    "question": "On what occasions is Murgh Pulao eaten?",
+    "options": [
+      "Daily breakfast",
+      "Funeral food",
+      "Office meeting",
+      "Wedding or festival food"
+    ],
+    "answer": "Wedding or festival food"
+  },
+  {
+    "image_id": "food_006",
+    "question": "What does beef kala bhuna taste like?",
+    "options": [
+      "Sweet and sour",
+      "Bland and salty",
+      "Bitter and dry",
+      "Spicy and rich gravy"
+    ],
+    "answer": "Spicy and rich gravy"
+  },
+  {
+    "image_id": "food_007",
+    "question": "What food is dried fish curry typically eaten with?",
+    "options": [
+      "With bread",
+      "With noodles",
+      "With salad",
+      "With rice"
+    ],
+    "answer": "With rice"
+  },
+  {
+    "image_id": "food_008",
+    "question": "What kind of food are samosas typically?",
+    "options": [
+      "Dinner",
+      "Dessert",
+      "Main course",
+      "Breakfast"
+    ],
+    "answer": "Breakfast"
+  },
+  {
+    "image_id": "food_008",
+    "question": "What is usually inside a samosa?",
+    "options": [
+      "Fruit or jam",
+      "Chocolate or cheese",
+      "Lentils or rice",
+      "Vegetables or meat"
+    ],
+    "answer": "Vegetables or meat"
+  },
+  {
+    "image_id": "food_009",
+    "question": "What are puris typically made of?",
+    "options": [
+      "Corn flour",
+      "Rice flour",
+      "Gram flour",
+      "All-purpose flour"
+    ],
+    "answer": "All-purpose flour"
+  },
+  {
+    "image_id": "food_010",
+    "question": "What type of food is fuchka generally considered?",
+    "options": [
+      "Formal dinner",
+      "Traditional dessert",
+      "Healthy salad",
+      "Street food"
+    ],
+    "answer": "Street food"
+  },
+  {
+    "image_id": "food_011",
+    "question": "What is used to garnish the food in the upper part of this picture?",
+    "options": [
+      "Ketchup",
+      "Mayonnaise",
+      "Cheese",
+      "Yogurt"
+    ],
+    "answer": "Yogurt"
+  },
+  {
+    "image_id": "food_012",
+    "question": "Among which generation is the food in this picture most popular?",
+    "options": [
+      "The children",
+      "The elderly",
+      "The toddlers",
+      "The young generation"
+    ],
+    "answer": "The young generation"
+  },
+  {
+    "image_id": "food_013",
+    "question": "What vegetable is this picture's food made with?",
+    "options": [
+      "Potato",
+      "Carrot",
+      "Pumpkin",
+      "Eggplant"
+    ],
+    "answer": "Eggplant"
+  },
+  {
+    "image_id": "food_014",
+    "question": "In what kind of dish is the food in this picture typically served?",
+    "options": [
+      "Plastic bowl",
+      "Glass plate",
+      "Steel tray",
+      "Clay pot"
+    ],
+    "answer": "Clay pot"
+  },
+  {
+    "image_id": "food_015",
+    "question": "What ingredients is the food in this picture made of?",
+    "options": [
+      "Water",
+      "Oil",
+      "Fruit",
+      "Milk"
+    ],
+    "answer": "Milk"
+  },
+  {
+    "image_id": "food_016",
+    "question": "Which country's traditional sweet is the food in this picture?",
+    "options": [
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Bangladesh"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "image_id": "food_017",
+    "question": "What kind of ingredients are used to make the food in this picture?",
+    "options": [
+      "Butter",
+      "Flour",
+      "Semolina",
+      "Chenna"
+    ],
+    "answer": "Chenna"
+  },
+  {
+    "image_id": "food_018",
+    "question": "What is the filling of this picture's food usually made of?",
+    "options": [
+      "Chocolate or jam",
+      "Cheese or butter",
+      "Meat or vegetables",
+      "Kheer or Coconut"
+    ],
+    "answer": "Kheer or Coconut"
+  },
+  {
+    "image_id": "food_019",
+    "question": "What kind of food is in this picture?",
+    "options": [
+      "Curry",
+      "Snack",
+      "Beverage",
+      "Pitha"
+    ],
+    "answer": "Pitha"
+  },
+  {
+    "image_id": "food_020",
+    "question": "What is the main ingredient of the food in this picture?",
+    "options": [
+      "Wheat flour",
+      "Corn starch",
+      "Soy flour",
+      "Rice flour"
+    ],
+    "answer": "Rice flour"
+  },
+  {
+    "image_id": "food_021",
+    "question": "What cooking method is this dish typically prepared with?",
+    "options": [
+      "By steaming",
+      "By boiling",
+      "By baking",
+      "By frying"
+    ],
+    "answer": "By frying"
+  },
+  {
+    "image_id": "food_022",
+    "question": "In what shape is the food in this picture typically prepared?",
+    "options": [
+      "In a square",
+      "In a triangle",
+      "In a straight line",
+      "In design or form"
+    ],
+    "answer": "In design or form"
+  },
+  {
+    "image_id": "food_023",
+    "question": "On which festival is the food in this picture usually eaten?",
+    "options": [
+      "Durga Puja",
+      "Buddha Purnima",
+      "Christmas",
+      "Eid"
+    ],
+    "answer": "Eid"
+  },
+  {
+    "image_id": "food_024",
+    "question": "What fish is primarily used to make the food in this picture?",
+    "options": [
+      "Rohu",
+      "Hilsha",
+      "Catla",
+      "Pabda"
+    ],
+    "answer": "Pabda"
+  },
+  {
+    "image_id": "food_025",
+    "question": "What is the main ingredient of the food in this picture?",
+    "options": [
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Potato"
+    ],
+    "answer": "Potato"
+  },
+  {
+    "image_id": "food_026",
+    "question": "What is the main ingredient of the food in this picture?",
+    "options": [
+      "Cauliflower",
+      "Radish",
+      "Cabbage",
+      "Eggplant"
+    ],
+    "answer": "Eggplant"
+  },
+  {
+    "image_id": "food_027",
+    "question": "What kind of green leafy vegetable is the main ingredient of the food in this picture?",
+    "options": [
+      "Spinach",
+      "Mustard greens",
+      "Water spinach",
+      "Red Amaranth"
+    ],
+    "answer": "Red Amaranth"
+  },
+  {
+    "image_id": "food_028",
+    "question": "What type of leafy green is the main ingredient in this picture's food?",
+    "options": [
+      "Root vegetables",
+      "Fruit vegetables",
+      "Pulses",
+      "Green leafy vegetables"
+    ],
+    "answer": "Green leafy vegetables"
+  },
+  {
+    "image_id": "food_029",
+    "question": "What ingredients is the food in this picture usually made with?",
+    "options": [
+      "Ginger",
+      "Chili",
+      "Coriander",
+      "Onion"
+    ],
+    "answer": "Onion"
+  },
+  {
+    "image_id": "food_030",
+    "question": "What spices are typically used to cook the food in this picture?",
+    "options": [
+      "Pepper and cumin",
+      "Cardamom and cloves",
+      "Cinnamon and nutmeg",
+      "Turmeric and salt"
+    ],
+    "answer": "Turmeric and salt"
+  },
+  {
+    "image_id": "food_031",
+    "question": "What is the main ingredient used to make the food in this picture?",
+    "options": [
+      "Peanut",
+      "Lentil",
+      "Flaxseed",
+      "Sesame"
+    ],
+    "answer": "Sesame"
+  },
+  {
+    "image_id": "food_032",
+    "question": "What ingredients are typically used to sweeten the food in this picture?",
+    "options": [
+      "Honey",
+      "Stevia",
+      "Maple syrup",
+      "Jaggery"
+    ],
+    "answer": "Jaggery"
+  },
+  {
+    "image_id": "food_033",
+    "question": "What ingredients is the food in this picture made from?",
+    "options": [
+      "Oats",
+      "Corn flakes",
+      "Barley",
+      "Puffed rice"
+    ],
+    "answer": "Puffed rice"
+  },
+  {
+    "image_id": "food_034",
+    "question": "What sweet ingredient is this picture made of?",
+    "options": [
+      "Date palm",
+      "Raisin",
+      "Almond",
+      "Coconut"
+    ],
+    "answer": "Coconut"
+  },
+  {
+    "image_id": "food_035",
+    "question": "What is the main ingredient of the food in this picture?",
+    "options": [
+      "Potato",
+      "Mushroom",
+      "Spinach",
+      "Bamboo shoots"
+    ],
+    "answer": "Bamboo shoots"
+  },
+  {
+    "image_id": "food_036",
+    "question": "What community's traditional dish is shown in the picture?",
+    "options": [
+      "Of the coastal people",
+      "Of the plains farmers",
+      "Of the urban elite",
+      "Of the hill tribes."
+    ],
+    "answer": "Of the hill tribes."
+  },
+  {
+    "image_id": "food_037",
+    "question": "What type of sweet is the food in this picture?",
+    "options": [
+      "Sandesh",
+      "Laddu",
+      "Barfi",
+      "Chomchom"
+    ],
+    "answer": "Chomchom"
+  },
+  {
+    "image_id": "food_038",
+    "question": "What is the main ingredient of the food in this picture?",
+    "options": [
+      "Salt",
+      "Baking powder",
+      "Yeast",
+      "Sugar"
+    ],
+    "answer": "Sugar"
+  },
+  {
+    "image_id": "food_039",
+    "question": "What ingredient is this picture's sweet typically made with?",
+    "options": [
+      "Yogurt",
+      "Butter",
+      "Condensed milk",
+      "Chhana"
+    ],
+    "answer": "Chhana"
+  },
+  {
+    "image_id": "food_040",
+    "question": "What type of bread is in this picture?",
+    "options": [
+      "Naan",
+      "Luchi",
+      "Roti",
+      "Bakarkhani"
+    ],
+    "answer": "Bakarkhani"
+  },
+  {
+    "image_id": "food_041",
+    "question": "What ingredients is this dish made with?",
+    "options": [
+      "Bread and jam",
+      "Pasta and cheese",
+      "Cake and cream",
+      "Puffed rice and savory mix"
+    ],
+    "answer": "Puffed rice and savory mix"
+  },
+  {
+    "image_id": "food_042",
+    "question": "What type of snack is this food in the picture?",
+    "options": [
+      "Plate",
+      "Bag",
+      "Box",
+      "Basket"
+    ],
+    "answer": "Basket"
+  },
+  {
+    "image_id": "food_043",
+    "question": "At what time is the food in this picture usually eaten?",
+    "options": [
+      "During lunch time",
+      "During dinner time",
+      "During midnight snack",
+      "During breakfast time"
+    ],
+    "answer": "During breakfast time"
+  },
+  {
+    "image_id": "food_044",
+    "question": "What fruit is this dish in the picture made with?",
+    "options": [
+      "Apple",
+      "Banana",
+      "Orange",
+      "Mango"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "image_id": "food_045",
+    "question": "What species of fish is used to make the food in this picture?",
+    "options": [
+      "Hilsa",
+      "Rohu",
+      "Catla",
+      "Small shrimp"
+    ],
+    "answer": "Small shrimp"
+  },
+  {
+    "image_id": "food_046",
+    "question": "What type of pitha is this food in the picture?",
+    "options": [
+      "Vapa Pitha",
+      "Puli Pitha",
+      "Nokshi Pitha",
+      "Chitoi Pitha"
+    ],
+    "answer": "Chitoi Pitha"
+  },
+  {
+    "image_id": "food_047",
+    "question": "What type of fish is used to make the food in this picture?",
+    "options": [
+      "Salmon",
+      "Tuna",
+      "Cod",
+      "Anabantus fish"
+    ],
+    "answer": "Anabantus fish"
+  },
+  {
+    "image_id": "food_048",
+    "question": "What fruit is this dish in the picture made from?",
+    "options": [
+      "Strawberry",
+      "Blueberry",
+      "Raspberry",
+      "Elderberry"
+    ],
+    "answer": "Elderberry"
+  },
+  {
+    "image_id": "food_049",
+    "question": "What fruit is this dish in the picture made with?",
+    "options": [
+      "Guava",
+      "Jackfruit",
+      "Lychee",
+      "Mango"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "image_id": "food_050",
+    "question": "What type of pitha is the food in this picture?",
+    "options": [
+      "Mera Pitha",
+      "Dudhsagor",
+      "Patisapta",
+      "Cheetah Pitha"
+    ],
+    "answer": "Cheetah Pitha"
+  },
+  {
+    "image_id": "food_051",
+    "question": "What ingredients are typically used to make the food in this picture?",
+    "options": [
+      "Rice powder",
+      "Corn meal",
+      "Semolina",
+      "Flour"
+    ],
+    "answer": "Flour"
+  },
+  {
+    "image_id": "food_052",
+    "question": "What type of pitha is this dish in the picture?",
+    "options": [
+      "Sweet Pitha",
+      "Spicy Pitha",
+      "Sour Pitha",
+      "Salted Pitha"
+    ],
+    "answer": "Salted Pitha"
+  },
+  {
+    "image_id": "food_053",
+    "question": "What type of pitha is the food in this picture?",
+    "options": [
+      "Teler Pitha",
+      "Bibikhana Pitha",
+      "Shapla Pitha",
+      "Milk Pakan Pitha"
+    ],
+    "answer": "Milk Pakan Pitha"
+  },
+  {
+    "image_id": "food_054",
+    "question": "What is shown in this picture?",
+    "options": [
+      "Puri",
+      "Luchi",
+      "Kulcha",
+      "Paratha"
+    ],
+    "answer": "Paratha"
+  },
+  {
+    "image_id": "food_055",
+    "question": "What type of dalna is in this picture?",
+    "options": [
+      "Potato Dalna",
+      "Paneer Dalna",
+      "Vegetable Dalna",
+      "Dhokar Dalna"
+    ],
+    "answer": "Dhokar Dalna"
+  },
+  {
+    "image_id": "food_056",
+    "question": "What meat dish is shown in this picture?",
+    "options": [
+      "Beef meat",
+      "Mutton meat",
+      "Duck meat",
+      "Chicken meat"
+    ],
+    "answer": "Chicken meat"
+  },
+  {
+    "image_id": "food_057",
+    "question": "What kind of dalna is in this picture?",
+    "options": [
+      "Fish Curry",
+      "Lentil Curry",
+      "Meat Curry",
+      "Egg Curry"
+    ],
+    "answer": "Egg Curry"
+  },
+  {
+    "image_id": "food_058",
+    "question": "What kind of spices are used to make the dish in this picture?",
+    "options": [
+      "Mustard seed",
+      "Cumin seed",
+      "Fennel seed",
+      "Poppy seed"
+    ],
+    "answer": "Poppy seed"
+  },
+  {
+    "image_id": "food_059",
+    "question": "What ingredients have been used to make the korma in this picture?",
+    "options": [
+      "Chicken",
+      "Mutton",
+      "Paneer",
+      "Egg"
+    ],
+    "answer": "Egg"
+  },
+  {
+    "image_id": "food_060",
+    "question": "What type of chop is shown in this picture?",
+    "options": [
+      "Potato Chop",
+      "Chicken Chop",
+      "Vegetable Chop",
+      "Egg Chop"
+    ],
+    "answer": "Egg Chop"
+  },
+  {
+    "image_id": "food_061",
+    "question": "Which meat curry is in this picture?",
+    "options": [
+      "Chicken",
+      "Mutton",
+      "Duck",
+      "Beef"
+    ],
+    "answer": "Beef"
+  },
+  {
+    "image_id": "food_062",
+    "question": "What are the main ingredients used in the food shown in this picture?",
+    "options": [
+      "Bread and butter",
+      "Noodles and eggs",
+      "Vegetables and sauce",
+      "Rice and meat"
+    ],
+    "answer": "Rice and meat"
+  },
+  {
+    "image_id": "food_063",
+    "question": "What vegetables have been used to make the fried dish in this picture?",
+    "options": [
+      "Eggplant",
+      "Bitter gourd",
+      "Okra",
+      "Pointed gourd"
+    ],
+    "answer": "Pointed gourd"
+  },
+  {
+    "image_id": "food_064",
+    "question": "Which vegetable has been used to make the poppy seed paste in this picture?",
+    "options": [
+      "Ridge gourd",
+      "Snake gourd",
+      "Potato",
+      "Pointed Gourd"
+    ],
+    "answer": "Pointed Gourd"
+  },
+  {
+    "image_id": "food_065",
+    "question": "What vegetables were used to make this stir-fry in the picture?",
+    "options": [
+      "Carrot",
+      "Beans",
+      "Cabbage",
+      "Potato"
+    ],
+    "answer": "Potato"
+  },
+  {
+    "image_id": "food_066",
+    "question": "What vegetable dish is shown in this picture?",
+    "options": [
+      "Bottle gourd",
+      "Spinach",
+      "Cauliflower",
+      "Pumpkin"
+    ],
+    "answer": "Pumpkin"
+  },
+  {
+    "image_id": "food_067",
+    "question": "What fish was used to cook this dish in the picture?",
+    "options": [
+      "Hilsa",
+      "Rohu",
+      "Catfish",
+      "Small fish"
+    ],
+    "answer": "Small fish"
+  },
+  {
+    "image_id": "food_068",
+    "question": "What kind of bread is in this picture?",
+    "options": [
+      "Luchi",
+      "Naan",
+      "Tandoori Roti",
+      "Mughlai Paratha"
+    ],
+    "answer": "Mughlai Paratha"
+  },
+  {
+    "image_id": "food_069",
+    "question": "What type of sweet is shown in this picture?",
+    "options": [
+      "Sandesh",
+      "Rasgulla",
+      "Gulab Jamun",
+      "Payesh"
+    ],
+    "answer": "Payesh"
+  },
+  {
+    "image_id": "food_070",
+    "question": "What kind of sweets are in this picture?",
+    "options": [
+      "Rasmalai",
+      "Laddu",
+      "Barfi",
+      "Rajbhog"
+    ],
+    "answer": "Rajbhog"
+  },
+  {
+    "image_id": "food_071",
+    "question": "What kind of sweets are in this picture?",
+    "options": [
+      "Chomchom",
+      "Kalo Jam",
+      "Amriti",
+      "Pantua"
+    ],
+    "answer": "Pantua"
+  },
+  {
+    "image_id": "food_072",
+    "question": "What type of sweet is shown in this picture?",
+    "options": [
+      "Lychee",
+      "Grapes",
+      "Plum",
+      "Blackberry"
+    ],
+    "answer": "Blackberry"
+  },
+  {
+    "image_id": "food_073",
+    "question": "What kind of food is in this picture?",
+    "options": [
+      "Bread",
+      "Porridge",
+      "Pasta",
+      "Rice"
+    ],
+    "answer": "Rice"
+  },
+  {
+    "image_id": "food_074",
+    "question": "What sweets can be seen in this picture?",
+    "options": [
+      "Sugar Jalebi",
+      "Boondi",
+      "Balushahi",
+      "Chhana Jalebi"
+    ],
+    "answer": "Chhana Jalebi"
+  },
+  {
+    "image_id": "food_075",
+    "question": "What kind of pitha is in this picture?",
+    "options": [
+      "Vapa Pitha",
+      "Pati Sapta",
+      "Chitoi Pitha",
+      "Doodh Puli Pitha"
+    ],
+    "answer": "Doodh Puli Pitha"
+  },
+  {
+    "image_id": "food_076",
+    "question": "What kind of flavor does this picture have?",
+    "options": [
+      "Palm juice",
+      "Date juice",
+      "Coconut water",
+      "Sugarcane juice"
+    ],
+    "answer": "Sugarcane juice"
+  },
+  {
+    "image_id": "food_077",
+    "question": "What fish was used to cook this dish?",
+    "options": [
+      "Crab",
+      "Lobster",
+      "Pomfret",
+      "Shrimp"
+    ],
+    "answer": "Shrimp"
+  },
+  {
+    "image_id": "food_078",
+    "question": "What kind of oil pickle is in this picture?",
+    "options": [
+      "Mango oil pickle",
+      "Chili oil pickle",
+      "Garlic oil pickle",
+      "Olive oil pickle"
+    ],
+    "answer": "Olive oil pickle"
+  },
+  {
+    "image_id": "food_079",
+    "question": "What kind of sweet pickle is in this picture?",
+    "options": [
+      "Mango Sweet Pickle",
+      "Plum Sweet Pickle",
+      "Mixed Sweet Pickle",
+      "Olive Sweet Pickle"
+    ],
+    "answer": "Olive Sweet Pickle"
+  },
+  {
+    "image_id": "food_080",
+    "question": "What kind of oil pickle is in this picture?",
+    "options": [
+      "Lemon oil",
+      "Mixed oil",
+      "Chili oil",
+      "Mango oil"
+    ],
+    "answer": "Mango oil"
+  },
+  {
+    "image_id": "food_081",
+    "question": "What fruit has been used to make the pickle in this picture?",
+    "options": [
+      "Tamarind",
+      "Amla",
+      "Starfruit",
+      "Lemon"
+    ],
+    "answer": "Lemon"
+  },
+  {
+    "image_id": "food_082",
+    "question": "What vegetable has been mashed to make this dish in the picture?",
+    "options": [
+      "Potato",
+      "Eggplant",
+      "Bean",
+      "Tomato"
+    ],
+    "answer": "Tomato"
+  },
+  {
+    "image_id": "food_083",
+    "question": "What kind of sweets are in this picture?",
+    "options": [
+      "Jalebi",
+      "Gaja",
+      "Moa",
+      "Bundia"
+    ],
+    "answer": "Bundia"
+  },
+  {
+    "image_id": "food_084",
+    "question": "What type of sweet is shown in this picture?",
+    "options": [
+      "Sweet curd",
+      "Sweet ball",
+      "Sweet roll",
+      "Sweet baby"
+    ],
+    "answer": "Sweet baby"
+  },
+  {
+    "image_id": "food_085",
+    "question": "What kind of sweets are in this picture?",
+    "options": [
+      "Shondesh",
+      "Khurma",
+      "Goja",
+      "Murali"
+    ],
+    "answer": "Murali"
+  },
+  {
+    "image_id": "food_086",
+    "question": "What kind of snack is in this picture?",
+    "options": [
+      "Samosa",
+      "Chanachur",
+      "Puri",
+      "Nimki"
+    ],
+    "answer": "Nimki"
+  },
+  {
+    "image_id": "food_087",
+    "question": "What kind of sweets are in this picture?",
+    "options": [
+      "Soul",
+      "Spirit",
+      "Heart",
+      "Mind"
+    ],
+    "answer": "Mind"
+  },
+  {
+    "image_id": "food_088",
+    "question": "What kind of snacks are in this picture?",
+    "options": [
+      "Banana fritters",
+      "Onion fritters",
+      "Potato fritters",
+      "Palm fruit fritters"
+    ],
+    "answer": "Palm fruit fritters"
+  },
+  {
+    "image_id": "food_089",
+    "question": "What ingredient is the bhorta in this picture made of?",
+    "options": [
+      "Fish",
+      "Potato",
+      "Dried fish",
+      "Egg"
+    ],
+    "answer": "Egg"
+  },
+  {
+    "image_id": "food_090",
+    "question": "What type of lentil is seen in this picture?",
+    "options": [
+      "Mung dal",
+      "Gram dal",
+      "Pigeon pea",
+      "Lentil dal"
+    ],
+    "answer": "Lentil dal"
+  },
+  {
+    "image_id": "food_091",
+    "question": "What kind of bhorta is shown in this picture?",
+    "options": [
+      "Eggplant",
+      "Potato",
+      "Bean",
+      "Okra"
+    ],
+    "answer": "Okra"
+  },
+  {
+    "image_id": "food_092",
+    "question": "What fish was used to make the mash in this picture?",
+    "options": [
+      "Tuna",
+      "Salmon",
+      "Carp",
+      "Shrimp"
+    ],
+    "answer": "Shrimp"
+  },
+  {
+    "image_id": "food_093",
+    "question": "What fish and vegetables were used to cook this dish?",
+    "options": [
+      "Rohu and Potato",
+      "Catfish and Cauliflower",
+      "Tilapia and Spinach",
+      "Hilsa and Eggplant"
+    ],
+    "answer": "Hilsa and Eggplant"
+  },
+  {
+    "image_id": "food_094",
+    "question": "What fish was used to make the curry in this picture?",
+    "options": [
+      "Pangas fish",
+      "Boal fish",
+      "Koi fish",
+      "Tench fish"
+    ],
+    "answer": "Tench fish"
+  },
+  {
+    "image_id": "food_095",
+    "question": "What fish is being cooked in this picture?",
+    "options": [
+      "Climbing perch",
+      "Butter fish",
+      "Mrigal fish",
+      "Snakehead fish"
+    ],
+    "answer": "Snakehead fish"
+  },
+  {
+    "image_id": "food_096",
+    "question": "What fish has been cooked dry in this picture?",
+    "options": [
+      "Bronze featherback",
+      "Walking catfish",
+      "Magur fish",
+      "Snakehead fish"
+    ],
+    "answer": "Snakehead fish"
+  },
+  {
+    "image_id": "food_097",
+    "question": "Which fish curry is shown in this picture?",
+    "options": [
+      "Katla fish",
+      "Silver Carp",
+      "Grass Carp",
+      "Rohu fish"
+    ],
+    "answer": "Rohu fish"
+  },
+  {
+    "image_id": "food_098",
+    "question": "What type of meat dish is shown in this picture?",
+    "options": [
+      "Kala Bhuna",
+      "Beef Rezala",
+      "Mutton Rogan Josh",
+      "Mejan Gosht"
+    ],
+    "answer": "Mejan Gosht"
+  },
+  {
+    "image_id": "food_099",
+    "question": "What is the name of the lentil shown in the picture?",
+    "options": [
+      "Red lentil",
+      "Mung bean",
+      "Black gram",
+      "Split chickpeas or chickpeas."
+    ],
+    "answer": "Split chickpeas or chickpeas."
+  },
+  {
+    "image_id": "food_100",
+    "question": "What fish and vegetables were used to make the pithuli in this picture?",
+    "options": [
+      "Rohu and Bottle gourd",
+      "Small fish and Spinach",
+      "Hilsha and Potato",
+      "Shrimp and radish greens"
+    ],
+    "answer": "Shrimp and radish greens"
+  },
+  {
+    "image_id": "food_101",
+    "question": "What kind of water does the fish in this picture live in?",
+    "options": [
+      "In saltwater",
+      "In brackish water",
+      "In the ocean",
+      "In freshwater"
+    ],
+    "answer": "In freshwater"
+  },
+  {
+    "image_id": "food_102",
+    "question": "What kind of fried vegetables are shown in this picture?",
+    "options": [
+      "Green",
+      "Orange",
+      "Yellow",
+      "Violet"
+    ],
+    "answer": "Violet"
+  },
+  {
+    "image_id": "food_103",
+    "question": "What ingredient is used to make the chop in this picture?",
+    "options": [
+      "Sweet potato",
+      "Yam",
+      "Cassava",
+      "Potato"
+    ],
+    "answer": "Potato"
+  },
+  {
+    "image_id": "food_104",
+    "question": "What sweet is shown in this picture?",
+    "options": [
+      "Rasgulla",
+      "Malpua",
+      "Chomchom",
+      "Unripe sweet cheese balls"
+    ],
+    "answer": "Unripe sweet cheese balls"
+  },
+  {
+    "image_id": "food_105",
+    "question": "What sweet is shown in this picture?",
+    "options": [
+      "Laddu",
+      "Sandesh",
+      "Barfi",
+      "Sweet-faced"
+    ],
+    "answer": "Sweet-faced"
+  },
+  {
+    "image_id": "food_106",
+    "question": "What kind of drink, made from yogurt, is shown in this picture?",
+    "options": [
+      "Lassi",
+      "Borhani",
+      "Smoothie",
+      "Buttermilk"
+    ],
+    "answer": "Buttermilk"
+  },
+  {
+    "image_id": "food_107",
+    "question": "What kind of pitha is in this picture?",
+    "options": [
+      "Nokshi Pitha",
+      "Saj Pitha",
+      "Mera Pitha",
+      "Phuljhuri Pitha"
+    ],
+    "answer": "Phuljhuri Pitha"
+  },
+  {
+    "image_id": "food_108",
+    "question": "What type of pitha is in this picture?",
+    "options": [
+      "Chitoi Pitha",
+      "Dudhsagor",
+      "Bhapa Pitha",
+      "Vermicelli Pitha"
+    ],
+    "answer": "Vermicelli Pitha"
+  },
+  {
+    "image_id": "food_109",
+    "question": "What kind of food is shown in this picture?",
+    "options": [
+      "Kheer",
+      "Pudding",
+      "Custard",
+      "Firni"
+    ],
+    "answer": "Firni"
+  },
+  {
+    "image_id": "food_110",
+    "question": "What sweet is shown in this picture?",
+    "options": [
+      "Gulab Jamun",
+      "Kalo Jam",
+      "Pantua",
+      "Rose jam"
+    ],
+    "answer": "Rose jam"
+  },
+  {
+    "image_id": "food_111",
+    "question": "What kind of rice is shown in this picture?",
+    "options": [
+      "Polao",
+      "Biryani",
+      "Fried Rice",
+      "Letka Khichuri"
+    ],
+    "answer": "Letka Khichuri"
+  },
+  {
+    "image_id": "food_112",
+    "question": "What cuisine is shown in this picture?",
+    "options": [
+      "Fried Kidney",
+      "Beef Steak",
+      "Grilled Heart",
+      "Fried Liver"
+    ],
+    "answer": "Fried Liver"
+  },
+  {
+    "image_id": "food_113",
+    "question": "What kind of lentil is shown in this picture?",
+    "options": [
+      "Thick dal",
+      "Fried dal",
+      "Mashed dal",
+      "Thin dal"
+    ],
+    "answer": "Thin dal"
+  },
+  {
+    "image_id": "food_114",
+    "question": "What vegetables were used to make the stir-fry in this picture?",
+    "options": [
+      "Pumpkin",
+      "Ridge gourd",
+      "Snake gourd",
+      "Ash gourd"
+    ],
+    "answer": "Ash gourd"
+  },
+  {
+    "image_id": "food_115",
+    "question": "What type of cuisine is featured in this picture?",
+    "options": [
+      "Potato and egg fry",
+      "Gourd and shrimp fry",
+      "Spinach and lentil fry",
+      "Egg and sweet pumpkin stir-fry"
+    ],
+    "answer": "Egg and sweet pumpkin stir-fry"
+  },
+  {
+    "image_id": "food_116",
+    "question": "What fish and vegetables were used to cook this dish?",
+    "options": [
+      "Pabda and Brinjal",
+      "Magur and Potato",
+      "Taki and Cauliflower",
+      "Hilsa and Patal"
+    ],
+    "answer": "Hilsa and Patal"
+  },
+  {
+    "image_id": "food_117",
+    "question": "What kind of mashed dish is shown in this picture?",
+    "options": [
+      "Dry shrimp paste",
+      "Roasted chili paste",
+      "Mashed mustard greens",
+      "Salted dried Hilsa fish paste"
+    ],
+    "answer": "Salted dried Hilsa fish paste"
+  },
+  {
+    "image_id": "food_118",
+    "question": "What fish and vegetables were used to cook this dish in the picture?",
+    "options": [
+      "Prawn and Spinach",
+      "Small fish and Pumpkin leaves",
+      "Crab and Fern leaves",
+      "Shrimp and Taro Leaves"
+    ],
+    "answer": "Shrimp and Taro Leaves"
+  },
+  {
+    "image_id": "food_119",
+    "question": "What kind of food items can be seen in this picture?",
+    "options": [
+      "Fried Tongue",
+      "Fried Intestine",
+      "Fried Tripe",
+      "Fried Brain"
+    ],
+    "answer": "Fried Brain"
+  },
+  {
+    "image_id": "food_120",
+    "question": "What ingredient has been bhuna in this picture?",
+    "options": [
+      "Fish head",
+      "Fish tail",
+      "Fish belly",
+      "Fish roe"
+    ],
+    "answer": "Fish roe"
+  },
+  {
+    "image_id": "food_121",
+    "question": "What fish was used to make the curry in this picture?",
+    "options": [
+      "Ayer fish",
+      "Boal fish",
+      "Pabda fish",
+      "Chital fish"
+    ],
+    "answer": "Chital fish"
+  },
+  {
+    "image_id": "food_122",
+    "question": "What kind of stir-fry is shown in this picture?",
+    "options": [
+      "Pointed Gourd Fry",
+      "Ridge Gourd Fry",
+      "Snake Gourd Fry",
+      "Sponge Gourd Fry"
+    ],
+    "answer": "Sponge Gourd Fry"
+  },
+  {
+    "image_id": "food_123",
+    "question": "What fish and vegetables have been used to make the curry in this picture?",
+    "options": [
+      "Rohu and Potato",
+      "Catfish and Cauliflower",
+      "Tilapia and Brinjal",
+      "Prawns and snake gourd"
+    ],
+    "answer": "Prawns and snake gourd"
+  },
+  {
+    "image_id": "food_124",
+    "question": "What ingredients has the mash been made with in this picture?",
+    "options": [
+      "Banana",
+      "Potato",
+      "Pumpkin",
+      "Papaya"
+    ],
+    "answer": "Papaya"
+  },
+  {
+    "image_id": "food_125",
+    "question": "Which ingredient in this picture has been fried?",
+    "options": [
+      "Fish",
+      "Chicken",
+      "Paneer",
+      "Egg"
+    ],
+    "answer": "Egg"
+  },
+  {
+    "image_id": "food_126",
+    "question": "What type of bread is shown in this picture?",
+    "options": [
+      "The heat",
+      "The steam",
+      "The oven",
+      "The pressure"
+    ],
+    "answer": "The pressure"
+  },
+  {
+    "image_id": "food_127",
+    "question": "Which fish dish is shown in this picture?",
+    "options": [
+      "Fried Hilsa",
+      "Fried Snapper",
+      "Fried Mackerel",
+      "Fried Pomfret"
+    ],
+    "answer": "Fried Pomfret"
+  },
+  {
+    "image_id": "food_128",
+    "question": "What kind of meat dish is in this picture?",
+    "options": [
+      "Beef",
+      "Mutton",
+      "Pork",
+      "Chicken"
+    ],
+    "answer": "Chicken"
+  },
+  {
+    "image_id": "food_129",
+    "question": "What kind of sweet is shown in this picture?",
+    "options": [
+      "Magic Sweet",
+      "Mystery Sweet",
+      "Wonder Sweet",
+      "Surprise Sweet"
+    ],
+    "answer": "Surprise Sweet"
+  },
+  {
+    "image_id": "food_130",
+    "question": "What kind of message is shown in this picture?",
+    "options": [
+      "Rohu fish petty sandesh",
+      "Prawn shape sandesh",
+      "Fruit shape sandesh",
+      "Hilsa fish petty sandesh"
+    ],
+    "answer": "Hilsa fish petty sandesh"
+  },
+  {
+    "image_id": "food_131",
+    "question": "From which language does the name of the food shown in this picture originate?",
+    "options": [
+      "Persian language",
+      "Urdu language",
+      "Hindi language",
+      "Arabic language."
+    ],
+    "answer": "Arabic language."
+  },
+  {
+    "image_id": "food_132",
+    "question": "What vegetable is usually used to make the stir-fry shown in this picture?",
+    "options": [
+      "Snake gourd",
+      "Ash gourd",
+      "Bottle gourd",
+      "Bitter gourd."
+    ],
+    "answer": "Bitter gourd."
+  },
+  {
+    "image_id": "food_133",
+    "question": "What type of meat is used in this special rice dish in the picture?",
+    "options": [
+      "Beef",
+      "Chicken",
+      "Lamb",
+      "Mutton."
+    ],
+    "answer": "Mutton."
+  },
+  {
+    "image_id": "food_134",
+    "question": "What plant stem is used as the main ingredient in this picture's vegetable dish?",
+    "options": [
+      "Lotus stalk",
+      "Banana stem",
+      "Taro stem",
+      "Drumstick (tree) stalk."
+    ],
+    "answer": "Drumstick (tree) stalk."
+  },
+  {
+    "image_id": "food_135",
+    "question": "What is the main vegetable in this picture's vegetable stir-fry?",
+    "options": [
+      "Lettuce",
+      "Spinach",
+      "Kale",
+      "Cabbage."
+    ],
+    "answer": "Cabbage."
+  },
+  {
+    "image_id": "food_136",
+    "question": "Which part of an animal's body is this fried dish made from?",
+    "options": [
+      "Beef liver",
+      "Beef tongue",
+      "Beef heart",
+      "Beef tripe."
+    ],
+    "answer": "Beef tripe."
+  },
+  {
+    "image_id": "food_137",
+    "question": "What kind of seeds are used in this dish?",
+    "options": [
+      "Cumin seeds",
+      "Mustard seeds",
+      "Fenugreek seeds",
+      "Nigella seeds."
+    ],
+    "answer": "Nigella seeds."
+  },
+  {
+    "image_id": "food_138",
+    "question": "On what occasion is this sweet dish from this picture usually eaten more?",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Christmas",
+      "Eid."
+    ],
+    "answer": "Eid."
+  },
+  {
+    "image_id": "food_139",
+    "question": "What kind of vermicelli is this dish made with?",
+    "options": [
+      "Rice Semai",
+      "Wheat Semai",
+      "Handmade Semai",
+      "Lachcha Semai."
+    ],
+    "answer": "Lachcha Semai."
+  },
+  {
+    "image_id": "food_140",
+    "question": "What species of fish was used to make the fish curry in this picture?",
+    "options": [
+      "Magur fish",
+      "Tangra fish",
+      "Puti fish",
+      "Singhi fish."
+    ],
+    "answer": "Singhi fish."
+  },
+  {
+    "image_id": "food_141",
+    "question": "What is the main vegetable used in the curry shown in this picture?",
+    "options": [
+      "Broccoli",
+      "Cabbage",
+      "Turnip",
+      "Cauliflower."
+    ],
+    "answer": "Cauliflower."
+  },
+  {
+    "image_id": "food_142",
+    "question": "What is the main ingredient of the food in this picture?",
+    "options": [
+      "Dried fish",
+      "Dried squid",
+      "Dried meat",
+      "Dried shrimp."
+    ],
+    "answer": "Dried shrimp."
+  },
+  {
+    "image_id": "food_143",
+    "question": "Which greens are mixed with the masoor dal in this picture?",
+    "options": [
+      "Spinach",
+      "Red amaranth",
+      "Mustard greens",
+      "Malabar spinach."
+    ],
+    "answer": "Malabar spinach."
+  },
+  {
+    "image_id": "food_144",
+    "question": "In which season is this pictured pitha usually eaten the most?",
+    "options": [
+      "In summer",
+      "In autumn",
+      "In rainy season",
+      "In winter."
+    ],
+    "answer": "In winter."
+  },
+  {
+    "image_id": "food_145",
+    "question": "Which vegetable is used as the main ingredient in the fold of this picture?",
+    "options": [
+      "Bitter gourd",
+      "Teasle gourd",
+      "Ivy gourd",
+      "Spine gourd."
+    ],
+    "answer": "Spine gourd."
+  },
+  {
+    "image_id": "food_146",
+    "question": "What fruit is this pickle in the picture made from?",
+    "options": [
+      "Hog plum",
+      "Wood apple",
+      "Jujube",
+      "Green mango."
+    ],
+    "answer": "Green mango."
+  },
+  {
+    "image_id": "food_147",
+    "question": "Which vegetable was boiled to make the bhorta in this picture?",
+    "options": [
+      "Green papaya",
+      "Sweet potato",
+      "Radish",
+      "Raw banana."
+    ],
+    "answer": "Raw banana."
+  },
+  {
+    "image_id": "food_148",
+    "question": "Which fish has been used in the stuffing of this picture?",
+    "options": [
+      "Tilapia",
+      "Carp",
+      "Salmon",
+      "Catfish."
+    ],
+    "answer": "Catfish."
+  },
+  {
+    "image_id": "food_149",
+    "question": "Which part of the fish was used to make this fried dish?",
+    "options": [
+      "Fish skin",
+      "Fish head",
+      "Fish liver",
+      "Fish roe."
+    ],
+    "answer": "Fish roe."
+  },
+  {
+    "image_id": "food_150",
+    "question": "Which part of the fish is used to make the food in this picture?",
+    "options": [
+      "Tail of a big fish",
+      "Fins of a big fish",
+      "Body of a big fish",
+      "Head of a big fish."
+    ],
+    "answer": "Head of a big fish."
+  }
+]

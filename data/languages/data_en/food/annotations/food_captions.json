@@ -1,0 +1,602 @@
+[
+  {
+    "image_id": "food_001",
+    "caption": "Hot, savory khichuri."
+  },
+  {
+    "image_id": "food_002",
+    "caption": "Panta bhat with hot, freshly fried Hilsa fish served on a plate."
+  },
+  {
+    "image_id": "food_003",
+    "caption": "Hilsa steamed in spicy-sweet mustard spice, arranged with a captivating aroma alongside rice."
+  },
+  {
+    "image_id": "food_004",
+    "caption": "Rasgulla with a sweet taste, presented smoothly and juicy."
+  },
+  {
+    "image_id": "food_005",
+    "caption": "Hot, hot pulao, where the taste of chicken meets aromatic spices."
+  },
+  {
+    "image_id": "food_006",
+    "caption": "Beef Kala Bhuna, plated while retaining the full flavor of the spices."
+  },
+  {
+    "image_id": "food_007",
+    "caption": "Dried fish fry, full of flavor with the right blend of spices."
+  },
+  {
+    "image_id": "food_008",
+    "caption": "Delicious singaras, fried to a golden hue with oil and spices."
+  },
+  {
+    "image_id": "food_009",
+    "caption": "Hot, fluffy puris, smooth and full of flavor in every bite."
+  },
+  {
+    "image_id": "food_010",
+    "caption": "Fuchka, an extraordinary blend of spicy, sour, and sweet flavors."
+  },
+  {
+    "image_id": "food_011",
+    "caption": "Doi Fuchka—a delightful, extraordinary blend of sour, spicy, and sweet!"
+  },
+  {
+    "image_id": "food_012",
+    "caption": "Chotpoti—the king of street food, bursting with the flavors of peas, potatoes, and spices."
+  },
+  {
+    "image_id": "food_013",
+    "caption": "Fried eggplant—a unique taste to eat with hot rice."
+  },
+  {
+    "image_id": "food_014",
+    "caption": "The joy of sweet yogurt, its cool and creamy texture."
+  },
+  {
+    "image_id": "food_015",
+    "caption": "Pera Sandesh—A traditional sweet with the fragrant aroma and soft taste of pera."
+  },
+  {
+    "image_id": "food_016",
+    "caption": "Gur Sandesh—A heavenly delight, brimming with the sweet taste of date jaggery."
+  },
+  {
+    "image_id": "food_017",
+    "caption": "Chhana Sandesh—the best example of chhana's soft texture and sweet taste."
+  },
+  {
+    "image_id": "food_018",
+    "caption": "Patisapta—the exceptional taste of thin crepes filled with coconut and jaggery."
+  },
+  {
+    "image_id": "food_019",
+    "caption": "Steamed Pitha—the joy of a warm, steaming sweet on a winter morning."
+  },
+  {
+    "image_id": "food_020",
+    "caption": "Puli Pitha—the traditional taste of soft dumplings filled with coconut and jaggery."
+  },
+  {
+    "image_id": "food_021",
+    "caption": "Tel Pitha—a crispy delight fried in hot oil, an essential joy of winter evenings."
+  },
+  {
+    "image_id": "food_022",
+    "caption": "Nakshi pitha—decorated like a work of art, a sweet touch of tradition."
+  },
+  {
+    "image_id": "food_023",
+    "caption": "Dudh semai—a festive sweet taste filled with the aroma of milk, sugar, and cardamom."
+  },
+  {
+    "image_id": "food_024",
+    "caption": "Pabda fish curry – a perfect partner for rice, made with light spices in a rustic cooking style."
+  },
+  {
+    "image_id": "food_025",
+    "caption": "Mashed potatoes – an incomparable flavor with hot rice, mustard oil, onions, and green chilies."
+  },
+  {
+    "image_id": "food_026",
+    "caption": "Begun bhorta – an easy yet unforgettable dish filled with the smoky aroma of roasted eggplant."
+  },
+  {
+    "image_id": "food_027",
+    "caption": "Red amaranth—a familiar taste of nutrition and flavor, fried with garlic and chili."
+  },
+  {
+    "image_id": "food_028",
+    "caption": "Green leafy vegetables—a healthy rice accompaniment infused with nature's freshness."
+  },
+  {
+    "image_id": "food_029",
+    "caption": "Peyaju—the spicy, crispy taste of lentils and onions for afternoon tea gatherings."
+  },
+  {
+    "image_id": "food_030",
+    "caption": "Fried okra—a gentle pleasure to eat with plain rice and dal."
+  },
+  {
+    "image_id": "food_031",
+    "caption": "Til er mua—sweet childhood memories, bound by the warmth of sesame and jaggery."
+  },
+  {
+    "image_id": "food_032",
+    "caption": "Til Khaja—a taste of sweet tradition, bursting with flaky deliciousness."
+  },
+  {
+    "image_id": "food_033",
+    "caption": "Murir Muya—the familiar sweet of village fairs and childhood memories."
+  },
+  {
+    "image_id": "food_034",
+    "caption": "Narkeler Naru—a sweet orb of jaggery and coconut, a tale of happiness."
+  },
+  {
+    "image_id": "food_035",
+    "caption": "Bamboo shoot fry—as soon as the summer rain arrives, the bamboo shoot feast begins!"
+  },
+  {
+    "image_id": "food_036",
+    "caption": "Nappi—a significant part of the diet for hill and indigenous communities like the Chakmas."
+  },
+  {
+    "image_id": "food_037",
+    "caption": "Chomchom—bright, juicy sweets, a famous tradition of Tangail."
+  },
+  {
+    "image_id": "food_038",
+    "caption": "Batasha—light, sweet, and joy that floats like a cloud."
+  },
+  {
+    "image_id": "food_039",
+    "caption": "Rasmalai— an exquisite taste of soft sweets soaked in milk cream, cardamom, and syrup."
+  },
+  {
+    "image_id": "food_040",
+    "caption": "Bakarkhani—the legendary crispy, buttery-scented delicacy of Old Dhaka."
+  },
+  {
+    "image_id": "food_041",
+    "caption": "Murmuri-chanachur mix – the best companion for a chat, flavored with lemon, onion, and green chili."
+  },
+  {
+    "image_id": "food_042",
+    "caption": "Jhuri—A grand gathering of spicy, flavorful, and crunchy tastes."
+  },
+  {
+    "image_id": "food_043",
+    "caption": "Chanachur—crunchy, spicy, easy snack."
+  },
+  {
+    "image_id": "food_044",
+    "caption": "Amsotto—a sweet and sour delight made from sun-dried green mangoes."
+  },
+  {
+    "image_id": "food_045",
+    "caption": "Small shrimp with loṭi—the simple yet extraordinary taste of rural cooking."
+  },
+  {
+    "image_id": "food_046",
+    "caption": "Chitoi pitha—a soft, fluffy winter favorite made with steam."
+  },
+  {
+    "image_id": "food_047",
+    "caption": "Koil fish curry—a simple spiced dish, the perfect companion to a rural afternoon meal."
+  },
+  {
+    "image_id": "food_048",
+    "caption": "Boroi pickle—a mouthwatering blend of sour, sweet, and spicy flavors."
+  },
+  {
+    "image_id": "food_049",
+    "caption": "Mango sweet pickle—sun-dried mango's tangy-sweet tradition."
+  },
+  {
+    "image_id": "food_050",
+    "caption": "A warm taste of a winter morning—Chhita pitha, made from rice flour, with meat curry, a touch of village tradition."
+  },
+  {
+    "image_id": "food_051",
+    "caption": "Jalebi—a sweet delight fried in hot oil and soaked in sugar syrup."
+  },
+  {
+    "image_id": "food_052",
+    "caption": "Salted Pitha— Noon Gara Pitha is primarily popular in Sylhet."
+  },
+  {
+    "image_id": "food_053",
+    "caption": "Doodh Pakon Pitha steeped in the flavors of Barisal—a soft and juicy sweet magic on a winter morning."
+  },
+  {
+    "image_id": "food_054",
+    "caption": "Paratha – a beloved breakfast dish, filled with the aroma of crisp, flaky dough."
+  },
+  {
+    "image_id": "food_055",
+    "caption": "A Bengali's gastronomic delight without fish or meat—dense, gravy-laden Dalna."
+  },
+  {
+    "image_id": "food_056",
+    "caption": "Chicken with potatoes—the most beloved flavor of Bengali kitchens."
+  },
+  {
+    "image_id": "food_057",
+    "caption": "Dimmer dalna—an extraordinary pairing of eggs and potatoes in a spicy gravy."
+  },
+  {
+    "image_id": "food_058",
+    "caption": "Alu Posto—a perfect companion for rice, with the gentle flavors of poppy seeds and potatoes."
+  },
+  {
+    "image_id": "food_059",
+    "caption": "Egg Korma—a rich flavor, filled with the aroma of milk, yogurt, and spices."
+  },
+  {
+    "image_id": "food_060",
+    "caption": "A perfect companion for afternoon tea—hot, crispy egg chops."
+  },
+  {
+    "image_id": "food_061",
+    "caption": "Spicy beef kasha—an amazing taste with rice in a thick gravy of spices."
+  },
+  {
+    "image_id": "food_062",
+    "caption": "Tehari—A special Dhaka dish, an intriguing blend of beef and fragrant rice."
+  },
+  {
+    "image_id": "food_063",
+    "caption": "Potol bhaji—an easy yet succulent dish fried with light spices."
+  },
+  {
+    "image_id": "food_064",
+    "caption": "Potol Posto—a soft rice accompaniment made with the union of posto seeds and pointed gourds."
+  },
+  {
+    "image_id": "food_065",
+    "caption": "Potato fry—a simple joy to eat with rice and lentils for breakfast."
+  },
+  {
+    "image_id": "food_066",
+    "caption": "Winter's best companion for hot rice—pumpkin stir-fry."
+  },
+  {
+    "image_id": "food_067",
+    "caption": "Small fish curry – a divine taste with rice in a spicy gravy."
+  },
+  {
+    "image_id": "food_068",
+    "caption": "Crispy Mughlai paratha—a breakfast from Old Dhaka filled with egg, minced meat, and spices."
+  },
+  {
+    "image_id": "food_069",
+    "caption": "Payesh—a rich, sweet, memory-laden taste of milk, rice, and jaggery."
+  },
+  {
+    "image_id": "food_070",
+    "caption": "Rajbhog—a royal sweet for festivals, with a sweet filling inside chhana."
+  },
+  {
+    "image_id": "food_071",
+    "caption": "Pantua—a glistening fried sweet, a beloved delicacy soaked in sugar syrup."
+  },
+  {
+    "image_id": "food_072",
+    "caption": "Black Jamun—the sweet essence of syrup within soft chenna."
+  },
+  {
+    "image_id": "food_073",
+    "caption": "Rice—an inseparable part of daily Bengali life."
+  },
+  {
+    "image_id": "food_074",
+    "caption": "Chhana Jalebi—milk sweets fried in hot oil and soaked in syrup."
+  },
+  {
+    "image_id": "food_075",
+    "caption": "Dudh Puli Pitha—soft pithas filled with coconut and jaggery, soaked in milk."
+  },
+  {
+    "image_id": "food_076",
+    "caption": "Nature's direct honey—fresh sugarcane juice."
+  },
+  {
+    "image_id": "food_077",
+    "caption": "Prawn Bhuna – a spicy dish bursting with the aroma of spices."
+  },
+  {
+    "image_id": "food_078",
+    "caption": "Adds flavor to food, also beneficial for health—olive oil pickle."
+  },
+  {
+    "image_id": "food_079",
+    "caption": "Olive sweet pickle—a favorite taste of pickle lovers with its sweet and sour blend."
+  },
+  {
+    "image_id": "food_080",
+    "caption": "A splash of sweet and sour taste—mango oil pickle."
+  },
+  {
+    "image_id": "food_081",
+    "caption": "Lemon pickle—an unparalleled companion to rice with its blend of sour, spicy, and savory flavors."
+  },
+  {
+    "image_id": "food_082",
+    "caption": "Tomato chutney—a light spicy relish mixed with mustard oil, the perfect partner for rice."
+  },
+  {
+    "image_id": "food_083",
+    "caption": "Boondi—the sweet delight of tiny, fallen sweet spheres."
+  },
+  {
+    "image_id": "food_084",
+    "caption": "Baby sweet—a sweet delight of milk and sugar scent in a small package."
+  },
+  {
+    "image_id": "food_085",
+    "caption": "Murali—a crispy sweet, a familiar taste of the fair."
+  },
+  {
+    "image_id": "food_086",
+    "caption": "Nimki—a crispy afternoon snack with a savory, salty mix."
+  },
+  {
+    "image_id": "food_087",
+    "caption": "Monaka—small, crispy sweet pieces, a childhood favorite."
+  },
+  {
+    "image_id": "food_088",
+    "caption": "Taaler Bora—sweet fried fritters bursting with the aroma of ripe palm fruit."
+  },
+  {
+    "image_id": "food_089",
+    "caption": "Egg bharta—simple yet delicious with a mix of green chilies, onions, and oil."
+  },
+  {
+    "image_id": "food_090",
+    "caption": "Masoor dal – the familiar taste of everyday happiness with rice."
+  },
+  {
+    "image_id": "food_091",
+    "caption": "Okra mash—a side dish made with mashed fried okra, meant to be eaten with rice."
+  },
+  {
+    "image_id": "food_092",
+    "caption": "Shrimp mash—a flavor packed with the spicy kick of shrimp."
+  },
+  {
+    "image_id": "food_093",
+    "caption": "Hilsa with eggplant—a timeless Bengali pairing with steaming hot rice."
+  },
+  {
+    "image_id": "food_094",
+    "caption": "Tangra fish curry with potatoes—a spicy and soupy dish, the best meal for a rural afternoon."
+  },
+  {
+    "image_id": "food_095",
+    "caption": "Shol fish with potatoes—a simple yet delicious curry."
+  },
+  {
+    "image_id": "food_096",
+    "caption": "Spicy shoal fish fry—a delicious dish cooked by frying with aromatic spices."
+  },
+  {
+    "image_id": "food_097",
+    "caption": "Rohu fish's Kalia – a regal companion to rice, simmered in a spicy, thick gravy."
+  },
+  {
+    "image_id": "food_098",
+    "caption": "Mejjhan Gosht—A special meat dish, slow-cooked with spices and chilies."
+  },
+  {
+    "image_id": "food_099",
+    "caption": "An essential companion to dal bhat—homemade lentil dal."
+  },
+  {
+    "image_id": "food_100",
+    "caption": "Mooli greens with shrimp in a traditional village preparation—a rustic blend of greens, shrimp, and spices."
+  },
+  {
+    "image_id": "food_101",
+    "caption": "Tilapia Bhuna—a delicious bhuna full of the aroma of spices."
+  },
+  {
+    "image_id": "food_102",
+    "caption": "Eggplant—a crispy, fried delight for afternoon tea."
+  },
+  {
+    "image_id": "food_103",
+    "caption": "Aloo Chop—A soft, crispy fried snack filled with spiced mashed potatoes."
+  },
+  {
+    "image_id": "food_104",
+    "caption": "Kachagolla—a sweet filled with the soft, milky aroma of chhana."
+  },
+  {
+    "image_id": "food_105",
+    "caption": "Chhana-mukhi—a special form of chhana in the world of sweets."
+  },
+  {
+    "image_id": "food_106",
+    "caption": "Sholpe's Ghol—Ghol is a delicious and healthy drink rich in calcium, protein, and probiotics."
+  },
+  {
+    "image_id": "food_107",
+    "caption": "Phuljhuri Pitha—a delightfully crispy sweet joy of winter."
+  },
+  {
+    "image_id": "food_108",
+    "caption": "Shemai Pitha—Traditional sweet from Khulna's Bagerhat."
+  },
+  {
+    "image_id": "food_109",
+    "caption": "Firni—a festive sweet dish filled with the aroma of milk, rice, and cardamom."
+  },
+  {
+    "image_id": "food_110",
+    "caption": "Gulab Jamun—soft sweet, a taste of bliss soaked in syrup."
+  },
+  {
+    "image_id": "food_111",
+    "caption": "Letka Khichuri—warm, steamed comfort in a light mix of rice and lentils."
+  },
+  {
+    "image_id": "food_112",
+    "caption": "The liver fry is even more amazing when eaten with hot rice."
+  },
+  {
+    "image_id": "food_113",
+    "caption": "Thin dal—simple yet ever-familiar comfort with rice."
+  },
+  {
+    "image_id": "food_114",
+    "caption": "Ash gourd stir-fry—a simple fry, humble joy with rice."
+  },
+  {
+    "image_id": "food_115",
+    "caption": "Fried Pumpkin with Egg—A homely dish made with a mixture of soft pumpkin and egg."
+  },
+  {
+    "image_id": "food_116",
+    "caption": "Ilish with Potol—A unique dish with the special taste of Ilish and Potol."
+  },
+  {
+    "image_id": "food_117",
+    "caption": "Salt-cured Hilsa fish fritters—a unique companion to rice, filled with a pungent aroma."
+  },
+  {
+    "image_id": "food_118",
+    "caption": "Lentil sprouts with shrimp—a fresh, rural-style dish of leafy greens and shrimp."
+  },
+  {
+    "image_id": "food_119",
+    "caption": "Brain fry—a delicious traditional dish fried with spices and chilies."
+  },
+  {
+    "image_id": "food_120",
+    "caption": "Spicy fish roe curry - the perfect companion for rice, packed with flavor."
+  },
+  {
+    "image_id": "food_121",
+    "caption": "Chital fish curry—homely flavor in a soft fish curry."
+  },
+  {
+    "image_id": "food_122",
+    "caption": "Dhundul Fry—lightly fried vegetable, simple joy with hot rice."
+  },
+  {
+    "image_id": "food_123",
+    "caption": "Curry of Shrimp with Sponge Gourd—a harmonious blend of the gentle flavors of shrimp and vegetables."
+  },
+  {
+    "image_id": "food_124",
+    "caption": "Papaya mash—the tangy-sweet papaya mash is very delicious with rice."
+  },
+  {
+    "image_id": "food_125",
+    "caption": "Fried egg – a simple yet beloved dish with hot rice."
+  },
+  {
+    "image_id": "food_126",
+    "caption": "The chapati—a crunchy and tasty fried rural snack."
+  },
+  {
+    "image_id": "food_127",
+    "caption": "Pomfret fry—lightly fried, a special fish full of the taste of the sea."
+  },
+  {
+    "image_id": "food_128",
+    "caption": "Chicken Roast—a festive dish brimming with the aroma of spices."
+  },
+  {
+    "image_id": "food_129",
+    "caption": "Amazing Sandesh—a sweet surprise hidden inside chenna."
+  },
+  {
+    "image_id": "food_130",
+    "caption": "Hilsa Petit Sandesh—famous by the name of Hilsa, a different taste of sweets."
+  },
+  {
+    "image_id": "food_131",
+    "caption": "Nihari—slow-cooked meat stew, a special breakfast for the dawn."
+  },
+  {
+    "image_id": "food_132",
+    "caption": "Bitter gourd fry—a unique taste, bitter yet beneficial."
+  },
+  {
+    "image_id": "food_133",
+    "caption": "Kacchi Biryani—a royal feast filled with meat, rice, and the aroma of ghee."
+  },
+  {
+    "image_id": "food_134",
+    "caption": "Sweet and mildly spicy—Drumstick curry is the perfect companion to rice."
+  },
+  {
+    "image_id": "food_135",
+    "caption": "Cabbage fry—healthy taste within simple cooking."
+  },
+  {
+    "image_id": "food_136",
+    "caption": "Fried beef tripe—a special taste filled with pungent spices."
+  },
+  {
+    "image_id": "food_137",
+    "caption": "Kalonji bhorta—a unique pairing with rice, mixed with salt, oil, and chili."
+  },
+  {
+    "image_id": "food_138",
+    "caption": "Vermicelli with jarda—a colorful, sweet, and special festive dish."
+  },
+  {
+    "image_id": "food_139",
+    "caption": "Lachha semai fry—sweet semai fried with ghee and sugar."
+  },
+  {
+    "image_id": "food_140",
+    "caption": "Sing macher jhol—a spicy broth, the best companion for rice."
+  },
+  {
+    "image_id": "food_141",
+    "caption": "Cauliflower fry—an essential with hot rice on a winter morning."
+  },
+  {
+    "image_id": "food_142",
+    "caption": "Balachao—a spicy dried fish relish made with shrimp."
+  },
+  {
+    "image_id": "food_143",
+    "caption": "Malabar spinach with red lentils—a delightful blend of tender greens and soft lentils."
+  },
+  {
+    "image_id": "food_144",
+    "caption": "Mera Pitha—the magic of rice flour and sweetness—Mera Pitha's taste is unparalleled."
+  },
+  {
+    "image_id": "food_145",
+    "caption": "Spiced Kakrol Fry—vegetables fried in mild, pungent spices."
+  },
+  {
+    "image_id": "food_146",
+    "caption": "Mango Julienne Pickle—Spicy sweet and sour julienne pickle."
+  },
+  {
+    "image_id": "food_147",
+    "caption": "Full of fiber, vitamins, and minerals—mashed raw banana is the best companion to rice."
+  },
+  {
+    "image_id": "food_148",
+    "caption": "Fried Koi Fish—fried in hot oil, a crispy tasting fish."
+  },
+  {
+    "image_id": "food_149",
+    "caption": "Fried fish roe—crispy fried, a flavor filled with the aroma of spices."
+  },
+  {
+    "image_id": "food_150",
+    "caption": "A tradition filled with the taste of fish heads—Muri Ghonto."
+  }
+]
