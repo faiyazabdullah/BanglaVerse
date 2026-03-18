@@ -6,6 +6,8 @@ _**Abstract**_: Bangla culture is richly expressed through region, dialect, hist
   <img src="assets/methodology.png" alt="Methodology Diagram"/>
 </p>
 
+Fig: Overview of the BanglaVerse dataset and experimental setup. The figure shows the two task types, example annotations for each task, artifacts generation and evaluation pipeline with multiple metrics.
+
 ## 📂 Dataset Structure
 
 ```
@@ -52,17 +54,5 @@ Task: Answer direct visual questions about an image based on multiple choices.
   "question_bn": "ছবিতে কোন খেলাটি চলছে?",
   "options_bn": ["ক্রিকেট", "ফুটবল", "হ্যান্ডবল", "কাবাডি"],
   "answer_bn": "কাবাডি"
-}
-```
-
-### 3. Commonsense Understanding Tasks
-
-Task: Answer contextual and culturally relevant questions about the image using prior knowledge.
-
-```json
-{
-  "image_id": "media_002",
-  "question": "ছবির এই টেলিভিশন নাটকটি কোন জনপ্রিয় লেখকের রচনায় নির্মিত?",
-  "answer": "হুমায়ূন আহমেদ"
 }
 ```
