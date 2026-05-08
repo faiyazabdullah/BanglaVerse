@@ -33,26 +33,18 @@ BanglaVerse/
 
 ## 📦 Dataset Components
 
-### 1. Captions Generation
+<div align="center">
+  <img src="assets/culture_114.jpg" alt="Culture 114">
+</div>
 
-Task: Short descriptions of each image in **Bangla**.
-
-```json
-{
-  "image_id": "food_002",
-  "caption": "একটি প্লেটে পরিবেশন করা গরম গরম ইলিশ মাছের সাথে পান্তা ভাত।"
-}
-```
-
-### 2. Visual Question Answering (VQA)
-
-Task: Answer direct visual questions about an image based on multiple choices.
-
-```json
-{
-  "image_id": "sports_005",
-  "question_bn": "ছবিতে কোন খেলাটি চলছে?",
-  "options_bn": ["ক্রিকেট", "ফুটবল", "হ্যান্ডবল", "কাবাডি"],
-  "answer_bn": "কাবাডি"
-}
-```
+| Dialect/Language | Caption | VQA |
+| :--- | :--- | :--- |
+| [cite_start]**English** [cite: 1] | [cite_start]The farmer in the picture is plowing the land with an ox-drawn plow, a tradition of rural agriculture. [cite: 1] | [cite_start]**Question:** What work is being done using the cow in the picture?<br>**Options:** A) Paddy threshing B) Land cultivation C) Grain reserve D) Cattle feed preparation<br>**Answer:** Land cultivation [cite: 1] |
+| [cite_start]**Bangla** [cite: 1] | [cite_start]ছবিতে কৃষক গরুর হাল দিয়ে জমি চাষ করছেন, যা গ্রামীণ কৃষির ঐতিহ্য। [cite: 1] | [cite_start]**Question:** ছবিতে গরু ব্যবহার করে কী কাজ করা হচ্ছে?<br>**Options:** A) ধান মাড়াই B) জমি চাষ C) শস্য মজুদ D) গো-খাদ্য প্রস্তুত<br>**Answer:** জমি চাষ [cite: 1] |
+| [cite_start]**Hindi** [cite: 1] | [cite_start]चित्र में किसान बैल हल से ज़मीन जोत रहे हैं, जो ग्रामीण कृषि की परंपरा है। [cite: 1] | [cite_start]**Question:** चित्र में बैल का उपयोग करके कौन सा कार्य किया जा रहा है?<br>**Options:** A) धान की मड़ाई B) खेत जोतना C) अनाज भंडारण D) गो-आहार तैयार करना<br>**Answer:** खेत जोतना [cite: 1] |
+| [cite_start]**Urdu** [cite: 1] | [cite_start]تصویر میں کسان بیلوں سے بل چلا کر زمین تیار کر رہا ہے، جو دیہی زراعت کا ایک روایتی طریقہ ہے۔ [cite: 1] | [cite_start]**Question:** تصویر میں گائے کا کیا استعمال ہو رہا ہے؟<br>**Options:** A) دھان کی گہائی B) کاشت زمین C) غلہ کا ذخیرہ D) گھاس کی تیاری<br>**Answer:** کاشت زمین [cite: 1] |
+| [cite_start]**Barishal** [cite: 1] | [cite_start]ছবিডায় এউক্কা কিষান গরুর হাল দিয়া ভুঁই চষতে আছে, যেইডা গেরামের কৃষির পুরান নিয়ম। [cite: 1] | [cite_start]**Question:** ছবিডায় গরু দিয়া কী কাম করা অইতেছে?<br>**Options:** A) ধান মাড়াই B) ভুঁই চষা C) শস্য থোওয়া D) গরুর খাওন বানানো<br>**Answer:** B) ভুঁই চষা [cite: 1] |
+| [cite_start]**Chittagong** [cite: 1] | [cite_start]ছবিত একুয়া কিষান গরুর হাল দিয়েনে জইম চষের, যিয়ান গাঁয়র কৃষির পুরানা নিয়ম। [cite: 1] | [cite_start]**Question:** ছবিত গরু দিয়েনে কী কাম গরের?<br>**Options:** A) ধান মাড়াই B) জইম চষা C) শস্য তহন D) গরুর হানা বানান<br>**Answer:** B) জইম চষা [cite: 1] |
+| [cite_start]**Noakhali** [cite: 1] | [cite_start]ছবিডাত একজন কিষান গরুর হাল দি জমি চাষ করের, হেইডা গেরামের কৃষির পুরানা নিয়ম। [cite: 1] | [cite_start]**Question:** ছবিডাত গরু দি কী কাম করা হন্নের?<br>**Options:** A) ধান মাড়াই B) জমি চাষ C) শস্য রাহন D) গরুর খানা বানান<br>**Answer:** B) জমি চাষ [cite: 1] |
+| [cite_start]**Rangpur** [cite: 1] | [cite_start]ছবিত একনা কিষান গরুর হাল দিয়া জমিত হাল বাওবার নাগছে, যেইটা গাওয়ের কৃষির পুরানা নিয়ম। [cite: 1] | [cite_start]**Question:** ছবিত গরু দিয়া কী কাম করা হাইবার নাগছে?<br>**Options:** A) ধান মাড়াই B) জমিত হাল বাওয়া C) শস্য থোওয়া D) গরুর খাবার বানান<br>**Answer:** B) জমিত হাল বাওয়া [cite: 1] |
+| [cite_start]**Sylhet** [cite: 1] | [cite_start]ছবিত একজন কিষান গরুর হাল দিয়া খেত চাষ কররা, যেতা গাওর কৃষির পুরানা নিয়ম। [cite: 1] | [cite_start]**Question:** ছবিত গরু দিয়া কিতা কাম করা অর?<br>**Options:** A) ধান মাড়াই B) খেত চাষ C) শস্য তওয়া D) গরুর খানি বানান<br>**Answer:** B) খেত চাষ [cite: 1] |
