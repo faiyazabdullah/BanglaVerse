@@ -31,10 +31,10 @@ BanglaVerse/
 └── nature/
 ```
 
-## 📦 Dataset Components
+## 📦 Data Sample
 
 <div align="center">
-  <img src="assets/culture_114.jpg" alt="Culture 114">
+  <img src="assets/culture_114.jpg" alt="Culture 114" width="500">
 </div>
 
 | Dialect/Language | Caption | VQA |
